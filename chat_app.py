@@ -107,7 +107,7 @@ with open(chapter_path, "r", encoding="utf-8") as file:
     chapter_content = file.read()
 
 # Load system prompt
-with open("odd_system.md", "r") as file:
+with open("bella_system.md", "r") as file:
     system_prompt = file.read().format(
         class_name=formatted_class,
         subject=formatted_subject,
