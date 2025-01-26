@@ -1,0 +1,392 @@
+Learning 
+Experience 
+1
+ Information in Digital Time
+ Session-1: Appropriate Solution to Suitable Questions 
+Do you think children or adults face more problems in life? Actually, both children 
+and adults face different problems every day. Adults often handle bigger problems 
+for us. But what if we try to solve both problems for the adults? Nowadays, with the 
+help of digital technology, we can find solutions by gathering information. We have 
+learned about information and its sources earlier. Now, we will learn how to find and 
+use information to solve problems for the adults.
+ To solve any problem, we need to dig deep and understand the reasons behind it. The 
+best and easiest way to understand is by asking questions. Today, we will explore how 
+to ask the right questions. Let’s read an incident before that
+Academic Yeear 2024
+ 1
+Shishir, who was in the third grade, went to a relative’s house with his mother for 
+a wedding during the Eid holidays. The house they visited didn’t have anyone of 
+Shishir’s age to play with. However, there was another relative’s house nearby with 
+lots of kids of Shishir’s age and Shishir thought that it would be fun to play with 
+them. Shishir had gone to that house a day earlier, so he decided to tell his mother 
+about it and go there by himself. After having lunch, Shishir started walking towards 
+the house. It should have taken him about 10 minutes to reach there, but he ended 
+up walking for about 30 minutes and couldn’t find the house. Shishir realized that he 
+had taken the wrong path and started crying. He didn’t remember his mother’s phone 
+number or the name of the house they are staying, so he couldn’t ask anyone for 
+help. At that moment, a boy studying in the university, approached him and asked, 
+“what happened?” Shishir couldn’t answer at first but eventually managed to say 
+through tears that he had forgotten the way. The boy then asked Shishir, “where were 
+you trying to go and what the house looked like?” Shishir answered that he had come 
+to a wedding with his mother, and the wedding house was located next to a railway 
+line. The entrance gate for the wedding was set up next to the railway line, and it was 
+a 10-minute distance from there to the other house. After hearing Shishir’s answers, 
+the boy recognized the wedding house and guided Shishir to it. 
+In this story about Shishir, we learned that asking the right questions is very important. 
+To ask the right questions, we can use the 6W method. 
+Who? What? Where?
+ When? Why? How?
+ By considering these 6W's when searching for information or presenting information, 
+we can gather and share complete information.
+ 2
+ Academic Yeear 2024
+ Digital Technology
+Information in Digital Time
+ Now it's time for us to work on a project. We will form three groups with the help of our 
+classroom teacher, and each group will focus on a different target group. We already 
+know what a target group is from our 6th-grade lessons.
+ The three target groups will be:
+ 1. Parents or guardians who are of their age
+ 2. Grandparents or relatives and neighbors who are of their age
+ 3. Teacher
+ Our task is to find out what problems these target groups have faced in the past month 
+and search for information to identify solutions for their problems. Once we find a 
+solution, we will present it to them in a nice and interesting way.
+ The problems our target groups face may be small, but finding solutions can greatly 
+benefit them. For example:- Grandma might forget to take her medicine.- Dad's favorite tree could dry up if he goes on a trip for a few days. - The teacher's feet may hurt from standing for long time during classes.
+ Academic Yeear 2024
+ The examples given above are just for your understanding. Now we will go home and 
+use the 6W questioning technique to find out the daily problems faced by the target 
+groups that was assigned by our teacher.
+ 3
+Homework:
+ After getting back to home and we will try to find out the problems faced by each 
+target group using the 6W questioning technique,. Remember, they might not 
+initially talk about their problems or they might mention bigger issues. But by 
+asking questions, we will uncover the core problems they are facing.
+ Target group of my team
+ Problems:
+ 4
+ Academic Yeear 2024
+ Digital Technology
+Information in Digital Time
+ Session-2: Classification of Problems
+ If we think for a moment, we can realize that all the inventions in the world began with 
+an attempt to solve problems. So, the first step to creating something new is to identify 
+the problem.
+ Today, we will gather all the problems from our homework and decide which ones 
+we can start working on. To do this, we will use word processing to list down all the 
+problems. 
+Word processing is creating a document using a computer or mobile phone with the 
+combination of alphabets, words, symbols, images, and more. Word processing can be 
+done through various software like Microsoft Word, Notepad, LaTeX. Our teacher will 
+guide us to use Microsoft Word to put our problems together and create a document. 
+The teacher will help us through the process, and we can try it ourselves by following 
+these step-by-step instructions:
+ 1. Start the computer and click 
+the right button of the 
+mouse. A box will appear 
+with an option called "New."
+ 2. Move the cursor over "New," 
+and another box will appear 
+with a list of program 
+software on the computer. 
+Click on "Microsoft Word 
+Document."
+ Academic Yeear 2024
+ 3. A file named "Microsoft 
+Word Document" will be 
+created on the computer. 
+You can also create it from 
+the "Start" menu.
+ 5
+Digital Technology
+ 4. Hover the mouse over the file, right-click, or click the right button again to see a 
+new box. One of the options there will be "Rename." Click on "Rename" to change 
+the name of the file. You can give it any name you want by typing on the keyboard.
+ 5. Now we have a document file created.
+ With the file created, we will write down the problems identified for our target group. 
+Write down all the problems brought by the group in our file.
+ Our computer might have the English keyboard enabled, but since we will be writing 
+in Bengali, we need to enable the Bengali keyboard.
+ To activate the Bengali keyboard, press three keys together - Ctrl + Alt + B.
+ First, we need to give the article a title. Isn’t it? If we want the title text to be slightly 
+bigger than the rest, we can follow this
+Write the title and select the entire title by holding down the left side of the mouse. 
+Then increase the font size from the menu bar on the left side, as shown in the image.
+ Once the title is written, we will write down our problems one by one, numbering them 
+as 1, 2, 3, and so on.
+ Academic Yeear 2024
+ 6
+Session-3: Shortcut Key
+ Isn't it fun to do things on a computer? We could write our problems in notebooks or 
+on the board, however, through though this task we got to learn how to work on the 
+computer. In the future, we will do most of our work using computers, so it's good to 
+learn a little about it from now on.
+ Today, we will continue working on word processing, but it will be like playing a game. 
+Following the instructions given below, we will write down what changes happen in 
+our Word file if we follow those instructions. We will try to ensure that everyone in the 
+class will have a chance to participate in this game.
+ We will press these 'keys' 
+on the computer keyboard
+ We will write the output when the keys mentioned in 
+the left-hand column are pressed
+ Ctrl + A The whole document is selected 
+After selecting a specific 
+sention press
+ Ctrl + C
+  the selected section is copied 
+Ctrl + V
+ Ctrl + B
+ Ctrl + X
+ Ctrl + Z
+ Enter
+ Backspace
+ Ctrl + F
+ A 'Navigation' bar appears, where we will type a word 
+we are looking for in the document. Pressing Enter will 
+show where that word is located in the entire document.
+ Through this computer game, we have learned many useful shortcut keys for word 
+processing. These shortcuts are not only helpful in Microsoft Word but also in many 
+other applications. 
+7
+ Academic Yeear 2024
+ Information in Digital Time
+Now, let's move on to solving the problem for our target group. We will all decide together 
+which problem we want to solve. We need to consider that while each of us may have 
+different problems, there are some issues that many people in our target group face. So, we 
+will choose a problem that will benefit a larger number of people. We will discuss as a group 
+and decide which problem to choose
+Our Target group
+ The problem we have 
+decided to work on
+ The reason why we have 
+decided to work on this 
+problem 
+(this section is for home 
+work)
+ Where we may find the 
+information to solve the 
+problem
+ (this section is for home 
+work)
+ 8
+ Academic Yeear 2024
+ Digital Technology
+Information in Digital Time
+ Session-4: Information Search
+ The main and most important task to solving a problem is to figure out what the problem 
+is and why it's happening. We have already done that part. Now, we will search for 
+information and find a solution to the problem.
+ Let's understand this with another example
+Example of problems: 'The teacher is unable to complete a session within the given time 
+due to the large number of students in the classroom.'
+ The solution we need to find: 'How to manage the classroom so that the teacher can 
+complete all the tasks of a session for all the students in the given time.'
+ Sources of solution information can be: newspapers, another teacher, any book on this 
+subject, internet.
+ We will go home and gather information to solve our problem. We can use the internet 
+to search for information, check if any newspaper have written about our problem, or 
+even interview someone experienced or an expert.
+ We will do the data search at home, but before that it is good to know some basic 
+information related to data search.
+ While collecting information from human sources
+1.  
+When we collect information from an individual, we will consider whether that 
+individual is related to the information. That is, whether the person is an expert or 
+experienced in the information. For example, we don't ask a person who has never 
+used a computer which antivirus should be used on the computer.
+ Likewise, we wouldn't want to know from a doctor.................................
+ 2.  
+3.  
+Academic Yeear 2024
+ At the time of collecting taking information from a person, we will give 
+importance on the actual truth or fact rather than his opinion. Opinion is a person's 
+own thoughts which are expressions of feelings and facts on the other hand are 
+provable information. For example, the opinion is 'It is very hot today' and the fact 
+is 'The temperature today is 36 degrees Celsius.'
+ The opinion is ‘The wages of labor have risen’, and the fact is ..........................
+ It is also important to see if the source the person is basing the information on is 
+credible enough. For example, a person came and said, I went to the market and 
+heard that there was an earthquake of magnitude 8 in country A. Here the source 
+is ‘market’ which is not a specific and reliable source. Here a reliable source can 
+be, today on the 20th, a report on the 8 o’clock news of ‘B’ television showed that 
+there was an earthquake of magnitude 8 in ‘A’ country.
+ Unreliable source is, yesterday I saw on the internet that ‘A’ person received a 
+special award. Reliable source is ................................. 
+9
+Digital Technology
+ 4.   
+When a person provides information based on a specific source, we can verify 
+whether the source actually provided the information. And verification is not 
+possible unless specific sources are mentioned. For example, a person sent a 
+picture of a child through social media and told my father, “The child was found 
+at the crossroads, please share the post/picture more and more find his parents”.
+ There is no text or information on the child's picture.
+ What other information could have made us believe the child's story to be true?.........
+ 5.  Any information may be different or irrelevant due to the variation of context, 
+situation, time, place etc. So while taking any information, a person should take 
+or use the information by understanding the context in which the information is 
+given. For example, if you search the internet and find out from a news in 2014 that 
+there are ten education boards in Bangladesh, but currently the correct information 
+is that there are eleven education boards in Bangladesh. Is your information 
+incorrect? Yes, your information is incorrect with respect to the current time. Your 
+data was from 2014, current data is from 2023.
+ Let us give one more such example: ...............................................
+ Homework:
+ Considering the above issues, we will search information to solve the problem we   
+identified in group at our respective homes. We will write in the box the information 
+we found to solve the problem. 
+Our problem:
+ The set of information we gathered to solve the problem:
+ Academic Yeear 2024
+ 10
+Information in Digital Time
+ Session-5: Verify Information
+ As a result of advancement of technology, we receive a lot of information constantly. 
+Sometimes, there may be different information about the same subject. Therefore, 
+it is important to determine the most recent and reliable information. To verify the 
+information we gathered, we will use the following methods with the help of the teacher
+ 1. Check the date when the information was circulated. Information that is true today 
+may become false over time. For example, the total number of divisions in Bangladesh 
+was 7 until 2014, but it changed to 8 when Mymensingh became a new division in 
+2015.
+ 2. Seek the most recent information possible.
+ 3. Read the entire news or article instead of relying only on the headline or title.
+ 4. After watching news from one source, search using the same keywords to see if other 
+sources are reporting the same news (if internet access is available).
+ 5. Do not believe that a news article or video is from a specific newspaper or television 
+channel just by looking at its logo. Verify by visiting the website of that newspaper or 
+television channel.
+ 6. To make sure the information is reliable, I visit the website of the organization I want 
+information from. I check if the hyperlink is correct. For example, if I want information 
+from the Bangladesh Textbook Board, the correct hyperlink would be http://www.nctb.
+ gov.bd . Sometimes, people create fake websites that look similar to the official website 
+of the Textbook Board. They might change a few letters in the link, such as replacing 
+'c' with 'n', 'b' with 'd', or 'o' with 'i'. These changes may not be easily noticeable to us. 
+So, it's important to double-check and make sure the link is correct before downloading 
+any information.
+ Academic Yeear 2024
+ 11
+Digital Technology
+ We will write down what we have learned during today's session of checking 
+information:
+ Academic Yeear 2024
+ 12
+Information in Digital Time
+ Session-6: Creating Contents to Present Information
+ We searched for information and verified it to find a solution for our target group’s 
+problem. But how do we share that with them? We can surely inform them by providing 
+the information, however, presenting the solution in an appealing way can make it more 
+effective.
+ To do this, we decided to create content that communicates our solution. But what 
+exactly is content?
+ Shaibal noticed that the sky was cloudy when he was coming to school today and 
+shared his opinion with his friends, saying, “You know, it will rain today.” This 
+was his observation of the surroundings. If Shaibal were to capture a picture of the 
+cloud with his name on it, include a rain forecast, and then share it with his friends 
+through some medium, we could consider that as content created by Shaibal.
+ Mala went to the market with her mother yesterday. While buying a pen from a 
+shop, the shopkeeper informed her, “Buy two pens and get one free.” Mala was 
+delighted to receive this information directly from the shopkeeper. If Mala had seen 
+an advertisement on a poster in the market that said, “Buy two pens, get one free” 
+for that shop, we could refer to that advertisement as ‘content’.
+ Content is a combination of different information on a specific topic, presented through 
+various media to engage and inform the reader or audience. It can take the form of 
+stories from books, plays, movies, news, songs, and more. Content not only provides 
+information but also entertains us.
+ Academic Yeear 2024
+ Next, we are going to prepare contents to inform our target group about the solution of 
+the problems. Since our target group is diverse across the three groups, their content 
+preferences may vary. Let's take a moment to analyze how the content preferences of 
+different target groups might differ. 
+13
+We can write down our guesses about what types of content different target groups 
+might prefer in the box below.
+ Target group Contents they may like 
+Children who cannot read rhymes, cartoons etc
+ Children who learned to read cartoons, story books, games etc
+ Teenager
+ Middle aged woman
+ Middle aged man
+ Rickshaw puller 
+Store keeper 
+Old man who can’t see
+ Now, we need to determine the appropriate content for each target group. To do this, we 
+will discuss within our teams, considering the type of problem we are solving and the 
+diversity of our target audience.
+ Here are some examples of different content formats we can consider:
+ 1. Creating a story using a sequence of pictures.
+ 2. Developing a rhyming song.
+ 3. Designing a digital poster.
+ 4. Producing a video.
+ 5. Preparing a presentation.
+ 6. Creating a mobile phone drama.
+ 7. Designing comics.
+ 14
+ Academic Yeear 2024
+ Digital Technology
+Information in Digital Time
+ Session-7: Making Contents by Learning Presentation Software
+ We have learned much about Microsoft Word processing while organizing solutions 
+for the problems we receive from our target group. It's amusing to think that when we 
+were children, it took us some time to learn number tables. However, upon reflection, 
+I've come to realize that number tables are not only beneficial for math but also for 
+everyday calculations. Word processing follows a similar pattern - once we learn it, we 
+can quickly grasp any software.
+ Today, we will learn about another computer software called 'Microsoft PowerPoint'. 
+It is widely used for creating presentations. There are other software options like Prezi, 
+Canva, and Google Slides, but we will start with Microsoft PowerPoint because it’s 
+easy to use, and once we learn it, it will be easier to learn other software.
+ 1. Similar to word processing, right-click to begin and select ‘New’ to create a new file. 
+Choose ‘Microsoft PowerPoint Presentation’ from the options. “Rename” the file 
+as you like as we have done previously and open it by double-clicking.
+ 2. In PowerPoint, we have many exciting features to explore and learn, but let’s start 
+with the ‘New Slide’ option on the left side. Clicking here gives us various slide 
+options to add to our presentation. Select a slide of your choice to proceed with 
+your work.
+ Academic Yeear 2024
+ 15
+Digital Technology
+ It will be time consuming to explain the functions of Microsoft PowerPoint in steps. 
+We can rather explore some essential tools in the menu bar and create a presentation 
+ourselves.- The 'Home' menu allows us to adjust text size, change fonts, modify colors, align 
+paragraphs, and position text on the page.- The 'Insert' menu offers options to add images, tables, shapes, and icons. We can also 
+insert videos and audio from the 'Media' menu. Remember to save the required 
+images, videos, or audio on your computer beforehand. The 'Insert' menu is 
+essential for creating content.- We can select the overall design theme for our presentation using the 'Design' menu.- The 'Transitions' menu allows us to choose how each slide appears in a sequence.- The 'Animations' menu is the most fun part. After adding text, images, shapes, 
+etc., we can animate them in various ways using different designs. The 'Add 
+Animation' tools provide three options:
+  - How the image, text, or shape appears.
+  - How the image, text, or shape stays on the slide.
+  - How the image, text, or shape moves off the slide.
+ Following these instructions, let's practice using a school or home computer. In the next 
+session, we will complete our group content in class.
+ Academic Yeear 2024
+ 16
+Information in Digital Time
+ Session-8: Presenting in Different Methods Using Same Software
+ So far, we have selected a problem based on our target group and planned to create 
+content as a group to solve the problem we identified earlier. Today, finally, we are 
+going to create a content by ourselves. 
+We will create the content in the classroom. In this session, we will focus on working 
+on our content without discussing any new instructions. Once our work is complete, 
+we will save it in different formats.
+ To save our document in the desired format, we can click on 'Save As' in the 'File' 
+menu on the left. Here are the formats we can choose based on our content:- If we want to create a digital poster, we will save it in 'JPG or JPEG' format.- If we want to share our presentation as a video, we will save it in 'MP4' format.
+ Academic Yeear 2024- And since we created a presentation, if we want to present it directly, we will save it 
+in 'Microsoft PowerPoint Presentation' format.
+ 17
+Digital Technology
+ Throughout the process, we have worked as a team. Once we finish our work, we will 
+evaluate each team member.
+ Peer Assessment:
+ Name of the team members 
+What I liked about the role played by my 
+teammate while working in the team 
+Academic Yeear 2024
+ 18
+After our presentation, with the help of the teacher, we will share the content with our 
+target group (at school, home, or a relative’s house) and ask them to provide feedback 
+by filling in the stars below. They can also provide their signature under the stars.
+ Opinion of the target group:
