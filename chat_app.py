@@ -5,16 +5,15 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI, HarmBlockThreshold, HarmCategory
 from pymongo import MongoClient
-from uuid import uuid4  # For unique user IDs
+from uuid import uuid4
 
-mongo_client = MongoClient(st.secrets["MONGODB_URI"])  # Securely use the URI from secrets
-db = mongo_client["bella"]  # Database name
-conversations_collection = db["conversations"]  # Collection name
+mongo_client = MongoClient(st.secrets["MONGODB_URI"])
+db = mongo_client["bella"]
+conversations_collection = db["conversations"]
 
 llm = None
 
 def format_name(name):
-    """Format filenames into readable titles"""
     return name.replace('_', ' ').replace('.txt', '').title()
 
 def get_llm_instance(api_key):
@@ -59,7 +58,6 @@ def get_response(user_query, conversation_history, api_key, system_prompt, chapt
     })
 
 def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_name):
-    """Save conversation to MongoDB."""
     conversations_collection.update_one(
         {"user_id": user_id},
         {
@@ -76,10 +74,7 @@ def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_nam
         upsert=True
     )
 
-# Streamlit app setup
 st.set_page_config(page_title="Bella", page_icon=":robot:")
-
-import streamlit as st
 
 st.markdown("""
     <style>
@@ -87,50 +82,63 @@ st.markdown("""
             text-align: center;
             font-size: 2.5rem !important;
             font-weight: bold;
+            margin-bottom: 2rem;
+        }
+        .stSelectbox {
+            width: 50%;
+            max-width: 140px;
+            margin: 0 auto;
+        }
+        div[data-testid="column"] {
+            text-align: center;
+        }
+        .stSelectbox label {
+            font-weight: bold !important;
         }
     </style>
 """, unsafe_allow_html=True)
 
 st.markdown('<p class="centered-title">বেলা::Bella</p>', unsafe_allow_html=True)
 
-# Sidebar controls
 api_key = st.secrets["GEMINI_API_KEY"]
-
-# File selection
 base_dir = "./books/nine/"
-selected_class = st.sidebar.selectbox("Select Class", os.listdir(base_dir))
-selected_subject = st.sidebar.selectbox(
-    "Select Subject",
-    os.listdir(os.path.join(base_dir, selected_class))
-)
-selected_chapter = st.sidebar.selectbox(
-    "Select Chapter",
-    os.listdir(os.path.join(base_dir, selected_class, selected_subject))
-)
 
-# Format names for display
+if "previous_selection" not in st.session_state:
+    st.session_state.previous_selection = None
+
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    selected_class = st.selectbox("Class", os.listdir(base_dir))
+with col2:
+    selected_subject = st.selectbox("Subject", 
+        os.listdir(os.path.join(base_dir, selected_class)))
+with col3:
+    chapters = os.listdir(os.path.join(base_dir, selected_class, selected_subject))
+    chapters_no_ext = [os.path.splitext(chapter)[0] for chapter in chapters]
+    selected_chapter = st.selectbox("Chapter", chapters_no_ext)
+    selected_chapter = next(ch for ch in chapters if ch.startswith(selected_chapter))
+
 formatted_class = format_name(selected_class)
 formatted_subject = format_name(selected_subject)
 formatted_chapter = format_name(selected_chapter)
 
-# User session management
-if "user_id" not in st.session_state:
-    st.session_state["user_id"] = str(uuid4())  # Generate a unique ID for the user
-
-user_id = st.session_state["user_id"]
 current_selection = (selected_class, selected_subject, selected_chapter)
 
-# Initialize messages
-if "messages" not in st.session_state:
+if "user_id" not in st.session_state:
+    st.session_state.user_id = str(uuid4())
+
+if "messages" not in st.session_state or st.session_state.previous_selection != current_selection:
     greeting = f"Hey! I'm Bella. Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
     st.session_state.messages = [AIMessage(content=greeting)]
+    st.session_state.previous_selection = current_selection
 
-# Load chapter content
+user_id = st.session_state.user_id
+
 chapter_path = os.path.join(base_dir, selected_class, selected_subject, selected_chapter)
 with open(chapter_path, "r", encoding="utf-8") as file:
     chapter_content = file.read()
 
-# Load system prompt
 with open("bella_system.md", "r") as file:
     system_prompt = file.read().format(
         class_name=formatted_class,
@@ -139,7 +147,6 @@ with open("bella_system.md", "r") as file:
         content=chapter_content
     )
 
-# Display chat history
 for message in st.session_state.messages:
     if isinstance(message, AIMessage):
         with st.chat_message("assistant"):
@@ -148,7 +155,6 @@ for message in st.session_state.messages:
         with st.chat_message("user"):
             st.write(message.content)
 
-# Chat input
 if prompt := st.chat_input("Ask Bella a question..."):
     st.session_state.messages.append(HumanMessage(content=prompt))
     with st.chat_message("user"):
@@ -166,7 +172,6 @@ if prompt := st.chat_input("Ask Bella a question..."):
         )
         st.session_state.messages.append(AIMessage(content=response))
 
-    # Save the conversation to MongoDB
     save_to_mongodb(
         user_id=user_id,
         conversation=[{"role": "user", "content": prompt}, {"role": "assistant", "content": response}],
