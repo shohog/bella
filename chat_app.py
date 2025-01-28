@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI, HarmBlockThreshold, H
 from pymongo import MongoClient
 from uuid import uuid4  # For unique user IDs
 
-mongo_client = MongoClient(st.secrets["MONGODB_URI"])
+mongo_client = MongoClient(st.secrets["MONGODB_URI"])  # Securely use the URI from secrets
 db = mongo_client["bella"]  # Database name
 conversations_collection = db["conversations"]  # Collection name
 
