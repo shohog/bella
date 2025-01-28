@@ -55,7 +55,7 @@ def get_response(user_query, conversation_history, api_key, system_prompt, chapt
 
 # Streamlit app setup
 st.set_page_config(page_title="Bella", page_icon=":robot:")
-st.title("Bella::বেলা")
+st.title("বেলা::Bella")
 
 # Sidebar controls
 api_key = st.secrets["GEMINI_API_KEY"]
