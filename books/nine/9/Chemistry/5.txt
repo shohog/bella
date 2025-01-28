@@ -1,0 +1,1455 @@
+
+
+CHAPTER METADATA
+Chapter Title: রাসায়নিক বন্ধন / Chemical Bond
+Chapter Number: 5
+Page Number: 82
+Main Topics: Chemical Bonds, Types of Chemical Bonds
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: রাসায়নিক বন্ধন / Chemical Bond
+Bengali Definition: যে আকর্ষণ শক্তির মাধ্যমে অণুতে দুটি পরমাণু পরস্পর যুক্ত থাকে তাকে রাসায়নিক বন্ধন বলে।
+English Translation: The attractive force that holds two atoms together in a molecule is called a chemical bond.
+
+TEXTUAL CONTENT:
+আমরা জানি, সকল পদার্থই অণু এবং পরমাণু দিয়ে গঠিত। / We know that all substances are made up of molecules and atoms.
+এ পর্যন্ত আবিষ্কৃত 118টি মৌলের 118টি ভিন্ন ভিন্ন পরমাণু রয়েছে। / There are 118 different atoms of 118 elements discovered so far.
+এদের মধ্য থেকে এক বা একাধিক মৌলের পরমাণু দিয়েই সকল পদার্থের অণু গঠিত হয়। /  Molecules of all substances are formed from one or more atoms of these elements.
+পদার্থের অণুতে পরমাণুসমূহ এলোমেলো বা বিক্ষিপ্তভাবে থাকে না। /  The atoms in the molecules of substances are not randomly or scattered.
+পরমাণুসমূহ সুবিন্যস্তভাবে থাকে। / Atoms are arranged systematically.
+এই বন্ধন বিভিন্ন প্রকার হতে পারে। যেমন-আয়নিক বন্ধন, সমযোজী বন্ধন কিংবা ধাতব বন্ধন।/ This bond can be of various types, such as ionic, covalent, or metallic bonds.
+এ অধ্যায়ে আয়নিক, সমযোজী বা ধাতব বন্ধন বিশিষ্ট যৌগের বন্ধন গঠন প্রক্রিয়া ও তাদের ধর্ম নিয়ে আলোচনা করা হবে। / In this chapter, we will discuss the bond formation processes and properties of ionic, covalent, or metallic bond-containing compounds.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 83
+MAIN TOPICS:  Valence electrons, Chemical bonding, Ionic and Covalent compounds
+
+•	এ অধ্যায় পাঠ শেষে আমরা / At the end of this chapter, we will be able to:
+	•	যোজ্যতা ইলেকট্রনের ধারণা ব্যাখ্যা করতে পারব।/ Explain the concept of valence electrons.
+	•	মৌলের প্রতীক, যৌগমূলকের সংকেত ও এগুলোর যোজনী ব্যবহার করে যৌগের সংকেত লিখতে পারব। / Write the symbols of elements, formulas of radicals and compounds using their valency.
+	•	নিষ্ক্রিয় গ্যাসের স্থিতিশীলতা ব্যাখ্যা করতে পারব।/ Explain the stability of noble gases.
+	•	অষ্টক ও দুইয়ের নিয়মের ধারণা ব্যাখ্যা করতে পারব।/ Explain the concept of the octet and duet rule.
+	•	রাসায়নিক বন্ধন এবং তা গঠনের কারণ ব্যাখ্যা করতে পারব।/ Explain chemical bonds and the reason for their formation.
+	•	আয়ন কীভাবে এবং কেন সৃষ্টি হয় তা ব্যাখ্যা করতে পারব।/ Explain how and why ions are formed.
+	•	আয়নিক বন্ধন গঠনের প্রক্রিয়া বর্ণনা করতে পারব।/ Describe the process of ionic bond formation.
+	•	সমযোজী বন্ধন গঠনের প্রক্রিয়া বর্ণনা করতে পারব।/ Describe the process of covalent bond formation.
+	•	আয়নিক ও সমযোজী বন্ধনের সাথে গলনাঙ্ক, স্ফুটনাঙ্ক, দ্রাব্যতা, বিদ্যুৎ পরিবাহিতা এবং কেলাস গঠনের ধর্ম ব্যাখ্যা করতে পারব।/ Explain the properties of ionic and covalent compounds such as melting point, boiling point, solubility, electrical conductivity and crystal structure.
+	•	ধাতব বন্ধনের ধারণা ব্যাখ্যা করতে পারব।/ Explain the concept of metallic bonding.
+	•	ধাতব বন্ধনের সাহায্যে ধাতুর বিদ্যুৎ পরিবাহিতা ব্যাখ্যা করতে পারব। /Explain the electrical conductivity of metals using metallic bonding.
+	•	স্থানীয়ভাবে সহজপ্রাপ্য দ্রব্যের মধ্যে আয়নিক ও সমযোজী যৌগ শনাক্ত করতে পারব।/ Identify ionic and covalent compounds from readily available materials.
+
+
+
+
+CHAPTER TITLE: যোজ্যতা ইলেকট্রন (Valence Electrons) / Valence Electrons
+CHAPTER NUMBER: 5
+PAGE NUMBER: 84
+MAIN TOPICS: Valence Electrons, Electron Configuration, Atomic Structure
+
+TERM OR PROPERTY NAME
+যোজ্যতা ইলেকট্রন (Valence Electrons)
+Bengali Definition: কোনো মৌলের ইলেকট্রন বিন্যাসে সর্বশেষ কক্ষপথে যে ইলেকট্রন বা ইলেকট্রনসমূহ থাকে তার সংখ্যাকে যোজ্যতা ইলেকট্রন সংখ্যা বলা হয়।
+English Translation: In the electron configuration of an element, the number of electrons present in the outermost shell is called the valence electron number.
+Related Chemical Equations: Not applicable
+Examples: পটাশিয়াম (Potassium) has 1 valence electron, and অক্সিজেন (Oxygen) has 6 valence electrons.
+
+DIAGRAM TITLE
+চিত্র 5.01: (a) পটাশিয়ামের যোজ্যতা ইলেকট্রন (b) অক্সিজেনের যোজ্যতা ইলেকট্রন। / Figure 5.01: (a) Valence electrons of Potassium (b) Valence electrons of Oxygen.
+Description: The diagram shows the electron configuration of Potassium and Oxygen atoms, depicting the electrons in their respective shells. Potassium has one electron in its outermost shell, and Oxygen has six.
+Components:
+    - Nucleus (red center)
+    - Electron shells (concentric circles)
+    - Electrons (blue circles)
+Chemical Labels: None
+Safety Notes: Not applicable
+Purpose: The diagram illustrates the distribution of electrons and highlights the number of valence electrons for Potassium and Oxygen.
+
+TABLE TITLE
+টেবিল 5.01: মৌলের যোজ্যতা ইলেকট্রন।/ Table 5.01: Valence Electrons of Elements.
+Description: Table showing the electron configuration and number of valence electrons for several elements.
+
+Table Data:
+| Element | K shell | L shell | M shell | N shell | Valence Electrons |
+|---|---|---|---|---|---|
+| N(7)    | 2       | 5       | -       | -       | 5             |
+| F(9)    | 2       | 7       | -       | -       | 7             |
+| P(15)   | 2       | 8       | 5       | -       | 5             |
+| Cl(17)  | 2       | 8       | 7       | -       | 7             |
+| Ca(20)  | 2       | 8       | 8       | 2       | 2             |
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+NITROGEN (N) ELECTRON CONFIGURATION
+Bengali Definition: এখানে নাইট্রোজেন (N) এর K কক্ষপথে ২টি এবং L কক্ষপথে 5টি ইলেকট্রন আছে। নাইট্রোজেনের ক্ষেত্রে L কক্ষপথই হলো সর্বশেষ কক্ষপথ। যেহেতু সর্বশেষ কক্ষপথে 5টি ইলেকট্রন আছে। সুতরাং নাইট্রোজেনের যোজ্যতা ইলেকট্রন আছে 5টি।
+English Translation: Here, Nitrogen (N) has 2 electrons in the K shell and 5 electrons in the L shell. For Nitrogen, the L shell is the outermost shell. Since there are 5 electrons in the outermost shell, Nitrogen has 5 valence electrons.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 85
+MAIN TOPICS: Valency, Variable Valency
+
+STUDENT WORK:
+Find the valance electron of F, P, Cl and Ca.
+
+5.2 যোজনী বা যোজ্যতা (Valency)
+পূর্বে উল্লেখ করা হয়েছে যে, বিভিন্ন মৌলের পরমাণুসমূহ একে অপরের সাথে সর্বশেষ কক্ষপথের ইলেকট্রন বর্জন, গ্রহণ অথবা ভাগাভাগির মাধ্যমে অণু গঠন করে। অণু গঠনকালে কোনো মৌলের একটি পরমাণুর সাথে অপর একটি মৌলের পরমাণু যুক্ত হওয়ার ক্ষমতাকে যোজনী বা যোজ্যতা বলা হয়।
+ENGLISH TRANSLATION:
+It has been mentioned earlier that the atoms of different elements form molecules by losing, gaining or sharing electrons in their outermost shells. During molecule formation, the capacity of an atom of an element to combine with another atom of another element is called valency.
+
+সাধারণত সব সময় হাইড্রোজেনের যোজনী এক (1) ধরা হয়। কোনো মৌলের একটি পরমাণু যতগুলো H পরমাণু বা Cl পরমাণুর সাথে যুক্ত হতে পারে সেই সংখ্যাই হলো ঐ মৌলের যোজনী বা যোজ্যতা।
+ENGLISH TRANSLATION:
+Generally, the valency of hydrogen is always taken as one (1). The number of H atoms or Cl atoms that an atom of an element can combine with is the valency of that element.
+
+হাইড্রোজেনের একটি পরমাণু ক্লোরিনের একটি পরমাণুর সাথে যুক্ত হয়ে HCl অণু গঠিত হয়, তাই ক্লোরিনের যোজনীও 1 (এক)। আবার অক্সিজেনের একটি পরমাণু হাইড্রোজেনের দুটি পরমাণুর সাথে যুক্ত হয়ে H₂O তৈরি করে, এজন্য অক্সিজেনের যোজনী 2 (দুই)। একটি Na পরমাণু একটি Cl পরমাণুর সাথে যুক্ত হয়ে NaCl গঠিত হয়। সুতরাং Na এর যোজনী 1 (এক)।
+ENGLISH TRANSLATION:
+One hydrogen atom combines with one chlorine atom to form an HCl molecule, so the valency of chlorine is also 1 (one). Again, one oxygen atom combines with two hydrogen atoms to form H₂O, hence the valency of oxygen is 2 (two). One Na atom combines with one Cl atom to form NaCl. Therefore, the valency of Na is 1 (one).
+
+CHEMICAL EQUATIONS:
+H + Cl → HCl
+2H + O → H₂O
+Na + Cl → NaCl
+
+একটি পরমাণুর সাথে যতটি অক্সিজেন পরমাণু যুক্ত হয় তার সেই সংখ্যার দ্বিগুণ করলে ঐ পরমাণুর যোজনী বা যোজ্যতা হয়। যেমন- ক্যালসিয়াম (Ca) এর একটি পরমাণু একটি অক্সিজেন (০) পরমাণুর সাথে যুক্ত হয়ে ক্যালসিয়াম অক্সাইড (CaO) তৈরি করে। এখানে অক্সিজেন পরমাণুর সংখ্যা 1 এই সংখ্যাকে 2 দ্বারা গুণ করলে হয় 2। কাজেই ক্যালসিয়ামের যোজনী 2।
+ENGLISH TRANSLATION:
+If the number of oxygen atoms bonded to an atom is doubled, the result is the valency of that atom. For example, one atom of calcium (Ca) combines with one atom of oxygen (O) to form calcium oxide (CaO). Here, the number of oxygen atoms is 1. When this number is multiplied by 2, the result is 2. Therefore, the valency of calcium is 2.
+
+CHEMICAL EQUATIONS:
+Ca + O → CaO
+
+কিছু কিছু মৌলের একাধিক যোজনী থাকে। কোনো মৌলের একাধিক যোজনী থাকলে সেই মৌলের যোজনীকে পরিবর্তনশীল যোজনী বলা হয়। যেমন-Fe এর পরির্বতনশীল যোজনী 2 এবং ও।
+ENGLISH TRANSLATION:
+Some elements have more than one valency. If an element has more than one valency, the valency of that element is called variable valency. For example, Fe has variable valencies of 2 and 3.
+
+কোনো মৌলের সর্বোচ্চ যোজনী এবং সক্রিয় যোজনীর পার্থক্যকে ঐ মৌলের সুপ্ত যোজনী বলা হয়।
+ENGLISH TRANSLATION:
+The difference between the highest valency and active valency of an element is called the latent valency of that element.
+
+যেমন: FeCl₂ যৌগে Fe এর সক্রিয় যোজনী 2 কিন্তু Fe এর সর্বোচ্চ যোজনী ও। অতএব FeCl₂ যৌগে Fe এর সুপ্ত যোজনী 3-2=1। আবার FeCl, যৌগে Fe এর সক্রিয় যোজনী ও কিন্তু Fe এর সর্বোচ্চ যোজনী 3, অতএব FeCl3 যৌগে Fe এর সুপ্ত যোজনী 33=01
+ENGLISH TRANSLATION:
+For example: In FeCl₂, the active valency of Fe is 2, but the highest valency of Fe is 3. Therefore, in FeCl₂, the latent valency of Fe is 3-2=1. Again, in FeCl₃, the active valency of Fe is 3 but the highest valency of Fe is 3. Therefore, in FeCl₃, the latent valency of Fe is 3-3=0.
+
+CHEMICAL EQUATIONS:
+Fe + 2Cl → FeCl₂
+Fe + 3Cl → FeCl₃
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: যোজনী বা যোজ্যতা (Valency)
+Bengali Definition: অণু গঠনকালে কোনো মৌলের একটি পরমাণুর সাথে অপর একটি মৌলের পরমাণু যুক্ত হওয়ার ক্ষমতাকে যোজনী বা যোজ্যতা বলা হয়।
+English Translation: The capacity of an atom of an element to combine with another atom of another element during molecule formation is called valency.
+
+TERM OR PROPERTY NAME: পরিবর্তনশীল যোজনী (Variable Valency)
+Bengali Definition: কোনো মৌলের একাধিক যোজনী থাকলে সেই মৌলের যোজনীকে পরিবর্তনশীল যোজনী বলা হয়।
+English Translation: If an element has more than one valency, the valency of that element is called variable valency.
+Examples: Fe এর পরির্বতনশীল যোজনী 2 এবং ও (Fe has variable valencies of 2 and 3).
+
+TERM OR PROPERTY NAME: সুপ্ত যোজনী (Latent Valency)
+Bengali Definition: কোনো মৌলের সর্বোচ্চ যোজনী এবং সক্রিয় যোজনীর পার্থক্যকে ঐ মৌলের সুপ্ত যোজনী বলা হয়।
+English Translation: The difference between the highest valency and active valency of an element is called the latent valency of that element.
+Related Chemical Equations: FeCl₂, FeCl₃
+Examples: FeCl₂ যৌগে Fe এর সুপ্ত যোজনী 1,  FeCl₃ যৌগে Fe এর সুপ্ত যোজনী 0 (Latent valency of Fe in FeCl₂ is 1, and latent valency of Fe in FeCl₃ is 0).
+
+
+
+
+CHAPTER TITLE:  রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 86
+MAIN TOPICS: Valency of elements, Chemical formulas
+
+TABLE 5.02: বিভিন্ন মৌলের যোজনী। / Table 5.02: Valency of Different Elements.
+
+| মৌল (Element) | যোজনী (Valency) | মৌল (Element) | যোজনী (Valency) | মৌল (Element) | যোজনী (Valency) |
+|---|---|---|---|---|---|
+| H | 1 | Na | 1 | Fe | 2, 3 |
+| F | 1 | K | 1 | Cu | 1, 2 |
+| Cl | 1 | C | 2, 4 | Zn | 2 |
+| Br | 1 | Mg | 2 |  |  |
+| I | 1 | Al | 3 |  |  |
+
+TABLE 5.03: বিভিন্ন পরমাণুর যোজনী এবং যৌগ। / Table 5.03: Valency of Different Atoms and Compounds.
+
+| ধাতব ও অধাতব পরমাণু (Metal & Non-metal Atoms) | প্রতীক (Symbol) | যোজনী (Valency) | যৌগ (Compound) | ধাতব ও অধাতব পরমাণু (Metal & Non-metal Atoms) | প্রতীক (Symbol) | যোজনী (Valency) | যৌগ (Compound) |
+|---|---|---|---|---|---|---|---|
+| হাইড্রোজেন (Hydrogen) | H | 1 | HCl | সিলভার (Silver) | Ag | 1 | AgCl |
+| লিথিয়াম (Lithium) | Li | 1 | LiCl | ফ্লোরিন (Fluorine) | F | 1 | NaF |
+| সোডিয়াম (Sodium) | Na | 1 | NaCl | ক্লোরিন (Chlorine) | Cl | 1 | NaCl |
+| পটাশিয়াম (Potassium) | K | 1 | KCl | ব্রোমিন (Bromine) | Br | 1 | NaBr |
+| ম্যাগনেসিয়াম (Magnesium) | Mg | 2 | MgCl2 | আয়োডিন (Iodine) | I | 1 | NaI |
+| ক্যালসিয়াম (Calcium) | Ca | 2 | CaCl2 | বোরন (Boron) | B | 3 | BCl3 |
+| অ্যালুমিনিয়াম (Aluminium) | Al | 3 | AlCl3 | ফসফরাস (Phosphorus) | P | 3 | PCl3 |
+|  |  |  |  |   |   | 5 | PCl5 |
+| আয়রন (Iron) | Fe | 2 | FeCl2 | কপার (Copper) | Cu | 1 | CuCl |
+|   |   | 3 | FeCl3 |  |   | 2 | CuCl2 |
+| জিংক (Zinc) | Zn | 2 | ZnCl2 | অক্সিজেন (Oxygen) | O | 2 | H2O |
+| লেড (Lead) | Pb | 2 | PbCl2 | কার্বন (Carbon) | C | 2 | CO |
+|   |   | 4 | PbCl4 |  |   | 4 | CH4 |
+| নাইট্রোজেন (Nitrogen) | N | 3 | NH3 | সালফার (Sulfur) | S | 2 | H2S |
+|  |  | 5 | N2O5 |  |   | 4 | SO2 |
+|  |  |  |  |  |   | 6 | SO3 |
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 87
+MAIN TOPICS: Radicals (Polyatomic Ions), Valency of Radicals, Chemical Formulas of Compounds
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: যৌগমূলক (Radical)
+Bengali Definition: একাধিক মৌলের কতিপয় পরমাণু বা আয়ন পরস্পরের সাথে মিলিত হয়ে ধনাত্মক বা ঋণাত্মক আধানবিশিষ্ট একটি পরমাণুগুচ্ছ তৈরি করে এবং এটি একটি মৌলের আয়নের ন্যায় আচরণ করে। এ ধরনের পরমাণুগুচ্ছকে যৌগমূলক বলা হয়।
+English Translation:  A radical is a group of atoms of more than one element or ions combined together that forms a positively or negatively charged group of atoms and behaves like an ion of an element. This type of group of atoms is called a radical.
+Related Chemical Equations: None (Definition)
+Examples: অ্যামোনিয়াম (NH4+), কার্বনেট (CO32-), সালফেট (SO42-)
+
+TERM OR PROPERTY NAME: যোজনী (Valency)
+Bengali Definition: যৌগমূলক ধনাত্মক কিংবা ঋণাত্মক আধানবিশিষ্ট হতে পারে। এদের আধান সংখ্যাই মূলত এদের যোজনী নির্দেশ করে।
+English Translation: Radicals can be positively or negatively charged. The charge number indicates its valency.
+Related Chemical Equations: None (Definition)
+Examples: অ্যামোনিয়াম (NH4+) has a valency of 1; কার্বনেট (CO32-) has a valency of 2
+
+CHEMICAL EQUATIONS:
+NH3 + H+  → NH4+
+
+TABLE 5.04: RADICAL NAMES, SYMBOLS, CHARGES, AND VALENCIES
+
+| যৌগমূলকের নাম (Radical Name) | সংকেত (Symbol) | আধান (Charge) | যোজনী (Valency) |
+|---|---|---|---|
+| অ্যামোনিয়াম (Ammonium) | NH4+ | +1 | 1 |
+| কার্বনেট (Carbonate) | CO32- | -2 | 2 |
+| হাইড্রোজেন কার্বনেট (Hydrogen Carbonate) | HCO3- | -1 | 1 |
+| সালফেট (Sulfate) | SO42- | -2 | 2 |
+| হাইড্রোজেন সালফেট (Hydrogen Sulfate) | HSO4- | -1 | 1 |
+| সালফাইট (Sulfite) | SO32- | -2 | 2 |
+| নাইট্রেট (Nitrate) | NO3- | -1 | 1 |
+| নাইট্রাইট (Nitrite) | NO2- | -1 | 1 |
+| ফসফেট (Phosphate) | PO43- | -3 | 3 |
+| হাইড্রোক্সাইড (Hydroxide) | OH- | -1 | 1 |
+| ফসফোনিয়াম (Phosphonium) | PH4+ | +1 | 1 |
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: যৌগের রাসায়নিক সংকেত (Chemical Formula of Compounds)
+Bengali Definition: যৌগের একটি অণুতে যেসব পরমাণু থাকে তাদের প্রতীক ও সংখ্যার মাধ্যমে অণুটিকে প্রকাশ করা হয়। যেমন- দুটি হাইড্রোজেন (H) পরমাণু ও একটি অক্সিজেন (০) পরমাণু মিলে পানির (H₂O) একটি অণু গঠিত হয়।
+English Translation: The chemical formula of a compound expresses the atoms present in a molecule through their symbols and numbers. For example, two hydrogen (H) atoms and one oxygen (O) atom combine to form one molecule of water (H₂O).
+Related Chemical Equations: None (Definition)
+Examples: H₂O (water)
+
+
+
+
+CHAPTER TITLE: রাসায়নিক সংকেত / Chemical Symbols and Formulas
+CHAPTER NUMBER: 5
+PAGE NUMBER: 88
+MAIN TOPICS: Chemical formulas, Valency, Writing chemical formulas
+
+CHEMICAL EQUATIONS:
+No chemical equations are explicitly given on this page. However, chemical formula examples are presented.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+রাসায়নিক সংকেত (Chemical Formula)
+Bengali Definition: কোনো মৌল বা যৌগমূলকের প্রতীক বা সংকেত ও তাদের সংখ্যার মাধ্যমে কোনো যৌগ অণুকে প্রকাশ করাই হলো উক্ত যৌগের রাসায়নিক সংকেত। এক্ষেত্রে অণুর মধ্যে অবস্থিত মৌলের বা যৌগমূলকের সংখ্যাকে সংকেতের নিচে ডান পাশে ছোট করে (Subscript) লেখা হয়।
+English Translation: A chemical formula is the representation of a compound molecule using the symbols or formulas of its constituent elements or radicals and their respective numbers. In this case, the number of atoms of an element or radicals present in a molecule is written as a subscript on the right side of its symbol.
+Related Chemical Equations: None.
+Examples: H₂O (water), N₂ (nitrogen), O₃ (ozone), Al₂O₃ (aluminum oxide), CaCl₂ (calcium chloride), Mg₃(PO₄)₂ (magnesium phosphate), (NH₄)₃(PO₄) (ammonium phosphate), Al₂(SO₄)₃ (aluminum sulfate)
+
+যোজনী (Valency)
+Bengali Definition: Not explicitly defined in this section, but used in the rules of writing chemical formula.
+English Translation: Not explicitly defined in this section. However, it is implied that valency is used to determine the number of atoms of different elements needed to form a compound.
+Related Chemical Equations: None.
+Examples: The valency of aluminum is 3, oxygen is 2; calcium is 2, chlorine is 1; magnesium is 2, phosphate is 3. Carbon is 4, Oxygen is 2.
+
+RULES FOR WRITING CHEMICAL FORMULAS:
+
+(a)
+Bengali Definition: কোনো মৌলের একটি অণুতে যতগুলো পরমাণু থাকে তার সংখ্যাটি ইংরেজি হরফে মৌলটির প্রতীকের ডান পাশে নিচে ছোট করে লিখতে হবে।
+English Translation: The number of atoms in a molecule of an element is written as a subscript on the right side of the element's symbol.
+Examples: N₂ (nitrogen), O₃ (ozone)
+
+(b)
+Bengali Definition: কখনো কখনো কোনো যৌগের অণু দুটি ভিন্ন মৌলের পরমাণু দিয়ে গঠিত হয়। তাদের যোজনী যদি কোনো সাধারণ সংখ্যা দ্বারা বিভাজ্য না হয় তাহলে দুটি মৌলের প্রতীক পাশাপাশি লিখে একটি মৌলের প্রতীকের পাশে অন্যটির যোজনী লিখতে হয়।
+English Translation: If the valencies of two elements in a compound are not divisible by a common number, then write the symbols side by side, and write the valency of one element as the subscript of the other element.
+Examples: Al₂O₃ (aluminum oxide), CaCl₂ (calcium chloride), Mg₃(PO₄)₂ (magnesium phosphate)
+
+(c)
+Bengali Definition: যদি দুটি মৌলের যোজনী কোনো সাধারণ সংখ্যা দিয়ে বিভাজ্য হয় তাহলে যোজনীগুলো সেই সাধারণ সংখ্যা দিয়ে ভাগ দিয়ে মৌলের পাশে পূর্বের নিয়মে ভাগফলটি লিখতে হয়।
+English Translation: If the valencies of two elements are divisible by a common number, then divide them by that common number and write the results as the subscripts of the elements.
+Examples: Carbon dioxide is explained, but the formula is not fully written out on this page.
+
+SAFETY INFORMATION:
+No safety information is provided on this page.
+
+QUESTIONS AND PROBLEMS:
+No questions or problems are present on this page.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 89
+MAIN TOPICS: Chemical formulas, Molecular and Structural Formulas
+
+CHEMICAL EQUATIONS:
+No chemical equations are explicitly shown on this page but the following formulas are mentioned:
+CO2
+FeSO4
+BN
+
+TERM OR PROPERTY NAME: আণবিক সংকেত (Molecular Formula)
+Bengali Definition: একটি মৌল বা যৌগের অণুতে যে যে ধরনের মৌলের পরমাণু থাকে তাদের প্রতীক এবং যে মৌলের পরমাণু যতটি থাকে সেই সকল সংখ্যা দিয়ে প্রকাশিত সংকেতকে আণবিক সংকেত বা রাসায়নিক সংকেত বলে।
+English Translation: The molecular formula is the representation of a molecule using the symbols of the elements present and the numerical subscripts indicating the number of atoms of each element.
+Related Chemical Equations: C3H8 (Propane), H2O (Water), CH4 (Methane)
+Examples: C3H8, H2O, CH4
+
+TERM OR PROPERTY NAME: গাঠনিক সংকেত (Structural Formula)
+Bengali Definition: আবার একটি অণুতে মৌলের পরমাণুগুলো যেভাবে সাজানো থাকে প্রতীক এবং বন্ধনের মাধ্যমে তা প্রকাশ করাকে গাঠনিক সংকেত বলে।
+English Translation: The structural formula represents the arrangement of atoms within a molecule, showing the bonds between them.
+Examples:
+  Propane:
+  HHH
+   | | |
+H-C-C-C-H
+   | | |
+   HHH
+
+   Water:
+     O
+      Ʌ
+    H H
+
+  Methane:
+       H
+      |
+  H-C-H
+      |
+      H
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+FERROUS SULFATE:
+Bengali Definition: ফেরাস সালফেট যৌগে আয়রনের যোজনী 2 সালফেট আয়নের (SO42-) যোজনী 2। এই সংখ্যাদুটিকে 2 দিয়ে ভাগ করে 1 ও 1 পাওয়া যায়। সুতরাং ফেরাস সালফেটের সংকেত FeSO4।
+English Translation: In Ferrous Sulfate, Iron has a valency of 2 and Sulfate ion (SO42-) has a valency of 2. Dividing both by 2 gives 1 and 1. Therefore the formula of Ferrous Sulfate is FeSO4.
+
+BORON NITRIDE
+Bengali Definition: বোরন ও নাইট্রোজেনের যোজনী ও। এদের ও দিয়ে ভাগ করলে 1 ও 1 পাওয়া যায় সুতরাং বোরন নাইট্রাইডের সংকেত B₁N₁ = BN।
+English Translation: Boron and Nitrogen both have a valency of 3. Dividing both by 3 gives 1 and 1, so the formula of Boron Nitride is B₁N₁ = BN.
+
+DIAGRAM TITLE: প্রোপেনের গাঠনিক সংকেত (Structural formula of Propane)
+Description: A chain of three carbon atoms, each bonded to the next with a single line, and to hydrogen atoms. Each carbon is bonded to enough hydrogens to have four total bonds.
+Components: Carbon atoms (C), Hydrogen atoms (H), single bonds represented by lines.
+Chemical Labels: H, C, single bonds
+Safety Notes: None
+Purpose: Demonstrates the structural arrangement of atoms in a propane molecule.
+
+DIAGRAM TITLE: পানির গাঠনিক সংকেত (Structural formula of Water)
+Description: An oxygen atom connected to two hydrogen atoms by single bonds
+Components: Oxygen atom (O), Hydrogen atoms (H), single bonds represented by lines
+Chemical Labels: O, H, single bonds
+Safety Notes: None
+Purpose: Demonstrates the structural arrangement of atoms in a water molecule
+
+DIAGRAM TITLE: মিথেনের গাঠনিক সংকেত (Structural formula of Methane)
+Description: A central carbon atom connected to four hydrogen atoms by single bonds
+Components: Carbon atom (C), Hydrogen atoms (H), single bonds represented by lines
+Chemical Labels: C, H, single bonds
+Safety Notes: None
+Purpose: Demonstrates the structural arrangement of atoms in a methane molecule.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 90
+MAIN TOPICS: Octet Rule, Duet Rule, Covalent Bonds
+
+CHEMICAL EQUATIONS:
+None
+
+EXPERIMENTAL PROCEDURES:
+None
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 5.02: মিথেন অণুতে অষ্টক নিয়ম। / Figure 5.02: Octet rule in methane molecule.
+Description: The diagram shows the structure of a methane (CH4) molecule. A central carbon atom (C) is bonded to four hydrogen atoms (H). Each line represents a covalent bond (shared electron pair) between atoms, and each pair of dots shows a shared electron pair. The electrons are distributed in circles representing shells.
+Components: Carbon (C), Hydrogen (H), covalent bonds (lines), shared electrons (dots).
+Chemical Labels: CH4 (methane)
+Safety Notes: None
+Purpose: To illustrate the octet rule, showing how carbon achieves an octet by sharing electrons with four hydrogen atoms.
+
+QUESTIONS AND PROBLEMS:
+None
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: অষ্টক নিয়ম / Octet Rule
+Bengali Definition: প্রতিটি মৌলই তার সর্বশেষ শক্তিস্তরে নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাসের প্রবণতা দেখায়। হিলিয়াম ছাড়া সকল নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাসে সর্বশেষ শক্তিস্তরে ৪টি করে ইলেকট্রন বিদ্যমান। অণু গঠনকালে কোনো মৌল ইলেকট্রন গ্রহণ, বর্জন অথবা ভাগাভাগির মাধ্যমে তার সর্বশেষ শক্তিস্তরে ৪টি করে ইলেকট্রন ধারণের মাধ্যমে নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস লাভ করে। একেই 'অষ্টক' নিয়ম বলা হয়।
+English Translation: Every element tends to attain the electronic configuration of the nearest noble gas in its outermost shell. Except helium, all noble gases have 8 electrons in their outermost shell. During molecule formation, an element gains, loses or shares electrons to attain 8 electrons in its outermost shell. This is called the ‘Octet rule’.
+Related Chemical Equations: None
+Examples: CH4 (Methane)
+
+TERM OR PROPERTY NAME: দুই-এর নিয়ম / Duet Rule
+Bengali Definition: নিষ্ক্রিয় গ্যাসগুলোর সর্বশেষ শক্তিস্তরে যেমন 2টি বা ৪টি ইলেকট্রন বিদ্যমান, তেমনি অণু গঠনে কোনো পরমাণুর সর্বশেষ শক্তিস্তরে এক বা একাধিক জোড়া ইলেকট্রন বিদ্যমান থাকবে, এটিই হচ্ছে 'দুই' এর নিয়ম।
+English Translation: Similar to the presence of 2 or 8 electrons in the outermost shell of noble gases, any atom in a molecule has one or more pairs of electrons in its outermost shell. This is the 'Duet rule'.
+Related Chemical Equations: None
+Examples: BeCl₂, BF₃
+
+SAFETY INFORMATION:
+None
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 91
+MAIN TOPICS: Electron configuration, Inert gases, Octet rule
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: দ্বিত্ব (Dwitwa)
+Bengali Definition: সর্বশেষ শক্তিস্তরে 2টি ইলেকট্রন থাকলে তাকে দ্বিত্ব বলে।
+English Translation: If there are 2 electrons in the outermost energy level, it is called 'duet'.
+Related Chemical Equations: None
+Examples: Helium (He)
+
+TERM OR PROPERTY NAME: অষ্টক (Astok)
+Bengali Definition: সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন থাকলে তাকে অষ্টক বলে।
+English Translation: If there are 8 electrons in the outermost energy level, it is called 'octet'.
+Related Chemical Equations: None
+Examples: Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe), Radon (Rn)
+
+TERM OR PROPERTY NAME: স্থিতিশীলতা (Sthitishilota)
+Bengali Definition: কোনো মৌলের সর্বশেষ শক্তিস্তরে ৪টি করে ইলেকট্রন থাকলে তারা সর্বাধিক স্থিতিশীলতা অর্জন করে।
+English Translation: Any element that has 8 electrons in the outermost energy level achieves maximum stability.
+Related Chemical Equations: None
+Examples: Inert gases
+
+CHEMICAL EQUATIONS:
+He(2) → 1s²
+Ne(10) → 1s²2s²2p⁶
+Ar(18) → 1s²2s²2p⁶3s²3p⁶
+Kr(36) → 1s²2s²2p⁶3s²3p⁶3d¹⁰4s²4p⁶
+Xe(54) → 1s²2s²2p⁶3s²3p⁶3d¹⁰4s²4p⁶4d¹⁰5s²5p⁶
+Rn(86) → 1s²2s²2p⁶3s²3p⁶3d¹⁰4s²4p⁶4d¹⁰4f¹⁴5s²5p⁶5d¹⁰6s²6p⁶
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: নিষ্ক্রিয় গ্যাস (Nishkrio Gas)
+Bengali Definition: নিষ্ক্রিয় গ্যাসগুলো অন্য কোনো মৌলকে ইলেকট্রন প্রদান করে না। এমনকি অপর কোনো মৌলের কাছ থেকে কোনো ইলেকট্রন গ্রহণও করে না। এরা রাসায়নিকভাবে আসক্তিহীন হয়ে পড়ে বা এরা নিষ্ক্রিয় হয়ে পড়ে।
+English Translation: Inert gases do not donate electrons to other elements, nor do they accept electrons from other elements. They become chemically unreactive or inert.
+Related Chemical Equations: None
+Examples: Helium, Neon, Argon, Krypton, Xenon, Radon
+
+TEXT CONTENT:
+
+কেন্দ্রীয় পরমাণু ছাড়াও অন্য পরমাণুগুলো অর্থাৎ Cl এর সর্বশেষ শক্তিস্তরে 4 জোড়া অর্থাৎ ৪টি ইলেকট্রন বিদ্যমান।
+(Besides the central atom, other atoms, like Cl, have 4 pairs or 8 electrons in their outermost shell.)
+
+F সর্বশেষ শক্তিস্তরে 4 জোড়া অর্থাৎ ৪টি ইলেকট্রন বিদ্যমান এবং H এর সর্বশেষ শক্তিস্তরে 1 জোড়া অর্থাৎ 2টি ইলেকট্রন বিদ্যমান। এক্ষেত্রে সকল পরমাণু 'দুই' এর নিয়ম অনুসরণ করেছে। উল্লেখ্য, পর্যায় সারণির 1-20 পর্যন্ত মৌলসমূহ মূলত 'অষ্টক' ও 'দুই' এর নিয়ম ভালোভাবে অনুসরণ করে।
+(F has 4 pairs or 8 electrons in its outermost shell, and H has 1 pair or 2 electrons in its outermost shell. Here, all atoms follow the "duet" rule. It is worth mentioning that elements 1-20 of the periodic table generally follow the "octet" and "duet" rules well.)
+
+5.7 নিষ্ক্রিয় গ্যাস এবং এর স্থিতিশীলতা
+(5.7 Inert Gases and their Stability)
+
+পর্যায় সারণি অধ্যায়ে তোমরা নিষ্ক্রিয় গ্যাস তথা 18 নং গ্রুপের মৌল সম্পর্কে বিস্তারিত জেনেছ। এদের ইলেকট্রন বিন্যাস সম্পর্কেও জ্ঞান লাভ করেছো। তারপরও এখানে এদের ইলেকট্রন বিন্যাস দেখানো হলো:
+(In the chapter on the periodic table, you have learned in detail about inert gases or group 18 elements. You have also gained knowledge about their electron configurations. Nevertheless, their electron configurations are shown here:)
+
+নিষ্ক্রিয় গ্যাসসমূহের ইলেকট্রন বিন্যাসে দেখা যায় যে, হিলিয়ামের সর্বশেষ শক্তিস্তরে 2টি ইলেকট্রন রয়েছে। হিলিয়ামের বেলায় তার সর্বশেষ শক্তিস্তর পূর্ণ করতে ২টি ইলেকট্রনই প্রয়োজন, কাজেই এই ইলেকট্রন বিন্যাস স্থিতিশীল। অন্যান্য নিষ্ক্রিয় গ্যাসের বেলায় তাদের সর্বশেষ শক্তিস্তরে ৪টি (ns²np°) করে ইলেকট্রন বিদ্যমান। কোনো মৌলের সর্বশেষ শক্তিস্তরে ৪টি করে ইলেকট্রন থাকলে তারা সর্বাধিক স্থিতিশীলতা অর্জন করে। সর্বশেষ শক্তিস্তরে 2টি থাকলে তাকে দ্বিত্ব বলে আর ৪টি ইলেকট্রন থাকলে তাকে অষ্টক বলে। সর্বশেষ শক্তিস্তরে দ্বিত্ব ও অষ্টক পূর্ণ থাকার কারণে নিষ্ক্রিয় গ্যাসগুলো অধিকতর স্থিতিশীল হয়।
+(It can be observed in the electron configurations of inert gases that helium has 2 electrons in its outermost shell. In the case of helium, only 2 electrons are needed to complete its outermost shell, making this electron configuration stable. Other inert gases have 8 (ns²np⁶) electrons in their outermost shell. If an element has 8 electrons in the outermost shell, it attains maximum stability. Having 2 electrons in the outermost shell is called a duet, and 8 electrons is called an octet. Because of the presence of completed duets and octets, inert gases are more stable.)
+
+অধিকতর স্থিতিশীলতার কারণে নিষ্ক্রিয় গ্যাসগুলো অন্য কোনো মৌলকে ইলেকট্রন প্রদান করে না। এমনকি অপর কোনো মৌলের কাছ থেকে কোনো ইলেকট্রন গ্রহণও করে না। এরা রাসায়নিকভাবে আসক্তিহীন হয়ে পড়ে বা এরা নিষ্ক্রিয় হয়ে পড়ে। নিষ্ক্রিয় গ্যাস ছাড়া বাকি কোনো মৌলেরই সর্বশেষ শক্তিস্তরে এরূপ দ্বিত্ব বা অষ্টক পূর্ণ থাকে না। ফলে তারা স্থিতিশীল হয় না। অন্যান্য মৌল স্থিতিশীলতা অর্জনের জন্য সর্বশেষ শক্তিস্তরে দ্বিত্ব বা অষ্টক পূরণ করতে চায়। এজন্য তারা সর্বশেষ শক্তিস্তরে ইলেকট্রন গ্রহণ, প্রদান অথবা ভাগাভাগি করে পরস্পরের সাথে বন্ধন গঠন করে।
+(Due to their greater stability, inert gases do not donate electrons to other elements, nor do they accept electrons from other elements. They become chemically unreactive or inert. Apart from inert gases, no other element has a complete duet or octet in their outermost shell. As a result, they are not stable. Other elements want to fill their outermost shell with a duet or octet for stability. For this, they form bonds by gaining, donating, or sharing electrons in their outermost shell.)
+
+
+
+
+```
+CHAPTER TITLE: রাসায়নিক বন্ধন ও রাসায়নিক বন্ধন গঠনের কারণ / Chemical Bonds and the Causes of Their Formation
+CHAPTER NUMBER: 5
+PAGE NUMBER: 92
+MAIN TOPICS: Chemical bonding, Cations and Anions
+
+CHEMICAL EQUATIONS:
+There are no chemical equations on this page.
+
+EXPERIMENTAL PROCEDURES:
+There are no experimental procedures on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+There are no diagrams or illustrations with descriptions on this page
+
+QUESTIONS AND PROBLEMS:
+There are no questions or problems on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+CHEMICAL BOND
+Bengali Definition: পরমাণুসমূহ যে আকর্ষণের মাধ্যমে একে অপরের সাথে যুক্ত থাকে তাকেই রাসায়নিক বন্ধন বলে।
+English Translation: The attraction by which atoms are held together in a molecule is called a chemical bond.
+Related Chemical Equations: None
+Examples: Hydrogen molecule (H2), Hydrogen Chloride Molecule (H-Cl)
+
+CATION
+Bengali Definition: ধনাত্মক আধান বা পজিটিভ চার্জ বিশিষ্ট এরূপ আয়নকে ক্যাটায়ন বলে।
+English Translation: A positively charged ion is called a cation.
+Related Chemical Equations: None
+Examples: Lithium cation (Li+)
+
+ANION
+Bengali Definition: This term is not explicitly defined on this page, but implicitly refers to negatively charged ions
+English Translation: A negatively charged ion is called an anion.
+Related Chemical Equations: None
+Examples: None on this page
+
+SAFETY INFORMATION:
+There is no safety information on this page.
+```
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 93
+MAIN TOPICS: Cation Formation, Periodic Trends, Ionization Energy
+
+CHEMICAL EQUATIONS:
+Li → Li+ + e-
+Na → Na+ + e-
+
+DIAGRAM TITLE: চিত্র 5.03: লিথিয়াম ক্যাটায়ন (Li+) গঠন। / Figure 5.03: Lithium Cation (Li+) Formation.
+Description: Diagram shows a lithium atom with 3 electrons. One electron is shown being removed from the outermost shell resulting in a lithium ion with a +1 charge and a separate free electron.
+Components: Lithium atom (Li), Lithium cation (Li+), Electron (e-)
+Chemical Labels: Li, Li+
+Safety Notes: None
+Purpose: Demonstrates the formation of a lithium cation through the loss of an electron.
+
+DIAGRAM TITLE: চিত্র 5.04: সোডিয়াম ক্যাটায়ন (Na+) গঠন। / Figure 5.04: Sodium Cation (Na+) Formation.
+Description: Diagram shows a sodium atom with its electron shells and 1 electron in its outermost shell. An arrow shows the removal of the outer shell electron. The product is shown as a sodium cation with a +1 charge (Na+) and the free electron.
+Components: Sodium atom (Na), Sodium cation (Na+), Electron (e-)
+Chemical Labels: Na, Na+
+Safety Notes: None
+Purpose: Demonstrates the formation of a sodium cation through the loss of an electron.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+CATION FORMATION
+Bengali Definition: ধাতুসমূহ কেন তাদের সর্বশেষ শক্তিস্তরের ইলেকট্রন ছেড়ে দিয়ে ক্যাটায়ন তৈরি করে?
+English Translation: Why do metals form cations by releasing electrons from their outermost shell?
+Related Chemical Equations: Li → Li+ + e- , Na → Na+ + e-
+Examples: Lithium (Li), Sodium (Na)
+
+PERIODIC TRENDS
+Bengali Definition: পর্যায় সারণির যেকোনো একটি পর্যায়ে বাম থেকে ডানে গেলে মৌলসমূহের ধাতব ধর্ম ধীরে ধীরে হ্রাস পায় এবং অধাতব ধর্ম বৃদ্ধি পায়।
+English Translation: In a period of the periodic table, the metallic property of elements gradually decreases from left to right, and the non-metallic property increases.
+Related Chemical Equations: None
+Examples: None
+
+ATOMIC SIZE TRENDS
+Bengali Definition: একই পর্যায়ে বাম থেকে ডানে গেলে মৌলসমূহ আকারও ধীরে ধীরে হ্রাস পায়।
+English Translation: In the same period, the atomic size of elements also gradually decreases from left to right.
+Related Chemical Equations: None
+Examples: None
+
+IONIZATION ENERGY
+Bengali Definition: সামান্য পরিমাণ শক্তি প্রয়োগ করলেই ধাতুগুলো তার সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রন ত্যাগ করে কাছাকাছি নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস অর্জন করে ক্যাটায়নে পরিণত হতে পারে।
+English Translation: By applying a small amount of energy, metals can release one or more electrons from their outermost shell to achieve the electron configuration of the nearest noble gas, thus forming a cation.
+Related Chemical Equations: Li → Li+ + e- , Na → Na+ + e-
+Examples: Lithium (Li), Sodium (Na)
+
+NON-METAL BEHAVIOR
+Bengali Definition: অন্যদিকে অধাতুগুলো ক্যাটায়ন তৈরি করে না।
+English Translation: On the other hand, non-metals do not form cations.
+Related Chemical Equations: None
+Examples: None
+
+SAFETY INFORMATION:
+None
+
+
+
+
+CHAPTER TITLE: রাসায়ন / Chemistry
+CHAPTER NUMBER: 5
+PAGE NUMBER: 94
+MAIN TOPICS: Ion formation, Ionic bonding, Electrovalent bond
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: অ্যানায়ন (Anion)
+Bengali Definition:  এভাবে ঋণাত্মক আধানবিশিষ্ট অধাতব পরমাণুকে অ্যানায়ন বলে।
+English Translation:  Thus, a negatively charged nonmetal atom is called an anion.
+Related Chemical Equations: Cl + e- -> Cl-
+Examples: ক্লোরাইড (Cl-) (Chloride)
+
+TERM OR PROPERTY NAME: ইলেকট্রন আসক্তি (Electron Affinity)
+Bengali Definition:  ইলেকট্রন গ্রহণের ফলে এদের নিউক্লিয়াসে অবস্থিত ধনাত্মক প্রোটন সংখ্যার চেয়ে ঋণাত্মক আধানবিশিষ্ট ইলেকট্রনের সংখ্যা বেশি হয়।
+English Translation:  As a result of accepting electrons, the number of negatively charged electrons becomes more than the number of positive protons in the nucleus.
+Related Chemical Equations:  (Mentioned within the text in context of nonmetals.)
+Examples: (Cl)
+
+TERM OR PROPERTY NAME: ক্যাটায়ন (Cation)
+Bengali Definition: (Referenced in text but not explicitly defined on this page)
+English Translation: (Referenced in text but not explicitly defined on this page, but implied as a positively charged ion.)
+
+5.10 আয়নিক বন্ধন বা তড়িৎযোজী বন্ধন / 5.10 Ionic Bond or Electrovalent Bond
+Bengali Text: আমরা ইতিপূর্বে জেনেছি যে, ধাতুগুলোর আয়নিকরণ শক্তির মান অনেক কম হওয়ায় এরা অতি সহজেই সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রন ত্যাগ করে ধনাত্মক আধানবিশিষ্ট আয়ন বা ক্যাটায়নে পরিণত হয়। আবার অধাতুগুলোর ইলেকট্রন আসক্তির মান বেশি হওয়ায় এরা সহজেই সর্বশেষ শক্তিস্তরে এক বা একাধিক ইলেকট্রন গ্রহণ করে ঋণাত্মক আধানবিশিষ্ট আয়ন বা অ্যানায়নে পরিণত হয়। এভাবে সৃষ্ট বিপরীত আধানের ক্যাটায়ন ও অ্যানায়নের মধ্যে স্থির বৈদ্যুতিক আকর্ষণ বল বা ইলেকট্রোস্ট্যাটিক বল কাজ করে। এই ইলেকট্রোস্ট্যাটিক বল বা কুলম্ব আকর্ষণ বলের ফলে তারা একে অপরের সাথে
+English Translation: We have previously learned that metals have low ionization energies, so they easily lose one or more electrons from their outermost shell to form positively charged ions, or cations. On the other hand, nonmetals have higher electron affinities, so they easily gain one or more electrons into their outermost shell to form negatively charged ions, or anions. In this way, an electrostatic force of attraction or an electro static force is created between oppositely charged cations and anions. Due to this electrostatic force or Coulomb attraction, they combine with each other.
+
+DIAGRAM TITLE:  ঋণাত্মক Cl আয়ন গঠন (Formation of Negative Cl Ion)
+Description: The diagram shows the electron configuration of a chlorine atom and its conversion into a chloride ion through the addition of an electron. The chlorine atom has 7 electrons in its outer shell, represented by blue circles. An incoming electron (e-) is shown adding to the outer shell. The resulting chloride ion has 8 electrons in its outer shell.
+Components:  Chlorine atom, incoming electron, chloride ion
+Chemical Labels: Cl, Cl-, e-
+Safety Notes:  None in this context.
+Purpose: To illustrate how a chlorine atom becomes a chloride ion by gaining an electron.
+
+CHEMICAL EQUATIONS
+Cl + e-  → Cl-
+(Note: This equation is directly inferred from the diagram and the text)
+---
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 95
+MAIN TOPICS: Ionic Bonding, Formation of Ions, Electron Transfer
+
+CHEMICAL EQUATIONS:
+
+Na  → Na⁺ + e⁻
+Cl + e⁻ → Cl⁻
+Na + Cl → Na⁺ + Cl⁻ = NaCl
+Mg → Mg²⁺ + 2e⁻
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 5.06: সোডিয়াম ক্লোরাইড গঠন / Figure 5.06: Formation of Sodium Chloride
+Description: The diagram shows the electron configuration of sodium (Na) and chlorine (Cl) atoms and how they form ions and then sodium chloride (NaCl). Sodium atom loses one electron and becomes Na⁺ ion, chlorine gains the electron and becomes Cl⁻ ion. They are shown with their electron shells, and the final combination shows the ionic compound sodium chloride.
+Components: Sodium atom (Na), Chlorine atom (Cl), Sodium ion (Na⁺), Chloride ion (Cl⁻)
+Chemical Labels: Na, Cl, Na⁺, Cl⁻, NaCl
+Safety Notes: Not applicable
+Purpose: To illustrate the formation of sodium chloride (NaCl) through ionic bonding
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: আয়নিক বা তড়িৎযোজী বন্ধন / Ionic or Electrovalent Bond
+Bengali Definition: যে আকর্ষণের ফলে ক্যাটায়ন ও অ্যানায়ন পরস্পরের সাথে যুক্ত থাকে সেটিই আয়নিক বা তড়িৎযোজী বন্ধন।
+English Translation: The attraction that causes a cation and an anion to combine is called an ionic or electrovalent bond.
+Related Chemical Equations: Na  → Na⁺ + e⁻, Cl + e⁻ → Cl⁻, Na + Cl → Na⁺ + Cl⁻ = NaCl
+Examples: Sodium Chloride (NaCl)
+
+TERM OR PROPERTY NAME: আয়নিক যৌগ / Ionic Compound
+Bengali Definition: যে যৌগে আয়নিক বন্ধন থাকে তাকে আয়নিক যৌগ বলে।
+English Translation: A compound that contains ionic bonds is called an ionic compound.
+Related Chemical Equations:
+Examples: Sodium Chloride (NaCl), Magnesium Oxide (MgO)
+
+TERM OR PROPERTY NAME: ক্যাটায়ন / Cation
+Bengali Definition:  ধাতব পরমাণু তার সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রনকে অধাতব পরমাণুর সর্বশেষ শক্তিস্তরে স্থানান্তর করে ধনাত্মক আয়ন সৃষ্টি করে।
+English Translation: A metal atom transfers one or more electrons from its outermost shell to the outermost shell of a non-metal atom, creating a positive ion.
+Related Chemical Equations: Na → Na⁺ + e⁻, Mg → Mg²⁺ + 2e⁻
+Examples: Na⁺, Mg²⁺
+
+TERM OR PROPERTY NAME: অ্যানায়ন / Anion
+Bengali Definition: অধাতব পরমাণু ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন সৃষ্টি করে।
+English Translation: A non-metal atom gains electrons to form a negative ion.
+Related Chemical Equations: Cl + e⁻ → Cl⁻, O + 2e⁻ → O²⁻
+Examples: Cl⁻, O²⁻
+
+TERM OR PROPERTY NAME:  ধাতব পরমাণু / Metal Atom
+Bengali Definition: ধাতব পরমাণু তার সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রনকে অধাতব পরমাণুর সর্বশেষ শক্তিস্তরে স্থানান্তর করে।
+English Translation: A metal atom transfers one or more electrons from its outermost shell to the outermost shell of a non-metal atom.
+Related Chemical Equations:
+Examples: Na, Mg
+
+TERM OR PROPERTY NAME: অধাতব পরমাণু / Non-metal Atom
+Bengali Definition: অধাতব পরমাণু ইলেকট্রন গ্রহণ করে।
+English Translation: A non-metal atom gains electrons.
+Related Chemical Equations:
+Examples: Cl, O
+
+TERM OR PROPERTY NAME: স্থির বৈদ্যুতিক আকর্ষণ / Electrostatic Attraction
+Bengali Definition:  এভাবে সৃষ্ট ধনাত্মক আধান Na+ ও ঋণাত্মক আধান CI- পরস্পরের সাথে স্থির বৈদ্যুতিক আকর্ষণে আবদ্ধ হয়।
+English Translation: The positive charge (Na+) and negative charge (Cl-) are held together by electrostatic attraction.
+Related Chemical Equations:
+Examples: Na⁺ and Cl⁻ in NaCl
+
+TERM OR PROPERTY NAME: ইলেকট্রন বিন্যাস / Electron Configuration
+Bengali Definition: পরমাণুর ইলেকট্রন সমূহ কক্ষপথে যেভাবে সজ্জিত থাকে।
+English Translation: The arrangement of electrons in the shells of an atom.
+Related Chemical Equations:
+Examples: Na, Cl, Ne
+
+SAFETY INFORMATION:
+
+There is no specific safety information on this page.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 96
+MAIN TOPICS: Ionic Bonding, Electron Transfer, Ion Formation
+
+CHEMICAL EQUATIONS:
+O + 2e- → O2-
+Na → Na+ + e-
+H + e- → H-
+Ca → Ca2+ + 2e-
+O + 2e- → O2-
+
+DIAGRAM TITLE: ম্যাগনেসিয়াম অক্সাইড গঠন / Formation of Magnesium Oxide
+Description:  The diagram shows the transfer of electrons from a magnesium atom to an oxygen atom, resulting in the formation of Mg2+ and O2- ions, which then combine to form magnesium oxide (MgO). The electron shells and their occupancy are depicted for each atom and resulting ion.
+Components: Magnesium atom, Oxygen atom, Magnesium ion (Mg2+), Oxide ion (O2-)
+Chemical Labels: Mg, O, Mg2+, O2-, MgO
+Safety Notes:  None applicable for a diagrammatic representation.
+Purpose:  To illustrate the formation of an ionic bond through the transfer of electrons between magnesium and oxygen atoms.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+IONIC BOND
+Bengali Definition: "এবার Mg2+ এবং ০² কাছাকাছি এসে আয়নিক বন্ধন তৈরি করে। যে যৌগে আয়নিক বন্ধন বিদ্যমান সেই যৌগকে আয়নিক যৌগ বলে।"
+English Translation: "Now, Mg2+ and O2- come close and form an ionic bond. A compound in which an ionic bond exists is called an ionic compound."
+Related Chemical Equations: O + 2e- → O2-, Na → Na+ + e-, H + e- → H-, Ca → Ca2+ + 2e-
+Examples: MgO
+
+ELECTRON TRANSFER
+Bengali Definition: "ধাতুগুলো ইলেকট্রন বর্জন এবং অধাতুগুলো ধাতু কর্তৃক বর্জন করা ইলেকট্রন গ্রহণ করে যথাক্রমে ক্যাটায়ন ও অ্যানায়নে পরিণত হয়।"
+English Translation: "Metals lose electrons, and non-metals accept the electrons lost by metals, thereby forming cations and anions respectively."
+Related Chemical Equations: Na → Na+ + e-, Ca → Ca2+ + 2e-, O + 2e- → O2-
+Examples: Na becoming Na+, Ca becoming Ca2+, O becoming O2-
+
+METAL & NON-METAL RELATIONSHIP IN IONIC BONDING
+Bengali Definition: "উল্লেখ, পর্যায় সারণির 1 ও 2 নম্বর গ্রুপের ধাতব মৌলসমূহ এবং 16 ও 17 নম্বর গ্রুপের অধাতব মৌলসমূহ সাধারণত আয়নিক বন্ধন তৈরি করে।"
+English Translation: "Notably, metallic elements from groups 1 and 2 of the periodic table, and non-metallic elements from groups 16 and 17 generally form ionic bonds."
+Related Chemical Equations: All above ionic bond formation equations
+Examples: NaCl, CaO, MgO
+
+NOTE: The OCR text "অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে" is likely an error. In the context of these ionic bond formations the correct would be "অর্থাৎ সর্বশেষ শক্তিস্তরে ৮টি ইলেকট্রন গঠন করে" ("... forming 8 electrons in the outermost shell")
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 97
+MAIN TOPICS: Covalent Bonding, Electron Sharing, Octet Rule
+
+5.11 সমযোজী বন্ধন (Covalent Bond) / 5.11 Covalent Bond
+
+তোমরা ইতঃপূর্বে জেনেছ যে, একটি ধাতব পরমাণু ও একটি অধাতব পরমাণু রাসায়নিক সংযোগের সময় ধাতু তার সর্বশেষ শক্তিস্তরের ইলেকট্রন অধাতব পরমাণুর সর্বশেষ শক্তিস্তরে স্থানান্তর করে ক্যাটায়ন ও অ্যানায়ন তৈরির মাধ্যমে আয়নিক বন্ধনের সৃষ্টি করে।
+Translation: You have previously learned that, during chemical bonding, a metal atom transfers its outermost electrons to the outermost shell of a non-metal atom, creating a cation and an anion, which leads to ionic bond formation.
+
+কিন্তু তুমি যদি দুটি অধাতব পরমাণুর মধ্যে রাসায়নিক সংযোগ করাতে চাও তাহলে সেটি কীভাবে ঘটবে? অধাতুর বেলায় পরমাণুর শেষ শক্তিস্তরের ইলেকট্রন ত্যাগ বা গ্রহণ করা সহজ নয় বলে তাদের ভেতর বন্ধন তৈরি করা কঠিন মনে হতে পারে।
+Translation: But, how would it occur if you want to create a chemical bond between two non-metal atoms? In the case of non-metals, it may seem difficult to form a bond as they cannot easily lose or gain electrons from their outermost shell.
+
+কিন্তু বাস্তবে দুটি অধাতব পরমাণু বন্ধন গঠন করে। যেমন- দুটি ক্লোরিন (অধাতু) পরমাণুকে যখন কাছাকাছি রাখা হয় তখন তাদের মধ্যে এক ধরনের রাসায়নিক বন্ধন গঠিত হয়ে ক্লোরিন অণুতে পরিণত হয়।
+Translation: However, in reality, two non-metal atoms do form bonds. For example, when two chlorine (non-metal) atoms are placed close together, a chemical bond forms between them, resulting in a chlorine molecule.
+
+প্রশ্ন হলো কীভাবে দুটি অধাতব ক্লোরিন পরমাণু একে অপরের সাথে বন্ধন তৈরি করে? এদের তো সর্বশেষ শক্তিস্তরে সাতটি করে ইলেকট্রন আছে।
+Translation: The question is how do the two non-metal chlorine atoms bond together? They each have seven electrons in their outermost shell.
+
+ক্লোরিনের ইলেকট্রন বিন্যাস হলো: Cl (17) → 1s² 2s² 2p⁶ 3s² 3p⁵
+Translation: The electronic configuration of chlorine is: Cl (17) → 1s² 2s² 2p⁶ 3s² 3p⁵
+
+Cl এর সর্বশেষ শক্তিস্তরে সাতটি ইলেকট্রন থাকায় ক্লোরিন পরমাণু সর্বশেষ শক্তিস্তরের ইলেকট্রন প্রদান করতে চাইবে না বরং গ্রহণের প্রবণতা দেখাবে।
+Translation: Since Cl has seven electrons in its outermost shell, it will not tend to donate but rather accept electrons.
+
+কিন্তু দাতা পরমাণু না থাকায় গ্রহণ প্রক্রিয়াও ঘটবে না। তাই দুটি ক্লোরিন পরমাণু কাছাকাছি এলে প্রত্যেকটি পরমাণুর সর্বশেষ শক্তিস্তর থেকে 1টি করে ইলেকট্রন এসে জোড়বদ্ধ হয় এবং ঐ ইলেকট্রন জোড় উভয় পরমাণুর নিউক্লিয়াসের মাঝামাঝি অবস্থান করে।
+Translation: However, since there are no donor atoms, the acceptance process also does not occur. Thus, when two chlorine atoms come close, each atom contributes 1 electron from its outermost shell to form a pair, and this shared pair of electrons is located between the nuclei of both atoms.
+
+একে ইলেকট্রনের ভাগাভাগি বা ইলেকট্রনের শেয়ারিং বলে। এর ফলে উভয় পরমাণু তাদের সর্বশেষ শক্তিস্তরে আটটি করে ইলেকট্রন লাভ করে অর্থাৎ নিষ্ক্রিয় গ্যাস এর ইলেকট্রন বিন্যাস লাভ করে।
+Translation: This is called electron sharing. As a result, both atoms achieve an octet of eight electrons in their outermost shell, like noble gases.
+
+ফলস্বরূপ দুটি ক্লোরিন পরমাণুর নিউক্লিয়াসগুলো একে অপরের কাছ থেকে দূরে সরে যেতে পারে না অর্থাৎ এরা এক ধরনের বন্ধনে আবদ্ধ হয়। এ ধরনের বন্ধনকে সমযোজী বন্ধন বলে।
+Translation: As a consequence, the nuclei of the two chlorine atoms cannot move away from each other, and they become bound together. This kind of bond is called a covalent bond.
+
+অর্থাৎ দুটি অধাতব পরমাণুর রাসায়নিক সংযোগের সময় অধাতব পরমাণুদ্বয় তাদের সর্বশেষ শক্তিস্তরের (এক বা একাধিক) একটি ইলেকট্রনকে সরবরাহ করে এক জোড়া ইলেকট্রন তৈরি করে। এরপর এই এক জোড়া ইলেকট্রন উভয় পরমাণু শেয়ারের মাধ্যমে যে বন্ধন গঠিত হয় তাকে সমযোজী বন্ধন বলে।
+Translation: That is, during the chemical bonding of two non-metal atoms, the atoms contribute one or more electrons from their outermost shells to form one or more pairs of shared electrons. These shared electrons form what is called a covalent bond.
+
+যে যৌগে সমযোজী বন্ধন থাকে তাকে সমযোজী যৌগ বলে। প্রতিটি সমযোজী বন্ধনে দুটি ইলেকট্রন
+Translation: A compound in which there are covalent bonds is called a covalent compound. In each covalent bond, there are two electrons.
+
+
+
+
+```
+Chapter Title: রাসায়নিক বন্ধন / Chemical Bonding
+Chapter Number: 5
+Page Number: 98
+Main Topics: Covalent bonding, Electron sharing, Formation of diatomic molecules
+
+CHEMICAL EQUATIONS
+H + H → H-H
+O(8)  → 1s²2s²2p⁴
+
+DIAGRAM TITLE
+চিত্র 5.08: হাইড্রোজেন অণুতে সমযোজী বন্ধন গঠন।/ Figure 5.08: Formation of covalent bond in Hydrogen molecule.
+Description: Two hydrogen atoms, each with one electron in their outer shell, come together. Each atom shares its electron with the other, forming a covalent bond and creating a hydrogen molecule.
+Components: Hydrogen atom (2), Electron (1 each atom), Hydrogen molecule (H-H)
+Chemical Labels: H (Hydrogen), H-H (Hydrogen molecule)
+Safety Notes: None
+Purpose: Illustrates how two hydrogen atoms share electrons to form a covalent bond and achieve a stable electron configuration.
+
+DIAGRAM TITLE
+চিত্র 5.09: অক্সিজেন অণুতে সমযোজী বন্ধন গঠন।/ Figure 5.09: Formation of covalent bond in Oxygen molecule.
+Description: Two oxygen atoms, each with six electrons in their outer shell, come together. They share two electrons with the other to form a covalent bond to create an oxygen molecule.
+Components: Oxygen atom (2), Electron (6 each atom), Oxygen molecule
+Chemical Labels: O (Oxygen), O₂ (Oxygen molecule)
+Safety Notes: None
+Purpose: Illustrates how two oxygen atoms share electrons to form a covalent bond and achieve a stable electron configuration.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+সমযোজী বন্ধন
+Bengali Definition: সমযোজী বন্ধনকে একটি রেখার (-) মাধ্যমে প্রকাশ করা হয় এবং ইলেকট্রনসমূহকে ডট (.) চিহ্ন বা ক্রস (X) চিহ্ন দ্বারা প্রকাশ করা হয়।
+English Translation: Covalent bonds are represented by a line (-), and electrons are represented by dots (.) or crosses (X).
+Related Chemical Equations: H + H → H-H
+Examples: H₂ , O₂, N₂, S₈, P₄, Br₂, I₂, F₂
+
+H₂ অণুতে সমযোজী বন্ধন
+Bengali Definition: হাইড্রোজেন পরমাণুর ইলেকট্রন বিন্যাস হলো, H(1)→ 1s¹। দুটি হাইড্রোজেন পরমাণু যখন কাছাকাছি আসে তখন উভয় পরমাণুই একটি করে ইলেকট্রন শেয়ার করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে 2টি ইলেকট্রন গঠন করে। এর ফলে (H-H) সমযোজী বন্ধনের সৃষ্টি হয়।
+English Translation: The electron configuration of a hydrogen atom is H(1) → 1s¹. When two hydrogen atoms come close together, each atom shares one electron, achieving an electron configuration similar to a noble gas, that is, two electrons in the outermost shell. This forms a (H-H) covalent bond.
+Related Chemical Equations: H + H → H-H
+
+O₂ অণুতে সমযোজী বন্ধন
+Bengali Definition: অক্সিজেন পরমাণুর ইলেকট্রন বিন্যাস হলো, O(8) → 1s²2s²2p⁴। অক্সিজেন পরমাণুর সর্বশেষ শক্তিস্তরে নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস (অষ্টক) অপেক্ষা দুটি ইলেকট্রন কম আছে। এরূপ দুটি অক্সিজেন পরমাণু কাছাকাছি এলে তাদের উভয় পরমাণুই নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে। ফলে তাদের মধ্যে সমযোজী বন্ধন গঠিত হয়।
+English Translation: The electron configuration of an oxygen atom is O(8) → 1s²2s²2p⁴. An oxygen atom has two fewer electrons than the noble gas electron configuration (octet) in its outermost shell. When two such oxygen atoms come close, both atoms achieve the noble gas electron configuration, that is, eight electrons in their outermost shell, forming a covalent bond between them.
+Related Chemical Equations: O(8)  → 1s²2s²2p⁴
+```
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 99
+MAIN TOPICS: Covalent Bonding, Molecular Structures, Types of Compounds
+
+CHEMICAL EQUATIONS
+O + O → O=O or O₂
+
+DIAGRAM TITLE: Formation of Water Molecule through Covalent Bonding
+Description: The diagram illustrates the formation of two O-H covalent bonds in a water molecule. It shows two hydrogen atoms each contributing one electron and an oxygen atom contributing two electrons. These are represented by small circles around the atoms, which combine to form shared pairs.
+Components: Two hydrogen atoms (2H), one oxygen atom (O), one water molecule (H₂O)
+Chemical Labels: H, O, H₂O
+Safety Notes: None
+Purpose: To illustrate how covalent bonds are formed in a water molecule through sharing of electrons between hydrogen and oxygen atoms.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+COVALENT BOND
+Bengali Definition: মধ্যে (O=O) সমযোজী বন্ধন গঠিত হয়। এক্ষেত্রে উভয় পরমাণু দুটি করে মোট চারটি ইলেকট্রন শেয়ার করায় সমযোজী বন্ধনের সংখ্যা হয় 2 (দুই)।
+English Translation: In (O=O), a covalent bond is formed. In this case, both atoms share a total of four electrons (two each), resulting in two covalent bonds.
+Related Chemical Equations: O + O → O=O or O₂
+
+COVALENT MOLECULE
+Bengali Definition: সমযোজী বন্ধনবিশিষ্ট মৌলিক পদার্থের অণুকে (যেমন: N2, O2, Cl2, Br2, 12) সমযোজী অণু এবং সমযোজী বন্ধনবিশিষ্ট যৌগকে সমযোজী যৌগ অণু বলা হয় (যেমন: CH4, CO2, HCl, NH3 ইত্যাদি)।
+English Translation: Covalent bond containing molecules of elements (such as N₂, O₂, Cl₂, Br₂, I₂) are called covalent molecules and covalent bond containing compounds are called covalent compound molecules (such as CH₄, CO₂, HCl, NH₃ etc.).
+Examples: N₂, O₂, Cl₂, Br₂, I₂, CH₄, CO₂, HCl, NH₃
+
+ADDITIONAL NOTES
+- Oxygen (O) can form both covalent and ionic compounds, while Sodium (Na) only forms ionic compounds.
+- Oxygen can gain two electrons to form ionic bonds, or share two electrons to form covalent bonds.
+- Sodium (Na) always loses electrons to form ionic bonds and does not share electrons to form covalent bonds.
+-  In H₂O, the O atom has 2 lone pairs of electrons, which aren't involved in bonding. These can participate in bonding in higher level chemistry
+- The number of shared electrons determines the number of bonds. For example, a double bond consists of 4 shared electrons, or 2 pairs.
+
+
+
+
+CHAPTER TITLE: রাসায়ন / Chemistry
+CHAPTER NUMBER: 5
+PAGE NUMBER: 100
+MAIN TOPICS: Intermolecular forces, Properties of Ionic and Covalent Compounds, Melting and Boiling Points
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: ভ্যান্ডারওয়ালস আকর্ষণ বল / Van der Waals Forces
+Bengali Definition: দুটি সমযোজী অণু যখন খুবই নিকটবর্তী হয় তখন তাদের মধ্যে এক ধরনের দুর্বল আকর্ষণ বল কাজ করে, এই আকর্ষণ বলকেই ভ্যান্ডারওয়ালস আকর্ষণ বল বলে।
+English Translation: When two covalent molecules are very close to each other, a weak attractive force acts between them, this force is called the Van der Waals force.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: আন্তঃআণবিক আকর্ষণ / Intermolecular attraction
+Bengali Definition: আয়নিক যৌগে এরূপ অসংখ্য ধনাত্মক ও ঋণাত্মক আধান পরস্পরের কাছাকাছি থেকে ত্রিমাত্রিকভাবে সুবিন্যস্ত হয়ে একটি স্ফটিক তৈরি করে। এতে তাদের আন্তঃআণবিক আকর্ষণ বল অনেক বেশি হয়।
+English Translation: In ionic compounds, numerous positive and negative charges are arranged three-dimensionally close to each other to form a crystal. This results in a very high intermolecular attraction force.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: গলনাঙ্ক / Melting Point
+Bengali Definition: এদেরকে একে অপরের কাছ থেকে দূরে সরিয়ে নিতে বা গলিয়ে ফেলতে অনেক বেশি তাপ শক্তির প্রয়োজন হয়। কাজেই এদের গলনাঙ্ক ও স্ফুটনাঙ্ক অনেক বেশি হয়।
+English Translation: A lot of heat energy is required to separate or melt them, hence their melting and boiling points are very high.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: স্ফুটনাঙ্ক / Boiling Point
+Bengali Definition: এদেরকে একে অপরের কাছ থেকে দূরে সরিয়ে নিতে বা গলিয়ে ফেলতে অনেক বেশি তাপ শক্তির প্রয়োজন হয়। কাজেই এদের গলনাঙ্ক ও স্ফুটনাঙ্ক অনেক বেশি হয়।
+English Translation: A lot of heat energy is required to separate or melt them, hence their melting and boiling points are very high.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+5.12 আয়নিক ও সমযোজী যৌগের বৈশিষ্ট্য / 5.12 Characteristics of Ionic and Covalent Bonds
+(a) গলনাঙ্ক ও স্ফুটনাঙ্ক (Melting Point and Boiling Point)
+
+ যে যৌগে আয়নিক বন্ধন থাকে সেই যৌগকে আয়নিক যৌগ বলা হয় এবং যে যৌগে সমযোজী বন্ধন থাকে সেই যৌগকে সমযোজী যৌগ বলা হয়। / A compound containing ionic bonds is called an ionic compound, and a compound containing covalent bonds is called a covalent compound.
+আয়নিক যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক অনেক বেশি হয় কিন্তু সমযোজী যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক আয়নিক যৌগ অপেক্ষা কম হয়। / The melting and boiling points of ionic compounds are much higher, but the melting and boiling points of covalent compounds are lower than those of ionic compounds.
+কিন্তু কেন? / But why?
+এটি আসলেই সত্যি আয়নিক যৌগে ধনাত্মক ও ঋণাত্মক আধান থাকে। / This is indeed true, ionic compounds contain positive and negative charges.
+এ আধানদ্বয় পরস্পরের সাথে দৃঢ়ভাবে আবদ্ধ থাকে। / These charges are strongly bound to each other.
+আয়নিক যৌগে এরূপ অসংখ্য ধনাত্মক ও ঋণাত্মক আধান পরস্পরের কাছাকাছি থেকে ত্রিমাত্রিকভাবে সুবিন্যস্ত হয়ে একটি স্ফটিক তৈরি করে। / In ionic compounds, numerous positive and negative charges are arranged three-dimensionally close to each other to form a crystal.
+এতে তাদের আন্তঃআণবিক আকর্ষণ বল অনেক বেশি হয়। / This results in a very high intermolecular attraction force.
+ফলে এদেরকে একে অপরের কাছ থেকে দূরে সরিয়ে নিতে বা গলিয়ে ফেলতে অনেক বেশি তাপ শক্তির প্রয়োজন হয়। / As a result, a lot of heat energy is required to separate or melt them.
+কাজেই এদের গলনাঙ্ক ও স্ফুটনাঙ্ক অনেক বেশি হয়। / Therefore, their melting and boiling points are very high.
+অপর দিকে সমযোজী অণুসমূহের মধ্যে আন্তঃআণবিক আকর্ষণ মূলত দুর্বল ভ্যান্ডারওয়ালস বলের কারণে হয়ে থাকে। / On the other hand, intermolecular attraction in covalent molecules is mainly due to weak Van der Waals forces.
+কাজেই সমযোজী যৌগে আন্তঃআণবিক আকর্ষণ বল অনেক কম হয়। / Therefore, intermolecular attraction in covalent compounds is much lower.
+এজন্য এদেরকে সামান্য তাপ প্রদান করলে এরা পরস্পরের কাছ থেকে দূরে সরে যায়। / That is why they move away from each other when a small amount of heat is applied.
+অর্থাৎ এদের গলনাঙ্ক ও স্ফুটনাঙ্ক কম হয়। / That is, their melting and boiling points are low.
+একইভাবে তোমরা আয়নিক যৌগ NaCl এর পরিবর্তে CuSO4, NaNO3, KCl, CaCl2 ইত্যাদি ব্যবহার করলেও একই বিষয় দেখবে। / Similarly, you will see the same phenomenon even if you use CuSO4, NaNO3, KCl, CaCl2 etc. instead of the ionic compound NaCl.
+অন্যদিকে সমযোজী যৌগ হিসেবে গ্লুকোজ, চিনি ইত্যাদি ব্যবহার করে পরীক্ষাগুলো সম্পন্ন করতে পারো। / On the other hand, you can perform the experiments using glucose and sugar etc. as covalent compounds.
+স্ফুটনাঙ্কের ক্ষেত্রে সমযোজী যৌগ হিসেবে আমাদের অতি পরিচিত পানি ব্যবহার করা যায়। / For boiling points, water, a common covalent compound can be used.
+সব পরীক্ষাতেই দেখতে পাবে আয়নিক যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক সমযোজী যৌগ থেকে অনেক বেশি। / In all experiments, you will find that the melting and boiling points of ionic compounds are much higher than those of covalent compounds.
+
+CHEMICAL EXAMPLES
+Many covalent molecules are in gaseous states at normal temperature and pressure, like CO2, NH3, O2, N2, Cl2 etc.
+Some covalent molecules are in liquid states at normal temperature and pressure, like H2O (water), C2H5OH (ethanol) etc.
+And some are in solid states, such as naphthalene (C10H8), sulfur (S8), iodine (I2) etc.
+
+Many gaseous covalent molecules (e.g., CO2, NH3, O2, etc.) have essentially no Van der Waals forces.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER:  Not specified
+PAGE NUMBER: 101
+MAIN TOPICS: Solubility, Polar Covalent Bonds
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+SOLUBILITY
+Bengali Definition: দ্রাব্যতা/ দ্রবণীয়তা
+English Translation: Solubility
+
+POLAR COVALENT COMPOUND
+Bengali Definition: এরকম ধনাত্মক ও ঋণাত্মক আধানপ্রাপ্ত সমযোজী যৌগকে পোলার সমযোজী যৌগ বলে।
+English Translation: A covalent compound having positive and negative partial charges is called a polar covalent compound.
+
+ELECTRONEGATIVITY
+Bengali Definition: সমযোজী বন্ধনীস্থ ইলেকট্রন যুগলকে কোনো পরমাণু কর্তৃক নিজের দিকে আকর্ষণ করার ক্ষমতাকে উক্ত পরমাণুর তড়িৎ ঋণাত্মকতা বলা হয়।
+English Translation: The ability of an atom to attract the shared electron pair in a covalent bond towards itself is called the electronegativity of the atom.
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 5.11: ১' ও ১- দিয়ে আংশিক ধনাত্মক আধান এবং আংশিক ঋণাত্মক আধানকে বোঝানো হয়েছে।
+Description: The diagram shows a water molecule (H2O). The oxygen atom has two lone pairs of electrons and is labeled with δ⁻ on both sides, indicating a partial negative charge. Each hydrogen atom is labeled with δ⁺, indicating a partial positive charge. The shared electron pairs are shown with lines connecting the oxygen to each hydrogen.
+Components: Oxygen atom, two hydrogen atoms, shared electron pairs, partial charges (δ⁺, δ⁻).
+Chemical Labels: H, O, δ⁺, δ⁻
+Safety Notes: None specified
+Purpose: To illustrate the partial charges that develop in a water molecule due to the electronegativity difference between oxygen and hydrogen atoms, leading to a polar covalent bond.
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: Testing the Solubility of Ionic and Covalent Compounds
+Purpose: To observe and compare the solubility of different ionic and covalent compounds in water.
+Materials Required:
+    - Beaker or glass container
+    - Water
+    - Sodium chloride (NaCl) - common salt
+    - Washing soda (Na2CO3.10H2O)
+    - Copper sulfate (CuSO4.5H2O)
+    - Silver chloride (AgCl)
+    - Naphthalene
+    - Mustard oil
+    - Kerosene
+    - Sugar
+    - Glucose
+    - Alcohol
+Safety Precautions:
+    - Wear safety goggles to protect eyes.
+    - Handle chemicals with care, avoid skin contact.
+    - Dispose of chemicals properly according to lab guidelines.
+
+Procedure:
+1. Take a small amount of water in the beaker.
+2. Add sodium chloride (NaCl) to the water and stir. Observe if it dissolves.
+3. Repeat the same process by adding washing soda, (Na2CO3.10H2O), and copper sulfate, (CuSO4.5H2O) one after the other.
+4. Observe and note down the solubility of each compound.
+5. Try the same process with some ionic compounds like silver chloride. Note if it dissolves.
+6. Next repeat the procedure for covalent compounds, starting with naphthalene, mustard oil and kerosene.
+7. Observe and record the solubility of each of these covalent compounds in water.
+8. Repeat the same procedure with other covalent compounds like sugar, glucose and alcohol.
+
+Expected Observations:
+- Most ionic compounds like NaCl, Na2CO3.10H2O, and CuSO4.5H2O will dissolve in water. Silver chloride will not dissolve in water.
+- Most covalent compounds like naphthalene, mustard oil, and kerosene will not dissolve in water.
+- Some covalent compounds like sugar, glucose and alcohol will dissolve in water.
+
+Key Learning Points:
+- Most ionic compounds are soluble in water.
+- Most covalent compounds are insoluble in water.
+- Some polar covalent compounds are soluble in water.
+
+CHEMICAL EQUATIONS:
+There are no chemical equations on this page.
+
+SAFETY INFORMATION:
+There is no safety information on this page apart from the precautions listed in the experimental procedure.
+
+QUESTIONS AND PROBLEMS:
+There are no questions or problems on this page.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 102
+MAIN TOPICS: Solubility of Ionic and Covalent Compounds, Electrical Conductivity of Solutions
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+POLAR SOLVENT
+Bengali Definition: পোলার দ্রাবক পানিতে আয়নিক যৌগ যোগ করলে পানির অণুগুলোর ধনাত্মক প্রান্ত আয়নিক যৌগের ঋণাত্মক প্রান্ত বা অ্যানায়নকে আকর্ষণ করে। একইভাবে পানির অণুর ঋণাত্মক প্রান্ত আয়নিক যৌগের ধনাত্মক প্রান্ত বা ক্যাটায়নকে আকর্ষণ করে। এই আকর্ষণ বলের মান যখন আয়নিক যৌগের অ্যানায়ন ও ক্যাটায়নের মধ্যকার আকর্ষণ বল থেকে বেশি হয় তখন অ্যানায়ন ও ক্যাটায়ন পরস্পর থেকে বিচ্ছিন্ন হয়ে পানির অণু দিয়ে পরিবেষ্টিত হয়। এভাবে আয়নিক যৌগ পানিতে দ্রবীভূত হয়।
+English Translation: When an ionic compound is added to a polar solvent like water, the positive end of the water molecules attracts the negative end of the ionic compound or the anion. Similarly, the negative end of the water molecules attracts the positive end of the ionic compound or the cation. When the magnitude of this attraction is greater than the attraction between the anion and cation of the ionic compound, the anion and cation become separated and surrounded by water molecules. Thus, the ionic compound dissolves in water.
+Related Chemical Equations: None
+Examples: NaCl dissolves in H2O
+
+COVALENT COMPOUND
+Bengali Definition: অপরদিকে, সমযোজী যৌগে সাধারণত আয়নিক যৌগের মতো ধনাত্মক ও ঋণাত্মক প্রান্ত থাকে না। তাই পানির অণুর ধনাত্মক ও ঋণাত্মক প্রান্তের সাথে সমযোজী যৌগের কোনো আকর্ষণ বা বিকর্ষণ ঘটে না। ফলস্বরূপ সমযোজী যৌগটি পানিতে আয়ন আকারে ভেঙ্গে যায় না অর্থাৎ সমযোজী যৌগটি পানিতে দ্রবীভূত হয় না।
+English Translation: On the other hand, covalent compounds generally do not have positive and negative ends like ionic compounds. Therefore, there is no attraction or repulsion between the positive and negative ends of the water molecules and the covalent compound. Consequently, the covalent compound does not break into ions in water, meaning the covalent compound does not dissolve in water.
+Related Chemical Equations: None
+Examples: Methane (CH4) does not dissolve in water
+
+POLARITY
+Bengali Definition: তবে কিছু কিছু সমযোজী যৌগ আছে যাদের মধ্যে আংশিক ধনাত্মক এবং আংশিক ঋণাত্মক প্রান্ত দেখা যায় অর্থাৎ পোলারিটি দেখা যায়। যেমন- ইথানল (C2H5OH) পোলার যৌগ তাই ইথানল পানিতে দ্রবীভূত হয়।
+English Translation: However, some covalent compounds exhibit partial positive and partial negative ends, i.e., they show polarity. For example, ethanol (C2H5OH) is a polar compound, so ethanol dissolves in water.
+Related Chemical Equations: None
+Examples: Ethanol (C2H5OH) dissolves in water
+
+ELECTRICAL CONDUCTIVITY
+Bengali Definition: একটি বিকারে খাদ্য লবণের (NaCl) জলীয় দ্রবণ এবং অন্য একটি বিকারে চিনির জলীয় দ্রবণ নাও। এবার উভয় দ্রবণে ইলেকট্রোড হিসেবে দুটি গ্রাফাইট দণ্ড কিংবা যেকোনো ধাতব দণ্ড ডুবিয়ে দণ্ডদ্বয়ের সাথে ছবিতে দেখানো উপায়ে ব্যাটারি এবং বাল্ব যুক্ত করে বর্তনী পূর্ণ করো। এরপর পর্যবেক্ষণ করো। কী দেখলে? দেখবে যে খাদ্য লবণের দ্রবণযুক্ত বর্তনীতে বাল্ব জ্বলছে কিন্তু চিনির জলীয় দ্রবণযুক্ত বর্তনীতে বাল্ব জ্বলছে না। অর্থাৎ খাদ্য লবণ বা NaCl-এর জলীয় দ্রবণ বিদ্যুৎ পরিবহণ করে কিন্তু চিনির জলীয় দ্রবণ বিদ্যুৎ পরিবহণ করে না। এ থেকে তোমরা মন্তব্য করতে পারবে যে, আয়নিক যৌগ জলীয় দ্রবণে বিদ্যুৎ পরিবহণ করে কিন্তু সমযোজী যৌগ জলীয় দ্রবণে বিদ্যুৎ পরিবহন করে না। কিন্তু এর কারণ কী?
+English Translation: Take a solution of common salt (NaCl) in water in one beaker and a solution of sugar in water in another beaker. Now, immerse two graphite rods or any metal rods as electrodes in both solutions and complete the circuit by connecting them with a battery and a bulb as shown in the figure. Then observe. What do you see? You will see that the bulb glows in the circuit with the salt solution, but the bulb does not glow in the circuit with the sugar solution. This means that the aqueous solution of common salt or NaCl conducts electricity, but the aqueous solution of sugar does not conduct electricity. From this, you can conclude that ionic compounds conduct electricity in aqueous solutions, but covalent compounds do not conduct electricity in aqueous solutions. But what is the reason for this?
+Related Chemical Equations: None
+Examples: NaCl solution conducts electricity, Sugar solution doesn't
+
+DIAGRAMS AND ILLUSTRATIONS
+DIAGRAM TITLE: খাদ্য লবণ (NaCl) এর জলীয় দ্রবণে বিদ্যুৎ পরিবহণ / Electrical Conductivity in Aqueous Solution of Common Salt (NaCl)
+Description: The diagram shows two electrodes immersed in a beaker containing a salt solution (NaCl), connected to a battery and a light bulb. The solution contains Na+ and Cl- ions, which are shown as separate particles. The bulb is shown to be glowing indicating the solution is conductive.
+Components: Beaker, Solution (Na+, Cl-, H2O), Two electrodes (metal rods), Battery, Light bulb, Wires.
+Chemical Labels: Na+, Cl-
+Safety Notes: Normal classroom laboratory procedure, no unusual safety risks.
+Purpose: This diagram illustrates how ionic compounds (like NaCl) conduct electricity when dissolved in water due to the presence of free ions.
+
+SAFETY ALERT
+Hazard Description: Working with electrical circuits can pose risks.
+Required Precautions: Handle electrical components with dry hands and ensure correct polarity is followed.
+Emergency Procedures: If any electrical shock is experienced, immediately disconnect the circuit.
+Protective Equipment: None normally required
+
+CHEMICAL EQUATIONS
+None on this page.
+
+QUESTIONS AND PROBLEMS
+None on this page.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 103
+MAIN TOPICS: Electrical conductivity of ionic and covalent compounds, Formation of crystals
+
+CHEMICAL EQUATIONS:
+None present on this page.
+
+EXPERIMENTAL PROCEDURES:
+
+KELLAS GATHON (FORMATION OF CRYSTALS)
+Purpose: To observe the formation of crystals from salt and sugar solutions.
+Materials Required:
+    - Two beakers
+    - Sodium chloride (NaCl) (Salt)
+    - Sucrose (C12H22O11) (Sugar)
+    - Water
+    - Source of mild heat
+    - Thread
+Safety Precautions: Use caution when heating the water.
+
+Procedure:
+    1. Take two beakers.
+    2. In one beaker, add salt (NaCl).
+    3. In the other beaker, add sugar (C12H22O11).
+    4. Add water to both beakers.
+    5. Gently heat the solutions until as much salt and sugar as possible has dissolved.
+    6. Suspend a thread in the middle of each beaker.
+    7. Leave the setups undisturbed for a few days.
+    8. Carefully remove the threads and observe the crystal formation.
+
+Expected Observations: Salt and sugar crystals will form on the threads.
+
+Key Learning Points: Ionic compounds typically form crystals. Some covalent compounds, like sugar, can also form crystals, but many do not.
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+FIGURE 5.13: LABAN O CHINIR KELLAS (SALT AND SUGAR CRYSTALS)
+Description: A close-up image showing numerous small translucent crystals, likely salt and sugar crystals combined. The crystals show different angular structures and varied light reflections.
+Components: Not explicitly labeled in the image, but implies salt and sugar crystals.
+Chemical Labels: None visible in the image
+Safety Notes: None specified in the figure itself.
+Purpose: To visually demonstrate the crystal formation of common household compounds like salt and sugar.
+
+QUESTIONS AND PROBLEMS:
+None present on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+IONIC COMPOUNDS
+Bengali Definition: (Implied from the text) জলীয় দ্রবণে বিচ্ছিন্ন ধনাত্মক ও ঋণাত্মক আয়ন হিসেবে অবস্থান করে।
+English Translation: Exist as separate positive and negative ions in aqueous solutions.
+Related Chemical Equations: (None on the page but implied in the discussion of NaCl, CaCl2, and HCl).
+Examples: NaCl, CaCl₂, HCl
+
+COVALENT COMPOUNDS
+Bengali Definition: (Implied from the text) জলীয় দ্রবণে কোনো বিচ্ছিন্ন আয়ন তৈরি করে না।
+English Translation: Do not form separate ions when dissolved in water.
+Related Chemical Equations: (None on this page but discussion of glucose)
+Examples: Glucose (C6H12O6), Sugar (C12H22O11)
+
+ELECTRICAL CONDUCTIVITY
+Bengali Definition: (Implied from the text) বিদ্যুৎ পরিবহণের জন্য প্রয়োজন বিচ্ছিন্ন ধনাত্মক বা ঋণাত্মক আয়ন।
+English Translation: Requires the presence of free positive and negative ions to conduct electricity.
+
+SAFETY INFORMATION:
+None on this page, except caution when heating.
+---
+
+
+
+CHAPTER TITLE: ধাতব বন্ধন / Metallic Bond
+CHAPTER NUMBER: 5
+PAGE NUMBER: 104
+MAIN TOPICS: Metallic bonding, Delocalized electrons
+
+5.13 ধাতব বন্ধন (Metallic Bond)
+Bengali: ইতোপূর্বে তোমরা আয়নিক বন্ধন ও সমযোজী বন্ধন সম্পর্কে বিস্তারিত জেনেছ। তোমরা দেখেছ যে একটি ধাতু অপর একটি অধাতুর মধ্যে আয়নিক বন্ধন এবং দুটি অধাতব পরমাণুর মধ্যে সমযোজী বন্ধন গঠিত হয়। কিন্তু দুটি ধাতব পরমাণু কাছাকাছি এলে তাদের মধ্যে যে বন্ধন গঠিত হয় সেটাকে ধাতব বন্ধন বলে। অর্থাৎ এক খণ্ড ধাতুর মধ্যে পরমাণুসমূহ যে আকর্ষণের মাধ্যমে যুক্ত থাকে তাকেই ধাতব বন্ধন বলে। তোমরা তামার (কপার) তার, লোহার (আয়রন) তৈরি ছুরি, কাঁচি, দা কিংবা জানালার গ্রিল, অ্যালুমিনিয়ামের তৈরি জানালা, সোনার অলংকার ইত্যাদি দেখেছ। এসবের মধ্যে একই ধাতুর অসংখ্য পরমাণু পরস্পরের সাথে ধাতব বন্ধনের মাধ্যমে আবদ্ধ থাকে।
+English Translation: Previously, you have learned in detail about ionic and covalent bonds. You have seen that an ionic bond is formed between a metal and a nonmetal, and a covalent bond is formed between two nonmetal atoms. But when two metal atoms come close to each other, the bond that forms between them is called a metallic bond. That is, the attraction that holds the atoms together within a piece of metal is called a metallic bond. You have seen copper wires, iron knives, scissors, blades or window grills, aluminum windows, gold ornaments, etc. In all of these, numerous atoms of the same metal are bound together through metallic bonds.
+
+DIAGRAM TITLE: চিত্র 5.14: ধাতব বন্ধন। / Figure 5.14: Metallic Bond
+Description: The diagram depicts a simplified model of metallic bonding. It shows positively charged atomic cores arranged in a lattice, with negatively charged electrons (represented by the symbol 'Θ') moving freely between them. The diagram uses '+' symbols within circles to represent the atomic cores and a label is used to identify them.  The electrons are labelled as 'সঞ্চরণশীল ইলেকট্রন' (delocalized electrons)
+Components:
+*   Atomic cores (পারমাণবিক শাঁস): Positively charged metal ions represented by circles with a plus sign (+) inside.
+*   Delocalized electrons (সঞ্চরণশীল ইলেকট্রন): Represented by circles with the negative symbol 'Θ' inside, moving freely throughout the structure.
+Chemical Labels: None
+Safety Notes: None
+Purpose: Demonstrates the concept of metallic bonding where delocalized electrons move freely among positively charged metal ions.
+
+Bengali: প্রশ্ন হলো ধাতব বন্ধন কীভাবে তৈরি হয়? প্রত্যেক ধাতব পরমাণুর ইলেকট্রন বিন্যাসে সর্বশেষ শক্তিস্তরে সাধারণত 1টি, 2টি কিংবা 3টি ইলেকট্রন থাকে এবং এদের আকার একই পর্যায়ের অধাতব পরমাণুর চেয়ে বড় হওয়ায় ধাতব পরমাণুর সর্বশেষ শক্তিস্তরের ইলেকট্রনের প্রতি নিউক্লিয়াসের আকর্ষণ অনেক কম হয়। ফলে ধাতুতে পরমাণুসমূহ তার সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রনকে ত্যাগ করে ধনাত্মক আয়নে পরিণত হয়। এই ধনাত্মক আয়নকে পারমাণবিক শাঁস (Atomic core) বলা হয়।
+English Translation: The question arises, how is a metallic bond formed? In the electron configuration of each metal atom, there are generally 1, 2, or 3 electrons in the outermost energy level, and because their sizes are larger than those of nonmetal atoms in the same period, the attraction of the nucleus towards the electrons in the outermost energy level of the metal atoms is much less. As a result, in metals, atoms release one or more electrons from their outermost energy level and become positively charged ions. These positive ions are called atomic cores.
+
+Bengali: ধাতব স্ফটিকে পারমাণবিক শাঁসগুলো সুনির্দিষ্ট ত্রিমাত্রিকভাবে বিন্যস্ত থাকে। আর ধাতব পরমাণু কর্তৃক ত্যাগকৃত ইলেকট্রনগুলো উত্ত পারমাণবিক শাঁসের মধ্যবর্তী স্থানে মুক্তভাবে ঘোরাফেরা করে। এই ধরনের ইলেকট্রনকে সঞ্চরণশীল ইলেকট্রন (Delocalized Electron) বলে। এই ইলেকট্রনগুলো কোনো নির্দিষ্ট পরমাণুর অধীনে থাকে না পুরো ধাতব খণ্ডের সবগুলো ধাতব আয়নের ইলেকট্রন হয়ে যায়।
+English Translation: In a metallic crystal, the atomic cores are arranged in a specific three-dimensional structure. The electrons released by metal atoms move freely in the space between these atomic cores. These types of electrons are called delocalized electrons. These electrons are not under the control of any specific atom, but become the electrons of all the metal ions in the entire metallic structure.
+
+TERM OR PROPERTY NAME: পারমাণবিক শাঁস / Atomic core
+Bengali Definition: এই ধনাত্মক আয়নকে পারমাণবিক শাঁস (Atomic core) বলা হয়।
+English Translation: These positive ions are called atomic cores.
+
+TERM OR PROPERTY NAME: সঞ্চরণশীল ইলেকট্রন / Delocalized Electron
+Bengali Definition:  এই ধরনের ইলেকট্রনকে সঞ্চরণশীল ইলেকট্রন (Delocalized Electron) বলে।
+English Translation:  These types of electrons are called delocalized electrons.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 105
+MAIN TOPICS: Metallic Bonding, Electrical Conductivity of Metals, Thermal Conductivity of Metals
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: সঞ্চরণশীল ইলেকট্রন (Sancharonshil Electron)
+Bengali Definition: ধাতুর মধ্যে মুক্তভাবে বিচরণশীল ইলেকট্রন।
+English Translation: Free-moving electrons within a metal.
+Related Chemical Equations: Not applicable
+Examples: Electrons in metallic bonds
+
+TERM OR PROPERTY NAME: ধাতব বন্ধন (Dhatob Bondhon)
+Bengali Definition: ধাতব আয়নগুলোর মধ্যে সঞ্চরণশীল ইলেকট্রনের মাধ্যমে সৃষ্ট বন্ধন।
+English Translation: The bond formed by free-moving electrons between metal ions.
+Related Chemical Equations: Not applicable
+Examples: Bonds in metals
+
+TERM OR PROPERTY NAME: ধাতুর বিদ্যুৎ পরিবাহিতা (Dhator Biddut Poribahita)
+Bengali Definition: ধাতুর মধ্য দিয়ে বিদ্যুৎ পরিবহনের ক্ষমতা।
+English Translation: The ability of a metal to conduct electricity.
+Related Chemical Equations: Not applicable
+Examples: Copper wires
+
+TERM OR PROPERTY NAME: ধাতুর তাপ পরিবাহিতা (Dhator Taap Poribahita)
+Bengali Definition: ধাতুর মধ্য দিয়ে তাপ পরিবহনের ক্ষমতা।
+English Translation: The ability of a metal to conduct heat.
+Related Chemical Equations: Not applicable
+Examples: Metal cooking pots
+
+DIAGRAMS AND ILLUSTRATIONS
+DIAGRAM TITLE: চিত্র 5.15: ধাতুর বিদ্যুৎ পরিবহণের কৌশল। / Figure 5.15: Mechanism of Electrical Conductivity in Metals
+Description: The diagram shows a metallic structure with positively charged metal ions arranged in a grid. Small circles with a negative sign represent free electrons moving between the metal ions. Arrows indicate the direction of electron flow. A battery is shown connected to both ends of the metallic structure. One end of the metal is labeled with a "-" sign and connected to a battery's negative terminal. The other end of the metal is labeled with a "+" sign and connected to the battery's positive terminal.
+Components: Metal ions (represented by circles with "+" signs), free electrons (represented by circles with "-" signs), battery, metal structure.
+Chemical Labels: "+" (positive charge), "-" (negative charge)
+Safety Notes: Not Applicable
+Purpose: Illustrates how free electrons move through a metal when connected to a power source, leading to electrical conduction.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: বিদ্যুৎ প্রবাহ (Biddut Probaho)
+Bengali Definition: সঞ্চরণশীল ইলেকট্রনের প্রবাহ।
+English Translation: Flow of free electrons.
+Related Chemical Equations: Not applicable
+Examples: Electric current
+
+TERM OR PROPERTY NAME: তাপ পরিবাহিতা (Taap Poribahita)
+Bengali Definition: তাপ এক প্রান্ত থেকে অন্য প্রান্তে স্থানান্তরিত হওয়া।
+English Translation: Transfer of heat from one end to another.
+Related Chemical Equations: Not applicable
+Examples: Conduction of heat through a metal
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: নমনীয়তা (Nomoniyota)
+Bengali Definition: ধাতুর আঘাত সহ্য করার ক্ষমতা।
+English Translation: Malleability of metals.
+Related Chemical Equations: Not applicable
+Examples: Metal can be beaten into thin sheets.
+
+TERM OR PROPERTY NAME: ঘাতসহতা (Ghatshohoota)
+Bengali Definition: ধাতুর আঘাত সহ্য করার ক্ষমতা।
+English Translation: Ductility of metals.
+Related Chemical Equations: Not applicable
+Examples: Metal can be drawn into wires.
+
+TERM OR PROPERTY NAME: ধাতব ঔজ্জ্বল্য (Dhatob Oujjollo)
+Bengali Definition: ধাতুর উজ্জ্বলতা।
+English Translation: Metallic luster.
+Related Chemical Equations: Not applicable
+Examples: Shiny surface of metals.
+
+EXPERIMENTAL PROCEDURES
+EXPERIMENT TITLE: Observing Heat Conduction in a Metal
+Purpose: To demonstrate the thermal conductivity of metals.
+Materials Required: Metal plate or rod, source of heat (e.g., burner), heat-resistant gloves.
+Safety Precautions: Use heat-resistant gloves to handle hot materials.
+Procedure:
+   1. Place one end of a metal plate/rod on top of a heat source.
+   2. Observe the other end of the metal and how quickly it heats up.
+   3. Note any observations regarding the rate of temperature change.
+Expected Observations: The other end of the metal plate will get hot after some time.
+Key Learning Points: Metals are good conductors of heat due to the movement of free electrons.
+
+ADDITIONAL NOTES
+Page Reference: ফর্মা নং-১৪, রসায়ন- ৯ম-১০ম শ্রেণি (Form No-14, Chemistry Class 9-10). The text is part of a broader chapter explaining chemical bonding, with this page focusing on the properties and behavior of metals. The text uses analogies such as “sea of electrons” to describe the structure of metallic bonds. The page explains how free electrons are responsible for thermal and electrical conductivity in metals. The text mentions other related properties of metals, including malleability, ductility, and luster.
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 106
+MAIN TOPICS: Ionic and covalent compound identification, solubility
+
+EXPERIMENT TITLE: শনাক্তকরণ: স্থানীয়ভাবে সহজপ্রাপ্য দ্রব্যের মধ্যে আয়নিক ও সমযোজী যৌগ / Identification: Ionic and Covalent Compounds Among Locally Available Substances
+Purpose: To identify ionic and covalent compounds based on their solubility in water.
+Materials Required:
+    - Food salt (খাদ্য লবণ)
+    - Camphor (কপূর)
+    - Naphthalene (ন্যাপথলিন)
+    - Washing soda (কাপড়কাচা সোডা)
+    - Beakers (ভিন্ন ভিন্ন বিকার)
+    - Water (পানি)
+    - Glass rod (কাচ দণ্ড)
+Safety Precautions: Handle chemicals with care. Avoid direct contact. Wash hands after the experiment.
+Procedure:
+    1. Take separate beakers. (আলাদাভাবে ভিন্ন ভিন্ন বিকারে)
+    2. Put the food salt, camphor, naphthalene, and washing soda separately into the beakers. (খাদ্য লবণ, কপূর, ন্যাপথলিন, কাপড়কাচা সোডা এগুলোকে আলাদাভাবে ভিন্ন ভিন্ন বিকারে)
+    3. Add water to each beaker. (রক্ষিত পানির মধ্যে)
+    4. Stir each mixture well with a glass rod. (কাচ দণ্ড দিয়ে ভালোভাবে মিশাও)
+    5. Observe which substances dissolve in water and which do not.
+Expected Observations:
+    - Some substances (like food salt, washing soda) will dissolve in water. (যেগুলো পানিতে দ্রবীভূত হলো)
+    - Other substances (like camphor, naphthalene) will not dissolve in water. (যেগুলো পানিতে দ্রবীভূত হলো না)
+Key Learning Points:
+    - Ionic compounds are generally soluble in water. (আয়নিক যৌগ)
+    - Covalent compounds are generally insoluble in water. (সমযোজী যৌগ)
+    - Solubility can be used to differentiate between ionic and covalent compounds. (দ্রবণীয়তার উপর ভিত্তি করে আয়নিক ও সমযোজী এ দুইভাগে ভাগ করা যায়।)
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+যে আকর্ষণ বলের মাধ্যমে অণুতে পরমাণুসমূহ যুক্ত থাকে তাকে কী বলে?
+Translation: What is the force that holds atoms together in a molecule called?
+Type: Multiple choice
+Chemical Components: Not applicable
+Key Concept: Chemical bonding
+
+Question 2
+নিচের কোন যৌগটি গঠনকালে প্রতিটি পরমাণুই নিয়নের ইলেকট্রন বিন্যাস অর্জন করে?
+Translation: Which of the following compounds achieves the electron configuration of neon for each atom during its formation?
+Type: Multiple choice
+Chemical Components: KF, CaS, MgO, NaCl
+Key Concept: Electron configuration, ionic bonding
+
+
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 5
+PAGE NUMBER: 107
+MAIN TOPICS: Electronic Structure, Chemical Bonding, Ionic Compounds
+
+DIAGRAM TITLE: Electronic Configurations of Elements
+Description: Three diagrams showing the atomic structure of different elements, each including the nucleus with a plus sign at the center, surrounded by circular orbits with blue dots representing electrons. Element A has 2 orbits and 2 electrons in the outer orbit, Element B has 3 orbits and 6 electrons in the outer orbit and Element D has 4 orbits and 6 electrons in the outer orbit.
+Components: Nucleus (+), Electron Orbits, Electrons (blue dots)
+Chemical Labels: None
+Safety Notes: None
+Purpose: Illustrates electronic configuration of atoms, shows valence electrons.
+
+QUESTION 3
+D চিহ্নিত মৌলের কোন যোজনীটি অসম্ভব?
+Translation: Which valency of the element marked D is impossible?
+Type: Multiple choice
+Chemical Components: D (element not specified)
+Key Concept: Valency, Electronic Configuration
+
+QUESTION 4
+B মৌলটি-
+(i) দুই ধরনের বন্ধন গঠন করে
+(ii) A কে ইলেকট্রন দান করে
+(iii) D-এর সাথে যুক্ত হয়ে পানিতে দ্রবীভূত হয়
+নিচের কোনোটি সঠিক?
+Translation: Element B -
+(i) Forms two types of bonds.
+(ii) Donates electrons to A.
+(iii) Dissolves in water when combined with D.
+Which of the following is correct?
+Type: Multiple choice
+Chemical Components: A, B, D (elements not specified)
+Key Concept: Chemical Bonding, Electron Transfer, Solubility
+
+QUESTION 5
+নিচের কোনটি অ্যালুমিনিয়াম সালফেটের সংকেত?
+Translation: Which of the following is the formula for Aluminum Sulfate?
+Type: Multiple choice
+Chemical Components: Aluminum, Sulfate
+Key Concept: Chemical Formulas, Ionic Compound
+
+QUESTION 6
+ক্যালসিয়াম অক্সাইড (CaO) কী ধরনের যৌগ?
+Translation: What kind of compound is Calcium Oxide (CaO)?
+Type: Multiple choice
+Chemical Components: Calcium Oxide (CaO)
+Key Concept: Types of Chemical Bonds, Ionic Compound
+
+QUESTION 7
+কোন যৌগটি জলীয় দ্রবণে বিদ্যুৎ পরিবহণ করে না?
+Translation: Which compound does not conduct electricity in aqueous solution?
+Type: Multiple choice
+Chemical Components: NaCl, CaCl₂, HCl, C₆H₁₂O₆ (Glucose)
+Key Concept: Electrolytes, Conductivity of Solutions, Ionic vs Molecular compounds
+
+
+
+
+CHAPTER TITLE: সৃজনশীল প্রশ্ন / Creative Questions
+CHAPTER NUMBER: 5
+PAGE NUMBER: 108
+MAIN TOPICS: Covalent bonding, Ionic bonding, Molecular polarity
+
+DIAGRAM TITLE: Atomic structures of X and Y
+Description: Two diagrams depict simplified atomic structures. 'X' shows an atom with a central positive charge and an outer shell with two electrons, followed by another shell with six electrons. 'Y' shows an atom with a positive charge in the center and two electron shells, the first with two electrons, and the second with eight electrons.
+Components:
+    - Central positive charge (+)
+    - Electron shells
+    - Electrons (represented as blue dots)
+Chemical Labels:  None
+Safety Notes: None
+Purpose: These diagrams illustrate the electronic configurations of two hypothetical atoms, X and Y.
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+[এখানে X ও Y প্রতীকী অর্থে; কোনো মৌলের প্রতীক নয়]
+Translation: [Here X and Y are symbolic representations; they are not symbols of any real elements.]
+Type: Analytical
+Chemical Components: X, Y
+Key Concept: Covalent and ionic bonding
+
+Question 1(a)
+(ক) সমযোজী বন্ধন কাকে বলে?
+Translation: What is a covalent bond?
+Type: Short answer
+Chemical Components: Not specified
+Key Concept: Covalent bonding
+
+Question 1(b)
+(খ) Na এবং Na+ আয়নের আকারের ভিন্নতা দেখা যায় কেন?
+Translation: Why is there a difference in size between Na and Na+ ions?
+Type: Short answer
+Chemical Components: Na, Na+
+Key Concept: Ionic radius
+
+Question 1(c)
+(গ) উদ্দীপকের YX যৌগে কোন ধরনের বন্ধন বিদ্যমান? ব্যাখ্যা করো।
+Translation: What type of bond exists in the compound YX in the stimulus? Explain.
+Type: Analytical
+Chemical Components: YX
+Key Concept: Bond type determination
+
+Question 1(d)
+(ঘ) x আয়নিক ও সমযোজী উভয় ধরনের যৌগ গঠন করলেও Y কখনো সমযোজী বন্ধন গঠন করে না- যুক্তিসহ ব্যাখ্যা করো।
+Translation: Even though X forms both ionic and covalent compounds, Y never forms a covalent bond - explain with reasoning.
+Type: Analytical
+Chemical Components: X, Y
+Key Concept: Covalent bond formation, electronegativity
+
+Question 2
+নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও।
+Translation: Read the stimulus below and answer the questions.
+Type: Analytical
+Chemical Components: CH4, NaCl, CCl4, CH3OH
+Key Concept: Types of bonding, polarity, solubility
+
+Question 2(a)
+(ক) সমযোজী বন্ধন কী?
+Translation: What is a covalent bond?
+Type: Short answer
+Chemical Components: Not specified
+Key Concept: Covalent bonding
+
+Question 2(b)
+(খ) পানি পোলার যৌগ কেন? ব্যাখ্যা করো।
+Translation: Why is water a polar compound? Explain.
+Type: Short answer
+Chemical Components: H2O
+Key Concept: Molecular polarity
+
+Question 2(c)
+(গ) উদ্দীপকের কোন যৌগ কেলাস গঠন করে? ব্যাখ্যা করো।
+Translation: Which compound in the stimulus forms crystals? Explain.
+Type: Short answer
+Chemical Components: CH4, NaCl, CCl4, CH3OH
+Key Concept: Crystal formation, ionic compounds
+
+Question 2(d)
+(ঘ) উদ্দীপকের (b) যৌগটি পানিতে দ্রবীভূত হলেও (c) যৌগটি পানিতে দ্রবীভূত হয় না, বিশ্লেষণ করো।
+Translation: Although compound (b) from the stimulus dissolves in water, compound (c) does not, analyse it.
+Type: Analytical
+Chemical Components: NaCl, CCl4, H2O
+Key Concept: Solubility, polarity
+
+

@@ -34,13 +34,13 @@ def get_response(user_query, conversation_history, api_key, system_prompt, chapt
     prompt_template = """
     {system_prompt}
 
-    Chapter content:
+    Chapter Content:
     {chapter_content}
 
-    Chat history:
+    Chat History:
     {conversation_history}
 
-    User question:
+    Student Question:
     {user_query}
     """
     prompt = ChatPromptTemplate.from_template(template=prompt_template)
@@ -61,7 +61,7 @@ st.title("Bella")
 api_key = st.secrets["GEMINI_API_KEY"]
 
 # File selection
-base_dir = "./books"
+base_dir = "./books/nine/"
 selected_class = st.sidebar.selectbox("Select Class", os.listdir(base_dir))
 selected_subject = st.sidebar.selectbox(
     "Select Subject",
