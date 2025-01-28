@@ -86,7 +86,7 @@ st.markdown("""
         }
         .stSelectbox {
             width: 50%;
-            max-width: 140px;
+            max-width: 150px;
             margin: 0 auto;
         }
         div[data-testid="column"] {
