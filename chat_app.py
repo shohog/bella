@@ -78,7 +78,9 @@ def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_nam
 
 # Streamlit app setup
 st.set_page_config(page_title="Bella", page_icon=":robot:")
-st.title("বেলা::Bella")
+col1, col2, col3 = st.columns([1, 4, 1])
+with col2:
+    st.title("বেলা::Bella")
 
 # Sidebar controls
 api_key = st.secrets["GEMINI_API_KEY"]
