@@ -4,6 +4,12 @@ from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI, HarmBlockThreshold, HarmCategory
+from pymongo import MongoClient
+from uuid import uuid4  # For unique user IDs
+
+mongo_client = MongoClient(st.secrets["MONGODB_URI"])
+db = mongo_client["bella"]  # Database name
+conversations_collection = db["conversations"]  # Collection name
 
 llm = None
 
@@ -20,13 +26,12 @@ def get_llm_instance(api_key):
             max_output_tokens=8192,
             stream=True,
             google_api_key=api_key,
-            safety_settings = {
-                                HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
-                                HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
-                                HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
-                                HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
-                            },
-
+            safety_settings={
+                HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+                HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+                HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+                HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+            },
         )
     return llm
 
@@ -53,6 +58,24 @@ def get_response(user_query, conversation_history, api_key, system_prompt, chapt
         "user_query": user_query,
     })
 
+def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_name):
+    """Save conversation to MongoDB."""
+    conversations_collection.update_one(
+        {"user_id": user_id},
+        {
+            "$set": {
+                "user_id": user_id,
+                "class": class_name,
+                "subject": subject_name,
+                "chapter": chapter_name,
+            },
+            "$push": {
+                "conversation": {"$each": conversation}
+            },
+        },
+        upsert=True
+    )
+
 # Streamlit app setup
 st.set_page_config(page_title="Bella", page_icon=":robot:")
 st.title("বেলা::Bella")
@@ -77,24 +100,12 @@ formatted_class = format_name(selected_class)
 formatted_subject = format_name(selected_subject)
 formatted_chapter = format_name(selected_chapter)
 
-# Session state management
+# User session management
+if "user_id" not in st.session_state:
+    st.session_state["user_id"] = str(uuid4())  # Generate a unique ID for the user
+
+user_id = st.session_state["user_id"]
 current_selection = (selected_class, selected_subject, selected_chapter)
-previous_selection = (
-    st.session_state.get("prev_class", ""),
-    st.session_state.get("prev_subject", ""),
-    st.session_state.get("prev_chapter", ""),
-)
-
-# Clear conversation button
-if st.sidebar.button("Clear Conversation"):
-    greeting = f"Hey! I'm Bella. Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
-    st.session_state.messages = [AIMessage(content=greeting)]
-
-# Handle class/subject/chapter changes
-if current_selection != previous_selection:
-    greeting = f"Hey! I'm Bella. Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
-    st.session_state.messages = [AIMessage(content=greeting)]
-    st.session_state.prev_class, st.session_state.prev_subject, st.session_state.prev_chapter = current_selection
 
 # Initialize messages
 if "messages" not in st.session_state:
@@ -141,3 +152,12 @@ if prompt := st.chat_input("Ask Bella a question..."):
             )
         )
         st.session_state.messages.append(AIMessage(content=response))
+
+    # Save the conversation to MongoDB
+    save_to_mongodb(
+        user_id=user_id,
+        conversation=[{"role": "user", "content": prompt}, {"role": "assistant", "content": response}],
+        class_name=formatted_class,
+        subject_name=formatted_subject,
+        chapter_name=formatted_chapter,
+    )
