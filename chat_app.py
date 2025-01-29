@@ -34,6 +34,16 @@ def get_llm_instance(api_key):
         )
     return llm
 
+def get_system_prompt(mode, formatted_class, formatted_subject, formatted_chapter, chapter_content):
+    prompt_file = "sys_bella.md" if mode == "Easy" else "socratic_bella.md"
+    with open(prompt_file, "r") as file:
+        return file.read().format(
+            class_name=formatted_class,
+            subject=formatted_subject,
+            chapter=formatted_chapter,
+            content=chapter_content
+        )
+
 def get_response(user_query, conversation_history, api_key, system_prompt, chapter_content):
     prompt_template = """
     {system_prompt}
@@ -57,7 +67,7 @@ def get_response(user_query, conversation_history, api_key, system_prompt, chapt
         "user_query": user_query,
     })
 
-def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_name):
+def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_name, mode):
     conversations_collection.update_one(
         {"user_id": user_id},
         {
@@ -66,6 +76,7 @@ def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_nam
                 "class": class_name,
                 "subject": subject_name,
                 "chapter": chapter_name,
+                "mode": mode
             },
             "$push": {
                 "conversation": {"$each": conversation}
@@ -101,12 +112,12 @@ st.markdown("""
 st.markdown('<p class="centered-title">বেলা::Bella</p>', unsafe_allow_html=True)
 
 api_key = st.secrets["GEMINI_API_KEY"]
-base_dir = "./books/nine/"
+base_dir = "./books/"
 
 if "previous_selection" not in st.session_state:
     st.session_state.previous_selection = None
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     selected_class = st.selectbox("Class", os.listdir(base_dir))
@@ -118,21 +129,20 @@ with col3:
     chapters_no_ext = [os.path.splitext(chapter)[0] for chapter in chapters]
     selected_chapter = st.selectbox("Chapter", chapters_no_ext)
     selected_chapter = next(ch for ch in chapters if ch.startswith(selected_chapter))
+with col4:
+    selected_mode = st.selectbox("Mode", ["Easy", "Hard"], index=0)
 
 formatted_class = format_name(selected_class)
 formatted_subject = format_name(selected_subject)
 formatted_chapter = format_name(selected_chapter)
 
-current_selection = (selected_class, selected_subject, selected_chapter)
+current_selection = (selected_class, selected_subject, selected_chapter, selected_mode)
 
 if "user_id" not in st.session_state:
     st.session_state.user_id = str(uuid4())
 
 if "messages" not in st.session_state or st.session_state.previous_selection != current_selection:
-    # greeting = f"Hey! I'm Bella.  Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
-    
-    greeting = f"হ্যালো! আমি বেলা ,তোমার নাম কী? লেখা পড়ার কী অবস্থা! চলো কিছুক্ষণ **{formatted_subject}** এর **{formatted_chapter}**পড়ি!" 
-
+    greeting = f"হ্যালো! আমি বেলা, তোমার নাম কী? লেখা পড়ার কী অবস্থা! চলো কিছুক্ষণ **{formatted_subject}** এর অধ্যায় **{formatted_chapter}**  পড়ি!  😊 " 
     st.session_state.messages = [AIMessage(content=greeting)]
     st.session_state.previous_selection = current_selection
 
@@ -142,13 +152,13 @@ chapter_path = os.path.join(base_dir, selected_class, selected_subject, selected
 with open(chapter_path, "r", encoding="utf-8") as file:
     chapter_content = file.read()
 
-with open("bella_system.md", "r") as file:
-    system_prompt = file.read().format(
-        class_name=formatted_class,
-        subject=formatted_subject,
-        chapter=formatted_chapter,
-        content=chapter_content
-    )
+system_prompt = get_system_prompt(
+    selected_mode,
+    formatted_class,
+    formatted_subject,
+    formatted_chapter,
+    chapter_content
+)
 
 for message in st.session_state.messages:
     if isinstance(message, AIMessage):
@@ -181,4 +191,5 @@ if prompt := st.chat_input("Ask Bella a question..."):
         class_name=formatted_class,
         subject_name=formatted_subject,
         chapter_name=formatted_chapter,
+        mode=selected_mode
     )
