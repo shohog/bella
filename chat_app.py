@@ -129,7 +129,10 @@ if "user_id" not in st.session_state:
     st.session_state.user_id = str(uuid4())
 
 if "messages" not in st.session_state or st.session_state.previous_selection != current_selection:
-    greeting = f"Hey! I'm Bella. Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
+    # greeting = f"Hey! I'm Bella.  Ready to explore chapter **{formatted_chapter}** in **{formatted_subject}** for class **{formatted_class}**?"
+    
+    greeting = f"হ্যালো! আমি বেলা ,তোমার নাম কী? লেখা পড়ার কী অবস্থা! চলো কিছুক্ষণ **{formatted_subject}** এর **{formatted_chapter}**পড়ি!" 
+
     st.session_state.messages = [AIMessage(content=greeting)]
     st.session_state.previous_selection = current_selection
 
