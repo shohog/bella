@@ -130,7 +130,7 @@ with col3:
     selected_chapter = st.selectbox("Chapter", chapters_no_ext)
     selected_chapter = next(ch for ch in chapters if ch.startswith(selected_chapter))
 with col4:
-    selected_mode = st.selectbox("Mode", ["Easy", "Hard"], index=0)
+    selected_mode = st.selectbox("Style", ["Easy", "Hard"], index=0)
 
 formatted_class = format_name(selected_class)
 formatted_subject = format_name(selected_subject)
