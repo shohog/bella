@@ -89,6 +89,7 @@ st.set_page_config(page_title="Bella", page_icon=":robot:")
 
 st.markdown("""
     <style>
+        /* Existing styles */
         .centered-title {
             text-align: center;
             font-size: 2.5rem !important;
@@ -105,6 +106,22 @@ st.markdown("""
         }
         .stSelectbox label {
             font-weight: bold !important;
+        }
+        
+        /* New styles to hide elements */
+        /* Hide Share button */
+        [data-testid='stDeployButton'] {
+            display: none !important;
+        }
+        
+        /* Hide edit pencil icon */
+        [data-testid='stDecoration'] {
+            display: none !important;
+        }
+        
+        /* Hide GitHub icon (if you added one) */
+        .css-1v0mbdj a[href*='github'] {
+            display: none !important;
         }
     </style>
 """, unsafe_allow_html=True)
