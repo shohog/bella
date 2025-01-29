@@ -21,7 +21,7 @@ def get_llm_instance(api_key):
     if llm is None:
         llm = ChatGoogleGenerativeAI(
             model="gemini-2.0-flash-exp",
-            temperature=0.4,
+            temperature=0.5,
             max_output_tokens=8192,
             stream=True,
             google_api_key=api_key,
@@ -86,7 +86,7 @@ st.markdown("""
         }
         .stSelectbox {
             width: 50%;
-            max-width: 150px;
+            max-width: 200px;
             margin: 0 auto;
         }
         div[data-testid="column"] {
