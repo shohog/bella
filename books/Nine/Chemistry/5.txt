@@ -1,9 +1,7 @@
-
-
 CHAPTER METADATA
 Chapter Title: রাসায়নিক বন্ধন / Chemical Bond
 Chapter Number: 5
-Page Number: 82
+Page Number: 2025
 Main Topics: Chemical Bonds, Types of Chemical Bonds
 
 CHEMICAL PROPERTIES AND DEFINITIONS
@@ -22,10 +20,8 @@ TEXTUAL CONTENT:
 এ অধ্যায়ে আয়নিক, সমযোজী বা ধাতব বন্ধন বিশিষ্ট যৌগের বন্ধন গঠন প্রক্রিয়া ও তাদের ধর্ম নিয়ে আলোচনা করা হবে। / In this chapter, we will discuss the bond formation processes and properties of ionic, covalent, or metallic bond-containing compounds.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER:  Not specified on page
 PAGE NUMBER: 83
 MAIN TOPICS:  Valence electrons, Chemical bonding, Ionic and Covalent compounds
 
@@ -42,8 +38,6 @@ MAIN TOPICS:  Valence electrons, Chemical bonding, Ionic and Covalent compounds
 	•	ধাতব বন্ধনের ধারণা ব্যাখ্যা করতে পারব।/ Explain the concept of metallic bonding.
 	•	ধাতব বন্ধনের সাহায্যে ধাতুর বিদ্যুৎ পরিবাহিতা ব্যাখ্যা করতে পারব। /Explain the electrical conductivity of metals using metallic bonding.
 	•	স্থানীয়ভাবে সহজপ্রাপ্য দ্রব্যের মধ্যে আয়নিক ও সমযোজী যৌগ শনাক্ত করতে পারব।/ Identify ionic and covalent compounds from readily available materials.
-
-
 
 
 CHAPTER TITLE: যোজ্যতা ইলেকট্রন (Valence Electrons) / Valence Electrons
@@ -90,10 +84,8 @@ Related Chemical Equations: Not applicable
 Examples: Not applicable
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: N/A
 PAGE NUMBER: 85
 MAIN TOPICS: Valency, Variable Valency
 
@@ -158,8 +150,6 @@ Related Chemical Equations: FeCl₂, FeCl₃
 Examples: FeCl₂ যৌগে Fe এর সুপ্ত যোজনী 1,  FeCl₃ যৌগে Fe এর সুপ্ত যোজনী 0 (Latent valency of Fe in FeCl₂ is 1, and latent valency of Fe in FeCl₃ is 0).
 
 
-
-
 CHAPTER TITLE:  রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
 PAGE NUMBER: 86
@@ -195,8 +185,6 @@ TABLE 5.03: বিভিন্ন পরমাণুর যোজনী এব�
 | নাইট্রোজেন (Nitrogen) | N | 3 | NH3 | সালফার (Sulfur) | S | 2 | H2S |
 |  |  | 5 | N2O5 |  |   | 4 | SO2 |
 |  |  |  |  |  |   | 6 | SO3 |
-
-
 
 
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
@@ -244,10 +232,8 @@ Related Chemical Equations: None (Definition)
 Examples: H₂O (water)
 
 
-
-
 CHAPTER TITLE: রাসায়নিক সংকেত / Chemical Symbols and Formulas
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified
 PAGE NUMBER: 88
 MAIN TOPICS: Chemical formulas, Valency, Writing chemical formulas
 
@@ -292,10 +278,8 @@ QUESTIONS AND PROBLEMS:
 No questions or problems are present on this page.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified
 PAGE NUMBER: 89
 MAIN TOPICS: Chemical formulas, Molecular and Structural Formulas
 
@@ -365,11 +349,9 @@ Safety Notes: None
 Purpose: Demonstrates the structural arrangement of atoms in a methane molecule.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
-PAGE NUMBER: 90
+PAGE NUMBER: 50
 MAIN TOPICS: Octet Rule, Duet Rule, Covalent Bonds
 
 CHEMICAL EQUATIONS:
@@ -408,11 +390,9 @@ SAFETY INFORMATION:
 None
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
-PAGE NUMBER: 91
+PAGE NUMBER: 95
 MAIN TOPICS: Electron configuration, Inert gases, Octet rule
 
 CHEMICAL PROPERTIES AND DEFINITIONS:
@@ -472,12 +452,10 @@ F সর্বশেষ শক্তিস্তরে 4 জোড়া অর্�
 (Due to their greater stability, inert gases do not donate electrons to other elements, nor do they accept electrons from other elements. They become chemically unreactive or inert. Apart from inert gases, no other element has a complete duet or octet in their outermost shell. As a result, they are not stable. Other elements want to fill their outermost shell with a duet or octet for stability. For this, they form bonds by gaining, donating, or sharing electrons in their outermost shell.)
 
 
-
-
 ```
 CHAPTER TITLE: রাসায়নিক বন্ধন ও রাসায়নিক বন্ধন গঠনের কারণ / Chemical Bonds and the Causes of Their Formation
 CHAPTER NUMBER: 5
-PAGE NUMBER: 92
+PAGE NUMBER: 52
 MAIN TOPICS: Chemical bonding, Cations and Anions
 
 CHEMICAL EQUATIONS:
@@ -515,8 +493,6 @@ Examples: None on this page
 SAFETY INFORMATION:
 There is no safety information on this page.
 ```
-
-
 
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: Not specified
@@ -576,8 +552,6 @@ SAFETY INFORMATION:
 None
 
 
-
-
 CHAPTER TITLE: রাসায়ন / Chemistry
 CHAPTER NUMBER: 5
 PAGE NUMBER: 94
@@ -615,8 +589,6 @@ CHEMICAL EQUATIONS
 Cl + e-  → Cl-
 (Note: This equation is directly inferred from the diagram and the text)
 ---
-
-
 
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: Not specified
@@ -694,8 +666,6 @@ SAFETY INFORMATION:
 There is no specific safety information on this page.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
 PAGE NUMBER: 96
@@ -737,10 +707,8 @@ Examples: NaCl, CaO, MgO
 NOTE: The OCR text "অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে" is likely an error. In the context of these ionic bond formations the correct would be "অর্থাৎ সর্বশেষ শক্তিস্তরে ৮টি ইলেকট্রন গঠন করে" ("... forming 8 electrons in the outermost shell")
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified
 PAGE NUMBER: 97
 MAIN TOPICS: Covalent Bonding, Electron Sharing, Octet Rule
 
@@ -778,8 +746,6 @@ Translation: That is, during the chemical bonding of two non-metal atoms, the at
 
 যে যৌগে সমযোজী বন্ধন থাকে তাকে সমযোজী যৌগ বলে। প্রতিটি সমযোজী বন্ধনে দুটি ইলেকট্রন
 Translation: A compound in which there are covalent bonds is called a covalent compound. In each covalent bond, there are two electrons.
-
-
 
 
 ```
@@ -827,8 +793,6 @@ Related Chemical Equations: O(8)  → 1s²2s²2p⁴
 ```
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
 PAGE NUMBER: 99
@@ -861,8 +825,6 @@ ADDITIONAL NOTES
 - Sodium (Na) always loses electrons to form ionic bonds and does not share electrons to form covalent bonds.
 -  In H₂O, the O atom has 2 lone pairs of electrons, which aren't involved in bonding. These can participate in bonding in higher level chemistry
 - The number of shared electrons determines the number of bonds. For example, a double bond consists of 4 shared electrons, or 2 pairs.
-
-
 
 
 CHAPTER TITLE: রাসায়ন / Chemistry
@@ -925,8 +887,6 @@ Some covalent molecules are in liquid states at normal temperature and pressure,
 And some are in solid states, such as naphthalene (C10H8), sulfur (S8), iodine (I2) etc.
 
 Many gaseous covalent molecules (e.g., CO2, NH3, O2, etc.) have essentially no Van der Waals forces.
-
-
 
 
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
@@ -1009,8 +969,6 @@ QUESTIONS AND PROBLEMS:
 There are no questions or problems on this page.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
 CHAPTER NUMBER: 5
 PAGE NUMBER: 102
@@ -1062,10 +1020,8 @@ QUESTIONS AND PROBLEMS
 None on this page.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not explicitly stated on the page
 PAGE NUMBER: 103
 MAIN TOPICS: Electrical conductivity of ionic and covalent compounds, Formation of crystals
 
@@ -1133,8 +1089,6 @@ SAFETY INFORMATION:
 None on this page, except caution when heating.
 ---
 
-
-
 CHAPTER TITLE: ধাতব বন্ধন / Metallic Bond
 CHAPTER NUMBER: 5
 PAGE NUMBER: 104
@@ -1168,10 +1122,8 @@ Bengali Definition:  এই ধরনের ইলেকট্রনকে স�
 English Translation:  These types of electrons are called delocalized electrons.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not explicitly stated, but part of the broader chapter on chemical bonding
 PAGE NUMBER: 105
 MAIN TOPICS: Metallic Bonding, Electrical Conductivity of Metals, Thermal Conductivity of Metals
 
@@ -1256,10 +1208,8 @@ ADDITIONAL NOTES
 Page Reference: ফর্মা নং-১৪, রসায়ন- ৯ম-১০ম শ্রেণি (Form No-14, Chemistry Class 9-10). The text is part of a broader chapter explaining chemical bonding, with this page focusing on the properties and behavior of metals. The text uses analogies such as “sea of electrons” to describe the structure of metallic bonds. The page explains how free electrons are responsible for thermal and electrical conductivity in metals. The text mentions other related properties of metals, including malleability, ductility, and luster.
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified (assumed to be part of a larger chapter)
 PAGE NUMBER: 106
 MAIN TOPICS: Ionic and covalent compound identification, solubility
 
@@ -1305,10 +1255,8 @@ Chemical Components: KF, CaS, MgO, NaCl
 Key Concept: Electron configuration, ionic bonding
 
 
-
-
 CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified in the text
 PAGE NUMBER: 107
 MAIN TOPICS: Electronic Structure, Chemical Bonding, Ionic Compounds
 
@@ -1363,10 +1311,8 @@ Chemical Components: NaCl, CaCl₂, HCl, C₆H₁₂O₆ (Glucose)
 Key Concept: Electrolytes, Conductivity of Solutions, Ionic vs Molecular compounds
 
 
-
-
 CHAPTER TITLE: সৃজনশীল প্রশ্ন / Creative Questions
-CHAPTER NUMBER: 5
+CHAPTER NUMBER: Not specified
 PAGE NUMBER: 108
 MAIN TOPICS: Covalent bonding, Ionic bonding, Molecular polarity
 
