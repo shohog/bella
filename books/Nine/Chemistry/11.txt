@@ -1,0 +1,1393 @@
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: 11
+PAGE NUMBER: 2025
+MAIN TOPICS: Fossil fuels, Hydrocarbons
+
+DIAGRAM TITLE: None provided
+Description: The image shows a fossilized fish skeleton embedded in a light brown rock. The fossil is detailed, with visible bones and fins.
+Components: Fish skeleton, rock matrix.
+Chemical Labels: None visible.
+Safety Notes: None applicable.
+Purpose: Illustrates an example of a fossil, the type of preserved remains that lead to the formation of fossil fuels.
+
+TEXTUAL CONTENT:
+
+এ পৃথিবীর বয়স প্রায় 4.54 বিলিয়ন বছর। (The age of the Earth is approximately 4.54 billion years.)
+আজকে পৃথিবীকে যেমন দেখছ, অনেক অনেক বছর আগে পৃথিবীর রূপ কিন্তু এমন ছিল না। (The Earth you see today was not the same many years ago.)
+আজ থেকে 500 বা 600 মিলিয়ন বছর আগে এই পৃথিবী ছিল ঘন বনজঙ্গল, নিচু জলাভূমি আর সাগর-মহাসাগরে পরিপূর্ণ। (500 or 600 million years ago, the Earth was full of dense forests, low wetlands, and seas.)
+প্রাকৃতিক বিপর্যয়ে ধ্বংসপ্রাপ্ত মৃত প্রাণী, উদ্ভিদ, শৈবাল-ছত্রাক নিচু এলাকাগুলোতে জমা হয়েছিল। (Dead animals, plants, algae, and fungi destroyed by natural disasters were deposited in low-lying areas.)
+তার উপর পড়তে থাকল পলির আস্তরণ। (Layers of sediment continued to accumulate on top.)
+এভাবে মিলিয়ন মিলিয়ন বছর ধরে এ সকল উদ্ভিদ আর প্রাণীর দেহাবশেষের উপর হাজার হাজার ফুট মাটি, বিভিন্ন শিলার আস্তরণ হয়ে গেল। (Over millions of years, these layers formed thousands of feet of soil and rock on top of the remains of all these plants and animals.)
+উচ্চচাপ, উচ্চ তাপমাত্রা, মিলিয়ন মিলিয়ন বছর ধরে বিভিন্ন ভৌত আর রাসায়নিক পরিবর্তন ঘটে কয়লা, পেট্রোলিয়াম আর প্রকৃতিক গ্যাস সৃষ্টি হলো। (Under high pressure, high temperature and over millions of years various physical and chemical changes occurred and created coal, petroleum and natural gas.)
+এদেরকে বলে জীবাশ্ম জ্বালানি। (These are called fossil fuels.)
+কয়লার মূল উপাদান কার্বন। (The main element in coal is carbon.)
+আর পেট্রোলিয়ামের মূল উপাদান শুধু কার্বন ও হাইড্রোজেনের দ্বারা সৃষ্ট যৌগ হাইড্রোকার্বন। (The main constituent of petroleum is a compound called hydrocarbon made of only carbon and hydrogen.)
+হাইড্রোকার্বন হলো জৈব যৌগ। (Hydrocarbon is an organic compound.)
+অ্যালকোহল, অ্যালডিহাইড, কিটোন, কার্বক্সিলিক এসিডসহ আরও যে সকল জৈব যৌগ আছে তারা মূলত হাইড্রোকার্বন থেকেই সৃষ্ট। (Alcohols, aldehydes, ketones, carboxylic acids and other organic compounds are mostly created from hydrocarbons.)
+এগুলো নিয়েই এ অধ্যায়ে আলোচনা করা হবে। (These will be discussed in this chapter.)
+
+
+CHAPTER TITLE: এ অধ্যায় পাঠ শেষে আমরা / What we will learn in this chapter
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 262
+MAIN TOPICS: Fossil fuels, Hydrocarbons, Plastics
+
+*   এ অধ্যায় পাঠ শেষে আমরা
+    After reading this chapter we will be able to:
+
+*   জীবাশ্ম জ্বালানির ধারণা ব্যাখ্যা করতে পারব।
+    Explain the concept of fossil fuels.
+
+*   পেট্রোলিয়ামকে জৈব যৌগের মিশ্রণ হিসেবে ব্যাখ্যা করতে পারব।
+    Explain petroleum as a mixture of organic compounds.
+
+*   পেট্রোলিয়ামের ব্যবহার ব্যাখ্যা করতে পারব।
+    Explain the uses of petroleum.
+
+*   হাইড্রোকার্বনের ধরন ও শ্রেণিবিভাগ ব্যাখ্যা করতে পারব।
+    Explain the types and classification of hydrocarbons.
+
+*   সম্পৃক্ত ও অসম্পৃক্ত হাইড্রোকার্বনের প্রস্তুতির বিক্রিয়া ও ধর্ম ব্যাখ্যা এবং এদের মধ্যে পার্থক্য করতে পারব।
+    Explain the preparation, reactions, and properties of saturated and unsaturated hydrocarbons, and differentiate between them.
+
+*   প্লাস্টিক দ্রব্য ও তন্তু তৈরির রাসায়নিক বিক্রিয়া এবং এর ব্যবহার বর্ণনা করতে পারব।
+    Describe the chemical reactions involved in the production of plastic materials and fibers, and their uses.
+
+*   পরিবেশের ওপর প্লাস্টিক দ্রব্য অপব্যবহারের কুফল উল্লেখ করতে পারব।
+    Mention the harmful effects of misuse of plastic materials on the environment.
+
+*   প্রাকৃতিক গ্যাস, পেট্রোলিয়াম এবং কয়লা ব্যবহারের সুবিধা, অসুবিধা ও ব্যবহারের কৌশল ব্যাখ্যা করতে পারব।
+    Explain the advantages, disadvantages, and usage techniques of natural gas, petroleum, and coal.
+
+*   হাইড্রোকার্বন থেকে অ্যালকোহল অ্যালডিহাইড ও জৈব এসিডের প্রস্তুতির কৌশল ব্যাখ্যা করতে পারব।
+    Explain the methods of preparing alcohols, aldehydes, and organic acids from hydrocarbons.
+
+*   অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিডের ব্যবহার করতে পারব।
+    Describe the uses of alcohols, aldehydes, and organic acids.
+
+*   পরিবেশের উপর প্লাস্টিক দ্রব্যের প্রভাব সম্পর্কিত অনুসন্ধানমূলক কাজ করতে পারব।
+     Conduct investigative work on the effects of plastic materials on the environment.
+
+*   পরীক্ষার মাধ্যমে জৈব ও অজৈব যৌগের মধ্যে পার্থক্য করে দেখাতে পারব।
+    Demonstrate the differences between organic and inorganic compounds through experiments.
+
+*   জীবাশ্ম জ্বালানির সঠিক ব্যবহার সম্পর্কে সচেতনতা প্রদর্শন করতে পারব।
+    Demonstrate awareness about the proper use of fossil fuels.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: 11
+PAGE NUMBER: 263
+MAIN TOPICS: Fossil fuels, Natural gas, Petroleum
+
+TERM OR PROPERTY NAME
+Bengali Definition: বহু প্রাচীনকালের উদ্ভিদ এবং প্রাণীর মৃতদেহের যে ধ্বংসাবশেষ মাটির নিচে পাওয়া যায় তাকে জীবাশ্ম বলে।
+English Translation: The remains of plants and animals from ancient times that are found under the soil are called fossils.
+Related Chemical Equations: Not applicable
+Examples: Coal, natural gas, and petroleum
+
+TERM OR PROPERTY NAME
+Bengali Definition: কয়লা, প্রাকৃতিক গ্যাস ও পেট্রোলিয়াম যেগুলো আমরা জ্বালানি হিসেবে ব্যবহার করি সেগুলো জীবাশ্মরূপে মাটির নিচ থেকে পাওয়া যায়। তাই কয়লা, প্রাকৃতিক গ্যাস ও পেট্রোলিয়ামকে জীবাশ্ম জ্বালানি বলে।
+English Translation: Coal, natural gas, and petroleum, which we use as fuel, are found as fossils beneath the soil. Therefore, coal, natural gas, and petroleum are called fossil fuels.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: শত শত মিলিয়ন বছর আগে এ পৃথিবীর ইতিহাসে বিভিন্ন সময় ছিল যখন এ পৃথিবীজুড়ে ছিল ঘন বনজঙ্গল, নিচু জলাভূমি আর সমুদ্র সেখানে ছিল জলজ উদ্ভিদ, ফাইটোপ্লাংকটন (পানিতে বসবাসকারী এক ধরনের শৈবাল), জুওপ্লাংকটন (পানিতে বসবাসকারী এক ধরনের ছোট প্রাণী)। বিভিন্ন সময় বড় বড় প্রাকৃতিক বিপর্যয়ে এই ধরনের উদ্ভিদ, প্রাণী মাটিচাপা পড়ে যায়। সময়ের বিবর্তনে তার উপর আরও মাটি পড়ে। ধীরে ধীরে এগুলো মাটির গভীর থেকে গভীরে চলে যেতে থাকে। ফলে এর উপর চাপ ও তাপমাত্রা বাড়তে থাকে। বায়ুর অনুপস্থিতিতে এগুলোর ক্ষয় ও রাসায়নিক পরিবর্তন ঘটতে থাকে। শত শত মিলিয়ন বছর ধরে তাপ, চাপ আর রাসায়নিক পরিবর্তনের কারণে বড় বড় উদ্ভিদ ও প্রাণী থেকে শুরু করে ক্ষুদ্রতম উদ্ভিদ ও প্রাণী পর্যন্ত সকল ধরনের উদ্ভিদ ও প্রাণী থেকে জীবাশ্ম জ্বালানির সৃষ্টি হয়েছে।
+English Translation: Hundreds of millions of years ago, there were times in the history of this Earth when there were dense forests, low-lying wetlands, and seas all over the planet, with aquatic plants, phytoplankton (a type of algae living in water), and zooplankton (a type of small animal living in water). At various times, major natural disasters caused these plants and animals to be buried under soil. Over time, more soil was deposited on top of them. Gradually, they went deeper and deeper into the earth. As a result, pressure and temperature increased on them. In the absence of air, these decompose and undergo chemical changes. Over hundreds of millions of years, due to heat, pressure, and chemical changes, fossil fuels have been created from all kinds of plants and animals, from large plants and animals to the smallest plants and animals.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: বড় বড় উদ্ভিদ থেকে কয়লা আর ফাইটোপ্লাংকটন, জুওপ্লাংকটন ও মৃত প্রাণীর দেহাবশেষ থেকে পেট্রোলিয়ামের সৃষ্টি হয়েছে। এ পরিবর্তন অব্যাহত থাকায় পেট্রোলিয়াম আরও পরিবর্তিত হয়ে প্রাকৃতিক গ্যাস সৃষ্টি হয়। তাই কোথাও কোথাও পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস এক সাথেই থাকে। যেমন- বাংলাদেশের হরিপুর গ্যাসক্ষেত্রে প্রাকৃতিক গ্যাসের সাথে পেট্রোলিয়ামও পাওয়া গেছে।
+English Translation: Coal was created from large plants, and petroleum was created from the remains of phytoplankton, zooplankton, and dead animals. As this change continues, petroleum is further transformed into natural gas. That is why petroleum and natural gas are found together in some places. For example, in the Haripur gas field of Bangladesh, petroleum is found along with natural gas.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: এই জীবাশ্ম জ্বালানির মূল উৎস জীবদেহ, তাই এ সকল জ্বালানির মূল উপাদান কার্বন ও কার্বনের যৌগ।
+English Translation: The main source of these fossil fuels is living organisms, therefore, the main components of these fuels are carbon and carbon compounds.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+11.1.1 প্রাকৃতিক গ্যাস (Natural Gas) / Natural Gas
+
+TERM OR PROPERTY NAME
+Bengali Definition: সাধারণত প্রাকৃতিক গ্যাসের বিভিন্ন উপাদানের অনুপাত তার প্রাকৃতিক উৎসের ভিত্তিতে ভিন্ন হয়ে থাকে।
+English Translation: The ratio of different components of natural gas generally varies depending on its natural source.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো মিথেন (80%)। এছাড়া প্রাকৃতিক গ্যাসে ইথেন (7%), প্রোপেন (6%), বিউটেন ও আইসোবিউটেন (4%) এবং পেন্টেন (3%) থাকে।
+English Translation: The main component of natural gas is methane (80%). In addition, natural gas contains ethane (7%), propane (6%), butane and isobutane (4%), and pentane (3%).
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: কিন্তু বাংলাদেশে এ পর্যন্ত যে প্রাকৃতিক গ্যাস পাওয়া গেছে তাতে 95-99% মিথেন থাকে।
+English Translation: However, the natural gas found in Bangladesh so far contains 95-99% methane.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+11.1.2 পেট্রোলিয়ামের উপাদানসমূহ ও তাদের পৃথকীকরণ / Composition of Petroleum and their separation
+
+TERM OR PROPERTY NAME
+Bengali Definition: পেট্রোলিয়াম সাধারণত 5000 ফুট বা তার চেয়েও গভীরে শিলা স্তরের মধ্যে পাওয়া যায়।
+English Translation: Petroleum is generally found within rock layers at a depth of 5000 feet or more.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME
+Bengali Definition: পেট্রোলিয়ামের সাথে অনেক সময় প্রাকৃতিক গ্যাস থাকে, যা পেট্রোলিয়ামের উপরিভাগে চাপ প্রয়োগ
+English Translation: Often, natural gas is found along with petroleum, which exerts pressure on the top of petroleum.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 11
+PAGE NUMBER: 268
+MAIN TOPICS: Fractional Distillation, Petroleum Refining
+
+DIAGRAM TITLE: পেট্রোলিয়ামের আংশিক পাতন / Fractional Distillation of Petroleum
+Description: A diagram of a fractional distillation column. Crude petroleum is heated in a furnace, and the resulting vapor enters the base of the column. As the vapor rises, it cools, and different fractions condense at different heights based on their boiling points. The column has different temperature zones, with the bottom being the hottest (340°C) and the top being the coolest (20°C).
+Components: Furnace (চুল্লি), Fractional Distillation Column, different collection points
+Chemical Labels: Crude Petroleum (অপরিশোধিত পেট্রোলিয়াম), Petroleum Gas (পেট্রোলিয়াম গ্যাস), Gasoline (গ্যাসোলিন (পেট্রোল)), Naphtha (ন্যাপথা), Kerosene (কেরোসিন), Diesel (ডিজেল তেল), Lubricating Oil and Paraffin Wax (লুব্রিকেটিং তেল, প্যারাফিন মোম), Fuel Oil (জ্বালানি তেল), Bitumen (বিটুমিন (পিচ))
+Safety Notes: Handling of petroleum products should be done with caution due to flammability.
+Purpose: To demonstrate the process of separating crude petroleum into its various components using fractional distillation.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+FRACTIONAL DISTILLATION
+Bengali Definition: আংশিক পাতনও হলো এক ধরনের পাতন। এখানে বাষ্পকে ঠান্ডা করার জন্য লম্বা কলাম থাকে। কলাম আবার বিভিন্ন অংশে বিভক্ত। নিচের অংশটির তাপমাত্রা সবচেয়ে বেশি। যে অংশ যত উপরে তার তাপমাত্রা তত কম। ফলে যদি একাধিক তরলের মিশ্রণকে তাপ দিয়ে বাষ্পীভূত করে আংশিক পাতন কলামের নিচের অংশে প্রবেশ করানো হয় তবে বাষ্পের ধর্ম অনুযায়ী তা কলামের উপরের দিকে উঠবে। যেহেতু উপরের অংশগুলোর তাপমাত্রা কম থাকে, তাই তরলের মিশ্রণের প্রত্যেকটি উপাদান তাদের স্ফুটনাঙ্ক অনুযায়ী আংশিক পাতন কলামের বিভিন্ন অংশে পৃথক হয়।
+English Translation: Fractional distillation is a type of distillation where a long column is used to cool vapor. The column is divided into different sections. The temperature of the lower part is the highest and it decreases as one goes up. If a mixture of multiple liquids is heated and vaporized, it enters the fractional distillation column, according to the property of vapor. The vapor will rise to the top. Since the temperature at the top is lower, the components of the liquid mixture are separated in different sections according to their boiling points in fractional distillation column.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CRUDE OIL/PETROLEUM
+Bengali Definition: যে পেট্রোলিয়াম খনি থেকে সরাসরি পাওয়া যায় তাকে অপরিশোধিত তেল (Crude Oil) বা পেট্রোলিয়াম বলে। এই অপরিশোধিত তেল অস্বচ্ছ, এতে কখনো কখনো সালফারের কিছু কিছু যৌগ থাকার কারণে দুর্গন্ধযুক্ত হয়। এই পেট্রোলিয়াম মূলত বিভিন্ন হাইড্রোকার্বনের মিশ্রণ এবং সরাসরি ব্যবহার উপযোগী নয়।
+English Translation: Petroleum that is directly obtained from a mine is called crude oil or petroleum. This crude oil is opaque and sometimes has a foul odor due to some sulfur compounds. Petroleum is mainly a mixture of different hydrocarbons and is not suitable for direct use.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+PETROLEUM COMPONENTS
+Bengali Definition: পেট্রোলিয়াম বিভিন্ন হাইড্রোকার্বনের মিশ্রণ। এদের স্ফুটনাঙ্কও বিভিন্ন। আগেই বলা হয়েছে অপরিশোধিত তেল ব্যবহারের উপযুক্ত নয়, কিন্তু একে যদি আংশিক পাতনের সাহায্যে পৃথক করা হয় তবে এ অপরিশোধিত তেল থেকে পেট্রোল, গ্যাস, পেট্রোলিয়াম, ন্যাপথা, কেরোসিন, ডিজেল, প্যারাফিন মোম এবং পিচ প্রভৃতি অংশে বিভক্ত হয়ে যায়।
+English Translation: Petroleum is a mixture of different hydrocarbons. Their boiling points are also different. It was previously stated that crude oil is not suitable for use, but if it is separated by fractional distillation, it can be divided into components such as petrol, gas, petroleum, naphtha, kerosene, diesel, paraffin wax and pitch.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+SAFETY ALERT
+Hazard Description: Petroleum products are flammable.
+Required Precautions: Handle with caution, away from open flames.
+Emergency Procedures: In case of fire, use a suitable fire extinguisher. Avoid using water.
+Protective Equipment: Wear gloves and protective clothing to prevent skin contact.
+
+Page Reference: 268
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not specified on the page
+PAGE NUMBER: 265
+MAIN TOPICS: Fractional distillation of petroleum, Hydrocarbons
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+PETROLEUM GAS
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক ০°C থেকে 20°C পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 1 থেকে 4 পর্যন্ত। পেট্রোলিয়ামে শতকরা দুই ভাগ পেট্রোলিয়াম গ্যাস থাকে। এ গ্যাসকে চাপ প্রয়োগ করে তরলে পরিণত করে সিলিন্ডারে ভর্তি করা হয় এবং LPG (Liquefied Petroleum Gas) নামে রান্নার কাজে ও অন্যান্য কাজে তাপ উৎপাদনের জন্য ব্যবহার করা হয়।
+English Translation: The boiling point of this fraction is from 0°C to 20°C. The hydrocarbons in this fraction contain 1 to 4 carbon atoms. Petroleum contains about 2% petroleum gas. This gas is compressed and liquefied to be stored in cylinders and is used as LPG (Liquefied Petroleum Gas) for cooking and other heat-producing applications.
+
+PETROL (GASOLINE)
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 21°C থেকে 70°C পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 5 থেকে 10 পর্যন্ত। পেট্রোলিয়ামে শতকরা 5 ভাগ পেট্রল থাকে। একে গ্যাসোলিনও বলা হয়। যানবাহনের ইঞ্জিনে জ্বালানি হিসেবে গ্যাসোলিন ব্যবহার করা হয়।
+English Translation: The boiling point of this fraction is from 21°C to 70°C. The hydrocarbons in this fraction contain 5 to 10 carbon atoms. Petroleum contains about 5% petrol. It is also called gasoline. Gasoline is used as fuel in vehicle engines.
+
+NAPHTHA
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 71°C থেকে 120°C পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 7 থেকে 14 পর্যন্ত। পেট্রোলিয়ামে শতকরা 10 ভাগ ন্যাপথা থাকে। জ্বালানি ও পেট্রোকেমিক্যাল শিল্পে বিভিন্ন রাসায়নিক পদার্থ ও অন্যান্য অনেক ব্যবহার্য দ্রব্য তৈরি করা হয়।
+English Translation: The boiling point of this fraction is from 71°C to 120°C. The hydrocarbons in this fraction contain 7 to 14 carbon atoms. Petroleum contains about 10% naphtha. It is used to produce various chemical substances and many other usable materials in the fuel and petrochemical industry.
+
+KEROSENE
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 121°C থেকে 170°C পর্যন্ত। এ অংশে যে সকল হাইড্রোকার্বন থাকে তাদের অণুতে কার্বন সংখ্যা 11 থেকে 16 পর্যন্ত। পেট্রোলিয়ামে শতকরা 13 ভাগ কেরোসিন থাকে। পেট্রোলিয়ামের এই অংশকে জেট ইঞ্জিনের জ্বালানি হিসেবে ব্যবহার করা হয়।
+English Translation: The boiling point of this fraction is from 121°C to 170°C. The hydrocarbons in this fraction contain 11 to 16 carbon atoms. Petroleum contains about 13% kerosene. This fraction of petroleum is used as fuel for jet engines.
+
+DIESEL
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 171°C থেকে 270°C পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 17 থেকে 20 পর্যন্ত। যানবাহনের জ্বালানি, পিচ্ছিলকারক পদার্থ ও দ্রাবক হিসেবে ব্যবহার করা হয়।
+English Translation: The boiling point of this fraction is from 171°C to 270°C. The hydrocarbons in this fraction contain 17 to 20 carbon atoms. It is used as fuel for vehicles, as a lubricant, and as a solvent.
+
+PARAFFIN WAX
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 271°C থেকে 340°C পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 20 থেকে 30 পর্যন্ত। প্যারাফিন মোম টয়লেট্রিজ এবং ভ্যাসলিন তৈরিতে ব্যবহৃত হয়।
+English Translation: The boiling point of this fraction is from 271°C to 340°C. The hydrocarbons in this fraction contain 20 to 30 carbon atoms. Paraffin wax is used to make toiletries and vaseline.
+
+PITCH
+Bengali Definition: এ অংশের স্ফুটনাঙ্ক 340°C থেকে উচ্চ তাপমাত্রা পর্যন্ত। এ অংশে যে হাইড্রোকার্বনসমূহ থাকে তাদের অণুতে কার্বন সংখ্যা 30 এর বেশি। রাস্তা তৈরিতে এটি কাজ লাগে।
+English Translation: The boiling point of this fraction is from 340°C to high temperature. The hydrocarbons in this fraction contain more than 30 carbon atoms. It is used to make roads.
+
+
+CHAPTER TITLE: হাইড্রোকার্বন (Hydrocarbons) / Hydrocarbons
+CHAPTER NUMBER: 11
+PAGE NUMBER: 266
+MAIN TOPICS: Hydrocarbons, Aliphatic Hydrocarbons, Saturated/Unsaturated Hydrocarbons
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+HYDROCARBONS
+Bengali Definition: হাইড্রোকার্বন হলো শুধু কার্বন ও হাইড্রোজেন এর সমন্বয়ে গঠিত যৌগ।
+English Translation: Hydrocarbons are compounds formed only by the combination of carbon and hydrogen.
+Examples: মিথেন (CH4), ইথিন (C₂H₄), সাইক্লোহেক্সেন (C₂H₁₂), বেনজিন (C₂H₆)
+
+ALIPHATIC HYDROCARBONS
+Bengali Definition: অ্যালিফেটিক কথাটির অর্থ হলো চর্বিজাত। এই শ্রেণির হাইড্রোকার্বন মূলত প্রাণীর চর্বি থেকে পাওয়া গিয়েছিল। তাই এ ধরনের হাইড্রোকার্বনের নাম অ্যালিফেটিক হাইড্রোকার্বন দেওয়া হয়েছে।
+English Translation: The word aliphatic means derived from fat. This class of hydrocarbons was originally obtained from animal fat. Hence, these hydrocarbons are named aliphatic hydrocarbons.
+
+SATURATED OPEN CHAIN HYDROCARBONS
+Bengali Definition: যে মুক্ত শিকল হাইড্রোকার্বনে শুধু কার্বন-কার্বন একক বন্ধন (C-C) থাকে, তাকে সম্পৃক্ত মুক্ত শিকল হাইড্রোকার্বন বা অ্যালকেন বলে।
+English Translation: Saturated open chain hydrocarbons are those that have only carbon-carbon single bonds (C-C). They are also called alkanes.
+Examples: প্রোপেন: CH3-CH2-CH3, পেন্টেন: CH3-CH2-CH2-CH2-CH3
+
+UNSATURATED OPEN CHAIN HYDROCARBONS
+Bengali Definition: যে মুক্ত শিকল হাইড্রোকার্বনে এক বা একাধিক কার্বন-কার্বন দ্বিবন্ধন বা কার্বন-কার্বন ত্রিবন্ধন থাকে, তাকে অসম্পৃক্ত মুক্ত শিকল হাইড্রোকার্বন বলে।
+English Translation: Unsaturated open chain hydrocarbons are those that have one or more carbon-carbon double bonds or carbon-carbon triple bonds.
+Example: ইথাইন (CH≡CH)
+
+CHEMICAL EQUATIONS
+Example Hydrocarbons:
+CH4
+C2H4
+C6H12
+C6H6
+
+Examples of Open Chain Hydrocarbons:
+CH3-CH2-CH2-CH3
+CH2=CH2
+
+Examples of Saturated Open Chain Hydrocarbons:
+CH3-CH2-CH3
+CH3-CH2-CH2-CH2-CH3
+
+Example of Unsaturated Open Chain Hydrocarbons:
+CH≡CH
+
+ADDITIONAL INFORMATION:
+Hydrocarbons are mainly of two types: (i) Aliphatic Hydrocarbons and (ii) Aromatic Hydrocarbons.
+Aliphatic hydrocarbons are of two types: (i) open-chain and (ii) closed-chain.
+Open chain hydrocarbons have two free carbon ends in their carbon chain.
+Open chain hydrocarbons are further classified into two types: Saturated and Unsaturated.
+Unsaturated hydrocarbons can also have carbon-carbon single bonds alongside double or triple bonds.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not explicitly stated
+PAGE NUMBER: 267
+MAIN TOPICS: Alkenes and Alkynes, Closed Chain Hydrocarbons, Aromatic Hydrocarbons
+
+ALKENES AND ALKYNES
+Unsaturated open-chain hydrocarbons are divided into alkenes and alkynes depending on whether they have double or triple bonds. We will learn more about alkenes and alkynes in this chapter.
+Alkenes have carbon-carbon double bonds. Example: Propene (CH3-CH=CH2)
+Alkynes have carbon-carbon triple bonds. Example: Ethyne (CH ≡ CH), Propyne (H3C-C≡CH)
+
+(II) CLOSED CHAIN HYDROCARBONS
+In these types of hydrocarbons, the carbon atoms at the two ends of the carbon chain join together to form a ring or cycle. Rings of different sizes form from chains of different sizes. Like open-chain hydrocarbons, these can also be saturated or unsaturated.
+Examples of Saturated Closed Chain Hydrocarbons:
+   CH2
+  /   \
+ CH2 - CH2   Cyclopropane
+ /   \
+CH2
+     CH2 - CH2
+    /         \
+CH2         CH2 Cyclobutane
+    \         /
+     CH2 - CH2
+
+Examples of Unsaturated Closed Chain Hydrocarbons:
+   CH
+  /   \
+CH   -  CH2   Cyclopropene
+  \   /
+ CH
+     CH - CH2
+    /         \
+CH         CH2 Cyclobutene
+    \         /
+     CH - CH2
+
+Closed chain hydrocarbons are also often called alicyclic hydrocarbons.
+
+11.2.2 AROMATIC HYDROCARBONS
+The word aromatic comes from the Greek word aroma, meaning fragrance. The first aromatic compounds that were found were fragrant, hence this naming. Examples of aromatic hydrocarbons are Benzene (C6H6) or Naphthalene (C10H8).
+Aromatic compounds are usually 5, 6, or 7 membered planar compounds. They have alternate double bonds, i.e. carbon-carbon single bond and then a carbon-carbon double bond alternately.
+
+
+CHAPTER TITLE: রাসায়নিক যৌগ / Chemical Compounds
+CHAPTER NUMBER: 11
+PAGE NUMBER: 268
+MAIN TOPICS: Homologous Series, Aromatic Hydrocarbons
+
+DIAGRAM TITLE: অ্যারোমেটিক যৌগ / Aromatic Compounds
+Description: The diagram shows the structural formulas of two aromatic hydrocarbons, benzene and naphthalene. Benzene is represented by a six-membered carbon ring with alternating single and double bonds, and each carbon is bonded to one hydrogen atom. Naphthalene is represented by two fused six-membered carbon rings, each with alternating single and double bonds, with hydrogen atoms attached to some of the carbon atoms.
+Components: Benzene, Naphthalene
+Chemical Labels: C6H6 (Benzene), C10H8 (Naphthalene)
+Safety Notes: None given
+Purpose: Illustrates the structures of two common aromatic hydrocarbons.
+
+HOMOLOGOUS SERIES
+Bengali Definition: যে সকল যৌগের কার্যকরীমূলক একই হওয়ায় তাদের ভৌত ও রাসায়নিক ধর্মের গভীর মিল থাকে তারা একই শ্রেণিভুক্ত। এদেরকে সমগোত্রীয় শ্রেণি বলে। একই সমগোত্রীয় শ্রেণির সকল সদস্যকে একটি সাধারণ সংকেত দিয়ে প্রকাশ করা যায়।
+English Translation: Compounds that have the same functional group exhibit similar physical and chemical properties and belong to the same class. They are called a homologous series. All members of the same homologous series can be represented by a general formula.
+Related Chemical Equations:  The general formula for the alkane homologous series is CnH2n+2
+Examples: Examples of homologous series are given in Table 11.01
+
+TABLE 11.01: HOMOLOGOUS SERIES
+Homologous Series General Formula First Few Members Names and Formulas
+ALKANE CnH2n+2 Methane (CH4), Ethane (C2H6), Propane (C3H8), Butane (C4H10)
+ALKENE CnH2n Ethene (C2H4), Propene (C3H6)
+ALKYNE CnH2n-2 Ethyne (C2H2), Propyne (C3H4)
+ALCOHOL CnH2n+1OH Methanol (CH3-OH), Ethanol (C2H5OH)
+ALDEHYDE CnH2n+1CHO Ethanal (CH3-CHO), Propanal (C2H5CHO)
+CARBOXYLIC ACID CnH2n+1COOH Ethanoic Acid (CH3COOH), Propanoic Acid (C2H5COOH)
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: 11
+PAGE NUMBER: 269
+MAIN TOPICS: Alkanes, Alkyl Groups, IUPAC Nomenclature
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ALKANES
+Bengali Definition: যে সকল হাইড্রোকার্বনের কার্বন শিকলে কার্বন-কার্বন একক বন্ধন বিদ্যমান থাকে তাকে অ্যালকেন বলে।
+English Translation: Alkanes are hydrocarbons in which carbon atoms are connected by single bonds.
+Related Chemical Equations: CnH2n+2
+Examples: Methane (CH4), Ethane (C2H6)
+
+PARAFINS
+Bengali Definition: এদেরকে প্যারাফিন বলে, প্যারাফিন অর্থ আসক্তিহীন।
+English Translation: These are called paraffins, paraffin means non-reactive.
+
+ALKYL GROUP
+Bengali Definition: অ্যালকেন থেকে একটি হাইড্রোজেন পরমাণু অপসারণ করলে যে একযোজী মূলকের সৃষ্টি হয় তাকে অ্যালকাইল মূলক বলে।
+English Translation: When a hydrogen atom is removed from an alkane, a univalent radical is created, which is called an alkyl group.
+Related Chemical Equations: R = CnH2n+1 where R-H represents the parent alkane.
+Examples: Methyl (CH3-), Ethyl (CH3-CH2-), Propyl (CH3-CH2-CH2-)
+
+DIAGRAMS AND ILLUSTRATIONS
+
+DIAGRAM TITLE: মিথেন এবং ইথেন। / Methane and Ethane.
+Description: The diagram shows the molecular structures of methane and ethane. Methane has one carbon atom bonded to four hydrogen atoms. Ethane has two carbon atoms each bonded to three hydrogen atoms and also bonded to each other via a single bond.
+Components: Carbon atom (C), Hydrogen atom (H)
+Chemical Labels: Methane (CH4), Ethane (C2H6).
+Safety Notes: None applicable for diagram.
+Purpose: To illustrate the structure of methane and ethane, the first two members of the alkane series.
+
+ALKANE NOMENCLATURE
+Bengali Definition: IUPAC পদ্ধতিতে অ্যালকেনের নামকরণের নিয়ম এরকম: (i) সরল শিকলবিশিষ্ট অ্যালকেনে এক কার্বনবিশিষ্ট অ্যালকেন (CH4) কে মিথেন, দুই কার্বন বিশিষ্ট অ্যালকেন (CH3-CH3) কে ইথেন, তিন কার্বনবিশিষ্ট অ্যালকেন (CH3-CH2-CH3) কে প্রোপেন এবং চার কার্বনবিশিষ্ট অ্যালকেন (CH3-CH2-CH2-CH3) কে বিউটেন নাম দেওয়া হয়েছে। (ii) অ্যালকেনের ক্ষেত্রে কার্বন সংখ্যার গ্রিক সংখ্যাসূচক শব্দের শেষে এন (ane) যোগ করে নামকরণ করা হয়।
+English Translation: The IUPAC method for naming alkanes is as follows: (i) In simple chain alkanes, a one-carbon alkane (CH4) is called methane, a two-carbon alkane (CH3-CH3) is called ethane, a three-carbon alkane (CH3-CH2-CH3) is called propane, and a four-carbon alkane (CH3-CH2-CH2-CH3) is called butane. (ii) For alkanes, the suffix ‘ane’ is added to the Greek prefix representing the number of carbon atoms in the chain.
+
+ALKYL GROUP NAMING
+Bengali Definition: যে অ্যালকেন থেকে হাইড্রোজেন পরমাণুকে অপসারণ করে অ্যালকাইল মূলক তৈরি হয় সেই অ্যালকেন এর নামের শেষ অংশের এন (ane) বাদ দিয়ে আইল (yl) যোগ করে অ্যালকাইল মূলকের নামকরণ করা হয়।
+English Translation: An alkyl group is named by removing the “ane” from the name of the parent alkane and adding "yl".
+Examples: Methane (CH4) -> Methyl (CH3-), Ethane (C2H6) -> Ethyl (CH3-CH2-), Propane -> Propyl (CH3-CH2-CH2-)
+
+SAFETY INFORMATION
+
+SAFETY ALERT
+Hazard Description: Alkanes are generally non-reactive at room temperature. They can participate in combustion reactions if exposed to high temperature in the presence of oxygen.
+Required Precautions: Keep away from open flames and high temperatures.
+Emergency Procedures: In case of a fire involving alkanes use a dry chemical or carbon dioxide extinguisher.
+Protective Equipment: Not applicable during handling in normal laboratory conditions.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: 11
+PAGE NUMBER: 270
+MAIN TOPICS: Alkanes, Alkyl groups, Alkane Preparation
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ALKYL GROUPS
+Bengali Definition: বিউটেন থেকে বিউটাইল (CH3-CH2-CH2-CH2-), পেন্টেন থেকে পেন্টাইল (CH3-CH2-CH2-CH2-CH₂-) ইত্যাদি।
+English Translation: Butyl from Butane (CH3-CH2-CH2-CH2-), Pentyl from Pentane (CH3-CH2-CH2-CH2-CH₂-) etc.
+Examples: Given in the text as examples of alkyl groups derived from alkanes.
+
+TABLE 11.02: ALKANE CARBON NUMBER, NAME AND FORMULA
+Bengali Header: টেবিল 11.02: অ্যালকেনের কার্বন সংখ্যা, নাম এবং সংকেত।
+English Translation: Table 11.02: Alkane carbon number, name and formula.
+
+ALKANES LISTED IN THE TABLE:
+
+CARBON ATOM COUNT: 1
+ALKANES NAME: মিথেন (Methane)
+ALKANES FORMULA: CH4
+
+CARBON ATOM COUNT: 2
+ALKANES NAME: ইথেন (Ethane)
+ALKANES FORMULA: CH3-CH3
+
+CARBON ATOM COUNT: 3
+ALKANES NAME: প্রোপেন (Propane)
+ALKANES FORMULA: CH3-CH2-CH3
+
+CARBON ATOM COUNT: 4
+ALKANES NAME: বিউটেন (Butane)
+ALKANES FORMULA: CH3-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 5
+ALKANES NAME: পেন্টেন (Pentane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 6
+ALKANES NAME: হেক্সেন (Hexane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 7
+ALKANES NAME: হেপ্টেন (Heptane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 8
+ALKANES NAME: অক্টেন (Octane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 9
+ALKANES NAME: ননেন (Nonane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH3
+
+CARBON ATOM COUNT: 10
+ALKANES NAME: ডেকেন (Decane)
+ALKANES FORMULA: CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH3
+
+ALKANE PREPARATION
+
+ALKANE PREPARATION FROM CARBON DIOXIDE
+Bengali Text: কার্বন ডাই-অক্সাইড থেকে: নিকেল প্রভাবকের উপস্থিতিতে কার্বন ডাই-অক্সাইডের সাথে হাইড্রোজেনকে 250°C তাপমাত্রায় উত্তপ্ত করলে মিথেন এবং পানি উৎপন্ন হয়।
+English Translation: From Carbon Dioxide: In the presence of nickel catalyst, heating carbon dioxide with hydrogen at 250°C produces methane and water.
+Related Chemical Equations: Not explicitly provided in a full equation, but understood from the text.
+Implied Equation: CO2 + 4H2 → CH4 + 2H2O
+Temperature: 250°C
+Catalyst: Nickel
+
+
+PAGE METADATA
+Chapter Title: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+Chapter Number: Not specified
+Page Number: 271
+Main Topics: Synthesis of Methane, Properties of Alkanes
+
+CHEMICAL EQUATIONS
+CO2 + 4H2  →  CH4 + 2H2O
+Catalyst: Ni
+Temperature: 250°C
+
+CH2=CH2 + H2 → CH3-CH3
+Catalyst: Ni
+Temperature: 180°C - 200°C
+
+CH≡CH + 2H2 → CH3-CH3
+Catalyst: Ni
+Temperature: 180°C - 200°C
+
+CH3COONa + NaOH → CH4 + Na2CO3
+Catalyst: CaO
+Reaction Condition: Δ (heat)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+ALKANE PHYSICAL PROPERTIES
+Bengali Definition: সম্পৃক্ত হাইড্রোকার্বন বা অ্যালকেনের গলনাঙ্ক, স্ফুটনাঙ্ক এবং ভৌত অবস্থা অ্যালকেনের কার্বন সংখ্যার উপর নির্ভর করে। কার্বন সংখ্যার পরিবর্তন হলে ভৌত অবস্থার পরিবর্তন হয়। 1 থেকে 4 কার্বন সংখ্যার সম্পৃক্ত হাইড্রোকার্বনের স্ফুটনাঙ্ক কক্ষ তাপমাত্রার নিচে, তাই এগুলো গ্যাসীয় অবস্থায় থাকে। 5 থেকে 15 কার্বন সংখ্যার সম্পৃক্ত হাইড্রোকার্বনের স্ফুটনাঙ্ক কক্ষ তাপমাত্রার উপরে বলে এগুলো তরল অবস্থায় থাকে। 5 কার্বনবিশিষ্ট সম্পৃক্ত হাইড্রোকার্বন পেন্টেনের স্ফুটনাঙ্ক 36.1°C। সম্পৃক্ত হাইড্রোকার্বনের কার্বন সংখ্যা 16 থেকে বেশি হলে এগুলো কঠিন প্রকৃতির হয়।
+English Translation: The melting point, boiling point, and physical state of saturated hydrocarbons or alkanes depend on the number of carbon atoms in the alkane.  A change in the number of carbon atoms results in a change in the physical state. Saturated hydrocarbons with 1 to 4 carbon atoms have boiling points below room temperature, so they are in a gaseous state. Saturated hydrocarbons with 5 to 15 carbon atoms have boiling points above room temperature, so they are in a liquid state. The boiling point of pentane, a saturated hydrocarbon with 5 carbon atoms, is 36.1°C. Saturated hydrocarbons with more than 16 carbon atoms are solid in nature.
+
+ALKANE CHEMICAL PROPERTIES
+Bengali Definition: আগেই বলা হয়েছে অ্যালকেনসমূহ রাসায়নিকভাবে অনেকটা নিষ্ক্রিয়। তাই সাধারণ অবস্থায় এসিড, ক্ষারক, জারক বা বিজারকের সাথে বিক্রিয়া করে না। তারপরও এরা কিছু রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে।
+English Translation: It has already been said that alkanes are largely chemically inactive. Therefore, under normal conditions, they do not react with acids, bases, oxidizing agents, or reducing agents. However, they do participate in some chemical reactions.
+
+
+CHAPTER TITLE:  রাসায়ন / Chemistry
+CHAPTER NUMBER: 11
+PAGE NUMBER: 272
+MAIN TOPICS: Reactions of Methane, Unsaturated Hydrocarbons
+
+CHEMICAL EQUATIONS:
+
+CH4 + Cl2  → CH3Cl + HCl
+UV
+
+CH3Cl + Cl2  → CH2Cl2 + HCl
+UV
+
+CH2Cl2 + Cl2  → CHCl3 + HCl
+UV
+
+CHCl3 + Cl2 → CCl4 + HCl
+UV
+
+CH4 + 2O2 → CO2 + 2H2O + Heat
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: অ্যালকিন (Alkenes)
+Bengali Definition: যে জৈব যৌগের কার্বন শিকলে অন্তত একটি কার্বন-কার্বন দ্বিবন্ধন থাকে তাকে অ্যালকিন বলে।
+English Translation: Alkenes are organic compounds that contain at least one carbon-carbon double bond in their carbon chain.
+Related Chemical Equations: None on this page.
+Examples: ইথিন, প্রোপিন (Ethene, Propene)
+
+CHLORINATION OF METHANE
+
+Bengali: ক্লোরিনের সাথে বিক্রিয়া
+English: Reaction with Chlorine
+
+Bengali: অতিবেগুনি (UV) আলোর উপস্থিতিতে মিথেনের সাথে ক্লোরিন মিশ্রিত করলে টেট্রাক্লোরো মিথেন উৎপন্ন হয়। এই বিক্রিয়া চার ধাপে সম্পন্ন হয়।
+English: When methane is mixed with chlorine in the presence of ultraviolet (UV) light, tetrachloromethane is produced. This reaction takes place in four steps.
+
+Reaction 1:
+CH4 + Cl2  → CH3Cl + HCl
+UV
+Bengali: মিথেন + ক্লোরিন → ক্লোরোমিথেন + হাইড্রোজেন ক্লোরাইড
+English: Methane + Chlorine → Chloromethane + Hydrogen Chloride
+
+Reaction 2:
+CH3Cl + Cl2  → CH2Cl2 + HCl
+UV
+Bengali: ক্লোরোমিথেন + ক্লোরিন → ডাইক্লোরোমিথেন + হাইড্রোজেন ক্লোরাইড
+English: Chloromethane + Chlorine → Dichloromethane + Hydrogen Chloride
+
+Reaction 3:
+CH2Cl2 + Cl2  → CHCl3 + HCl
+UV
+Bengali: ডাইক্লোরোমিথেন + ক্লোরিন → ট্রাইক্লোরোমিথেন + হাইড্রোজেন ক্লোরাইড
+English: Dichloromethane + Chlorine → Trichloromethane + Hydrogen Chloride
+
+Reaction 4:
+CHCl3 + Cl2  → CCl4 + HCl
+UV
+Bengali: ট্রাইক্লোরোমিথেন + ক্লোরিন → টেট্রাক্লোরোমিথেন + হাইড্রোজেন ক্লোরাইড
+English: Trichloromethane + Chlorine → Tetrachloromethane + Hydrogen Chloride
+
+COMBUSTION OF METHANE
+
+Bengali: অক্সিজেনের সাথে দহন বিক্রিয়া: মিথেন বায়ুর অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড জলীয় বাষ্প এবং তাপশক্তি উৎপন্ন হয়। এই তাপশক্তি রান্নাবান্নার কাজে ব্যবহৃত হয়।
+English: Combustion reaction with oxygen: Methane reacts with oxygen in the air to produce carbon dioxide, water vapor, and heat. This heat energy is used for cooking.
+
+CH4 + 2O2 → CO2 + 2H2O + Heat
+Bengali: মিথেন + অক্সিজেন → কার্বন ডাই-অক্সাইড + পানি + তাপশক্তি
+English: Methane + Oxygen → Carbon Dioxide + Water + Heat
+
+UNSATURATED HYDROCARBONS
+
+Bengali: 11.4 অসম্পৃক্ত হাইড্রোকার্বন: অ্যালকিন ও অ্যালকাইন
+English: 11.4 Unsaturated Hydrocarbons: Alkenes and Alkynes
+Bengali: (Unsaturated Hydrocarbons: Alkenes and Alkynes)
+English: (Unsaturated Hydrocarbons: Alkenes and Alkynes)
+
+11.4.1 ALKENES
+Bengali: 11.4.1 অ্যালকিন (Alkenes)
+English: 11.4.1 Alkenes
+
+Bengali: যে জৈব যৌগের কার্বন শিকলে অন্তত একটি কার্বন-কার্বন দ্বিবন্ধন থাকে তাকে অ্যালকিন বলে। অ্যালকিনের সাধারণ সংকেত CnH2n। অ্যালকিনের নিম্নতর সদস্যগুলো (ইথিন, প্রোপিন ইত্যাদি)
+English: An alkene is an organic compound that has at least one carbon-carbon double bond in its carbon chain. The general formula of alkenes is CnH2n. Lower members of the alkene series include (ethene, propene, etc.).
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 273
+MAIN TOPICS: Alkenes, Alkene Nomenclature, Alkene Preparation, Alkene Reactions
+
+CHEMICAL EQUATIONS
+
+CH3-CH2Cl + NaOH → CH2=CH2 + NaCl + H2O
+(Ethyl chloride) + (Sodium hydroxide) → (Ethene) + (Sodium chloride) + (Water)
+
+CH3-CH2-OH  → CH2=CH2 + H2O
+    H2SO4
+(Ethanol)  →  (Ethene) + (Water)
+
+CH2=CH2 + H2  → CH3-CH3
+          Ni
+    180-200°C
+(Ethene) + (Hydrogen)  → (Ethane)
+Reaction Temperature: 180-200°C
+Catalyst: Ni (Nickel)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: অ্যালকিন (Alkene)
+Bengali Definition: অ্যালকিনে কার্বন-কার্বন দ্বিবন্ধন থাকে। এই দ্বিন্ধন থাকার কারণে এরা রাসায়নিকভাবে খুবই সক্রিয়। কারণ দ্বিবন্ধনের একটি বন্ধন শক্তিশালী হলেও অন্যটি তুলনামূলকভাবে দুর্বল। সাধারণত বিক্রিয়া করার সময় অ্যালকিনের দুর্বল বন্ধন ভেঙে যায় এবং সংযোজন বিক্রিয়ায় অংশগ্রহণ করে।
+English Translation: Alkenes have a carbon-carbon double bond. Due to this double bond, they are highly reactive chemically. Because, although one bond of the double bond is strong, the other is comparatively weak. Generally, during a reaction, the weak bond of an alkene breaks, and they participate in addition reactions.
+Related Chemical Equations: CH2=CH2 + H2  → CH3-CH3
+
+TERM OR PROPERTY NAME: অলিফিন (Olefin)
+Bengali Definition: হ্যালোজেনের (Cl2, Br₂) এর সঙ্গে বিক্রিয়ায় তৈলাক্ত পদার্থ উৎপন্ন করে বলে অ্যালকিনকে অনেক সময় অলিফিন (Olefin, Greek: Olefiant oil forming) বলে।
+English Translation: Because alkenes produce oily substances when reacted with halogens (Cl2, Br2), they are often called olefins (Olefin, Greek: Olefiant = oil forming).
+
+TERM OR PROPERTY NAME: অ্যালকিনের নামকরণ (Alkene Nomenclature)
+Bengali Definition: IUPAC পদ্ধতিতে অ্যালকেনের নামের শেষের এন (ane) বাদ দিয়ে ইন (ene) যোগ করে অ্যালকিনের নামকরণ করতে হয়।
+English Translation: In the IUPAC system, the name of an alkene is derived by replacing the 'ane' ending of the corresponding alkane with 'ene'.
+
+TERM OR PROPERTY NAME: হাইড্রোজেন সংযোজন (Hydrogenation)
+Bengali Definition: নিকেল প্রভাবকের উপস্থিতিতে ইথিনকে হাইড্রোজেনের সাথে 180-200°C তাপমাত্রায় উত্তপ্ত করলে ইথেন উৎপন্ন হয়।
+English Translation: In the presence of a nickel catalyst, heating ethene with hydrogen at 180-200°C produces ethane.
+
+TABLE: Alkane and Alkene Names and Formulas
+
+| অ্যালকেন (Alkane) | অ্যালকিন (Alkene) | অ্যালকিনের সংকেত |
+|---|---|---|
+| ইথেন (Ethane) | ইথিন (Ethene) | CH2=CH2 |
+| প্রোপেন (Propane) | প্রোপিন (Propene) | CH3-CH=CH2 |
+
+ALKANE AND ALKENE NOMENCLATURE
+Alkane names are modified by replacing "-ane" with "-ene" to name the corresponding alkene.
+
+ALKENE PREPARATION
+ETHYL CHLORIDE TO ETHENE
+Ethyl chloride reacts with aqueous sodium hydroxide to produce ethene, sodium chloride, and water.
+ETHANOL TO ETHENE
+Ethanol is heated with concentrated sulfuric acid to produce ethene and water.
+
+ALKENE CHEMICAL PROPERTIES
+Alkenes contain a carbon-carbon double bond. Due to the presence of this double bond, they are chemically very reactive. One bond of the double bond is strong while the other is relatively weak, which is prone to breaking. Alkenes typically undergo addition reactions.
+
+HYDROGEN ADDITION
+When ethene is heated with hydrogen at 180-200°C in the presence of nickel catalyst, ethane is produced.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: [Not explicitly stated, assumed to be within a larger chapter on reactions]
+PAGE NUMBER: 274
+MAIN TOPICS: Addition reactions, Polymerization, Oxidation
+
+CHEMICAL EQUATIONS:
+CH2=CH2 + H2O  → CH3-CH2OH
+    Temperature: High
+    Pressure: High
+    Catalyst: H3PO4
+
+CH2=CH2 + Br2 → CH2Br-CH2Br
+
+CH2 = CH2 + H2O + [O] → CH2OH-CH2OH
+    Catalyst: KMnO4, KOH
+
+nCH2 = CH2 → (-CH2-CH2-)n
+    Pressure: 1000 atm
+    Temperature: 200°C
+    Catalyst: Slight Oxygen
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+WATER ADDITION
+Bengali Definition: ফসফরিক এসিড প্রভাবকের উপস্থিতিতে ইথিন পানির বাষ্পের সাথে উচ্চ তাপ এবং উচ্চ চাপে বিক্রিয়া করে ইথানল উৎপন্ন করে।
+English Translation: In the presence of phosphoric acid catalyst, ethene reacts with water vapor under high temperature and pressure to produce ethanol.
+Related Chemical Equations: CH2=CH2 + H2O  → CH3-CH2OH
+
+BROMINE ADDITION
+Bengali Definition: ইথিনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করলে ইথিন লাল বর্ণের ব্রোমিন দ্রবণের সাথে বিক্রিয়া করে ডাইব্রোমো ইথেন উৎপন্ন করে। এই বিক্রিয়ায় ব্রোমিনের লাল বর্ণ অপসারিত হয়।
+English Translation: When red-colored bromine solution is added to ethene, ethene reacts with the bromine solution to produce dibromoethane. In this reaction, the red color of bromine disappears.
+Related Chemical Equations: CH2=CH2 + Br2 → CH2Br-CH2Br
+
+OXIDATION BY POTASSIUM PERMANGANATE
+Bengali Definition: ইথিনের মধ্যে পটাশিয়াম পারম্যাঙ্গানেট এর গোলাপি বর্ণের দ্রবণ এবং পটাশিয়াম হাইড্রোক্সাইড যোগ করলে ইথিলিন গ্লাইকল উৎপন্ন করে। এই বিক্রিয়ায় পটাশিয়াম পারম্যাঙ্গানেট এর গোলাপি বর্ণ অপসারিত হয়।
+English Translation: When a pink solution of potassium permanganate and potassium hydroxide are added to ethene, ethylene glycol is produced. In this reaction, the pink color of potassium permanganate disappears.
+Related Chemical Equations: CH2 = CH2 + H2O + [O] → CH2OH-CH2OH
+
+POLYMERIZATION OF ETHENE
+Bengali Definition: সামান্য পরিমাণ অক্সিজেনের উপস্থিতিতে 1000 atm চাপে ও 200°C তাপমাত্রায় ইথিনকে উত্তপ্ত করলে পলিথিন উৎপন্ন হয়। এই বিক্রিয়াকে পলিমারকরণ বিক্রিয়া বলে। এই বিক্রিয়ায় ইথিনকে মনোমার বলা হয়।
+English Translation: In the presence of a small amount of oxygen, heating ethene at 1000 atm pressure and 200°C produces polythene. This reaction is called a polymerization reaction. In this reaction, ethene is called a monomer.
+Related Chemical Equations: nCH2 = CH2 → (-CH2-CH2-)n
+
+SAFETY INFORMATION:
+None present on this page.
+
+REAL WORLD APPLICATION:
+The text mentions that alcohol is used as an environmentally friendly fuel and as a solvent in the petroleum industry.
+
+NOTE:
+The text also emphasizes that the reactions involving bromine and potassium permanganate are used to test the presence of unsaturated hydrocarbons like ethene.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: 11
+PAGE NUMBER: 275
+MAIN TOPICS: Alkynes, Chemical Reactions of Alkynes
+
+CHEMICAL EQUATIONS:
+CaC2 + 2H2O → CH≡CH + Ca(OH)2
+CH≡CH + 2H2  → CH3-CH3
+Catalyst: Ni
+Temperature: 180-200°C
+CH≡CH + 2Br2 → CHBr2-CHBr2
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+ALKYNES
+Bengali Definition: যে জৈব যৌগে কার্বন শিকলে অন্তত একটি কার্বন-কার্বন ত্রিবন্ধন (-C≡C-) থাকে তাকে অ্যালকাইন বলে।
+English Translation: An alkyne is an organic compound that contains at least one carbon-carbon triple bond (-C≡C-) in its carbon chain.
+Related Chemical Equations: [See above equations]
+
+ALKYNE NOMENCLATURE
+Bengali Definition: অ্যালকেনের নামের শেষের এন (ane) বাদ দিয়ে আইন (yne) যোগ করে অ্যালকাইনের নামকরণ করা হয়। যেমন: CH≡CH এর নাম ইথাইন, CH3-C≡CH এর নাম প্রোপাইন, CH3-C≡C-CH3 এর নাম বিউটাইন-2।
+English Translation: Alkynes are named by replacing the "ane" ending of the corresponding alkane with "yne." For example: CH≡CH is named ethyne, CH3-C≡CH is named propyne, and CH3-C≡C-CH3 is named but-2-yne.
+
+ALKYNE PREPARATION
+Bengali Definition: ক্যালসিয়াম কার্বাইড থেকে: ক্যালসিয়াম কার্বাইডের মধ্যে পানি যোগ করলে ইথাইন এবং ক্যালসিয়াম হাইড্রোক্সাইড উৎপন্ন হয়।
+English Translation: From Calcium Carbide: Adding water to calcium carbide produces ethyne and calcium hydroxide.
+
+ALKYNE REACTION WITH HYDROGEN
+Bengali Definition: তোমরা এর মাঝে জেনে গেছ, নিকেল প্রভাবকের উপস্থিতিতে ইথাইনকে হাইড্রোজেনের সাথে 180-200℃ তাপমাত্রায় উত্তপ্ত করলে ইথেন উৎপন্ন হয়।
+English Translation: You have already learned that in the presence of a nickel catalyst, heating ethyne with hydrogen at 180-200°C produces ethane.
+
+ALKYNE REACTION WITH BROMINE
+Bengali Definition: ইথাইনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করলে ইথাইন লাল বর্ণের ব্রোমিন দ্রবণের সাথে বিক্রিয়া করে টেট্রা ব্রোমো ইথেন উৎপন্ন করে। এই বিক্রিয়ায় ব্রোমিনের লাল বর্ণ অপসারিত হয়। ইথাইন যে অসম্পৃক্ত যৌগ তা এই বিক্রিয়া দ্বারা প্রমাণিত হয়।
+English Translation: When a red bromine solution is added to ethyne, ethyne reacts with the red bromine solution to produce tetrabromoethane.  The red color of bromine disappears during this reaction. This reaction proves that ethyne is an unsaturated compound.
+
+SAFETY ALERT
+Hazard Description: The text does not include explicit safety instructions for alkyne related experiments. General safety precautions should be considered if one were to perform these reactions.
+Required Precautions: Always wear appropriate PPE such as lab coats, gloves and eye protection.
+Emergency Procedures: Know the location of safety showers, eye-wash stations, and fire extinguishers in the laboratory.
+Protective Equipment: Lab coats, gloves, and safety goggles are essential when performing these reactions.
+
+
+CHAPTER TITLE: অ্যালকোহল, অ্যালডিহাইড ও ফ্যাটি এসিড / Alcohols, Aldehydes and Fatty Acids
+CHAPTER NUMBER: 11.5
+PAGE NUMBER: 276
+MAIN TOPICS: Alcohols, Aldehydes, Addition Reactions
+
+CHEMICAL EQUATIONS
+
+CH≡CH + H2O  → CH3CHO
+Conditions: 20% H₂SO₄, 2% HgSO₄, 80°C
+
+CH3-CH2Br + NaOH → CH3-CH2OH + NaBr
+Conditions: Δ
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ALCOHOL
+Bengali Definition: যে জৈব যৌগে হাইড্রক্সিল মূলক (-OH) বিদ্যমান থাকে তাকে অ্যালকোহল বলে।
+English Translation: An organic compound containing a hydroxyl (-OH) group is called an alcohol.
+Related Chemical Equations:
+CH3-OH (Methanol), CH3-CH2-OH (Ethanol), R-OH (General Alcohol formula)
+
+ALDEHYDE
+Bengali Definition: যে জৈব যৌগে অ্যালডিহাইড গ্রুপ (-CHO) বিদ্যমান থাকে তাকে অ্যালডিহাইড বলে।
+English Translation: An organic compound containing an aldehyde group (-CHO) is called an aldehyde.
+
+WATER ADDITION
+Bengali Definition:  ৪০°C তাপমাত্রায় ইথাইন এর মধ্যে 20% সালফিউরিক এসিড এবং 2% মারকিউরিক সালফেট দ্রবণ যোগ করলে ইথান্যাল উৎপন্ন হয়।
+English Translation: At 80°C, the addition of 20% sulfuric acid and 2% mercuric sulfate solution to ethyne produces ethanal.
+Related Chemical Equations:
+CH≡CH + H2O  → CH3CHO
+
+ALCOHOL NOMENCLATURE
+Bengali Definition: অ্যালকেনের নামের শেষের 'e' বাদ দিয়ে তাল (ol) যোগ করে অ্যালকোহলের নামকরণ করা হয়।
+English Translation: The name of an alcohol is formed by removing the 'e' from the name of the alkane and adding 'ol'.
+
+ALCOHOL PREPARATION
+
+EXPERIMENT TITLE: PREPARATION OF ETHANOL FROM ETHYL BROMIDE
+Purpose: To synthesize ethanol from ethyl bromide using a reaction with sodium hydroxide.
+Materials Required:
+   - Ethyl bromide (Bromoethane)
+   - Sodium hydroxide solution
+   - Heat source
+   - Reaction Vessel
+Safety Precautions:
+    - Wear safety goggles and gloves
+    - Work in a well-ventilated area
+    - Avoid direct contact with chemicals
+Procedure:
+    1. Add ethyl bromide to the reaction vessel.
+    2. Add the aqueous solution of sodium hydroxide to the vessel.
+    3. Heat the mixture, applying a delta symbol (Δ).
+    4. Observe the reaction for any changes.
+Expected Observations: Formation of ethanol and sodium bromide.
+Key Learning Points:  The reaction of ethyl bromide with sodium hydroxide leads to substitution and the formation of an alcohol.
+
+NOTE: This is not the complete textbook page, but extraction is done based on the image provided.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not explicitly stated
+PAGE NUMBER: 277
+MAIN TOPICS: Aldehyde Nomenclature, Aldehyde Preparation, Formalin, Fatty Acids
+
+CHEMICAL EQUATIONS
+
+CH≡CH + H2O → CH3CHO
+20% H2SO4, 2% HgSO4
+Temperature: 80°C
+Reactants: Ethyne, water
+Products: Ethanal
+
+DIAGRAMS AND ILLUSTRATIONS
+
+DIAGRAM TITLE: চিত্র 11.04: ফরমালিনে রক্ষিত বিভিন্ন মৃত প্রাণীদেহ। / Figure 11.04: Various dead animals preserved in formalin.
+Description: The image shows several glass jars of different shapes and sizes. Each jar contains a different preserved animal specimen, such as frogs, a lizard and a snake. They are immersed in a clear liquid, presumably formalin.
+Components:  Glass jars, preserved animal specimens, liquid formalin.
+Chemical Labels: None explicitly shown in the diagram but formalin is implied
+Safety Notes: Formalin is a toxic substance. Handle with gloves and avoid direct contact with skin.
+Purpose: To show examples of specimens preserved using formalin.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: অ্যালডিহাইড নামকরণ / Aldehyde Nomenclature
+Bengali Definition: অ্যালকেনের নামের শেষের 'e' বাদ দিয়ে অ্যাল (al) যোগ করে অ্যালডিহাইড এর নামকরণ করা হয়। যেমন: প্রোপান্যাল (CH3CH2CHO)। অ্যালডিহাইড শ্রেণির প্রথম সদস্যের নাম মিথান্যাল (H-CHO)
+English Translation: To name an aldehyde, drop the 'e' from the corresponding alkane name and add 'al'. For example, propanal (CH3CH2CHO). The first member of the aldehyde group is methanal (H-CHO).
+Related Chemical Equations: None
+
+TERM OR PROPERTY NAME: ফরমালিন (Formalin)
+Bengali Definition: ফরমালডিহাইড (মিথান্যাল) এর 40% জলীয় দ্রবণকে ফরমালিন বলে। ফরমালিনে 40 ভাগ মিথান্যাল আর 60 ভাগ পানি থাকে। গবেষণাগারে ফরমালিন এর ব্যাপক ব্যবহার রয়েছে। বিভিন্ন মৃত প্রাণীদেহ সংরক্ষণ করার জন্য ফরমালিন ব্যবহার করা হয়।
+English Translation: A 40% aqueous solution of formaldehyde (methanal) is called formalin. Formalin contains 40 parts methanal and 60 parts water. Formalin has widespread use in laboratories. It is used to preserve various dead animal bodies.
+Related Chemical Equations: None
+Examples: Used for preservation of dead animals
+
+TERM OR PROPERTY NAME: জৈব এসিড বা ফ্যাটি এসিড (Fatty Acid)
+Bengali Definition: যে জৈব যৌগে কার্বক্সিল গ্রুপ (-COOH) বিদ্যমান থাকে তাকে জৈব এসিড বা ফ্যাটি এসিড বলে। জৈব এসিড এর সাধারণ সংকেত CnH2n+1COOH। এটাকে সংক্ষেপে R-COOH দিয়ে প্রকাশ করা হয়। জৈব এসিড এর সাধারণ সংকেত CnH2n+1COOHI
+English Translation: An organic compound that contains a carboxyl group (-COOH) is called an organic acid or fatty acid. The general formula for organic acids is CnH2n+1COOH. It can be written in short form as R-COOH. The general formula for fatty acids is CnH2n+1COOHI
+Related Chemical Equations: None
+Examples: None given
+
+ALDEHYDE PREPARATION
+
+Reaction Conditions:
+    Temperature: 80°C
+    Reactants: Ethyne, water
+    Catalyst: 20% H2SO4, 2% HgSO4
+    Product: Ethanal
+
+SAFETY ALERT
+Hazard Description: Formalin is toxic and irritating to the skin, eyes, and respiratory system.
+Required Precautions: Handle in a well-ventilated area. Wear gloves, safety glasses, and appropriate protective clothing. Avoid contact with skin and eyes.
+Emergency Procedures: If contact occurs, flush with plenty of water. Seek medical attention immediately.
+Protective Equipment: Gloves, safety glasses, protective clothing, fume hood if working with large volumes.
+
+
+CHAPTER TITLE: জৈব রসায়ন / Organic Chemistry
+CHAPTER NUMBER: 11
+PAGE NUMBER: 278
+MAIN TOPICS: Fatty Acids, Chemical Reactions, Preparation of Fatty Acids
+
+1.  Chemical Equations
+
+    CH3-CHO + [O]  → CH3-COOH
+    ইথান্যাল  জায়মান অক্সিজেন  ইথানয়িক এসিড
+    
+     K2Cr2O7 + H2SO4  
+    
+    CH3COOH + NaOH → CH3COONa + H2O
+    ইথানয়িক এসিড সোডিয়াম হাইড্রোক্সাইড সোডিয়াম ইথানয়েট পানি
+
+2.  Chemical Properties and Definitions
+    
+    FATTY ACIDS
+    Bengali Definition: সকল ফ্যাটি এসিড হলো দুর্বল এসিড। ফ্যাটি এসিডসমূহ জলীয় দ্রবণে সামান্য পরিমাণে আয়নিত হয়।
+    English Translation: All fatty acids are weak acids. Fatty acids ionize slightly in aqueous solutions.
+    Related Chemical Equations:
+    CH3COOH + NaOH → CH3COONa + H2O
+
+    VINEGAR
+    Bengali Definition: ইথানয়িক এসিডের 4% থেকে 10% জলীয় দ্রবণকে ভিনেগার (Vinegar) বলে।
+    English Translation: A 4% to 10% aqueous solution of ethanoic acid is called vinegar.
+
+3. FATTY ACID PREPARATION
+
+    FROM ETHANAL:
+    Bengali: ইথান্যালের মধ্যে লঘু সালফিউরিক এসিড ও পটাশিয়াম ডাইক্রোমেট যোগ করলে ইথানয়িক এসিড উৎপন্ন হয়। (প্রথমে পটাশিয়াম ডাইক্রমেট এবং সালফিউরিক এসিড বিক্রিয়া করে যে জায়মান অক্সিজেন তৈরি করে সেই জায়মান অক্সিজেন এবং ইথান্যাল বিক্রিয়া করে ইথানয়িক এসিড উৎপন্ন করে।)
+     English: When dilute sulfuric acid and potassium dichromate are added to ethanal, ethanoic acid is produced. (First, potassium dichromate and sulfuric acid react to produce nascent oxygen, and then nascent oxygen and ethanal react to produce ethanoic acid.)
+
+4. CHEMICAL PROPERTIES OF FATTY ACIDS
+
+    ACIDIC NATURE:
+    Bengali: অম্লীয় ধর্ম: সকল ফ্যাটি এসিড হলো দুর্বল এসিড। ফ্যাটি এসিডসমূহ জলীয় দ্রবণে সামান্য পরিমাণে আয়নিত হয়। ফ্যাটি এসিডের জলীয় দ্রবণ নীল লিটমাসকে লাল করে।
+    English: Acidic Property: All fatty acids are weak acids. Fatty acids are slightly ionized in aqueous solutions. The aqueous solution of a fatty acid turns blue litmus red.
+    
+    REACTION WITH BASE:
+    Bengali: ফ্যাটি এসিড ক্ষারের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে। যেমন, ইথানয়িক এসিড সোডিয়াম হাইড্রোক্সাইডের জলীয় দ্রবণের সাথে বিক্রিয়া করে সোডিয়াম ইথানয়েট লবণ ও পানি উৎপন্ন করে।
+    English: Fatty acids react with bases to form salt and water. For example, ethanoic acid reacts with an aqueous solution of sodium hydroxide to form sodium ethanoate salt and water.
+
+5.  REAL-WORLD APPLICATIONS
+
+    VINEGAR USES:
+    Bengali: ভিনেগার খাবার তৈরিতে ও খাদ্য সংরক্ষক হিসেবে কাজ করে। এ দ্রবণ মৃদু অম্লীয় বলে খাদ্যে ব্যবহার করলে খাদ্যে ব্যাকটেরিয়া বা ইস্ট জন্মাতে পারে না। ফলে খাদ্য পচে না।
+    English: Vinegar is used in food preparation and as a food preservative. This solution is mildly acidic, so when used in food, it prevents bacteria or yeast from growing. As a result, the food does not rot.
+
+6.  HYDROCARBONS TO ALCOHOLS, ALDEHYDES AND FATTY ACIDS
+
+    INTRODUCTION
+    Bengali: তোমরা বিভিন্ন প্রক্রিয়ায় অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিড প্রস্তুতির কথা জেনেছ। পেট্রোলিয়ামের প্রধান উপাদান হচ্ছে হাইড্রোকার্বন (অ্যালকেন, অ্যালকিন ও অ্যালকাইন) এবং এই হাইড্রোকার্বন থেকেও অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিড প্রস্তুত করা যায়।
+    English: You have learned about the preparation of alcohols, aldehydes, and organic acids through various processes. The main component of petroleum is hydrocarbons (alkanes, alkenes, and alkynes), and alcohols, aldehydes, and organic acids can also be prepared from these hydrocarbons.
+
+     HALOGENATION OF ALKANES
+     Bengali: (i) সূর্যালোকের উপস্থিতিতে সম্পৃক্ত হাইড্রোকার্বন বা অ্যালকেন হ্যালোজেনের সাথে বিক্রিয়া করে অ্যালকাইল হ্যালাইড উৎপন্ন করে। তোমরা ইতোমধ্যে জেনেছ, সূর্যালোকের অতিবেগুনি রশ্মির উপস্থিতিতে কীভাবে মিথেনের সাথে ক্লোরিন বিক্রিয়া করছে।
+     English: (i) In the presence of sunlight, saturated hydrocarbons or alkanes react with halogens to form alkyl halides. You already know how methane reacts with chlorine in the presence of ultraviolet rays from sunlight.
+
+     REACTION OF ALKENES WITH HYDROGEN HALIDES
+     Bengali: হাইড্রোজেন পার-অক্সাইডের উপস্থিতিতে অ্যালকিন হাইড্রোজেন ব্রোমাইডের সাথে বিক্রিয়া করে অ্যালকাইল ব্রোমাইড উৎপন্ন করে।
+     English: In the presence of hydrogen peroxide, alkenes react with hydrogen bromide to form alkyl bromides.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 279
+MAIN TOPICS: Alcohol production, Reactions of Alcohols, Uses of Alcohols, Aldehydes and Organic Acids
+
+CHEMICAL EQUATIONS:
+
+K2Cr2O7 + H2SO4 → Oxidation of alcohol to aldehyde/ketone then carboxylic acid
+(Note: This equation is implied, not explicit)
+
+Alkene + H2O  → Alcohol
+Temperature: 300°C
+Pressure: 60 atm
+Catalyst: Phosphoric acid
+
+Alkyne (Ethyne) + H2O → Aldehyde
+Catalyst: 2% HgSO4 + 20% H2SO4
+Note: HgSO4 is toxic and is discouraged in industrial use
+
+Alkane + O2 → Carboxylic Acid
+Temperature: High
+Pressure: High
+
+ALCOHOL, ALDEHYDES AND ORGANIC ACIDS
+
+TERM OR PROPERTY NAME: অ্যালকোহল (Alcohol)
+Bengali Definition: মিথানল বিষাক্ত রাসায়নিক পদার্থ। মিথানল মূলত অন্য রাসায়নিক পদার্থ প্রস্তুত করতে ব্যবহৃত হয়। রাসায়নিক শিল্পে ইথানয়িক এসিড, বিভিন্ন জৈব এসিডের এস্টার প্রস্তুত করা হয়।
+English Translation: Methanol is a toxic chemical substance. Methanol is mainly used to produce other chemical substances. In the chemical industry, ethanoic acid and esters of various organic acids are produced.
+
+TERM OR PROPERTY NAME: ইথানল (Ethanol)
+Bengali Definition: ইথানলকে প্রধানত পারফিউম, কসমেটিকস ও ওষুধ শিল্পে দ্রাবক হিসেবে ব্যবহার করা হয়। ফার্মাসিউটিক্যাল গ্রেডের ইথানলকে ওষুধ শিল্পে এবং রেকটিফাইড স্পিরিটকে হোমিও ওষুধে ব্যবহার করা হয়।
+English Translation: Ethanol is mainly used as a solvent in perfumes, cosmetics and the pharmaceutical industry. Pharmaceutical grade ethanol is used in the pharmaceutical industry and rectified spirit is used in homeopathic medicine.
+
+TERM OR PROPERTY NAME: রেকটিফাইড স্পিরিট (Rectified Spirit)
+Bengali Definition: ইথানলের 96% জলীয় দ্রবণকে রেকটিফাইড স্পিরিট (rectified spirit) বলে।
+English Translation: 96% aqueous solution of ethanol is called rectified spirit.
+
+TERM OR PROPERTY NAME: মেথিলেটেড স্পিরিট (Methylated Spirit)
+Bengali Definition: ওষুধ ও খাদ্য শিল্প ব্যতীত অন্য শিল্পে রেকটিফাইড স্পিরিট সামান্য মিথানল যোগে বিষাক্ত করে ব্যবহার করা হয়। একে মেথিলেটেড স্পিরিট (methylated spirit) বলে। কাঠ এবং ধাতুর তৈরি আসবাবপত্র বার্নিশ করার জন্য মেথিলেটেড স্পিরিট ব্যবহার করা হয়।
+English Translation: In industries other than food and medicine, rectified spirit is made poisonous by adding a little methanol. This is called methylated spirit. Methylated spirit is used to varnish wooden and metal furniture.
+
+TERM OR PROPERTY NAME: গাঁজন (Fermentation)
+Bengali Definition: স্টার্চ (চাল, গম, আলু ও ভুট্টা) থেকে গাঁজন (Fermentation) প্রক্রিয়ায় অ্যালকোহল প্রস্তুত করা হয়। এছাড়া চিনি শিল্পের উপজাত উৎপাদ (by-product) চিটাগুড় থেকে একই প্রক্রিয়ায় অ্যালকোহল (ইথানল) পাওয়া যায়।
+English Translation: Alcohol is produced from starch (rice, wheat, potatoes, and corn) through fermentation. In addition, alcohol (ethanol) is obtained from molasses, a by-product of the sugar industry, through the same process.
+
+TERM OR PROPERTY NAME: অ্যালডিহাইড (Aldehyde)
+Bengali Definition: অ্যালডিহাইড এর পলিমারকরণ বিক্রিয়ায় বিভিন্ন প্লাস্টিক দ্রব্য তৈরি করা হয়। ফরমালডিহাইড (মিথান্যাল) এর জলীয় দ্রবণকে অতি নিম্ন চাপে উত্তপ্ত করলে ডেলরিন পলিমার
+English Translation: Various plastic materials are made by polymerization of aldehydes.  Delrin polymer is formed when an aqueous solution of formaldehyde (methanal) is heated at very low pressure.
+
+EXAMPLES:
+    - Ethanol used as a motor fuel in Brazil
+    - Ethanol produced in Keru & Co. in Bangladesh
+    - Use of alcohol as a fuel reduces pressure on fossil fuels
+    - Use of alcohol reduces pollution
+
+SAFETY INFORMATION:
+    - SAFETY ALERT: Methanol is a poisonous substance
+    - SAFETY ALERT: HgSO4 is poisonous and discouraged in industrial use.
+
+
+CHAPTER TITLE: পলিমার (Polymer) / Polymer
+CHAPTER NUMBER: 11
+PAGE NUMBER: 280
+MAIN TOPICS: Polymerization, Addition Polymer, Monomer
+
+11.7 পলিমার (Polymer)
+
+যে বিক্রিয়ায় কোনো পদার্থের অনেকগুলো ক্ষুদ্র অণু পরস্পর যুক্ত হয়ে বৃহৎ অণু গঠন করে সেই বিক্রিয়াকে পলিমারকরণ বিক্রিয়া (Polymerization Reaction) বলে। পলিমারকরণ বিক্রিয়ায় যে ছোট অণুগুলো অংশগ্রহণ করে তাদের প্রত্যেকটিকে এক একটি মনোমার (monomer) বলে এবং বিক্রিয়ার ফলে যে বৃহৎ অণু গঠিত হয় তাকে পলিমার অণু বলে। দুইটি মনোমার একসাথে যুক্ত হলে তাকে বলে ডাইমার (dimer), তিনটি মনোমার একসাথে যুক্ত হয়ে তৈরি হয় ট্রাইমার (trimer)। এভাবে অনেকগুলো মনোমার এক সাথে যুক্ত হয়ে পলিমারের সৃষ্টি হয়। আমাদের খাদ্যের একটি প্রধান উপাদান প্রোটিন। এই প্রোটিনও অ্যামাইনো এসিডের একটি পলিমার।
+[English Translation: The reaction in which many small molecules of a substance join together to form a large molecule is called polymerization reaction. In a polymerization reaction, the small molecules that participate are each called a monomer, and the large molecule formed as a result of the reaction is called a polymer molecule. When two monomers join together, it is called a dimer, and when three monomers join together, it is called a trimer. In this way, many monomers join together to form a polymer. Protein, a major component of our food, is also a polymer of amino acids.]
+
+পলিমারকে বিভিন্নভাবে শ্রেণিবিভাগ করা যেতে পারে। তবে গঠন প্রকৃতি অনুযায়ী পলিমার দুই প্রকার, যথ- সংযোজন বা যুত পলিমার এবং ঘনীভবন পলিমার।
+[English Translation: Polymers can be classified in various ways. However, according to the structure, polymers are of two types: addition or chain-growth polymer, and condensation polymer.]
+
+11.7.1 সংযোজন বা যুত পলিমার (Addition Polymer)
+
+যে পলিমারকরণ বিক্রিয়ায় মনোমার অণুগুলো সরাসরি একে অপরের সাথে যুক্ত হয়ে দীর্ঘ শিকলবিশিষ্ট পলিমার গঠন করে তাকে সংযোজন পলিমারকরণ বিক্রিয়া বলা হয়। সংযোজন পলিমারকরণ বিক্রিয়ায় গঠিত পলিমারকে সংযোজন পলিমার বলে।
+[English Translation: The polymerization reaction in which monomer molecules directly join with each other to form a long-chain polymer is called addition polymerization reaction. The polymer formed in an addition polymerization reaction is called an addition polymer.]
+
+সংযোজন পলিমারকরণ বিক্রিয়া: সামান্য পরিমাণ অক্সিজেনের উপস্থিতিতে 1000 atm চাপে ও 200°C তাপমাত্রায় ইথিনকে উত্তপ্ত করলে পলিথিন উৎপন্ন হয়। এই বিক্রিয়াকে সংযোজন পলিমারকরণ বিক্রিয়া বলে। এই বিক্রিয়ায় ইথিনকে মনোমার বলা হয়।
+[English Translation: Addition Polymerization Reaction: When ethene is heated at 200°C at 1000 atm pressure in the presence of a small amount of oxygen, polythene is produced. This reaction is called addition polymerization. In this reaction, ethene is called a monomer.]
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+POLYMERIZATION REACTION
+Bengali Definition: যে বিক্রিয়ায় কোনো পদার্থের অনেকগুলো ক্ষুদ্র অণু পরস্পর যুক্ত হয়ে বৃহৎ অণু গঠন করে সেই বিক্রিয়াকে পলিমারকরণ বিক্রিয়া বলে।
+English Translation: The reaction in which many small molecules of a substance join together to form a large molecule is called polymerization reaction.
+
+MONOMER
+Bengali Definition: পলিমারকরণ বিক্রিয়ায় যে ছোট অণুগুলো অংশগ্রহণ করে তাদের প্রত্যেকটিকে এক একটি মনোমার বলে।
+English Translation: In a polymerization reaction, the small molecules that participate are each called a monomer.
+
+DIMER
+Bengali Definition: দুইটি মনোমার একসাথে যুক্ত হলে তাকে বলে ডাইমার।
+English Translation: When two monomers join together, it is called a dimer.
+
+TRIMER
+Bengali Definition: তিনটি মনোমার একসাথে যুক্ত হয়ে তৈরি হয় ট্রাইমার।
+English Translation: When three monomers join together, it is called a trimer.
+
+ADDITION POLYMER
+Bengali Definition: যে পলিমারকরণ বিক্রিয়ায় মনোমার অণুগুলো সরাসরি একে অপরের সাথে যুক্ত হয়ে দীর্ঘ শিকলবিশিষ্ট পলিমার গঠন করে তাকে সংযোজন পলিমারকরণ বিক্রিয়া বলা হয়।
+English Translation: The polymerization reaction in which monomer molecules directly join with each other to form a long-chain polymer is called addition polymerization reaction.
+
+ADDITION POLYMERIZATION REACTION
+Bengali Definition: সামান্য পরিমাণ অক্সিজেনের উপস্থিতিতে 1000 atm চাপে ও 200°C তাপমাত্রায় ইথিনকে উত্তপ্ত করলে পলিথিন উৎপন্ন হয়। এই বিক্রিয়াকে সংযোজন পলিমারকরণ বিক্রিয়া বলে।
+English Translation: When ethene is heated at 200°C at 1000 atm pressure in the presence of a small amount of oxygen, polythene is produced. This reaction is called addition polymerization.
+
+CHEMICAL EQUATIONS
+(Ethene) → (Polythene)
+Temperature: 200°C
+Pressure: 1000 atm
+Catalyst: Small amount of Oxygen
+
+OTHER INFORMATION
+
+DELRIN POLYMER: Used to make chairs, dining tables, buckets, etc.
+UREA-FORMALDEHYDE RESIN: Produced from the condensation polymerization of formaldehyde and urea. Used to make household plates, glasses, mugs, etc.
+ORGANIC ACIDS: Weaker than inorganic acids, edible. Examples include citric acid (lemon juice), tartaric acid (tamarind), and lactic acid (yogurt).
+ETHANOIC ACID: A 4% to 10% aqueous solution is called vinegar, used for preserving sauces and pickles.
+PROTEIN: A major component of food, a polymer of amino acids.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossils
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 281
+MAIN TOPICS: Polymerization, Condensation Polymer, Nylon Production
+
+CHEMICAL EQUATIONS:
+
+nCH2 = CH2 → (-CH2-CH2-)n
+    Ethylene       Polyethylene
+    1000 atm
+    200°C, Slight Oxygen
+
+nCH2=CH(CH3) → [-CH2-CH(CH3)-]n
+    Propene     Polypropylene
+    140 atm
+    120°C, Titanium Chloride (Catalyst)
+
+nCH2 = CHCl → -(CH2-CHCl)-n
+    Vinyl Chloride     Polyvinyl Chloride
+    High Pressure, High Temperature
+    Organic Peroxide (Catalyst)
+
+nHOOC-(CH2)4-COOH + nNH2-(CH2)6-NH2 → (-OC-(CH2)4-CONH-(CH2)6-NH-)n + 2nH2O
+    Adipic Acid         Hexamethylene Diamine             Nylon 6:6             Water
+    TiO₂
+    Δ
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME
+Bengali Definition: যে পলিমারকরণ বিক্রিয়ায় মনোমার অণুসমূহ পরস্পরের সাথে যুক্ত হবার সময় ক্ষুদ্র ক্ষুদ্র অণু যেমন: H₂O, CO₂ ইত্যাদি অপসারণ করে সেই পলিমারকরণ বিক্রিয়াকে ঘনীভবন পলিমারকরণ বিক্রিয়া বলা হয়।
+English Translation: The polymerization reaction in which monomer molecules combine and small molecules like H₂O, CO₂ etc. are removed is called condensation polymerization reaction.
+Related Chemical Equations: Nylon 6:6 production reaction.
+Examples: Nylon 6:6
+
+TERM OR PROPERTY NAME: পলিপ্রোপিন / Polypropylene
+Bengali Definition: প্রোপিনকে টাইটানিয়াম ক্লোরাইডের উপস্থিতিতে 140 atm চাপে 120°C তাপমাত্রায় উত্তপ্ত করলে পলিপ্রোপিন উৎপন্ন হয়। পলিপ্রোপিন পলিথিনের চেয়ে মজবুত ও হালকা এবং উচ্চ তাপ সহ্য করতে পারে, তাই পলিপ্রোপিন দিয়ে দড়ি, পাইপ, কার্পেট প্রভৃতি তৈরি করা যায়।
+English Translation: When propene is heated at 120°C at 140 atm pressure in the presence of titanium chloride, polypropylene is produced. Polypropylene is stronger and lighter than polyethylene and can withstand high temperatures, so polypropylene is used to make ropes, pipes, carpets, etc.
+Related Chemical Equations:  nCH2=CH(CH3) → [-CH2-CH(CH3)-]n
+Examples: ropes, pipes, carpets
+
+TERM OR PROPERTY NAME: পলিভিনাইল ক্লোরাইড বা পিভিসি / Polyvinyl Chloride or PVC
+Bengali Definition: ভিনাইল ক্লোরাইডকে জৈব পার-অক্সাইডের উপস্থিতিতে উচ্চ চাপ এবং উচ্চ তাপমাত্রায় উত্তপ্ত করলে পলিভিনাইল ক্লোরাইড বা পিভিসি উৎপন্ন হয়। বিভিন্ন ধরণের পাইপ, তার এমনকি মেডিকেল ডিভাইস তৈরিতে এই পলিমার বহুল ব্যবহৃত।
+English Translation: When vinyl chloride is heated at high pressure and high temperature in the presence of an organic peroxide, polyvinyl chloride or PVC is produced. This polymer is widely used in making various types of pipes, wires, and even medical devices.
+Related Chemical Equations: nCH2 = CHCI → -(CH2-CHCl)-n
+Examples: pipes, wires, medical devices.
+
+TERM OR PROPERTY NAME: ঘনীভবন পলিমার / Condensation Polymer
+Bengali Definition: যে পলিমারকরণ বিক্রিয়ায় মনোমার অণুসমূহ পরস্পরের সাথে যুক্ত হবার সময় ক্ষুদ্র ক্ষুদ্র অণু যেমন: H₂O, CO₂ ইত্যাদি অপসারণ করে সেই পলিমারকরণ বিক্রিয়াকে ঘনীভবন পলিমারকরণ বিক্রিয়া বলা হয়।
+English Translation: The polymerization reaction in which monomer molecules combine and small molecules like H₂O, CO₂ etc. are removed is called condensation polymerization.
+Related Chemical Equations: Nylon 6:6 production reaction.
+Examples: Nylon 6:6
+
+TERM OR PROPERTY NAME: নাইলন 6:6 / Nylon 6:6
+Bengali Definition:  টাইটানিয়াম অক্সাইড এর উপস্থিতিতে হেক্সমেথিলিন ডাই-অ্যামিন এর সাথে অ্যাডিপিক এসিড উত্তপ্ত করলে নাইলন 6:6 উৎপন্ন হয়।
+English Translation: Nylon 6:6 is produced when adipic acid is heated with hexamethylene diamine in the presence of titanium oxide.
+Related Chemical Equations: nHOOC-(CH2)4-COOH + nNH2-(CH2)6-NH2 → (-OC-(CH2)4-CONH-(CH2)6-NH-)n + 2nH2O
+Examples: Not given on this page.
+
+SAFETY ALERT:
+Hazard Description:  The text does not directly specify safety hazards for the reactions but since it involves high temperatures, high pressure, organic peroxides, and titanium chloride there is potential for fire, explosions, and exposure to toxic substances if proper safety measures are not followed.
+Required Precautions: Perform the reactions in a well-ventilated area. Use appropriate protective equipment like gloves, goggles and lab coats.
+Emergency Procedures: In case of any accidents such as fire or chemical exposure, immediately take appropriate measures.
+Protective Equipment: Gloves, goggles and lab coats must be used while performing the experiment.
+
+EXPERIMENTAL PROCEDURES:
+
+NYLON 6:6 PRODUCTION
+Purpose: To synthesize Nylon 6:6 through condensation polymerization.
+Materials Required: Adipic acid, hexamethylene diamine, titanium oxide (catalyst).
+Safety Precautions: Handle chemicals with care, wear gloves and goggles. Reactions might be exothermic. Use proper ventilation.
+Procedure:
+ 1. Mix adipic acid and hexamethylene diamine.
+ 2. Add titanium oxide as a catalyst.
+ 3. Heat the mixture.
+ 4.  Observe the production of Nylon 6:6 polymer and water as a byproduct.
+Expected Observations: Formation of a solid nylon polymer and release of water vapor.
+Key Learning Points: Condensation polymerization involves the removal of small molecules (like water) during polymer formation.
+
+DIAGRAMS AND ILLUSTRATIONS:
+(There are no diagrams on this page, only chemical equations and formulas)
+
+QUESTIONS AND PROBLEMS:
+(No questions are included on this page.)
+
+
+CHAPTER TITLE: প্রাকৃতিক পলিমার / Natural Polymer
+CHAPTER NUMBER: 11
+PAGE NUMBER: 262
+MAIN TOPICS: Natural polymers, Synthetic polymers, Polymer properties and uses
+
+NATURAL POLYMER
+Naturally, many polymers are produced. For example, cellulose and starch from plants are both natural polymers, which are made from numerous glucose molecules.
+Protein is a polymer of amino acids. Rubber resin from the rubber tree is a natural polymer. Rubber cultivation is taking place in the hilly areas of Chittagong, Cox's Bazar, Habiganj, Sylhet and Tangail in our country. Much more plastic is synthesized in industrial factories than natural rubber.
+
+TABLE 11.03: DIFFERENT TYPES OF POLYMERS, THEIR PROPERTIES, AND USES
+POLYMER NAME
+MONOMER FORMULA
+POLYMER PROPERTIES
+USES
+POLYETHENE
+CH2=CH2
+Not easily cut, durable
+Plastic bags, plastic sheets
+POLYPROPYLENE
+CH2=CH-CH3
+Not easily cut, durable
+Plastic rope, plastic bottles
+POLYVINYL CHLORIDE (PVC)
+CH2=CHCl
+Hard, rigid and less flexible than polyethylene
+Water pipes, electrical insulator
+NYLON 6:6
+HOOC-(CH2)4-COOH
+&
+H2N-(CH2)6-NH2
+Shiny, durable, flexible
+Artificial cloth, rope, toothbrushes
+
+SYNTHETIC POLYMER OR PLASTIC
+Plastics are hard, light, cheap, and can come in any desired color. Plastics can be melted and molded into any shape. The word "plastic" comes from the Greek word "Plastikos," which means "able to be molded." Many people recycle discarded plastic parts to make various things. This is dangerous because, when plastic materials are burned or melted with heat, many toxic gases are produced. Plastic materials are widely used to make food containers, packaging, pens, chairs, tables, vehicle parts, water tanks, tubs, buckets, mugs, and other items.
+---
+
+CHAPTER TITLE: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossil Fuels
+CHAPTER NUMBER: 11
+PAGE NUMBER: 283
+MAIN TOPICS: Plastic Usage, Environmental impact, Organic and Inorganic Compounds
+
+11.7.3 প্লাস্টিক ব্যবহারের সুবিধা ও অসুবিধা / 11.7.3 Advantages and Disadvantages of Plastic Use
+
+বর্তমান বিশ্বে ব্যাপক হারে প্লাস্টিক জাতীয় কৃত্রিম পলিমার ব্যবহার করা হচ্ছে। এ জাতীয় পদার্থ ব্যবহারের প্রচুর সুবিধা রয়েছে। অপরদিকে, প্লাস্টিক জাতীয় পদার্থ আমাদের পরিবেশের জন্য হুমকিস্বরূপ। বর্তমানে এ জাতীয় পদার্থ আমাদের দৈনন্দিন জীবনের সাথে নিবিড়ভাবে জড়িয়ে গেছে। তাই এগুলোকে বর্জনও করতে পারছি না। সেক্ষেত্রে এগুলোর ব্যবহার সঠিক উপায়ে করতে পারলে আমরা এ সকল অসুবিধা থেকে কিছুটা মুক্তি পেতে পারি।
+[English Translation: Currently, synthetic polymers like plastics are widely used. These materials provide many benefits. However, plastic materials pose a threat to our environment. Currently these substances are closely related to our daily lives, hence we are not able to avoid them. In that case, if we can use these substances in the correct manner, we can get some relief from all these problems.]
+
+সুবিধা: প্লাস্টিক জাতীয় পদার্থ থেকে আমাদের নিত্যপ্রয়োজনীয় জিনিস যেমন- থালাবাসন, বিভিন্ন ধরনের পাইপ, বিভিন্ন কন্টেইনার, ব্যাগসহ আরও অনেক কিছু প্রস্তুত করা হয়। এগুলো তৈরিতে আগে সম্পূর্ণরূপে ধাতু, প্রাকৃতিক তন্তু যেমন- তুলা, পাট, রেশম, কাঠ ইত্যাদি ব্যবহার করা হতো। প্লাস্টিক এদের তুলনায় অনেক পাতলা। প্লাস্টিককে ইচ্ছা অনুযায়ী রূপ দিয়ে আমরা বিভিন্ন আকারের জিনিস তৈরি করতে পারি। তাতে বিভিন্ন ধরনের রং মিশিয়ে আকর্ষণীয় করে তুলতে পারি।
+[English Translation: Advantages: Plastic materials are used to manufacture many of our necessities such as dishes, various types of pipes, various containers, bags, etc. Before, these things were made of metals, natural fibers like cotton, jute, silk, wood, etc. Plastics are much lighter compared to them. We can shape plastics as we want and can make products of different sizes. Different types of colors can be mixed to make them attractive.]
+
+অসুবিধা: প্লাস্টিক জাতীয় দ্রব্যের সবচেয়ে বড় অসুবিধা হলো তা পরিবেশের জন্য ক্ষতিকর। আমরা যে সকল জিনিস মাটিতে বা পানিতে ফেলি সেগুলো ব্যাকটেরিয়া বা বায়ুমণ্ডলের অক্সিজেন বা মাটি বা পানিতে অন্য পদার্থের সাথে বিক্রিয়া করে ক্ষয়প্রাপ্ত হয় এবং পরিবেশের ভারসাম্য বজায় রাখে। কিন্তু প্লাস্টিক দ্রব্য যেমন ব্যাকটেরিয়া দ্বারা ক্ষয়প্রাপ্ত হয় না, তেমনই অন্যান্য পদার্থের সাথেও বিক্রিয়া করে না। তাই মাটিতে বা পানিতে ফেললে তা একই রকম থেকে যায়। ফলে মাটি ও পানির দূষণ ঘটায়। সেই সাথে পরিবেশেরও ভারসাম্য নষ্ট হয়।
+[English Translation: Disadvantages: The biggest disadvantage of plastics is that they are harmful to the environment. Things that we throw into soil or water are degraded by bacteria or react with atmospheric oxygen or with other substances in water and soil and maintain balance in the environment. But plastics are not degraded by bacteria nor do they react with other substances. Therefore, when thrown into the soil or water, they remain as they are. This causes pollution of soil and water. Along with that, it disrupts the balance of the environment.]
+
+আমাদের করণীয়: প্লাস্টিক জাতীয় দ্রব্যকে যেখানে-সেখানে ফেলে না দিয়ে তাকে সংরক্ষণ করে আবার প্রক্রিয়াজাত (recycling) করে পুনরায় ব্যবহার করা উচিত। অন্যদিকে কাঠ, ধাতু, প্রাকৃতিক তন্তু ব্যবহারের পরিমাণও আমাদের বাড়াতে হবে। বিজ্ঞানীরা পচনশীল প্লাস্টিক দ্রব্য তৈরি করার চেষ্টা করছেন এবং ইতোমধ্যে তারা অনেক ক্ষেত্রে সফলও হয়েছেন। তাই আশা করা যায় অদূর ভবিষ্যতে বাজারে বর্তমানে ব্যবহৃত প্লাস্টিক দ্রব্যের পরিবর্তে পচনশীল প্লাস্টিকের তৈরি দ্রব্যসামগ্রী পাওয়া যাবে।
+[English Translation: What we should do: Instead of randomly disposing of plastic products, they should be preserved and recycled. Moreover, we should increase the usage of wood, metal, and natural fibers. Scientists are trying to produce biodegradable plastic products and have already become successful in many cases. Thus, it is expected that in the near future, biodegradable plastic products will replace the plastic products currently used in the market.]
+
+11.7.4 জৈব ও অজৈব যৌগের পার্থক্য / 11.7.4 Differences between Organic and Inorganic Compounds
+
+এ অধ্যায়ে তোমরা যে সকল যৌগ সম্পর্কে অধ্যয়ন করেছ তার সবই জৈব যৌগ। সাধারণত সমযোজী বন্ধনের মাধ্যমে জৈব যৌগসমূহ গঠিত হয় এবং আয়নিক বন্ধনের মাধ্যমে অজৈব যৌগসমূহ গঠিত হয়।
+[English Translation: In this chapter, the compounds you studied were all organic compounds. Generally, organic compounds are formed by covalent bonds and inorganic compounds are formed by ionic bonds.]
+
+
+CHAPTER TITLE: জৈব যৌগ / Organic Compounds
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 284
+MAIN TOPICS: Organic vs. Inorganic Compounds, Covalent and Ionic Bonds
+
+ORGANIC COMPOUNDS
+1. Bengali: সাধারণত জৈব যৌগে কার্বন অবশ্যই থাকবে। যেমন: মিথেন (CH4)
+   English Translation: Generally, organic compounds must contain carbon. For example: methane (CH4)
+
+2. Bengali: জৈব যৌগের বিক্রিয়া হতে সাধারণত অনেক বেশি সময় লাগে।
+   English Translation: Reactions of organic compounds usually take a lot of time.
+
+3. Bengali: জৈব যৌগসমূহ সাধারণত সমযোজী বন্ধনের মাধ্যমে গঠিত হয়।
+   English Translation: Organic compounds are usually formed through covalent bonds.
+
+INORGANIC COMPOUNDS
+1. Bengali: দু-একটি ব্যতিক্রম ছাড়া সাধারণত অজৈব যৌগে কার্বন থাকে না। যেমন- হাইড্রোজেন সালফাইড (H2S)
+   English Translation: With a few exceptions, inorganic compounds generally do not contain carbon. For example: hydrogen sulfide (H2S)
+
+2. Bengali: অজৈব যৌগের বিক্রিয়া হতে সাধারণত অনেক কম সময় লাগে।
+   English Translation: Reactions of inorganic compounds usually take less time.
+
+3. Bengali: অজৈব যৌগসমূহ সাধারণত আয়নিক বা সমযোজী বন্ধনের মাধ্যমে গঠিত হয়।
+   English Translation: Inorganic compounds are usually formed through ionic or covalent bonds.
+
+PRACTICE ACTIVITY
+Bengali: নিজে করো
+কাজ: জৈব যৌগের সংজ্ঞা দাও। কয়েকটি জৈব ও অজৈব যৌগ নিয়ে গলনাঙ্ক নির্ণয় করে পার্থক্য দেখাও।
+English Translation:  Do it yourself
+Task: Define organic compounds. Find the melting points of a few organic and inorganic compounds and show the differences.
+
+Bengali: চিন্তা করো: আয়নিক ও সমযোজী যৌগের পার্থক্যের ভিত্তিতে কীভাবে জৈব ও অজৈব যৌগের মধ্যে পার্থক্য করা যায়।
+English Translation: Think: How can organic and inorganic compounds be differentiated based on the differences between ionic and covalent compounds.
+
+
+PAGE METADATA
+Chapter Title: খনিজ সম্পদ: জীবাশ্ম / Mineral Resources: Fossil Fuels
+Chapter Number: Not specified
+Page Number: 265
+Main Topics: Alkenes, Alkynes, Halogenation
+
+CHEMICAL EQUATIONS
+CH3-C≡CH + Br2 → X
+X + Br2 → Y
+
+QUESTIONS AND PROBLEMS
+Question 1
+প্রাকৃতিক গ্যাসে শতকরা কত ভাগ ইথেন থাকে?
+Translation: What percentage of ethane is present in natural gas?
+Type: Multiple choice
+Chemical Components: Ethane (C2H6)
+Key Concept: Composition of Natural Gas
+
+Question 2
+নিচের কোন যৌগটি ব্রোমিন দ্রবণের লাল বর্ণকে বর্ণহীন করতে পারে?
+Translation: Which of the following compounds can decolorize the red color of bromine solution?
+Type: Multiple choice
+Chemical Components: C3H8, C3H8O, C2H6O, C2H4, Bromine (Br2)
+Key Concept: Reaction of Alkenes with Bromine
+
+Question 3
+Y যৌগটির নাম কী?
+Translation: What is the name of compound Y?
+Type: Multiple choice
+Chemical Components: Y
+Key Concept: Nomenclature of Halogenated Hydrocarbons, Reaction of Alkynes with Bromine
+
+Question 4
+উদ্দীপকের 'X' যৌগটি-
+(i) সংযোজন বিক্রিয়া দেয়
+(ii) প্লাস্টিক তৈরিতে ব্যবহৃত হয়
+(iii) Y অপেক্ষা কম সক্রিয়
+নিচের কোনটি সঠিক?
+Translation: Compound 'X' from the stem:
+(i) gives addition reaction
+(ii) is used in making plastic
+(iii) is less reactive than Y
+Which of the following is correct?
+Type: Multiple choice
+Chemical Components: X, Y
+Key Concept: Reactivity and properties of products after the addition of halogen
+
+---
+
+CHAPTER TITLE: সৃজনশীল প্রশ্ন / Creative Questions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 286
+MAIN TOPICS: Chemical Reactions, Hydrocarbons, Polymerization
+
+CHEMICAL EQUATIONS
+
+2CH4 → HC≡CH + H₂
+HC≡CH + HCl → CH2=CHCl
+nCH2=CHCl → -(CH2-CHCl)-n
+X + NaOH → CH3COONa + H2O
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+মার্চ-জুন মাসে বাংলাদেশে সংরক্ষণের অভাবে প্রচুর পরিমাণে আলু নষ্ট হয়। আলু থেকে নিচের বিক্রিয়ায় ইথানল উৎপন্ন করা যায়।
+Translation: In Bangladesh, a large amount of potatoes are wasted due to lack of preservation in March-June. Ethanol can be produced from potatoes using the following reaction.
+Type: Analytical
+Chemical Components: Starch, Glucose, Ethanol
+Key Concept: Production of ethanol from starch.
+
+Question 1 (a)
+পেট্রোলিয়ামের প্রধান উপাদান কী?
+Translation: What is the main component of petroleum?
+Type: Short answer
+Chemical Components: Petroleum
+Key Concept: Composition of petroleum.
+
+Question 1 (b)
+অ্যালকেন অপেক্ষা অ্যালকিন সক্রিয় কেন? ব্যাখ্যা করো।
+Translation: Why are alkenes more reactive than alkanes? Explain.
+Type: Short answer
+Chemical Components: Alkanes, Alkenes
+Key Concept: Reactivity of alkanes and alkenes.
+
+Question 1 (c)
+উদ্দীপকের বিক্রিয়া ব্যবহার করে আলু থেকে মিথেন প্রস্তুতির বর্ণনা দাও।
+Translation: Describe the production of methane from potatoes using the reactions in the stimulus.
+Type: Analytical
+Chemical Components: Starch, Methane
+Key Concept: Methane synthesis.
+
+Question 1 (d)
+অতিরিক্ত আলুকে জীবাশ্ম জ্বালানির বিকল্প হিসেবে ব্যবহারের সম্ভাবনা বিশ্লেষণ করো।
+Translation: Analyze the possibility of using excess potatoes as an alternative to fossil fuels.
+Type: Analytical
+Chemical Components: Potatoes, Fossil fuels
+Key Concept: Alternative fuels.
+
+Question 2
+পর্যায়ক্রমে একটি গ্যাসকে i থেকে iii বিক্রিয়ার মাধ্যমে বিভিন্ন পদার্থে পরিণত করা হয়।
+Translation: A gas is successively converted into different substances through reactions i to iii.
+Type: Analytical
+Chemical Components: Methane, Ethyne, Chloroethene
+Key Concept: Synthesis and reactions of hydrocarbons.
+
+Question 2 (a)
+হাইড্রোকার্বন কাকে বলে?
+Translation: What is a hydrocarbon?
+Type: Short answer
+Chemical Components: Hydrocarbons
+Key Concept: Definition of hydrocarbons.
+
+Question 2 (b)
+বেনজিন অ্যারোমেটিক হাইড্রোকার্বন কেন?
+Translation: Why is benzene an aromatic hydrocarbon?
+Type: Short answer
+Chemical Components: Benzene, Aromatic hydrocarbons
+Key Concept: Aromatic hydrocarbons.
+
+Question 2 (c)
+ii নং বিক্রিয়াটি কোন ধরনের বিক্রিয়া? ব্যাখ্যা করো।
+Translation: What type of reaction is reaction ii? Explain.
+Type: Short answer
+Chemical Components: HCl, Ethyne, Chloroethene
+Key Concept: Addition reaction.
+
+Question 2 (d)
+উদ্দীপকের প্রথম বিক্রিয়ক গ্যাসটির ব্যবহার বহুমুখীকরণের সম্ভাবনা বিশ্লেষণ করো।
+Translation: Analyze the potential for versatile uses of the first reactant gas in the stimulus.
+Type: Analytical
+Chemical Components: Methane
+Key Concept: Versatile uses of methane.
+
+Question 3
+X + NaOH → CH3COONa + H2O
+Translation: A substance X reacts with Sodium Hydroxide to produce Sodium Ethanoate and water.
+Type: Analytical
+Chemical Components: Sodium Hydroxide, Sodium Ethanoate
+Key Concept: Neutralization reaction.
+
+Question 3 (a)
+অ্যারোমেটিক হাইড্রোকার্বন কী?
+Translation: What is an aromatic hydrocarbon?
+Type: Short answer
+Chemical Components: Aromatic Hydrocarbons
+Key Concept: Definition of aromatic hydrocarbons.
+
+Question 3 (b)
+ক্যালসিয়াম কার্বাইড থেকে কীভাবে ইথাইন তৈরি করা যায়? বিক্রিয়াসমূহ লেখো।
+Translation: How is ethyne produced from calcium carbide? Write down the reactions.
+Type: Short answer
+Chemical Components: Calcium carbide, Ethyne
+Key Concept: Ethyne production.
+
+Question 3 (c)
+উদ্দীপকের বিক্রিয়াটি সম্পন্ন করো।
+Translation: Complete the reaction given in the stimulus.
+Type: Analytical
+Chemical Components: X, NaOH, Sodium Ethanoate
+Key Concept: Completion of the given reaction.
+
+Question 3 (d)
+X যৌগটি এসিড হবে কী? বিশ্লেষণ করো।
+Translation: Will the compound X be an acid? Analyze.
+Type: Analytical
+Chemical Components: X, Acid
+Key Concept: Identification of an acid.
+
+END OF PAGE 286 EXTRACTION
+
+

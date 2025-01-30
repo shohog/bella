@@ -1,0 +1,1221 @@
+CHAPTER METADATA
+Chapter Title: পদার্থের গঠন / Structure of Matter
+Chapter Number: 3
+Page Number: 19
+Main Topics: Atomic Structure, History of Atomic Theory
+
+DIAGRAMS AND ILLUSTRATIONS
+DIAGRAM TITLE: হাইড্রোজেন পরমাণুর বিভিন্ন শক্তিস্তরে ইলেকট্রনের বিন্যাস। (Arrangement of Electrons in different energy levels of Hydrogen atom.)
+Description: An illustration shows the structure of a hydrogen atom with a central nucleus in pink color and electrons orbiting in different energy levels represented by rings of light blue, green, and purple. Each electron is shown as a different color circle.
+Components: Nucleus, electrons in different orbits
+Chemical Labels: Not specified in diagram
+Safety Notes: Not applicable for diagram
+Purpose: To show the representation of electrons in different energy levels in an atom.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: এটম (Atom)
+Bengali Definition: প্রত্যেক পদার্থের একক আছে যা অতি ক্ষুদ্র আর অবিভাজ্য।
+English Translation: Every substance has a unit that is very small and indivisible.
+Related Chemical Equations: Not Applicable
+Examples: Not Applicable
+
+TERM OR PROPERTY NAME: পরমাণু (Parmanu)
+Bengali Definition: ডেমোক্রিটাসের সম্মানে এ একক ক্ষুদ্র কণার নাম দেন Atom, যার অর্থ পরমাণু।
+English Translation: In honor of Democritus, he named this indivisible small particle Atom, which means "Parmanu" (Atom).
+Related Chemical Equations: Not Applicable
+Examples: Not Applicable
+
+TEXT EXTRACTION
+কৌতূহলী মানুষের স্বাভাবিক চিন্তা হলো, আমাদের চারপাশের জিনিসগুলো কী দিয়ে তৈরি? আমাদের শরীরই বা কী দিয়ে তৈরি? হ্যাঁ, আমাদের মতো প্রাচীন দার্শনিকেরাও এ নিয়ে বহু চিন্তাভাবনা করেছেন। প্রাচীন গ্রিক দার্শনিকেরা ভাবতেন মাটি, পানি, বায়ু এবং আগুন ইত্যাদি মৌলিক পদার্থ আর অন্য সকল বস্তু এদের মিশ্রণে তৈরি।
+(English Translation: It is natural for curious people to wonder what the things around us are made of? What are our bodies made of? Yes, ancient philosophers like us also had a lot of thoughts about this. Ancient Greek philosophers thought that basic substances like soil, water, air, and fire, and all other things were created by mixing these.)
+
+গ্রিসের দার্শনিক ডেমোক্রিটাস প্রথম বলেছিলেন, প্রত্যেক পদার্থের একক আছে যা অতি ক্ষুদ্র আর অবিভাজ্য। তিনি এর নাম দেন এটম। কোনো বৈজ্ঞানিক পরীক্ষা দিয়ে এটি প্রমাণ করা সম্ভব হয়নি এবং সে সময়ের সবচেয়ে অ্যারিস্টেটল বড় বিজ্ঞানী এর বিরোধিতা করেছিলেন তাই এটি কোনো গ্রহণযোগ্যতা পায়নি। প্রায় 2500 বছর পর 1803 সালে ব্রিটিশ বিজ্ঞানী জন ডাল্টন বিভিন্ন পরীক্ষায় প্রাপ্ত ফলাফলের উপর ভিত্তি করে ডেমোক্রিটাসের ধারণাপ্রসুত পরমাণু সম্পর্কে একটি মতবাদ দেন। এই মতবাদ অনুসারে প্রতিটি পদার্থ অজস্র ক্ষুদ্র এবং অবিভাজ্য কণার সমন্বয়ে গঠিত। তিনি দার্শনিক ডেমোক্রিটাসের সম্মানে এ একক ক্ষুদ্র কণার নাম দেন Atom, যার অর্থ পরমাণু। পরে
+(English Translation: The Greek philosopher Democritus first said that every substance has a unit that is very small and indivisible. He named it Atom. It could not be proved by any scientific test and the greatest scientist of that time, Aristotle opposed it, so it was not accepted. About 2500 years later, in 1803, British scientist John Dalton, based on the results of various experiments, gave a theory about the atom, proposed by Democritus. According to this theory, each substance is composed of numerous small and indivisible particles. In honor of the philosopher Democritus, he named these individual small particles Atom, which means Parmanu (Atom). Later)
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Atomic Structure
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 36
+MAIN TOPICS: Atomic structure, Subatomic particles, Atomic models
+
+•	এ অধ্যায় পাঠ শেষে আমরা
+(After completing this chapter, we will be able to)
+
+*   মৌলের ইংরেজি ও ল্যাটিন নাম থেকে তাদের প্রতীক লিখতে পারব।
+    Translation: We will be able to write the symbols of elements from their English and Latin names.
+*   মৌলিক ও স্থায়ী কণিকাগুলোর বৈশিষ্ট্য বর্ণনা করতে পারব।
+    Translation: We will be able to describe the characteristics of fundamental and stable particles.
+*   পারমাণবিক সংখ্যা, ভর সংখ্যা, আপেক্ষিক পারমাণবিক ভর ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain atomic number, mass number, and relative atomic mass.
+*   আপেক্ষিক পারমাণবিক ভর থেকে আপেক্ষিক আণবিক ভর হিসাব করতে পারব।
+    Translation: We will be able to calculate relative molecular mass from relative atomic mass.
+*   পরমাণুর ইলেকট্রন, প্রোটন ও নিউট্রন সংখ্যা হিসাব করতে পারব।
+    Translation: We will be able to calculate the number of electrons, protons, and neutrons in an atom.
+*   আইসোটোপের ব্যবহার ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain the uses of isotopes.
+*   পরমাণুর গঠন সম্পর্কে রাদারফোর্ড ও বোর পরমাণু মডেলের বর্ণনা করতে পারব।
+    Translation: We will be able to describe the Rutherford and Bohr atomic models regarding the structure of atoms.
+*   রাদারফোর্ড ও বোর পরমাণু মডেলের মধ্যে কোনটি বেশি গ্রহণযোগ্য তা ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain which model is more acceptable between Rutherford and Bohr's atomic models.
+*   পরমাণুর বিভিন্ন কক্ষপথে এবং কক্ষপথের বিভিন্ন উপস্তরে পরমাণুর ইলেকট্রনসমূহকে বিন্যাস করতে পারব।
+    Translation: We will be able to arrange the electrons of an atom in different orbits and subshells of orbits.
+
+---
+Note: There are no Chemical Equations, Experimental Procedures, Diagrams and Illustrations, Questions and Problems, or Chemical Properties and Definitions on this page.
+---
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: 3
+PAGE NUMBER: 37
+MAIN TOPICS: Elements and Compounds, Atoms and Molecules
+
+3.1 মৌলিক ও যৌগিক পদার্থ (ELEMENTS AND COMPOUNDS)
+
+মৌলিক পদার্থ (ELEMENTS)
+Bengali Definition: সোনা, রূপা বা লোহা ইত্যাদি বিশুদ্ধ পদার্থকে তুমি যতই ভাঙ না কেন সেখানে তাদের ক্ষুদ্রতর কণা ছাড়া আর কিছু পাবে না। যে পদার্থকে ভাঙলে সেই পদার্থ ছাড়া অন্য কোনো পদার্থ পাওয়া যায় না তাকে মৌলিক পদার্থ বা মৌল বলে।
+English Translation: No matter how much you break down pure substances like gold, silver, or iron, you will only find their smallest particles. A substance that cannot be broken down into other substances is called a basic substance or an element.
+Examples: নাইট্রোজেন, ফসফরাস, কার্বন, অক্সিজেন, হিলিয়াম, ক্যালসিয়াম, আর্গন, ম্যাগনেসিয়াম, সালফার ইত্যাদি।
+Examples Translation: Nitrogen, phosphorus, carbon, oxygen, helium, calcium, argon, magnesium, sulfur, etc.
+Additional Information: এ পর্যন্ত 118টি মৌল আবিষ্কৃত হয়েছে। এগুলোর মধ্যে ৭৪টি মৌল প্রকৃতিতে পাওয়া যায়। বাকি মৌলগুলো গবেষণাগারে তৈরি করা হয়েছে। এগুলোকে কৃত্রিম মৌল বলে। তুমি কি জানো মানব শরীরে মোট 26 ধরনের ভিন্ন ভিন্ন মৌল আছে?
+Additional Information Translation: To date, 118 elements have been discovered. Among them, 74 elements are found in nature. The remaining elements have been created in laboratories. These are called artificial elements. Did you know that there are a total of 26 different types of elements in the human body?
+
+যৌগিক পদার্থ (COMPOUNDS)
+Bengali Definition: ইতিমধ্যে তোমরা জেনেছ যে, মৌলিক পদার্থকে ভাঙলে শুধু ঐ পদার্থই পাওয়া যাবে। কিন্তু পানিকে যদি ভাঙা হয় (অর্থাৎ রাসায়নিকভাবে বিশ্লেষণ করা যায়) তবে কিন্তু দুটি ভিন্ন মৌল হাইড্রোজেন ও অক্সিজেন পাওয়া যাবে। আবার, লেখার চককে যদি ভাঙা যায় তাহলে সেখানে ক্যালসিয়াম, কার্বন ও অক্সিজেন এ তিনটি মৌল পাওয়া যাবে। যে সকল পদার্থকে ভাঙলে দুই বা দুইয়ের অধিক মৌল পাওয়া যায় তাদেরকে যৌগ বা যৌগিক পদার্থ বলে।
+English Translation: You already know that when a basic substance is broken down, only that substance will be found. However, if water is broken down (i.e., chemically analyzed), two different elements, hydrogen and oxygen, can be found. Also, if writing chalk is broken down, three elements – calcium, carbon, and oxygen – can be found. Substances that break down into two or more elements are called compounds.
+Additional Information: যৌগের মধ্যে মৌলসমূহের সংখ্যার অনুপাত সব সময় একই থাকে। যেমন- যেখান থেকেই পানির নমুনা সংগ্রহ করা হোক না কেন রাসায়নিকভাবে বিশ্লেষণ করা হলে সব সময় দুই ভাগ হাইড্রোজেন এবং এক ভাগ অক্সিজেন পাওয়া যাবে অর্থাৎ পানিতে হাইড্রোজেন ও অক্সিজেনের পরমাণুর সংখ্যার অনুপাত 2: 1।
+Additional Information Translation: The ratio of the number of elements in a compound always remains the same. For example, no matter where a sample of water is collected from, chemical analysis will always yield two parts hydrogen and one part oxygen, i.e., the ratio of hydrogen to oxygen atoms in water is 2:1.
+Additional Information: যৌগের ধর্ম কিন্তু মৌলসমূহের ধর্ম থেকে সম্পূর্ণ আলাদা। যেমন- সাধারণ তাপমাত্রায় হাইড্রোজেন ও অক্সিজেন গ্যাসীয় কিন্তু এদের থেকে উৎপন্ন যৌগ পানি সাধারণ তাপমাত্রায় তরল।
+Additional Information Translation: The properties of a compound are completely different from the properties of its constituent elements. For example, at room temperature, hydrogen and oxygen are gases, but the compound formed from them, water, is liquid at room temperature.
+
+3.2 পরমাণু ও অণু (ATOMS AND MOLECULES)
+
+পরমাণু (ATOM)
+Bengali Definition: পরমাণু হলো মৌলিক পদার্থের ক্ষুদ্রতম কণা যার মধ্যে মৌলের গুণাগুণ বর্তমান থাকে। যেমন- নাইট্রোজেনের পরমাণুতে নাইট্রোজেনের ধর্ম বিদ্যমান আর অক্সিজেনের পরমাণুতে অক্সিজেনের ধর্ম বিদ্যমান থাকে।
+English Translation: An atom is the smallest particle of a basic substance that retains the properties of the element. For example, a nitrogen atom has the properties of nitrogen, and an oxygen atom has the properties of oxygen.
+
+অণু (MOLECULE)
+Bengali Definition: দুই বা দুইয়ের অধিক সংখ্যক পরমাণু পরস্পরের সাথে রাসায়নিক বন্ধনের মাধ্যমে যুক্ত থাকলে তাকে অণু বলে।
+English Translation: When two or more atoms are joined together through chemical bonds, they form a molecule.
+Additional Information: রাসায়নিক বন্ধন সম্পর্কে তোমরা পঞ্চম অধ্যায়ে বিস্তারিত জানবে। দুটি অক্সিজেন পরমাণু (O) পরস্পরের সাথে যুক্ত হয়ে অক্সিজেন অণু (O₂) গঠিত হয়। আবার, একটি কার্বন পরমাণু (C) দুটি অক্সিজেন পরমাণুর সাথে যুক্ত হয়ে কার্বন ডাই অক্সাইড অণু (CO2) গঠিত হয়।
+Additional Information Translation: You will learn more about chemical bonds in Chapter 5. Two oxygen atoms (O) combine to form an oxygen molecule (O₂). Also, one carbon atom (C) combines with two oxygen atoms to form a carbon dioxide molecule (CO₂).
+CHEMICAL EQUATION:
+2O -> O2
+C + 2O -> CO2
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 3
+PAGE NUMBER: 38
+MAIN TOPICS: Symbols of Elements, Chemical Nomenclature, Element Symbols
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+MOLECULAR FORMATION
+Bengali Definition: অক্সিজের পরমাণুর (O) সাথে যুক্ত হয়ে একটি কার্বন ডাই-অক্সাইড অণু (CO₂) গঠিত হয়। একই মৌলের একাধিক পরমাণু পরস্পরের সাথে যুক্ত হলে তাকে মৌলের অণু বলে। যেমন-O₂। ভিন্ন ভিন্ন মৌলের পরমাণু পরস্পর যুক্ত হলে তাকে যৌগের অণু বলে। যেমন-CO₂।
+English Translation: A carbon dioxide molecule (CO₂) is formed by combining with an oxygen atom (O). If multiple atoms of the same element are connected to each other, they are called a molecular element. Example: O₂. If atoms of different elements are connected to each other, it is called a molecular compound. Example: CO₂.
+Related Chemical Equations: None
+Examples: O₂, CO₂
+
+TERM OR PROPERTY NAME:  প্রতীক (Symbol)
+Bengali Definition: কোনো মৌলের ইংরেজি বা ল্যাটিন নামের সংক্ষিপ্ত রূপকে প্রতীক বলে। প্রত্যেকটি মৌলকে সংক্ষেপে প্রকাশ করতে তাদের আলাদা আলাদা প্রতীক ব্যবহার করা হয়।
+English Translation: The short form of the English or Latin name of any element is called its symbol. To represent each element in brief, different symbols are used for each.
+Related Chemical Equations: None
+Examples: H for Hydrogen, C for Carbon, O for Oxygen
+
+RULES FOR WRITING ELEMENT SYMBOLS:
+Bengali Definition: মৌলের প্রতীক লিখতে কিছু নিয়ম অনুসরণ করতে হয়।
+English Translation: Some rules are to be followed while writing the symbols of elements.
+
+(a) RULE 1
+Bengali Definition: প্রথমত মৌলের ইংরেজি নামের প্রথম অক্ষর দিয়ে প্রতীক লেখা হয় এবং তা ইংরেজি বর্ণমালার বড় হাতের অক্ষর দিয়ে প্রকাশ করা হয়। যেমন- হাইড্রোজেন (Hydrogen) এর প্রতীক (H), কার্বন (Carbon) এর প্রতীক (C), অক্সিজেনের প্রতীক (O) ইত্যাদি।
+English Translation: Firstly, the symbol is written using the first letter of the English name of the element, and it is represented by a capital letter of the English alphabet. For example: The symbol of hydrogen (Hydrogen) is (H), the symbol of carbon (Carbon) is (C), the symbol of oxygen is (O), etc.
+Related Chemical Equations: None
+Examples: H, C, O
+
+(b) RULE 2
+Bengali Definition: যদি দুই বা দুইয়ের অধিক মৌলের ইংরেজি নামের প্রথম অক্ষর একই হয় তবে একটি মৌলকে নামের প্রথম অক্ষর (ইংরেজি বর্ণমালার বড় হাতের) দিয়ে প্রকাশ করা হয়। অন্যগুলোর ক্ষেত্রে প্রতীকটি দুই অক্ষরে লেখা হয়। নামের প্রথম অক্ষরটি ইংরেজি বর্ণমালার বড় হাতের অক্ষর এবং নামের অন্য একটি অক্ষর ছোট হাতের অক্ষর দিয়ে লেখা হয়।
+English Translation: If the first letter of the English name of two or more elements is the same, then one element is represented by the first letter of the name (capital letter of the English alphabet). In other cases, the symbol is written with two letters. The first letter of the name is a capital letter of the English alphabet and the second letter of the name is written in lowercase letters.
+Related Chemical Equations: None
+Examples: Co (Cobalt), Cl (Chlorine), Ca (Calcium)
+
+(c) RULE 3
+Bengali Definition: কিছু মৌলের প্রতীক তাদের ল্যাটিন নাম থেকে নেওয়া হয়েছে।
+English Translation: Symbols of some elements are derived from their Latin names.
+Related Chemical Equations: None
+Examples: Na for Natrium, Cu for Cuprum, K for Kalium
+
+TABLE 3.01: NOMENCLATURE OF ELEMENTS
+|  মৌল / Element | ইংরেজি নাম / English Name | প্রতীক / Symbol |
+|---|---|---|
+| হাইড্রোজেন / Hydrogen | Hydrogen | H |
+| অক্সিজেন / Oxygen | Oxygen | O |
+| নাইট্রোজেন / Nitrogen | Nitrogen | N |
+
+TABLE 3.02: NOMENCLATURE OF ELEMENTS (FIRST LETTER SAME)
+| মৌল / Element  | ইংরেজি নাম / English Name | প্রতীক / Symbol | মৌল / Element | ইংরেজি নাম / English Name | প্রতীক / Symbol |
+|---|---|---|---|---|---|
+| কার্বন / Carbon | Carbon | C | কোবাল্ট / Cobalt | Cobalt | Co |
+| ক্লোরিন / Chlorine | Chlorine | Cl | ক্যাডমিয়াম / Cadmium | Cadmium | Cd |
+| ক্যালসিয়াম / Calcium | Calcium | Ca | ক্রোমিয়াম / Chromium | Chromium | Cr |
+
+TABLE 3.03: NOMENCLATURE OF ELEMENTS (LATIN NAME)
+| মৌল / Element | ল্যাটিন নাম / Latin Name | প্রতীক / Symbol |  মৌল / Element  | ল্যাটিন নাম / Latin Name | প্রতীক / Symbol |
+|---|---|---|---|---|---|
+| সোডিয়াম / Sodium | Natrium | Na | গোল্ড / Gold | Aurum | Au |
+| কপার / Copper | Cuprum | Cu | লেড / Lead  | Plumbum | Pb |
+| পটাশিয়াম / Potassium | Kalium | K | টাংস্টেন / Tungsten | Wolfram | W |
+| সিলভার / Silver | Argentum | Ag | আয়রন / Iron | Ferrum | Fe |
+| টিন / Tin | Stannum | Sn | মারকারি / Mercury | Hydrurgyrum | Hg |
+| এন্টিমনি / Antimony | Stibium | Sb |  |  |  |
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 39
+MAIN TOPICS: Chemical Formulas, Fundamental Particles of an Atom
+
+3.4 সংকেত (FORMULA)
+
+Hydrogen is expressed as H₂ for a molecule, meaning one hydrogen molecule has two hydrogen atoms (H). Similarly, water is expressed as H₂O for a molecule, indicating one water molecule has two hydrogen (H) and one oxygen (O) atom. Some common molecular formulas are shown in the following table:
+
+TABLE 3.04: MOLECULAR FORMULAS
+
+| অণুর নাম (Molecule Name)    | সংকেত (Formula) |
+|-----------------------------|-----------------|
+| নাইট্রোজেন (Nitrogen)     | N₂              |
+| অ্যামোনিয়া (Ammonia)      | NH₃             |
+| ক্লোরিন (Chlorine)        | Cl₂             |
+| সালফিউরিক এসিড (Sulfuric Acid) | H₂SO₄          |
+| হাইড্রোক্লোরিক এসিড (Hydrochloric Acid) | HCl          |
+
+3.5 পরমাণুর সাংগঠনিক কণা (THE FUNDAMENTAL PARTICLES OF AN ATOM)
+
+All atoms except hydrogen are made of three fundamental particles: electrons, protons, and neutrons. These particles are called the fundamental or basic particles of an atom. In an atom, protons and neutrons are located in the nucleus, and electrons revolve around the nucleus.
+
+ELECTRON
+Bengali Definition: ইলেকট্রন হলো পরমাণুর একটি মৌলিক কণিকা যার আধান বা চার্জ ঋণাত্মক (নেগেটিভ)।
+English Translation: An electron is a fundamental particle of an atom that carries a negative charge.
+Related Chemical Equations: None
+Examples: None
+The charge of an electron is -1.60 × 10⁻¹⁹ Coulombs. It is represented by 'e'. The relative charge of an electron is -1, and its mass is 9.11 × 10⁻²⁸ g. The mass of an electron is 1840 times less than that of a proton or neutron. Thus, its relative mass is considered to be zero.
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Structure of Atom
+CHAPTER NUMBER: 3
+PAGE NUMBER: 80
+MAIN TOPICS: Subatomic particles, Atomic number
+
+PROTON:
+Bengali Definition: প্রোটন হলো পরমাণুর অপর একটি মৌলিক কণিকা যার চার্জ বা আধান ধনাত্মক (পজেটিভ)।
+English Translation: A proton is another fundamental particle of an atom that has a positive charge.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+*   The charge of a proton is +1.60 × 10^-19 Coulombs.
+*   It is represented by the symbol 'p'.
+*   The mass of a proton is 1.67 × 10^-24 g.
+*   The relative charge of a proton is +1.
+*   The relative mass of a proton is 1.
+
+NEUTRON:
+Bengali Definition: নিউট্রন হলো পরমাণুর আরেকটি মৌলিক কণিকা যার কোনো আধান বা চার্জ নেই। হাইড্রোজেন ছাড়া সকল মৌলের পরমাণুতেই নিউট্রন রয়েছে। একে n প্রতীক দিয়ে প্রকাশ করা হয়। এর ভর প্রোটনের ভরের চেয়ে সামান্য বেশি। নিউট্রনের আপেক্ষিক আধান 0 আর আপেক্ষিক ভর 1 ধরা হয়।
+English Translation: A neutron is another fundamental particle of an atom that has no charge. All atoms, except for hydrogen, contain neutrons. It is represented by the symbol 'n'. Its mass is slightly greater than that of a proton. The relative charge of a neutron is 0 and the relative mass is 1.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TABLE 3.05: মৌলিক কণিকা। / TABLE 3.05: Fundamental Particles
+
+| মৌলিক কণিকার নাম (Name of Fundamental Particle) | প্রতীক (Symbol) | প্রকৃত আধান বা চার্জ (Actual Charge) | প্রকৃত ভর (Actual Mass)  | আপেক্ষিক আধান (Relative Charge) | আপেক্ষিক ভর (Relative Mass) |
+| :-------------------------------------- | :----------- | :----------------------- | :------------- | :----------------------- | :-------------- |
+| ইলেকট্রন (Electron)                        | e            | -1.60 × 10^-19 কুলম্ব।    | 9.110 × 10^-28 g | -1                        | 0               |
+| প্রোটন (Proton)                           | p            | +1.60 × 10^-19 কুলম্ব।   | 1.673 × 10^-24 g | +1                        | 1               |
+| নিউট্রন (Neutron)                          | n            | 0                        | 1.675 x 10^-24 g | 0                         | 1               |
+
+3.5.1 পারমাণবিক সংখ্যা (Atomic Number)
+Bengali Definition: কোনো মৌলের একটি পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটনের সংখ্যাকে ঐ মৌলের পারমাণবিক সংখ্যা বলা হয়। যেমন- হিলিয়াম (He) এর একটি পরমাণুর নিউক্লিয়াসে দুটি প্রোটন থাকে। তাই হিলিয়ামের পারমাণবিক সংখ্যা হলো দুই। আবার, অক্সিজেন (০) পরমাণুর নিউক্লিয়াসে আটটি প্রোটন থাকে। তাই অক্সিজেনের পারমাণবিক সংখ্যা হলো আট। কোনো পরমাণুর পারমাণবিক সংখ্যা দ্বারা ঐ পরমাণুকে চেনা যায়। তাই পরমাণবিক সংখ্যাকে একটি মৌলের আইডি নাম্বারও বলা যায়। পারমাণবিক সংখ্যা 1 হলে ঐ পরমাণুটি হাইড্রোজেন, পারমাণবিক সংখ্যা 2 হলে ঐ পরমাণুটি হিলিয়াম। পারমাণবিক সংখ্যা 9 হলে ঐ পরমাণুটি ফ্লোরিন। অর্থাৎ পারমাণবিক সংখ্যাই কোনো পরমাণুর আসল পরিচয়। প্রোটন সংখ্যা বা পারমাণবিক সংখ্যাকে Z দিয়ে প্রকাশ করা হয়। যেহেতু প্রত্যেকটা পরমাণুই চার্জ নিরপেক্ষ অর্থাৎ মোট চার্জ বা আধান শূন্য তাই পরমাণুর নিউক্লিয়াসে যতটি প্রোটন থাকে নিউক্লিয়াসের বাইরে ঠিক ততটি ইলেকট্রন থাকে।
+English Translation: The number of protons present in the nucleus of an atom of an element is called the atomic number of that element. For example, a helium (He) atom has two protons in its nucleus, so the atomic number of helium is two. Again, an oxygen (O) atom has eight protons in its nucleus, so the atomic number of oxygen is eight. The atomic number of an atom identifies that atom. Therefore, the atomic number can also be called an ID number of an element. If the atomic number is 1, then the atom is hydrogen, if the atomic number is 2, then the atom is helium. If the atomic number is 9 then the atom is fluorine. That is, the atomic number is the real identity of an atom. The number of protons or the atomic number is represented by Z. Since every atom is electrically neutral, the total charge is zero. Therefore, the number of protons in the nucleus of an atom is equal to the number of electrons outside the nucleus.
+Related Chemical Equations: Not applicable
+Examples:
+  *  Hydrogen (H): Atomic number (Z) = 1
+  *  Helium (He): Atomic number (Z) = 2
+  *  Fluorine (F): Atomic number (Z) = 9
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: 3
+PAGE NUMBER: 85
+MAIN TOPICS: Mass Number, Atomic Number, Representation of Elements
+
+3.5.2 ভরসংখ্যা (Mass Number)
+
+কোনো পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটন ও নিউট্রন সংখ্যার যোগফলকে ঐ পরমাণুর ভরসংখ্যা বলে।
+Translation: The sum of the number of protons and neutrons present in the nucleus of an atom is called the mass number of that atom.
+
+ভরসংখ্যাকে A দিয়ে প্রকাশ করা হয়।
+Translation: The mass number is represented by A.
+
+যেহেতু ভরসংখ্যা হলো প্রোটন সংখ্যা ও নিউট্রন সংখ্যার যোগফল, কাজেই ভরসংখ্যা থেকে প্রোটন সংখ্যা বিয়োগ করলে নিউট্রন সংখ্যা পাওয়া যায়।
+Translation: Since the mass number is the sum of the number of protons and neutrons, the number of neutrons can be found by subtracting the number of protons from the mass number.
+
+সোডিয়ামের (Na) ভরসংখ্যা হলো 23, এর প্রোটন সংখ্যা 11, ফলে এর নিউট্রন সংখ্যা হচ্ছে 23 -11 = 12
+Translation: The mass number of Sodium (Na) is 23, and its proton number is 11, so the number of neutrons is 23-11=12.
+
+কোনো পরমাণুর পারমাণবিক সংখ্যা পরমাণুর প্রতীকের নিচে বাম পাশে লেখা হয়, পরমাণুর ভরসংখ্যা প্রতীকের বাম পাশে উপরের দিকে লেখা হয়।
+Translation: The atomic number of an atom is written on the bottom left of the atomic symbol, and the mass number of the atom is written on the top left of the symbol.
+
+যেমন-সোডিয়াম পরমাণুর প্রতীক Na, এর পারমাণবিক সংখ্যা 11 এবং ভরসংখ্যা 23। এটাকে নিম্নোক্তভাবে প্রকাশ করা যায়:
+Translation: For example, the symbol for a sodium atom is Na, with an atomic number of 11 and a mass number of 23. It can be represented as:
+
+DIAGRAM TITLE: Representation of Mass and Atomic Numbers
+Description: The diagram shows the standard way to represent an element using its mass number and atomic number. The symbol 'A' points to the mass number which is written at the top left of the element symbol. The symbol 'Z' points to the atomic number or proton number, which is written on the bottom left of the symbol.
+Components: Mass number (A), Atomic number or proton number (Z), Element symbol (Na)
+Chemical Labels: Na
+Safety Notes: None
+Purpose: Demonstrates how mass number and atomic number are represented along with the chemical symbol.
+
+23Na
+11
+
+পারমাণবিক সংখ্যা বা প্রোটন সংখ্যা (Z)
+Translation: Atomic number or proton number (Z)
+
+TABLE 3.05: MOULER SANKSHIPT PROKASH / TABLE 3.05: SHORT REPRESENTATION OF ELEMENTS
+
+| মৌলের প্রতীক / Element Symbol | পারমাণবিক সংখ্যা বা প্রোটন সংখ্যা Z / Atomic number or proton number Z | ভরসংখ্যা A / Mass Number A | ইলেকট্রন সংখ্যা / Electron Number | নিউট্রন সংখ্যা A-Z / Neutron Number A-Z | সংক্ষিপ্ত প্রকাশ / Short Representation |
+|---|---|---|---|---|---|
+| H | 1 | 1 | 1 | 0 | 1H1 |
+| He | 2 | 4 | 2 | 2 | 4He2 |
+
+একক কাজ / Single Task
+
+শিক্ষার্থীর কাজ: 7Li3 এবং 9Be4 মৌলের ভর সংখ্যা, প্রোটন সংখ্যা এবং ইলেকট্রন সংখ্যা গণনা করো।
+Translation: Student task: Calculate the mass number, proton number and electron number for the elements 7Li3 and 9Be4.
+
+QUESTION 1
+শিক্ষার্থীর কাজ: 7Li3 এবং 9Be4 মৌলের ভর সংখ্যা, প্রোটন সংখ্যা এবং ইলেকট্রন সংখ্যা গণনা করো।
+Translation: Student task: Calculate the mass number, proton number and electron number for the elements 7Li3 and 9Be4.
+Type: Numerical
+Chemical Components: Lithium (Li), Beryllium (Be)
+Key Concept: Mass number, Atomic number, Calculation of number of neutrons
+
+
+CHAPTER TITLE: পরমাণুর মডেল / Atomic Model
+CHAPTER NUMBER: 3
+PAGE NUMBER: 42
+MAIN TOPICS: Rutherford's Atomic Model, Atomic Structure, Nuclear Model
+
+3.6.1 রাদারফোর্ডের পরমাণু মডেল / Rutherford's Atomic Model
+
+1911 খ্রিস্টাব্দে বিজ্ঞানী রাদারফোর্ড পরমাণুর গঠন সম্পর্কে একটি মডেল প্রদান করেন। এ মডেল অনুসারে- / In 1911, scientist Rutherford proposed a model regarding the structure of the atom. According to this model:
+
+(a) প্রত্যেকটি পরমাণুর একটি কেন্দ্র আছে। এই কেন্দ্রের নাম নিউক্লিয়াস। নিউক্লিয়াসের ভেতরে প্রোটন ও নিউট্রন এবং নিউক্লিয়াসের বাইরে ইলেকট্রন অবস্থান করে। যেহেতু আপেক্ষিকভাবে ইলেকট্রনের ভর শূন্য ধরা হয় কাজেই নিউক্লিয়াসের ভেতরে অবস্থিত প্রোটন এবং নিউট্রনের ভরই পরমাণুর ভর হিসেবে বিবেচনা করা হয়। / Each atom has a center. This center is called the nucleus. Inside the nucleus are protons and neutrons, and electrons exist outside the nucleus. Since the mass of an electron is considered to be zero relatively, the mass of the atom is considered to be the mass of the protons and neutrons located inside the nucleus.
+
+(b) নিউক্লিয়াস অত্যন্ত ক্ষুদ্র এবং নিউক্লিয়াসের বাইরে ও পরমাণুর ভেতরে বেশির ভাগ জায়গাই ফাঁকা। / The nucleus is very small and most of the space outside the nucleus and within the atom is empty.
+
+(c) সৌরজগতে সূর্যকে কেন্দ্র করে বিভিন্ন কক্ষপথে যেমন গ্রহগুলো ঘুরে তেমনি নিউক্লিয়াসকে কেন্দ্র করে বিভিন্ন কক্ষপথে ইলেকট্রনগুলো ঘুরছে। কোনো পরমাণুর নিউক্লিয়াসে যে কয়টি প্রোটন থাকে নিউক্লিয়াসের বাইরে ঠিক সেই কয়টি ইলেকট্রন থাকে। যেহেতু প্রোটন এবং ইলেকট্রনের চার্জ একে অপরের সমান ও বিপরীত চিহ্নের, তাই পরমাণুর সামগ্রিকভাবে চার্জ শূন্য। / Just as the planets revolve around the sun in the solar system, electrons revolve around the nucleus in different orbits. The number of protons in the nucleus of an atom is equal to the number of electrons outside the nucleus. Since the charge of a proton and an electron are equal and opposite, the overall charge of an atom is zero.
+
+(d) ধনাত্মক চার্জবাহী নিউক্লিয়াসের প্রতি ঋণাত্মক চার্জবাহী ইলেকট্রন এক ধরনের আকর্ষণ বল অনুভব করে। এই আকর্ষণ বল কেন্দ্রমুখী এবং এই কেন্দ্রমুখী বলের কারণে পৃথিবী যেরকম সূর্যের চারদিকে ঘুরে ইলেকট্রন সেরকম নিউক্লিয়াসের চারদিকে ঘুরে। / The negatively charged electrons experience an attractive force towards the positively charged nucleus. This attractive force is centripetal, and due to this centripetal force, the electrons revolve around the nucleus like the earth revolves around the sun.
+
+DIAGRAM TITLE: রাদারফোর্ডের পরমাণু মডেল / Rutherford's Atomic Model
+Description: This diagram shows the basic structure of an atom according to Rutherford's model. A central nucleus with a red color is surrounded by curved lines that represent electron orbits, along which electrons are shown as blue circles. There is a label line connected to each component.
+Components:
+    - ইলেকট্রন (Electron): Blue circles representing electrons in orbit.
+    - নিউক্লিয়াস (Nucleus): Red circular center of the atom.
+    - কক্ষপথ (Orbit): The curved lines along which electrons move.
+Chemical Labels: None
+Safety Notes: None
+Purpose: Illustrates the basic structure of the atom as proposed by Rutherford.
+
+রাদারফোর্ডের পরমাণু মডেলকে সৌরজগতের সাথে তুলনা করা হয়েছে বলে এ মডেলটিকে সোলার সিস্টেম মডেল বা সৌর মডেল বলে। আবার, এ মডেলের মাধ্যমে বিজ্ঞানী রাদারফোর্ড সর্বপ্রথম নিউক্লিয়াস সম্পর্কে ধারণা দেন বলে এ মডেলটিকে নিউক্লিয়ার মডেলও বলা হয়। / Rutherford's atomic model is compared to the solar system, hence it is called the solar system model. Also, because this model provided the first concept of a nucleus, it is also known as the nuclear model.
+
+রাদারফোর্ডের পরমাণু মডেলের সীমাবদ্ধতা / Limitations of Rutherford's Atomic Model
+রাদারফোর্ডই সর্বপ্রথম নিউক্লিয়াস এবং ইলেকট্রনের কক্ষপথ সম্বন্ধে ধারণা দেন। তিনিই সর্বপ্রথম একটি গ্রহণযোগ্য পরমাণু মডেল প্রদান করলেও তার পরমাণু মডেলের কিছু সীমাবদ্ধতা ছিল। / Rutherford was the first to propose the concept of a nucleus and electron orbits. Although he presented an acceptable model of the atom, there were some limitations to his model.
+সেগুলো হলো: / These are:
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Structure of the Atom
+CHAPTER NUMBER: 3
+PAGE NUMBER: 88
+MAIN TOPICS: Bohr's atomic model, Energy levels, Atomic spectra
+
+CHEMICAL EQUATIONS:
+   hv = hc / λ
+
+DIAGRAM TITLE: বোরের পরমাণু মডেল / Bohr's Atomic Model
+DESCRIPTION:
+    Two diagrams of an atom are shown, each with a central positively charged nucleus. Electrons are depicted orbiting the nucleus in circular paths labeled n=1 and n=2.  The left diagram shows an electron absorbing energy and transitioning from the n=1 to n=2 orbital, with the accompanying text "শক্তি শোষিত হচ্ছে" (energy absorbed) below it. The right diagram shows an electron transitioning from the n=2 orbital to the n=1, with the accompanying text "শক্তি নির্গত হচ্ছে" (energy released) and a wavy arrow showing the release of energy.
+COMPONENTS:
+    - Positively charged nucleus
+    - Electron orbits (n=1, n=2)
+    - Electrons
+    - Arrows indicating electron transitions
+    - Text "শক্তি শোষিত হচ্ছে" (energy absorbed)
+    - Text "শক্তি নির্গত হচ্ছে" (energy released)
+CHEMICAL LABELS:
+    None
+SAFETY NOTES:
+    None
+PURPOSE: To illustrate Bohr's model of the atom, showing electron energy level transitions and energy absorption/emission.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+PLANK'S CONSTANT (h)
+Bengali Definition:  h হচ্ছে প্লাংক ধ্রুবক (h = 6.626 × 10-34 m² kg/s)
+English Translation: h is Planck's constant (h = 6.626 × 10-34 m² kg/s)
+Related Chemical Equations: mvr = nh / 2π
+
+PRINCIPAL QUANTUM NUMBER (n)
+Bengali Definition: n হচ্ছে প্রধান শক্তিস্তর বা প্রধান কোয়ান্টাম সংখ্যা (n = 1, 2, 3 ...... ইত্যাদি।)
+English Translation: n is the principal energy level or principal quantum number (n = 1, 2, 3 ... etc.)
+
+LOWER ENERGY LEVEL
+Bengali Definition: এখানে যে শক্তিস্তরের n এর মান কম সেই শক্তিস্তর নিম্ন শক্তিস্তর
+English Translation: Here, the energy level with a lower value of n is the lower energy level.
+
+HIGHER ENERGY LEVEL
+Bengali Definition:  এবং যে শক্তিস্তরের n এর মান বেশি সেই শক্তিস্তর উচ্চ শক্তিস্তর হিসেবে পরিচিত।
+English Translation: And the energy level with a higher value of n is known as the higher energy level.
+
+SPEED OF LIGHT (c)
+Bengali Definition:  c হচ্ছে আলোর বেগ (3 × 108 ms-¹)
+English Translation: c is the speed of light (3 × 108 ms-¹)
+Related Chemical Equations:  hv = hc / λ
+
+FREQUENCY OF ABSORBED OR EMITTED ENERGY (v)
+Bengali Definition:  v হচ্ছে শোষিত বা বিকিরিত শক্তির কম্পাঙ্ক (একক s¹ বা Hz)
+English Translation: v is the frequency of absorbed or emitted energy (unit s⁻¹ or Hz)
+Related Chemical Equations: hv = hc / λ
+
+WAVELENGTH OF ABSORBED OR EMITTED ENERGY (λ)
+Bengali Definition: λ হচ্ছে শোষিত বা বিকিরিত শক্তির তরঙ্গ দৈর্ঘ্য (একক m)
+English Translation: λ is the wavelength of absorbed or emitted energy (unit m)
+Related Chemical Equations: hv = hc / λ
+
+TERM OR PROPERTY NAME: ATOMIC SPECTRA
+Bengali Definition:  ইলেকট্রন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তরে যাবার সময় যে আলো বিকিরণ করে তাকে প্রিজমের মধ্য দিয়ে Pass করালে পারমাণবিক বর্ণালির (atomic spectra) সৃষ্টি হয়।
+English Translation: When an electron goes from a higher energy level to a lower energy level, the light emitted when passed through a prism creates atomic spectra.
+
+FORMULA EXPLANATION:
+mvr = nh / 2π
+Bengali: এখানে, m হচ্ছে ইলেকট্রনের ভর (9.11 × 10⁻³¹ kg), r হচ্ছে ইলেকট্রন যে কক্ষপথ বা শক্তিস্তরে ঘুরবে তার ব্যাসার্ধ, v হচ্ছে ইলেকট্রন যে কক্ষপথ বা শক্তিস্তরে ঘুরবে সেই কক্ষপথে ইলেকট্রনের বেগ, h হচ্ছে প্লাংক ধ্রুবক (h = 6.626 × 10⁻³⁴ m² kg/s), n হচ্ছে প্রধান শক্তিস্তর বা প্রধান কোয়ান্টাম সংখ্যা (n = 1, 2, 3 ...... ইত্যাদি।)
+English: Here, m is the mass of the electron (9.11 × 10⁻³¹ kg), r is the radius of the orbit or energy level in which the electron moves, v is the velocity of the electron in that orbit or energy level, h is the Planck's constant (h = 6.626 × 10⁻³⁴ m² kg/s), n is the principal energy level or principal quantum number (n = 1, 2, 3 ... etc.).
+
+ELECTRON TRANSITIONS
+Bengali: কোনো প্রধান শক্তিস্তরে ঘূর্ণনের সময় ইলেকট্রন কোনো শক্তি শোষণ বা বিকিরণ করে না, তবে ইলেকট্রন যখন নিম্ন শক্তিস্তর থেকে উচ্চ শক্তিস্তর এ যায় তখন শক্তি শোষণ করে। আবার, ইলেকট্রন যখন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তর এ যায় তখন শক্তি বিকিরণ হয়।
+English:  While rotating in a main energy level, an electron does not absorb or emit any energy. However, when an electron moves from a lower energy level to a higher energy level, it absorbs energy. Conversely, when an electron moves from a higher energy level to a lower energy level, it emits energy.
+
+ENERGY OF ABSORBED OR EMITTED LIGHT
+Bengali: এই শোষিত বা বিকিরিত শক্তির পরিমাণ  hv = hc / λ
+English: The amount of energy absorbed or emitted is  hv = hc / λ
+
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: Not explicitly mentioned
+PAGE NUMBER: 85
+MAIN TOPICS: Bohr's atomic model, Limitations of Bohr's model, Orbital Electronic Configuration
+
+BOHR'S ATOMIC MODEL SUCCESSES
+
+(a) রাদারফোর্ডের পরমাণু মডেল অনুসারে সৌরজগতে সূর্যকে কেন্দ্র করে গ্রহ-উপগ্রহগুলো যেমন ঘুরছে, পরমাণুতে ইলেকট্রনগুলোও তেমন নিউক্লিয়াসকে কেন্দ্র করে ঘুরছে। এখানে ইলেকট্রনের শক্তিস্তরের আকার সম্পর্কে কোনো কথা বলা হয়নি কিন্তু বোরের পারমাণবিক মডেলে পরমাণুর শক্তিস্তরের আকার বৃত্তাকার বলা হয়েছে।
+Translation: (a) According to Rutherford's atomic model, just as planets revolve around the sun in the solar system, electrons in an atom revolve around the nucleus. Here, no mention was made about the shape of electron energy levels, but in Bohr's atomic model, the shape of the energy levels of the atom was said to be circular.
+
+(b) রাদারফোর্ডের পরমাণু মডেলে পরমাণু শক্তি শোষণ করলে বা শক্তি বিকিরণ করলে পরমাণুর গঠনে কী ধরনের পরিবর্তন ঘটে সে কথা বলা হয়নি কিন্তু বোর পরমাণু মডেলে বলা হয়েছে পরমাণু শক্তি শোষণ করলে ইলেকট্রন নিম্ন শক্তিস্তর থেকে উচ্চ শক্তিস্তরে ওঠে। আবার, পরমাণু শক্তি বিকিরণ করলে ইলেকট্রন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তরে নেমে আসে।
+Translation: (b) Rutherford's atomic model did not explain what kind of changes occur in the structure of an atom when it absorbs or emits energy, but Bohr's atomic model states that when an atom absorbs energy, an electron moves from a lower energy level to a higher energy level. Conversely, when an atom emits energy, an electron moves from a higher energy level to a lower energy level.
+
+(c) রাদারফোর্ডের পরমাণু মডেল অনুসারে কোনো মৌলের পারমাণবিক বর্ণালি ব্যাখ্যা করা যায় না কিন্তু বোরের পরমাণু মডেল অনুসারে এক ইলেকট্রন বিশিষ্ট পরমাণু, হাইড্রোজেন (H) এর বর্ণালি ব্যাখ্যা করা যায়।
+Translation: (c) Rutherford's atomic model could not explain the atomic spectra of any element, but according to Bohr's atomic model, the spectra of a single-electron atom, hydrogen (H), can be explained.
+
+LIMITATIONS OF BOHR'S ATOMIC MODEL
+
+বোর মডেলেরও কিছু সীমাবদ্ধতা বা ত্রুটি লক্ষ করা যায়। সেগুলো হচ্ছে:
+Translation: There are some limitations or flaws observed in Bohr's model. They are:
+
+(a) বোর মডেলের সাহায্যে এক ইলেকট্রন বিশিষ্ট পরমাণুর পারমাণবিক বর্ণালি ব্যাখ্যা করা যায় সত্যি কিন্তু একাধিক ইলেকট্রন বিশিষ্ট পরমাণুর পারমাণবিক বর্ণালি ব্যাখ্যা করা যায় না।
+Translation: (a) With the help of Bohr's model, the atomic spectra of single-electron atoms can be explained, but the atomic spectra of multi-electron atoms cannot be explained.
+
+(b) বোরের পারমাণবিক মডেল অনুসারে এক শক্তিস্তর থেকে ইলেকট্রন অন্য শক্তিস্তরে গমন করলে পারমাণবিক বর্ণালিতে একটিমাত্র রেখা পাবার কথা। কিন্তু শক্তিশালী যন্ত্র দিয়ে পরীক্ষা করলে দেখা যায় প্রতিটি রেখা অনেকগুলো ক্ষুদ্র ক্ষুদ্র রেখার সমষ্টি। প্রতিটি রেখা কেন অনেকগুলো ক্ষুদ্র ক্ষুদ্র রেখার সমষ্টি হয় বোর মতবাদ অনুসারে তার ব্যাখ্যা দেওয়া যায় না।
+Translation: (b) According to Bohr's atomic model, when an electron moves from one energy level to another, only one line should be observed in the atomic spectrum. However, when tested with a powerful instrument, each line is found to be a collection of many fine lines. Bohr's theory cannot explain why each line is a collection of many fine lines.
+
+(c) বোরের পরমাণুর মডেল অনুসারে পরমাণুতে শুধু বৃত্তাকার কক্ষপথ বিদ্যমান। কিন্তু পরে প্রমাণিত হয়েছে পরমাণুতে ইলেকট্রন শুধু বৃত্তাকার কক্ষপথেই নয় উপবৃত্তাকার কক্ষপথেও ঘুরে।
+Translation: (c) According to Bohr's atomic model, only circular orbits exist for electrons in an atom. However, it was later proven that electrons in an atom revolve not only in circular orbits but also in elliptical orbits.
+
+3.7 ATOMIC ENERGY LEVEL ELECTRON CONFIGURATION (Orbital Electronic Configuration of Atoms)
+
+বোরের মডেলে যে শক্তিস্তরের কথা বলা হয়েছে তাকে প্রধান শক্তিস্তর বলা হয়। প্রতিটি প্রধান শক্তিস্তরের সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা 2n² যেখানে n = 1, 2, 3, 4 ইত্যাদি। অতএব এ সূত্রানুসারে:
+Translation: The energy levels mentioned in Bohr's model are called principal energy levels. The maximum number of electrons that each principal energy level can hold is 2n², where n = 1, 2, 3, 4 etc. Therefore, according to this formula:
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Structure of the Atom
+CHAPTER NUMBER: 3
+PAGE NUMBER: 46
+MAIN TOPICS: Electron Shells, Electronic Configuration
+
+K শক্তিস্তরের জন্য n = 1 অতএব / For K shell, n=1, therefore
+K শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে 2n² = (2 x 1²) টি = 2টি / The maximum number of electrons in the K shell is 2n² = (2 x 1²) = 2
+L শক্তিস্তরের জন্য n = 2 অতএব / For L shell, n=2, therefore
+L শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে 2n² = (2 x 2²) টি = 8টি / The maximum number of electrons in the L shell is 2n² = (2 x 2²) = 8
+M শক্তিস্তরের জন্য n = 3 অতএব / For M shell, n=3, therefore
+M শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে 2n² = (2 x 3²) টি = 18টি / The maximum number of electrons in the M shell is 2n² = (2 x 3²) = 18
+N শক্তিস্তরের জন্য n = 4 অতএব / For N shell, n=4, therefore
+N শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে 2n² = (2 x 4²) টি = 32টি / The maximum number of electrons in the N shell is 2n² = (2 x 4²) = 32
+
+TABLE 3.06: ELECTRON CONFIGURATION OF ELEMENTS [FROM H(1) TO Zn(30)]
+This table shows the electron configuration of elements from Hydrogen (H) with atomic number 1 to Zinc (Zn) with atomic number 30.
+The table has the following columns:
+    পারমাণবিক সংখ্যা (Atomic Number)
+    মৌল (Element)
+    K, L, M, and N represent the electron shells. The numbers in these columns indicate the number of electrons in that shell for the element listed.
+
+PARMANOBIK SONGKHA (ATOMIC NUMBER) | MOUL (ELEMENT) | K | L | M | N
+-------------------------------------|------------------|---|---|---|---
+1 | H  | 1 |    |    |    |
+2 | He | 2 |    |    |    |
+3 | Li | 2 | 1  |    |    |
+4 | Be | 2 | 2  |    |    |
+5 | B  | 2 | 3  |    |    |
+6 | C  | 2 | 4  |    |    |
+7 | N  | 2 | 5  |    |    |
+8 | O  | 2 | 6  |    |    |
+9 | F  | 2 | 7  |    |    |
+10 | Ne | 2 | 8  |    |    |
+11 | Na | 2 | 8  | 1  |    |
+12 | Mg | 2 | 8  | 2  |    |
+13 | Al | 2 | 8  | 3  |    |
+14 | Si | 2 | 8  | 4  |    |
+15 | P  | 2 | 8  | 5  |    |
+16 | S  | 2 | 8  | 6  |    |
+17 | Cl | 2 | 8  | 7  |    |
+18 | Ar | 2 | 8  | 8  |    |
+19 | K  | 2 | 8  | 8  | 1  |
+20 | Ca | 2 | 8  | 8  | 2  |
+21 | Sc | 2 | 8  | 9  | 2  |
+22 | Ti | 2 | 8  | 10 | 2  |
+23 | V  | 2 | 8  | 11 | 2  |
+24 | Cr | 2 | 8  | 13 | 1  |
+25 | Mn | 2 | 8  | 13 | 2  |
+26 | Fe | 2 | 8  | 14 | 2  |
+27 | Co | 2 | 8  | 15 | 2  |
+28 | Ni | 2 | 8  | 16 | 2  |
+29 | Cu | 2 | 8  | 18 | 1  |
+30 | Zn | 2 | 8  | 18 | 2  |
+
+হাইড্রোজেনের (H) পারমাণবিক সংখ্যা 1। ফলে এর ইলেকট্রন সংখ্যাও 1। তাই একটি ইলেকট্রন প্রথম শক্তিস্তর K-তে প্রবেশ করবে। / Hydrogen (H) has an atomic number of 1. Therefore, its electron number is also 1. Thus, the one electron enters the first energy level K.
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: 3
+PAGE NUMBER: 89
+MAIN TOPICS: Electron configuration, Subshells, Atomic structure
+
+হিলিয়ামের (He) পারমাণবিক সংখ্যা 2. অতএব এর ইলেকট্রন সংখ্যাও 2 এবং এই ইলেকট্রন দুটি প্রথম শক্তিস্তর K-তে প্রবেশ করবে।
+Translation: Helium (He) has an atomic number of 2. Therefore, it has 2 electrons, and these two electrons enter the first energy level, K.
+
+লিথিয়ামের (Li) পারমাণবিক সংখ্যা 3। অতএব এর ইলেকট্রন সংখ্যাও 3 এবং ইলেকট্রন তিনটির প্রথম দুটি শক্তিস্তর K-তে প্রবেশ করবে।
+Translation: Lithium (Li) has an atomic number of 3. Therefore, it has 3 electrons, and the first two electrons enter the energy level K.
+
+যেহেতু K প্রধান শক্তিস্তরে দুটির বেশি ইলেকট্রন থাকতে পারে না তাই এর তৃতীয় ইলেকট্রনটি দ্বিতীয় শক্তিস্তর L এতে প্রবেশ করবে।
+Translation: Since the main energy level K cannot hold more than two electrons, its third electron enters the second energy level L.
+
+অনুরূপভাবে, সোডিয়ামের (Na) পারমাণবিক সংখ্যা 11। তাই এর ইলেকট্রন সংখ্যাও 11, এই ইলেকট্রনগুলো 2টি K শক্তিস্তরে, ৪টি L প্রধান শক্তিস্তরে এবং বাকি 1টি ইলেকট্রন M শক্তিস্তরে প্রবেশ করবে।
+Translation: Similarly, Sodium (Na) has an atomic number of 11. Thus, it has 11 electrons; 2 of these electrons go to the K energy level, 8 to the L energy level, and the remaining 1 electron enters the M energy level.
+
+3.06 নং তালিকায় উপস্থাপিত ইলেকট্রন বিন্যাস ভালোভাবে খেয়াল করলে দেখতে পাবে হাইড্রোজেন (H) থেকে আর্গন (Ar) পর্যন্ত ইলেকট্রন বিন্যাস উপরে যে নিয়ম বর্ণনা করা হয়েছে সেই নিয়ম অনুসারে হয়েছে।
+Translation: If you carefully observe the electron configurations presented in table 3.06, you will see that the electron configurations from Hydrogen (H) to Argon (Ar) follow the rule described above.
+
+কিন্তু নিয়মটির ব্যতিক্রম লক্ষ করা যায় পটাশিয়াম (K) থেকে পরবর্তী মৌলগুলোতে।
+Translation: But deviations from the rule are observed in Potassium (K) and subsequent elements.
+
+আমরা জানি তৃতীয় শক্তিস্তর (M) এর সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা 18টি। কিন্তু পটাশিয়ামের 19তম ইলেকট্রন এবং ক্যালসিয়ামের (Ca) 19তম ও 20তম ইলেকট্রন তৃতীয় শক্তিস্তর (M) কে অপূর্ণ রেখে চতুর্থ (N) শক্তিস্তরে প্রবেশ করেছে।
+Translation: We know that the third energy level (M) has a maximum electron capacity of 18. However, the 19th electron of Potassium and the 19th and 20th electrons of Calcium enter the fourth energy level (N), leaving the third energy level (M) incomplete.
+
+স্ক্যানডিয়ামের (Sc) ক্ষেত্রে 19তম ও 20 তম ইলেকট্রন দুটি চতুর্থ শক্তিস্তরে যাবার পর 21 তম ইলেকট্রনটি আবার তৃতীয় শক্তিস্তরে প্রবেশ করেছে।
+Translation: In the case of Scandium (Sc), after the 19th and 20th electrons enter the fourth energy level, the 21st electron enters the third energy level.
+
+পারমাণবিক সংখ্যা 19 থেকে পরবর্তী মৌলগুলোতে আগে চতুর্থ প্রধান শক্তিস্তর N এ দুটি ইলেকট্রন প্রবেশ করার পর ইলেকট্রন তৃতীয় প্রধান শক্তিস্তর M এ প্রবেশ করে।
+Translation: In elements with atomic numbers 19 and above, two electrons first enter the fourth main energy level N, and then the next electrons enter the third main energy level M.
+
+এরপরও Cr এর ইলেকট্রন বিন্যাসে বিশেষ ব্যতিক্রম লক্ষ করা যাচ্ছে। এই বিষয়টি বোঝার জন্য আমাদের উপশক্তিস্তরের ধারণা থাকতে হবে।
+Translation: There are also special exceptions in the electron configuration of Cr. To understand this, we need to have knowledge of subshells.
+
+3.7.1 উপশক্তিস্তরের ধারণা
+Translation: 3.7.1 Concept of Subshells
+
+আমরা দেখেছি প্রতিটি প্রধান শক্তিস্তরকে n দিয়ে চিহ্নিত করা হয়।
+Translation: We have seen that each main energy level is represented by 'n'.
+
+এই শক্তিস্তরগুলো আবার কতগুলো উপশক্তিস্তরে বিভক্ত থাকে এবং এই উপশক্তিস্তরকে । দ্বারা চিহ্নিত করা হয়।
+Translation: These energy levels are further divided into subshells, which are designated by 'l'.
+
+l এর মান হয় 0 থেকে n-1 পর্যন্ত হয়।
+Translation: The value of l ranges from 0 to n-1.
+
+উপশক্তিস্তরগুলোকে অরবিটাল বলা হয়।
+Translation: The subshells are called orbitals.
+
+এই উপশক্তিস্তর বা অরবিটালগুলোকে s, p, d, f ইত্যাদি নামে আখ্যায়িত করা হয়।
+Translation: These subshells or orbitals are named s, p, d, f, etc.
+
+বিভিন্ন উপশক্তিস্তরের জন্য সম্ভাব্য l এর মান নিচে দেখানো হলো?
+Translation: Possible values of 'l' for different subshells are shown below:
+
+n = 1 হলে l = 0 এবং অরবিটালের সংখ্যা একটি: 1s
+Translation: If n=1, then l=0 and there is one orbital: 1s
+
+n = 2 হলে l = 0, 1 এক্ষেত্রে অরবিটালের সংখ্যা দুটি: 2s, 2p
+Translation: If n=2, then l=0, 1 and in this case there are two orbitals: 2s, 2p
+
+n = 3 হলে l= 0, 1, 2 অতএব এক্ষেত্রে অরবিটালের সংখ্যা তিনটি: 3s, 3p, 3d
+Translation: If n=3, then l=0, 1, 2 and thus there are three orbitals: 3s, 3p, 3d
+
+n = 4 হলে l= 0, 1, 2, 3 অর্থাৎ এক্ষেত্রে অরবিটালের সংখ্যা চারটি: 4s, 4p, 4d, 4f
+Translation: If n=4, then l=0, 1, 2, 3, which means there are four orbitals: 4s, 4p, 4d, 4f
+
+n = 5 হলে l = 0, 1, 2, 3, 4 অর্থাৎ এখানে অরবিটাল থাকার কথা পাঁচটি কিন্তু 4s, 4p, 4d, 4f
+Translation: If n=5, then l=0, 1, 2, 3, 4, meaning there should be five orbitals but they are only 4s, 4p, 4d, 4f
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Structure of the Atom
+CHAPTER NUMBER: 3
+PAGE NUMBER: 48
+MAIN TOPICS: Electron Configuration, Atomic Orbitals, Aufbau Principle
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+    MAIN ENERGY LEVEL (প্রধান শক্তিস্তর)
+        Bengali Definition: প্রতিটি প্রধান শক্তিস্তরে বর্তমান উপশক্তি শক্তিস্তরের সংখ্যা হলো (2l+1)
+        English Translation: The number of subshells present in each main energy level is (2l+1)
+        Related Chemical Equations: None
+        Examples: None
+    
+    SUBSHELL (উপশক্তিস্তর)
+        Bengali Definition: আবার প্রতিটি উপশক্তিস্তরের ইলেকট্রন ধারণ ক্ষমতা ২টি।
+        English Translation: Each subshell can hold 2 electrons.
+        Related Chemical Equations: None
+        Examples: None
+
+    TOTAL ELECTRONS IN A MAIN ENERGY LEVEL (পূর্ণ শক্তিস্তরে ইলেকট্রনের সংখ্যা)
+        Bengali Definition: প্রতিটি পূর্ণ শক্তিস্তরে ইলেকট্রনের সংখ্যা হচ্ছে 2n²
+        English Translation: The number of electrons in each full main energy level is 2n².
+        Related Chemical Equations: None
+        Examples: None
+
+    ORBITAL (অরবিটাল)
+        Bengali Definition: পরমাণুর ভেতরে যে স্থানে ইলেকট্রন থাকার সম্ভাবনা বেশি, সেই স্থানগুলোকে অরবিটাল বলে।
+        English Translation: An orbital is a region within an atom where there is a high probability of finding an electron.
+        Related Chemical Equations: None
+        Examples: s, p, d, and f orbitals
+
+    AUFBAU PRINCIPLE (আউফ-বাউ নীতি)
+        Bengali Definition: পরমাণুতে ইলেকট্রন প্রথমে সর্বনিম্ন শক্তির অরবিটালে প্রবেশ করে এবং পরে ক্রমান্বয়ে উচ্চশক্তির অরবিটালে প্রবেশ করে।
+        English Translation: In an atom, electrons first enter the lowest energy orbital and then progressively enter higher energy orbitals.
+        Related Chemical Equations: None
+        Examples: None
+
+    ENERGY OF AN ORBITAL (অরবিটালের শক্তি)
+        Bengali Definition: অরবিটালের মধ্যে কোনোটির শক্তি কম আর কোনোটির শক্তি বেশি তা অরবিটাল দুটির প্রধান শক্তিস্তরের মান (n) এবং উপশক্তিস্তরের মান (l) এর যোগফলের উপর নির্ভর করে।
+        English Translation: The energy of an orbital depends on the sum of the principal quantum number (n) and the azimuthal quantum number (l) of the two orbitals.
+        Related Chemical Equations: None
+        Examples: None
+
+    (n+l) Rule
+        Bengali Definition: যে অরবিটালের (n+l) এর মান কম সেই অরবিটালের শক্তি কম এবং সেই অরবিটালেই ইলেকট্রন আগে প্রবেশ করবে। অপরদিকে (n+l) এর মান যে অরবিটালের বেশি তার শক্তিও বেশি এবং সেই অরবিটালেই ইলেকট্রন পরে প্রবেশ করবে।
+        English Translation: The orbital with the lower (n+l) value has lower energy, and electrons enter that orbital first. Conversely, an orbital with a higher (n+l) value has higher energy, and electrons enter that orbital later.
+        Related Chemical Equations: None
+        Examples: None
+
+TABLE 3.07: ELECTRON CONFIGURATION IN ENERGY LEVELS (n = 1 TO 4)
+    Description: This table summarizes the electron configuration of the first four energy levels of an atom
+    Components:
+        -   n (Energy Level)
+        -   Subshell Designation
+        -   Subshell Symbol
+        -   Number of Electrons in Subshell
+        -   Total Electrons in Energy Level
+    Chemical Labels: n, s, p, d, f
+    Safety Notes: None
+    Purpose: Demonstrates how electrons fill different energy levels and sublevels in an atom.
+
+    | n (শক্তিস্তর) | Subshell (উপশক্তিস্তর) Name (নাম) | Subshell (উপশক্তিস্তর) Symbol (প্রতীক) | Electrons in Subshell (অরবিটালে ইলেকট্রন সংখ্যা) 2(2l + 1) | Total Electrons in Energy Level (মোট ইলেকট্রন সংখ্যা) 2n² |
+    |---|---|---|---|---|
+    | 1 | 0 (s) | 1s | 2 | 2 |
+    | 2 | 0 (s) | 2s | 2 | 2 + 6 = 8 |
+    | 2 | 1 (p) | 2p | 6 |  |
+    | 3 | 0 (s) | 3s | 2 |  2 + 6 + 10 = 18 |
+    | 3 | 1 (p) | 3p | 6 |  |
+    | 3 | 2 (d) | 3d | 10 |  |
+    | 4 | 0 (s) | 4s | 2 | 2 + 6 + 10 + 14 = 32 |
+    | 4 | 1 (p) | 4p | 6 | |
+    | 4 | 2 (d) | 4d | 10 | |
+    | 4 | 3 (f) | 4f | 14 | |
+
+    FORMULAS FOR CALCULATING ELECTRON OCCUPANCY:
+        - Number of subshells in a main energy level: (2l+1)
+        - Number of electrons in a subshell: 2(2l+1)
+        - Number of electrons in a main energy level: 2n²
+
+QUESTIONS AND PROBLEMS:
+    Question 1
+        Bengali question text:  টেবিলে 3.07 এ n= 1 থেকে 4 পর্যন্ত ইলেকট্রন বিন্যাস দেখানো হয়েছে, n=5,6,7 এবং 8 এর ক্ষেত্রে ইলেকট্রন বিন্যাস কি একই ভাবে হবে?
+        Translation: Table 3.07 shows electron configuration for n=1 to 4. Will the electron configurations for n=5, 6, 7, and 8 be the same?
+        Type: Analytical
+        Chemical Components: Electrons, Orbitals
+        Key Concept: Electron Configuration
+
+    Question 2
+        Bengali question text:  কোন অরবিটালে ইলেকট্রন আগে প্রবেশ করবে, 3p নাকি 4s? কেন?
+        Translation: Which orbital will electrons enter first, 3p or 4s? Why?
+        Type: Analytical
+        Chemical Components: Electrons, 3p Orbital, 4s Orbital
+        Key Concept: Aufbau Principle, (n+l) rule
+
+SAFETY INFORMATION:
+    None on this page.
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 49
+MAIN TOPICS: Aufbau principle, Electronic configuration, Energy levels of orbitals
+
+CHEMICAL EQUATIONS:
+K(19) → 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
+Ca(20) → 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
+Sc(21) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²
+Ti(22) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d² 4s²
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 3.04: অরবিটালের শক্তিক্রম। / Figure 3.04: Energy levels of orbitals
+DESCRIPTION: The diagram is a visual representation of the relative energy levels of different atomic orbitals. It shows a series of diagonal arrows, where each arrow represents an orbital (e.g., 1s, 2s, 2p, 3s, etc.), and the arrows are arranged to show the sequence in which orbitals are filled with electrons based on increasing energy. The diagram uses lines and arrow connections to indicate the proper order of filling atomic orbitals.
+COMPONENTS: Diagonal lines and labels for 1s, 2s, 2p, 3s, 3p, 3d, 4s, 4p, 4d, 4f, 5s, 5p, 5d, 5f, 6s, 6p, 6d, 7s, 7p, 8s
+CHEMICAL LABELS: 1s, 2s, 2p, 3s, 3p, 3d, 4s, 4p, 4d, 4f, 5s, 5p, 5d, 5f, 6s, 6p, 6d, 7s, 7p, 8s
+SAFETY NOTES: None relevant
+PURPOSE: To illustrate the order in which atomic orbitals are filled with electrons according to the Aufbau principle.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: n + l Rule
+BENGALI DEFINITION: "3d অরবিটালের জন্য n = 3 এবং 1 = 2 অতএব n + 1 এর মান 3 + 2 = 5 আবার 4s অরবিটালের জন্য n = 4, 1 = 0 অতএব n + l এর মান 4 + 0 = 4"
+ENGLISH TRANSLATION: "For 3d orbital, n = 3 and l = 2, therefore n + l value is 3 + 2 = 5. Again for 4s orbital, n = 4 and l = 0, therefore n + l value is 4 + 0 = 4"
+RELATED CHEMICAL EQUATIONS: None applicable
+EXAMPLES:  3d orbital (n=3, l=2) and 4s orbital (n=4, l=0).
+
+TERM OR PROPERTY NAME: Aufbau principle for filling orbitals
+BENGALI DEFINITION: "কাজেই 3d অরবিটালের চেয়ে 4s অরবিটাল কম শক্তিসম্পন্ন। তাই ইলেকট্রন প্রথমে 4s অরবিটালে এবং পরে 3d অরবিটালে প্রবেশ করবে। আবার, দুটি অরবিটালের (n+1) এর মান যদি সমান হয় তাহলে যে অরবিটালটিতে n এর মান কম সেই অরবিটালের শক্তি কম হবে এবং সেই অরবিটালে ইলেকট্রন আগে প্রবেশ করবে।"
+ENGLISH TRANSLATION: "Therefore, 4s orbital has less energy than 3d orbital. So, electrons first enter the 4s orbital and then the 3d orbital. Moreover, if the (n+l) values of two orbitals are the same, the orbital with the lower n value has lower energy, and electrons will enter that orbital first."
+RELATED CHEMICAL EQUATIONS: None applicable
+EXAMPLES:  3d and 4p orbitals.
+
+TERM OR PROPERTY NAME: Maximum number of electrons in subshells
+BENGALI DEFINITION: "আমরা দেখেছি s উপশক্তিস্তরে সর্বোচ্চ ২টি ইলেকট্রন, p উপশক্তিস্তরে সর্বোচ্চ 6টি ইলেকট্রন, d উপশক্তিস্তরে সর্বোচ্চ 10টি ইলেকট্রন এবং f উপশক্তিস্তরে সর্বোচ্চ 14টি ইলেকট্রন থাকতে পারে।"
+ENGLISH TRANSLATION: "We have seen that s subshells can hold a maximum of 2 electrons, p subshells can hold a maximum of 6 electrons, d subshells can hold a maximum of 10 electrons, and f subshells can hold a maximum of 14 electrons."
+RELATED CHEMICAL EQUATIONS: None applicable
+EXAMPLES: None
+
+ADDITIONAL NOTES:
+-  The text explains that when filling orbitals with electrons, those with lower (n + l) values are filled first. If (n + l) values are equal for two orbitals, the one with the lower 'n' value is filled first.
+-   The text also indicates that for potassium (K), the last electron enters the 4s orbital instead of the 3d orbital, due to the 4s orbital's lower energy, illustrating an exception to the standard filling order.
+-   The text is from a Class 9 Chemistry textbook (NCTB, Bangladesh).
+-   The text provides the electronic configurations of potassium (K), calcium (Ca), scandium (Sc) and titanium (Ti)
+
+
+CHAPTER TITLE: ইলেকট্রন বিন্যাস ও পর্যায় সারণি / Electron Configuration and the Periodic Table
+CHAPTER NUMBER: 3
+PAGE NUMBER: 50
+MAIN TOPICS: Electron Configuration, Exceptions to Electron Configuration, Isotopes
+
+CHEMICAL EQUATIONS:
+Fe(26) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²
+Cr(24) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+
+ELECTRON CONFIGURATION:
+The 19th and 20th electrons fill the 4s orbital, and the 21st electron enters the next higher energy (3d) orbital.
+It is important to remember that when writing the electron configuration, all subshells of the same principal energy level should be written side by side. Otherwise, there may be mistakes in writing the electron configuration.
+
+Example for Fe (26):
+n=1: 1s²
+n=2: 2s² 2p⁶
+n=3: 3s² 3p⁶ 3d⁶
+n=4: 4s²
+
+Although in this case, electrons enter the 4s orbital before the 3d orbital.
+
+ELECTRON CONFIGURATION EXCEPTIONS
+3.7.3 ELECTRON CONFIGURATION: SOME EXCEPTIONS TO THE GENERAL RULE
+
+Generally, it is seen that if the orbitals of the same subshells p and d are half-filled (p³, d⁵) or completely filled (p⁶, d¹⁰), then that electron configuration becomes more stable. Therefore, the expected electron configuration of Cr(24) should be: Cr(24) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s². But due to the desire of the 3d⁵ orbital to be stable by being half-filled, one electron from the 4s orbital comes into the 3d orbital. As a result, the electron configuration of chromium is: Cr(24) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹.
+
+PRACTICE PROBLEM
+একক কাজ / Single Task
+নিজে করো: / Do It Yourself:
+Cu(29) এর ইলেকট্রন বিন্যাস স্বাভাবিকভাবে হওয়ার কথা: / The expected electron configuration of Cu(29) should be:  Cu(29) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁹ 4s²
+কিন্তু কপারের ইলেকট্রন বিন্যাস হয় এরকম: / But the electron configuration of copper is: Cu(29) → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹, কারণটি ব্যাখ্যা করো। / Explain the reason.
+
+ISOTOPES
+3.8 আইসোটোপ (Isotopes)
+
+যে সকল পরমাণুর প্রোটন সংখ্যা সমান কিন্তু ভরসংখ্যা ও নিউট্রন সংখ্যা ভিন্ন তাদেরকে একে অপরের আইসোটোপ বলে। / Atoms that have the same number of protons but different mass numbers and neutron numbers are called isotopes of each other.
+3.04 নং টেবিলে দেখানো তিনটি H পরমাণুরই প্রোটন সংখ্যা সমান। / All three H atoms shown in Table 3.04 have the same number of protons.
+কাজেই তারা একে অপরের আইসোটোপ। / Therefore, they are isotopes of each other.
+হাইড্রোজেনের সাতটি আইসোটোপ ('H, ²H, ³H, ⁴H, ⁵H, ⁶H এবং ⁷H) আছে। / Hydrogen has seven isotopes ('H, ²H, ³H, ⁴H, ⁵H, ⁶H, and ⁷H).
+এর মধ্যে শুধু তিনটি প্রকৃতিতে পাওয়া যায়, অন্যগুলোকে ল্যাবরেটরিতে প্রস্তুত করা হয়। / Of these, only three are found in nature, while others are prepared in the laboratory.
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: Not specified on this page
+PAGE NUMBER: 51
+MAIN TOPICS: Isotopes of Hydrogen, Atomic Mass, Relative Atomic Mass
+
+TABLE 3.08: ISOTOPES OF HYDROGEN
+| Name | Symbol | Proton Number (Z) | Mass Number (A) | Neutron Number (A-Z) |
+|---|---|---|---|---|
+| Hydrogen or Protium | 1/1 H  | 1 | 1 | 0 |
+| Deuterium | 2/1 D | 1 | 2 | 1 |
+| Tritium | 3/1 T | 1 | 3 | 2 |
+
+Here, Deuterium and Tritium are isotopes of Hydrogen atom.
+
+3.9 ATOMIC MASS OR RELATIVE ATOMIC MASS
+(Atomic Mass or Relative Atomic Mass)
+We already know that the mass number of an atom of an element is the sum of the number of protons and neutrons present in the nucleus of the atom. So the mass number will surely be an integer. But if you see the atomic mass of copper then you will see that it is 63.5 and the atomic mass of chlorine is 35.5. How is this possible? Actually, this is the relative atomic mass. What is it and why is it needed? The answers to these questions are discussed below.
+
+The mass of a fluorine atom is 3.16 × 10^-23 grams.
+The mass of an aluminum atom is 4.482 × 10^-23 grams.
+
+In practice, using such small masses is very difficult. Therefore, the mass of an atom is measured relative to 1/12th of the mass of a carbon-12 isotope.
+1/12th of the atomic mass of carbon-12 isotope is 1.66 × 10^-24 grams.
+
+Therefore, the relative atomic mass of any element is:
+
+RELATIVE ATOMIC MASS OF AN ELEMENT
+   =  (Mass of one atom of an element) / (1/12th of the mass of a carbon-12 isotope)
+
+
+CHAPTER TITLE: পরমাণুর গঠন / Structure of the Atom
+CHAPTER NUMBER: 3
+PAGE NUMBER: 52
+MAIN TOPICS: Relative Atomic Mass, Isotopes, Average Atomic Mass
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: আপেক্ষিক পারমাণবিক ভর (Relative Atomic Mass)
+Bengali Definition: কোনো মৌলের একটি পরমাণুর প্রকৃত ভরকে 1.66 × 10-24 গ্রাম দ্বারা ভাগ করে আপেক্ষিক পারমাণবিক ভর বের করা যায়।
+English Translation: The relative atomic mass can be found by dividing the actual mass of an atom of an element by 1.66 × 10-24 grams.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: আইসোটোপ (Isotope)
+Bengali Definition: প্রকৃতিতে বেশির ভাগ মৌলেরই একাধিক আইসোটোপ রয়েছে।
+English Translation: Most elements in nature have multiple isotopes.
+Related Chemical Equations: None
+Examples:  35Cl, 37Cl
+
+3.9.1 ISOTOPES AND AVERAGE ATOMIC MASS
+Bengali Title: আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক ভর নির্ণয়
+English Translation: Determination of average relative mass of element from the percentage of isotopes
+
+EXPERIMENTAL PROCEDURES
+EXPERIMENT TITLE: Calculating Average Atomic Mass from Isotopic Abundance
+Purpose: To determine the average relative atomic mass of an element using the percentage abundance of its isotopes in nature.
+Materials Required: Isotopic mass data, percentage abundance data.
+Safety Precautions: No specific safety precautions required for calculation.
+Procedure:
+    1. Multiply the mass number of each isotope by its percentage abundance in nature.
+    2. Add the results obtained in step 1.
+    3. Divide the sum obtained in step 2 by 100.
+Expected Observations: The final result will be the average relative atomic mass of the element.
+Key Learning Points: The average atomic mass is a weighted average considering isotopic abundances.
+
+CHEMICAL EQUATIONS
+MOL A এর গড় আপেক্ষিক পারমাণবিক ভর  = (p x m + q x n)/100
+(Average relative atomic mass of element A) = (p x m + q x n)/100
+where,
+    p = mass number of one isotope
+    m = percentage abundance of the same isotope
+    q = mass number of another isotope
+    n = percentage abundance of the other isotope.
+
+EXAMPLE:
+    Average relative atomic mass of chlorine = (35 * 75 + 37 * 25) / 100 = 35.5
+
+QUESTIONS AND PROBLEMS
+
+QUESTION 1
+Bengali question text: নিজে করো: Al এর 1টি পরমাণুর ভর 4.482 × 10-23 গ্রাম। Al পরমাণুর আপেক্ষিক পারমাণবিক ভর গণনা করে দেখাও।
+Translation: Do it yourself: The mass of 1 atom of Al is 4.482 × 10-23 grams. Calculate and show the relative atomic mass of Al.
+Type: Numerical
+Chemical Components: Al
+Key Concept: Relative Atomic Mass
+
+QUESTION 2
+Bengali question text: প্রশ্ন অনুসারে Al এর একটি পরমাণুর ভর = 4.482 × 10-23 গ্রাম। আমরা জানি, কার্বন-12 আইসোটোপে পারমাণবিক ভরের তাংশ হলো, 1.66×10-24g
+Translation: According to the question, the mass of one atom of Al = 4.482 × 10-23 grams. We know that 1/12th of the atomic mass of carbon-12 isotope is 1.66 × 10-24g
+Type: Numerical
+Chemical Components: Al, Carbon-12
+Key Concept: Relative Atomic Mass
+
+QUESTION 3
+Bengali question text: কাজেই Al মৌলের আপেক্ষিক পারমাণবিক ভর = 4.482 × 10-23 গ্রাম / 1.66 × 10-24 গ্রাম = 27
+Translation: Therefore, the relative atomic mass of Al = 4.482 × 10-23 gram / 1.66 × 10-24 gram = 27
+Type: Numerical
+Chemical Components: Al
+Key Concept: Relative Atomic Mass
+
+
+```
+Chapter Title: পদার্থের গঠন / Structure of Matter
+Chapter Number: Not explicitly stated on the page
+Page Number: 53
+Main Topics: Average atomic mass, relative molecular mass
+
+CHEMICAL EQUATIONS:
+None on this page.
+
+EXPERIMENTAL PROCEDURES:
+None on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page.
+
+QUESTIONS AND PROBLEMS:
+None on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+AVERAGE ATOMIC MASS
+Bengali Definition: এখানে উল্লেখ্য, পর্যায় সারণিতেও ক্লোরিনের গড় আপেক্ষিক পারমাণবিক ভর 35.5 লেখা আছে। পর্যায় সারণিতে যে পারমাণবিক ভর লেখা আছে তা মূলত গড় আপেক্ষিক পারমাণবিক ভর।
+English Translation: It is worth mentioning that the average relative atomic mass of chlorine is written as 35.5 in the periodic table. The atomic mass written in the periodic table is actually the average relative atomic mass.
+
+RELATIVE MOLECULAR MASS
+Bengali Definition: কোনো মৌলিক বা যৌগিক পদার্থের অণুতে যে পরমাণুগুলো থাকে তাদের আপেক্ষিক পারমাণবিক ভর নিজ নিজ পরমাণু সংখ্যা দিয়ে গুণ করে যোগ করলে প্রাপ্ত যোগফলই হলো ঐ অণুর আপেক্ষিক আণবিক ভর। আপেক্ষিক পারমাণবিক ভরকে পারমাণবিক ভর এবং আপেক্ষিক আণবিক ভরকে সাধারণভাবে আণবিক ভর হিসেবে বিবেচনা করা হয়।
+English Translation: The sum of the relative atomic masses of all the atoms present in a molecule of an element or compound, each multiplied by its respective number of atoms, is known as the relative molecular mass of that molecule. Relative atomic mass is generally considered as atomic mass and relative molecular mass as molecular mass.
+
+EXAMPLES:
+Calculation of Average Atomic Mass of Copper:
+Given that Copper has two isotopes: 63Cu and 65Cu.
+The average atomic mass of copper is 63.5.
+Let the percentage of 63Cu be x% and the percentage of 65Cu be (100-x)%.
+Average Atomic Mass =  (x * 63 + (100-x)*65) /100
+Given average atomic mass = 63.5.
+Solving, we get: x = 75%.
+Therefore, the percentage of 63Cu is 75% and 65Cu is 25%
+
+Calculation of Relative Molecular Mass:
+Example 1: H2 (Hydrogen)
+The relative atomic mass of Hydrogen (H) is 1. Number of hydrogen atoms in H2 is 2.
+Relative molecular mass of H2 = 1 * 2 = 2
+Example 2: H2SO4 (Sulfuric Acid)
+The relative atomic mass of Hydrogen (H) is 1, and there are 2 hydrogen atoms.
+The relative atomic mass of Sulfur (S) is 32, and there is 1 sulfur atom.
+The relative atomic mass of Oxygen (O) is 16, and there are 4 oxygen atoms.
+Relative molecular mass of H2SO4 = (1 * 2) + (32 * 1) + (16 * 4) = 2 + 32 + 64 = 98
+
+SAFETY INFORMATION:
+None on this page.
+```
+
+
+CHAPTER TITLE: তেজস্ক্রিয় আইসোটোপ ও তাদের ব্যবহার / Radioactive Isotopes and Their Uses
+CHAPTER NUMBER: 3.10
+PAGE NUMBER: 54
+MAIN TOPICS: Radioactive isotopes, Uses of radioactive isotopes
+
+CHEMICAL EQUATIONS:
+None found on this page.
+
+EXPERIMENTAL PROCEDURES:
+None found on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None found on this page.
+
+QUESTIONS AND PROBLEMS:
+None found on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+RADIOACTIVE ISOTOPES
+Bengali Definition:  কিছু কিছু আইসোটোপ আছে যাদের নিউক্লিয়াস স্বতঃস্ফূর্তভাবে (নিজে নিজেই) ভেঙে আলফা, বিটা, গামা ইত্যাদি তেজস্ক্রিয় রশ্মি নির্গত করে। একটি মৌলের যে সকল আইসোটোপ তেজস্ক্রিয় রশ্মি নিঃশরণ করে তাদেরকে তেজস্ক্রিয় আইসোটোপ বলে।
+English Translation: Some isotopes have nuclei that spontaneously (on their own) break down, emitting alpha, beta, gamma, and other radioactive rays. Isotopes of an element that emit radioactive rays are called radioactive isotopes.
+Related Chemical Equations: None on this page.
+Examples: Technetium-99 (99Tc), Iodine-131 (131I), Cobalt-60 (60Co), Phosphorus-32 (32P)
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Radioactive isotopes emit harmful radiation.
+Required Precautions: Controlled and limited exposure is necessary. Proper shielding and handling procedures are required.
+Emergency Procedures: Follow institutional safety protocols for radiation exposure.
+Protective Equipment: Use radiation-shielding equipment and personal protective gear.
+
+ADDITIONAL NOTES:
+*   The text mentions that there are over 3000 radioactive isotopes, some found in nature and some produced in labs.
+*  It notes that radioactive isotopes are used in medicine, agriculture, food and seed preservation, power generation, and age determination.
+* The text specifies that a physics textbook covers the theoretical background of isotopes.
+
+MEDICAL APPLICATIONS:
+
+DIAGNOSIS
+Bengali Definition: আইসোটোপ ব্যবহার করে একজন রোগীর রোগাক্রান্ত স্থানের ছবি তোলা সম্ভব। এ পদ্ধতিতে ইঞ্জেকশনের মাধ্যমে তেজস্ক্রিয় আইসোটোপ টেকনিশিয়াম-99 (99Tc) কে শরীরের ভেতরে প্রবেশ করানো হয়। এই আইসোটোপ যখন শরীরের নির্দিষ্ট স্থানে জমা হয় তখন ঐ তেজস্ক্রিয় আইসোটোপ গামা রশ্মি বিকিরণ করে, তখন বাইরে থেকে গামা রশ্মি শনাক্তকরণ ক্যামেরা দিয়ে সেই স্থানের ছবি তোলা সম্ভব। এই তেজস্ক্রিয় আইসোটোপ টেকনিশিয়াম-99 এর লাইফটাইম 6 ঘণ্টা। তাই সামান্য সময়েই এর তেজস্ক্রিয়তা শেষ হয়ে যায় বলে এটি অনেক নিরাপদ।
+English Translation: It is possible to take a picture of a diseased area of a patient using isotopes. In this method, the radioactive isotope technetium-99 (99Tc) is injected into the body. When the isotope accumulates in a specific area, it emits gamma rays, which are captured by a gamma ray detection camera to create an image of that location. The half-life of technetium-99 is 6 hours. Therefore, its radioactivity disappears in a short time, making it quite safe.
+Related Chemical Equations: None on this page.
+Examples: Technetium-99 (99Tc)
+
+TREATMENT
+Bengali Definition:  সর্বপ্রথম থাইরয়েড ক্যানসার নিরাময়ে তেজস্ক্রিয় আইসোটোপ ব্যবহার করা হয়। রোগীকে পরিমাণমতো তেজস্ক্রিয় আইসোটোপ 131I সমৃদ্ধ দ্রবণ পান করানো হয়। এই আইসোটোপ থাইরয়েডে পৌঁছায়। এ আইসোটোপ থেকে বিটা রশ্মি নির্গত হয় এবং থাইরয়েডের ক্যানসার কোষকে ধ্বংস করে। এছাড়া ইরিডিয়াম আইসোটোপ ব্রেইন ক্যানসার নিরাময়ে ব্যবহার করা হয়। টিউমারের উপস্থিতি নির্ণয় ও নিরাময়ে তেজস্ক্রিয় আইসোটোপ 60Co ব্যবহার করা হয়। 60Co থেকে নির্গত গামা রশ্মি ক্যানসারের কোষকলাকে ধ্বংস করে। রক্তের লিউকোমিয়া রোগের চিকিৎসায় 32p এর ফসফেট ব্যবহার করা হয়।
+English Translation: Radioactive isotopes are primarily used to treat thyroid cancer. A solution containing radioactive isotope 131I is administered to the patient. This isotope reaches the thyroid gland and emits beta rays, which destroy cancer cells in the thyroid. In addition, iridium isotopes are used to treat brain cancer. Radioactive isotope 60Co is used to detect and treat tumors. Gamma rays emitted from 60Co destroy cancer cells. Phosphate of 32P is used to treat leukemia in the blood.
+Related Chemical Equations: None on this page.
+Examples: Iodine-131 (131I), Iridium isotopes, Cobalt-60 (60Co), Phosphorus-32 (32P)
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: 3
+PAGE NUMBER: 55
+MAIN TOPICS: Agricultural applications of radioactivity, Nuclear Energy production
+
+1.  CHEMICAL EQUATIONS:
+    *   No chemical equations are present on this page.
+
+2.  EXPERIMENTAL PROCEDURES:
+    *   No experimental procedures are described on this page.
+
+3.  DIAGRAMS AND ILLUSTRATIONS:
+    *   No diagrams or illustrations are present on this page.
+
+4.  QUESTIONS AND PROBLEMS:
+     *  No questions or problems are present on this page.
+
+5. CHEMICAL PROPERTIES AND DEFINITIONS:
+
+    TERM OR PROPERTY NAME: তেজস্ক্রিয় আইসোটোপ (Radioactive Isotope)
+    Bengali Definition: তেজস্ক্রিয় আইসোটোপ ব্যবহার করে জমিতে কী পরিমাণ নাইট্রোজেন ও ফসফরাস আছে তা জানা যায়।
+    English Translation: Radioactive isotopes are used to determine the amount of nitrogen and phosphorus present in the soil.
+    Related Chemical Equations: Not applicable
+    Examples: Not applicable
+
+    TERM OR PROPERTY NAME: তেজস্ক্রিয় রশ্মি (Radioactive Rays)
+    Bengali Definition: এসব তেজস্ক্রিয় আইসোটোপ থেকে তেজস্ক্রিয় রশ্মি নির্গত হয়।
+    English Translation: Radioactive rays are emitted from these radioactive isotopes.
+    Related Chemical Equations: Not applicable
+    Examples: Not applicable
+
+    TERM OR PROPERTY NAME: ফিশান বিক্রিয়া (Fission Reaction)
+    Bengali Definition: কিছু কিছু পরমাণুকে ভেঙে ক্ষুদ্র ক্ষুদ্র পরমাণুতে পরিণত করলে অর্থাৎ ফিশান বিক্রিয়া ঘটালে প্রচুর পরিমাণে তাপশক্তি নির্গত হয়।
+    English Translation: When some atoms are broken down into smaller atoms, that is, when a fission reaction occurs, a large amount of heat energy is released.
+    Related Chemical Equations: Not applicable
+    Examples: Not applicable
+
+    TERM OR PROPERTY NAME: নিউক্লিয়ার বিদ্যুৎকেন্দ্র (Nuclear Power Plant)
+    Bengali Definition: এই তাপশক্তি ব্যবহার করে জেনারেটর দিয়ে বিদ্যুৎ উৎপন্ন করা হয়। আমরা সেটিকে নিউক্লিয়ার বিদ্যুৎকেন্দ্র বলি।
+    English Translation: This heat energy is used to generate electricity using a generator. We call it a nuclear power plant.
+    Related Chemical Equations: Not applicable
+    Examples: Not applicable
+
+6.  SAFETY INFORMATION:
+
+    SAFETY ALERT
+    Hazard Description: কীটনাশক পরিবেশ ও আমাদের শরীরের জন্য ক্ষতিকর। (Pesticides are harmful to the environment and our bodies.)
+    Required Precautions: তেজস্ক্রিয় আইসোটোপসমৃদ্ধ কীটনাশক ব্যবহারের মাধ্যমে জানা সম্ভব হয়েছে সর্বনিম্ন কতটুকু পরিমাণ কীটনাশক একটি ফসলের জন্য ব্যবহার করা যাবে। (It has been possible to know the minimum amount of pesticide that can be used for a crop by using radioactive isotope-enriched pesticides.)
+    Emergency Procedures: Not applicable
+    Protective Equipment: Not applicable
+
+    SAFETY ALERT
+    Hazard Description: কীটনাশক ক্ষতিকারক পোকামাকড়ের সাথে সাথে অনেক উপকারী পোকামাকড়ও ধ্বংস করে। (Pesticides destroy many beneficial insects along with harmful insects.)
+    Required Precautions: Not applicable
+    Emergency Procedures: Not applicable
+    Protective Equipment: Not applicable
+
+
+CHAPTER TITLE:  (Not specified) / (Not specified)
+CHAPTER NUMBER:  (Not specified)
+PAGE NUMBER: 56
+MAIN TOPICS: Radioactive Isotopes, Nuclear Power Plants, Nuclear Hazards
+
+DIAGRAM TITLE: পাবনার রূপপুর নিউক্লিয়ার বিদ্যুৎকেন্দ্র / Rooppur Nuclear Power Plant, Pabna
+DESCRIPTION: An image of a nuclear power plant complex with several buildings and tall, cylindrical cooling towers. The plant appears to be situated in a rural or semi-rural environment with green fields visible in the background and a clear sky above.
+COMPONENTS: Cooling towers, reactor buildings, support structures, surrounding landscape
+CHEMICAL LABELS: None
+SAFETY NOTES: Nuclear power plants require strict safety protocols to prevent radioactive leaks and accidents.
+PURPOSE: To illustrate a real-world example of a nuclear power plant that utilizes radioactive isotopes for energy generation.
+
+3.10.4 তেজস্ক্রিয় আইসোটোপের ক্ষতিকর প্রভাব / 3.10.4 Harmful Effects of Radioactive Isotopes
+TERM OR PROPERTY NAME: তেজস্ক্রিয় আইসোটোপ / Radioactive Isotopes
+BENGALI DEFINITION: তেজস্ক্রিয় আইসোটোপ আমাদের অনেক উপকারে আসে সে কথা সত্যি কিন্তু এটি আমাদের জন্য ক্ষতির কারণও হতে পারে।
+ENGLISH TRANSLATION: It is true that radioactive isotopes are very useful for us, but they can also be a cause of harm for us.
+RELATED CHEMICAL EQUATIONS: (Not applicable)
+EXAMPLES: (Not applicable)
+
+TERM OR PROPERTY NAME: তেজস্ক্রিয় রশ্মি / Radioactive Rays
+BENGALI DEFINITION: তেজস্ক্রিয় আইসোটোপ থেকে যে আলফা, বেটা ও গামা রশ্মি নির্গত হয় তা কোষের জিনগত পরিবর্তন ঘটাতে পারে যার ফলাফল হিসেবে ক্যানসারের মতো রোগ হতে পারে।
+ENGLISH TRANSLATION: The alpha, beta, and gamma rays emitted from radioactive isotopes can cause genetic changes in cells, which can result in diseases like cancer.
+RELATED CHEMICAL EQUATIONS: (Not applicable)
+EXAMPLES: (Not applicable)
+
+TERM OR PROPERTY NAME: পারমাণবিক বোমার বিস্ফোরণ / Nuclear Bomb Explosion
+BENGALI DEFINITION: দ্বিতীয় বিশ্বযুদ্ধে জাপানের হিরোশিমা ও নাগাসাকিতে পারমাণবিক বোমার বিস্ফোরণ ঘটেছিল, তার জন্য কয়েক লক্ষ জীবন ধ্বংস হয়েছে।
+ENGLISH TRANSLATION: During World War II, the nuclear bomb explosions in Hiroshima and Nagasaki, Japan, caused the destruction of hundreds of thousands of lives.
+RELATED CHEMICAL EQUATIONS: (Not applicable)
+EXAMPLES: (Not applicable)
+
+TERM OR PROPERTY NAME: চেরোনোবিল দুর্ঘটনা / Chernobyl Accident
+BENGALI DEFINITION: 1986 সালে রাশিয়ার চেরোনোবিলে পারমাণবিক বিদ্যুৎকেন্দ্রে যে দুর্ঘটনা ঘটেছিল তার ফলে অনেক প্রাণ হারিয়েছে এবং ঐ এলাকায় পরিবেশ দূষণ ঘটেছে।
+ENGLISH TRANSLATION: In 1986, the accident at the Chernobyl nuclear power plant in Russia resulted in many deaths and environmental pollution in the area.
+RELATED CHEMICAL EQUATIONS: (Not applicable)
+EXAMPLES: (Not applicable)
+
+SAFETY ALERT
+HAZARD DESCRIPTION: Radioactive isotopes can emit harmful radiation including alpha, beta and gamma rays that can cause genetic damage and lead to cancer. Nuclear accidents can release harmful radioactive materials causing widespread contamination.
+REQUIRED PRECAUTIONS: Strict regulations and safety protocols must be followed at all nuclear facilities and when handling radioactive materials.
+EMERGENCY PROCEDURES: In case of a nuclear accident, immediate evacuation and containment measures are essential.
+PROTECTIVE EQUIPMENT: Special protective clothing and equipment are necessary for individuals working with radioactive substances.
+
+Page reference: 56
+
+
+CHAPTER TITLE: পদার্থের গঠন / Structure of Matter
+CHAPTER NUMBER: Not specified on the page.
+PAGE NUMBER: 57
+MAIN TOPICS: Atomic structure, Isotopes, Relative atomic mass
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+Z একটি মৌল যার প্রোটন সংখ্যা 111 এবং ভরসংখ্যা 252। নিচের কোনটি দ্বারা পরমাণুটিকে প্রকাশ করা যায়?
+Translation: Z is an element with a proton number of 111 and a mass number of 252. Which of the following can represent the atom?
+Type: Multiple choice
+Chemical Components: Z
+Key Concept: Atomic number, mass number, element notation
+
+Question 2
+'X' মৌলটির আপেক্ষিক পারমাণবিক ভর কত? (এখানে X প্রতীকী অর্থে, প্রচলিত কোনো মৌলের প্রতীক নয়)
+Translation: What is the relative atomic mass of element 'X'? (Here, X is a symbol, not the symbol of any common element.)
+Type: Multiple choice
+Chemical Components: 146X, 154X
+Key Concept: Isotope abundance, average atomic mass
+
+Question 3
+একটি মৌলের একটি পরমাণুর প্রকৃত ভর যদি 4.482 × 10-23 গ্রাম হয়, তবে এর আপেক্ষিক পারমাণবিক ভর হবে-
+Translation: If the actual mass of an atom of an element is 4.482 × 10^-23 grams, then its relative atomic mass will be -
+Type: Multiple choice
+Chemical Components: None
+Key Concept: Relative atomic mass
+
+Question 4
+27 Al সংকেতটিতে মৌলের-
+13
+(i) প্রোটন সংখ্যা 13
+(ii) ভরসংখ্যা 27
+(iii) ইলেকট্রন সংখ্যা 10
+নিচের কোনটি সঠিক?
+Translation: In the symbol 27Al, for the element -
+13
+(i) The proton number is 13
+(ii) The mass number is 27
+(iii) The electron number is 10
+Which of the following is correct?
+Type: Multiple choice
+Chemical Components: Al (Aluminum)
+Key Concept: Atomic structure, proton number, mass number, electron number
+
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 58
+MAIN TOPICS: Atomic Number, Electronic Configuration, Atomic Structure Models
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 5
+পটাশিয়ামের পারমাণবিক সংখ্যা কত?
+Translation: What is the atomic number of Potassium?
+Type: Multiple choice
+Chemical Components: Potassium (K)
+Key Concept: Atomic Number
+
+QUESTION 6
+N শেলে কয়টি উপশক্তিস্তর থাকে?
+Translation: How many subshells are there in the N shell?
+Type: Multiple choice
+Chemical Components: None
+Key Concept: Electronic Shells and Subshells
+
+QUESTION 7
+Sc এর পারমাণবিক সংখ্যা 21। Sc এর সঠিক ইলেকট্রন বিন্যাস কোনটি?
+Translation: The atomic number of Sc is 21. Which one is the correct electronic configuration of Sc?
+Type: Multiple choice
+Chemical Components: Scandium (Sc)
+Key Concept: Electronic Configuration
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+একটি মৌলের পরমাণুর মডেল আঁকার জন্য বলা হলে নবম শ্রেণির ছাত্র ফরিদ নিচের চিত্রটি অঙ্কন করল।
+Translation: When asked to draw an atomic model, Farid, a student of class 9, drew the following diagram.
+Type: Open ended - Analytical
+Chemical Components: None, focused on conceptual understanding
+Key Concept: Atomic Models
+
+   (ক) পারমাণবিক সংখ্যা কাকে বলে?
+   Translation: What is an atomic number?
+   Type: Short answer
+   Chemical Components: None
+   Key Concept: Atomic Number Definition
+
+   (খ) 64x এবং 64y পরমাণু দুটির নিউক্লিয়ন সংখ্যা সমান কিন্তু নিউট্রন সংখ্যা ভিন্ন-ব্যাখ্যা করো।
+   Translation: The two atoms <sup>64</sup>X<sub>29</sub> and <sup>64</sup>Y<sub>30</sub> have the same number of nucleons but a different number of neutrons - explain.
+   Type: Analytical
+   Chemical Components: Generic isotopes X and Y
+   Key Concept: Isotopes, Nucleons, Neutrons
+
+   (গ) ফরিদের আঁকা চিত্রটি যে পরমাণু মডেলের সীমাবদ্ধতা নির্দেশ করে সেই পরমাণু মডেলটি বর্ণনা করো।
+   Translation: Describe the atomic model that the diagram drawn by Farid represents, including its limitations.
+   Type: Analytical
+   Chemical Components: None
+   Key Concept: Limitations of atomic models (likely Bohr model or Rutherford model)
+
+   (ঘ) অঙ্কিত চিত্র অনুসারে পরমাণু কেন স্থায়ী হবে না- তা আলোচনা করো।
+   Translation: Discuss why the atom in the drawn diagram would not be stable based on its structure.
+   Type: Analytical
+   Chemical Components: None
+   Key Concept: Atomic Stability, Electronic Arrangement, Model limitations
+
+QUESTION 2
+A মৌল = <sup>60</sup>Co, B মৌল = <sup>32</sup>P, C যৌগ = H2SO4
+Translation: Element A = <sup>60</sup>Co, Element B = <sup>32</sup>P, Compound C = H2SO4
+
+   (ক) প্রতীক কাকে বলে?
+   Translation: What is a symbol?
+   Type: Short answer
+   Chemical Components: None
+   Key Concept: Chemical Symbols
+
+    (খ) পরমাণুতে কখন বর্ণালির সৃষ্টি হয়? ব্যাখ্যা করো।
+   Translation: When are spectra produced by atoms? Explain.
+   Type: Analytical
+   Chemical Components: None
+   Key Concept: Atomic Spectra
+
+   (গ) C যৌগের আপেক্ষিক আণবিক ভর বের করো।
+    Translation: Calculate the relative molecular mass of compound C.
+    Type: Numerical
+    Chemical Components: H2SO4
+    Key Concept: Molecular Mass
+
+   (ঘ) A এবং B এর আইসোটোপগুলো আমাদের জীবনে গুরুত্বপূর্ণ ভূমিকা রাখে-ব্যাখ্যা করো।
+   Translation: Explain the important roles that isotopes of A and B play in our lives.
+   Type: Analytical
+   Chemical Components: Cobalt (Co) and Phosphorus (P)
+   Key Concept: Applications of Isotopes
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: ATOMIC MODEL
+Description: A diagram of an atom with a central nucleus containing a positive charge, surrounded by multiple circular orbits. One electron is shown orbiting.
+Components: Nucleus (central positive charge), electron orbit, electron.
+Chemical Labels: Electron
+Safety Notes: None
+Purpose: To show the basic structure of an atom
+
+END OF PAGE 58 EXTRACTION
+
+

@@ -1,0 +1,1289 @@
+CHAPTER METADATA
+Chapter Title: রাসায়নিক বিক্রিয়া / Chemical Reactions
+Chapter Number: 7
+Page Number: 2025
+Main Topics: Physical changes, Chemical changes, Types of chemical reactions
+
+TEXTUAL CONTENT
+
+আমরা জানি, পদার্থের প্রকৃতি, ধর্ম এবং তাদের পরিবর্তন রসায়ন পাঠের মূল বিষয়। / We know that the nature, properties, and changes of matter are the main topics of chemistry.
+
+আমাদের চারপাশে বিভিন্ন পদার্থ প্রতিনিয়ত পরিবর্তিত হচ্ছে। / Around us, different substances are constantly changing.
+
+ভিন্ন অবস্থায় পরিণত হওয়াকে ভৌত পরিবর্তন এবং সম্পূর্ণ ভিন্নধর্মী নতুন পদার্থে পরিণত হওয়াকে রাসায়নিক পরিবর্তন বলে। / The change into a different state is called a physical change, and the change into a completely new substance is called a chemical change.
+
+এই পরিবর্তনগুলো ঘটে নানা ধরনের ভৌত পরিবর্তন ও রাসায়নিক বিক্রিয়ার কারণে। / These changes occur due to various kinds of physical changes and chemical reactions.
+
+এই অধ্যায়ে রাসায়নিক বিক্রিয়ার প্রকারভেদ, রাসায়নিক বিক্রিয়ার হার ইত্যাদি বিষয়ে বিস্তারিত আলোচনা করা হয়েছে। / In this chapter, the types of chemical reactions, the rate of chemical reactions, etc., have been discussed in detail.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified on the page
+PAGE NUMBER: 143
+MAIN TOPICS: Types of chemical reactions, factors affecting reaction rates, real-world applications of reactions.
+
+•	ভৌত পরিবর্তন ও রাসায়নিক বিক্রিয়ার পার্থক্য করতে পারব।
+Translation: We will be able to differentiate between physical changes and chemical reactions.
+
+•	পদার্থের পরিবর্তনকে বিশ্লেষণ করে রাসায়নিক বিক্রিয়া শনাক্ত করতে পারব।
+Translation: We will be able to identify chemical reactions by analyzing changes in matter.
+
+•	রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ, রেডক্স/নন-রেডক্স, একমুখী, উভমুখী, তাপ উৎপাদী, তাপহারী বিক্রিয়ার সংজ্ঞা দিতে পারব এবং বিক্রিয়ার বিভিন্ন প্রকার শনাক্ত করতে পারব।
+Translation: We will be able to define and identify different types of chemical reactions such as redox/non-redox, one-way, reversible, exothermic, and endothermic reactions.
+
+•	রাসায়নিক বিক্রিয়ায় উৎপন্ন পদার্থের পরিমাণকে লা-শাতেলিয়ারের নীতির আলোকে ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the amount of products formed in a chemical reaction based on Le Chatelier's principle.
+
+•	পরিবর্তন বিশ্লেষণ করে জারণ-বিজারণ বিক্রিয়ার প্রকার শনাক্ত করে পারব।
+Translation: We will be able to identify types of oxidation-reduction reactions by analyzing changes.
+
+•	বাস্তবে বিভিন্ন ক্ষেত্রে সংঘটিত বিক্রিয়া ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain reactions occurring in different real-world scenarios.
+
+•	বাস্তব ক্ষেত্রে সংঘটিত ক্ষতিকর বিক্রিয়াসমূহ নিয়ন্ত্রণ বা রোধের উপায় নির্ধারণ করতে পারব। (লোহার তৈরি জিনিসের মরিচা পড়া রোধের যথার্থ উপায় নির্ধারণ করতে পারব।)
+Translation: We will be able to determine ways to control or prevent harmful reactions occurring in real life. (We will be able to determine the proper way to prevent rusting of iron-made objects.)
+
+•	রাসায়নিক বিক্রিয়ার হার ব্যাখ্যা ও সংশ্লিষ্ট হারের তুলনা করতে পারব।
+Translation: We will be able to explain the rates of chemical reactions and compare related rates.
+
+•	বিভিন্ন পদার্থ ব্যবহার করে বিক্রিয়ার গতিবেগ বা হার পরীক্ষা ও তুলনা করতে পারব।
+Translation: We will be able to test and compare the speed or rate of reaction using different substances.
+
+•	দৈনন্দিন কাজে ধাতব বস্তু ব্যবহারে সচেতনতা প্রদর্শন করতে পারব।
+Translation: We will be able to demonstrate awareness of using metallic materials in daily work.
+
+•	পরীক্ষার সাহায্যে বিক্রিয়ার হারের ভিন্নতা প্রদর্শন করতে পারব।
+Translation: We will be able to demonstrate the variation in reaction rates through experiments.
+
+•	অম্ল-ক্ষার প্রশমন বিক্রিয়া এবং অধঃক্ষেপণ বিক্রিয়া প্রদর্শন করতে পারব।
+Translation: We will be able to demonstrate acid-base neutralization reactions and precipitation reactions.
+
+
+CHAPTER METADATA
+Chapter Title: পদার্থের পরিবর্তন / Changes of Matter
+Chapter Number: 7
+Page Number: 144
+Main Topics: Physical Change, Chemical Change
+
+7.1.1 ভৌত পরিবর্তন / Physical Change
+    প্রতিটি রাসায়নিক পদার্থ এক বা একাধিক মৌল দিয়ে গঠিত। যদি কোনো পদার্থের অভ্যন্তরীণ রাসায়নিক গঠনের কোনো পরিবর্তন না ঘটে শুধু বাহ্যিক অবস্থার পরিবর্তন ঘটে তাকে ভৌত পরিবর্তন (Physical Change) বলে।
+    Every chemical substance is composed of one or more elements. If there is no change in the internal chemical structure of a substance, but only a change in its external state, it is called a physical change.
+    যেমন-এক খণ্ড কঠিন বরফকে কক্ষ তাপমাত্রায় রেখে দিলে তা পরিবেশ থেকে তাপ গ্রহণ করে আস্তে আস্তে গলে তরল পানিতে পরিণত হয়। আবার, তরল পানিকে তাপ প্রদান করে 100°C এ উন্নীত করলে সেটি জলীয় বাষ্পে পরিণত হয়। এখানে কঠিন বরফ, পানি এবং জলীয় বাষ্প এ তিনটি পদার্থের আণবিক সংকেত H₂O। অর্থাৎ তরল পানি, কঠিন বরফ এবং গ্যাসীয় জলীয় বাষ্প তিনটিরই প্রতিটি অণুতে দুটি করে হাইড্রোজেন ও একটি করে অক্সিজেন পরমাণু থাকে। কাজেই তিনটি পদার্থ একই। শুধু এদের ভৌত অবস্থার পরিবর্তন ঘটেছে- বরফ কঠিন, পানি তরল এবং জলীয় বাষ্প গ্যাসীয়। এ ধরনের পরিবর্তনকে আমরা ভৌত পরিবর্তন বলব।
+    For example, if a piece of solid ice is kept at room temperature, it absorbs heat from the environment and gradually melts into liquid water. Again, if liquid water is heated to 100°C, it turns into water vapor. Here, solid ice, water, and water vapor all have the molecular formula H₂O. That is, liquid water, solid ice, and gaseous water vapor all have two hydrogen and one oxygen atom in each of their molecules. Therefore, the three substances are the same. Only their physical states have changed – ice is solid, water is liquid, and water vapor is gaseous. We call this type of change a physical change.
+
+CHEMICAL EQUATIONS:
+বরফ (কঠিন) +তাপ → পানি (তরল)
+Ice (solid) + heat → Water (liquid)
+
+পানি (তরল) +তাপ → গ্যাস (জলীয় বাষ্প)
+Water (liquid) + heat → Gas (water vapor)
+
+7.1.2 রাসায়নিক পরিবর্তন / Chemical Change
+    কখনো কখনো দেখা যায় যেকোনো পদার্থের ব্যাহ্যিক তাপমাত্রা ও চাপের পরিবর্তন করলে কিংবা অন্য পদার্থের সংস্পর্শে আনলে তা পরিবর্তিত হয়ে সম্পূর্ণ ভিন্নধর্মী নতুন পদার্থে পরিণত হয়। এ ধরনের পরিবর্তনকে রাসায়নিক পরিবর্তন (Chemical Change) বলে।
+    Sometimes it is seen that if the external temperature and pressure of any substance are changed, or if it comes into contact with another substance, it is transformed into a completely different new substance. This type of change is called a chemical change.
+    অর্থাৎ যে পরিবর্তনের ফলে সম্পূর্ণ ভিন্ন ধর্মবিশিষ্ট নতুন পদার্থে পরিণত হয় তাকে রাসায়নিক পরিবর্তন বলে। রাসায়নিক পরিবর্তনে নতুন যে পদার্থ উৎপন্ন হয় তার অণুতে অবস্থিত মৌলগুলো পূর্বের পদার্থ থেকেই আসে। পূর্বের অণুর মধ্যে বন্ধনসমূহের ভাঙনের মাধ্যমে বিচ্ছিন্ন আয়ন বা পরমাণুর সৃষ্টি হয়। পরবর্তীকালে আয়ন বা পরমাণুগুলোর মধ্যে নতুন বন্ধন গঠিত হয়ে নতুন অণুর সৃষ্টি হয়। অর্থাৎ এক কথায় পুরোনো বন্ধনের ভাঙন এবং নতুন বন্ধনের গঠনই মূলত রাসায়নিক বিক্রিয়া বা রাসায়নিক পরিবর্তন।
+    That is, the change which results in the formation of a completely different new substance is called a chemical change. In a chemical change, the elements in the molecules of the new substance formed come from the previous substances. The breaking of bonds within the previous molecule creates separate ions or atoms. Subsequently, new bonds are formed between the ions or atoms, and new molecules are created. In other words, the breaking of old bonds and the formation of new bonds are the core of a chemical reaction or a chemical change.
+    রান্নার কাজে আমরা যে প্রাকৃতিক গ্যাস ব্যবহার করি সে গ্যাসের প্রধান উপাদান হলো মিথেন (CH₄)। মিথেন গ্যাসকে অক্সিজেনে পোড়ালে কার্বন ডাই-অক্সাইড গ্যাস, জলীয় বাষ্প এবং তাপ শক্তি উৎপন্ন হয়। এ ধরনের পরিবর্তনই রাসায়নিক পরিবর্তন।
+    The main component of the natural gas we use for cooking is methane (CH₄). Burning methane gas in oxygen produces carbon dioxide gas, water vapor, and heat energy. This type of change is a chemical change.
+
+CHEMICAL EQUATIONS:
+CH₄ + 2O₂ → CO₂ + 2H₂O + heat
+Methane + Oxygen → Carbon dioxide + Water + Heat
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: 7
+PAGE NUMBER: 145
+MAIN TOPICS: Classification of Chemical Reactions, Irreversible Reactions, Reversible Reactions
+
+CHEMICAL EQUATIONS:
+CH4(g) + O2(g) → CO2(g) + H2O(l)
+CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l)
+CaCO3(s) → CaO(s) + CO2(g)
+Temperature: তাপ (Heat)
+
+7.2 রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ (Classification of Chemical Reactions)
+Bengali Definition: রাসায়নিক বিক্রিয়াকে নিম্নলিখিত বিষয়গুলোর উপর ভিত্তি করে শ্রেণিবিভাগ করা যায়:
+English Translation: Chemical reactions can be classified based on the following factors:
+
+7.2.1 রাসায়নিক বিক্রিয়ার দিক (Direction of Chemical Reactions)
+Bengali Definition: বিক্রিয়ার দিকের উপর ভিত্তি করে রাসায়নিক বিক্রিয়াকে দুই ভাগে ভাগ করা যায়। একমুখী বিক্রিয়া ও উভমুখী বিক্রিয়া।
+English Translation: Based on the direction of the reaction, chemical reactions can be divided into two types: irreversible reactions and reversible reactions.
+
+একমুখী বিক্রিয়া (Irreversible Reactions)
+Bengali Definition: যে রাসায়নিক বিক্রিয়ায় বিক্রিয়ক পদার্থগুলো উৎপাদে পরিণত হয়, কিন্তু উৎপাদ পদার্থগুলো পুনরায় বিক্রিয়কে পরিণত হয় না তাকে একমুখী বিক্রিয়া বলা হয়। যেমন: তুমি যদি ক্যালসিয়াম কার্বনেটকে একটি খোলা পাত্রে নিয়ে তাপ দাও তাহলে দেখবে ক্যালসিয়াম কার্বনেট ভেঙে গিয়ে কঠিন চুন ও গ্যাসীয় কার্বন ডাই-অক্সাইডে পরিণত হবে। গ্যাসীয় কার্বন ডাই-অক্সাইড বিক্রিয়া পাত্র থেকে অপসারিত হয় এ অবস্থায় কঠিন চুন পুনরায় ক্যালসিয়াম কার্বনেটে পরিণত হয় না। সুতরাং এটি একটি একমুখী বিক্রিয়া। একমুখী বিক্রিয়ার সমীকরণে বিক্রিয়ক ও উৎপাদের মধ্যে একটি ডানমুখী তীর চিহ্ন (→) ব্যবহার করা হয়।
+English Translation: In a chemical reaction where the reactants are converted into products, but the products cannot revert back to reactants, it's called an irreversible reaction. For example, if you heat calcium carbonate in an open container, it will decompose into solid lime and gaseous carbon dioxide. The gaseous carbon dioxide escapes from the reaction vessel, and under these conditions the solid lime cannot be converted back into calcium carbonate. Therefore, it's an irreversible reaction. In the equations of irreversible reactions, a right-pointing arrow (→) is used between reactants and products.
+Related Chemical Equations:
+CaCO3(s) → CaO(s) + CO2(g)
+
+উভমুখী বিক্রিয়া (Reversible Reactions)
+Bengali Definition: যে রাসায়নিক বিক্রিয়ায় বিক্রিয়ক পদার্থ বিক্রিয়া করে উৎপাদে পরিণত হয় আবার উৎপাদ পদার্থগুলো বিক্রিয়া করে পুনরায় বিক্রিয়ক পদার্থে পরিণত হয়। এই ধরনের রাসায়নিক বিক্রিয়াকে উভমুখী বিক্রিয়া বলে। উভমুখী বিক্রিয়ায় বিক্রিয়ক হতে উৎপাদ হওয়ার বিক্রিয়াকে সম্মুখমুখী বিক্রিয়া এবং উৎপাদ
+English Translation: In a chemical reaction where reactants convert into products and the products can also react to form the original reactants, it's called a reversible reaction. In reversible reactions, the reaction from reactants to products is called the forward reaction, and the reaction from products to reactants is called the reverse reaction.
+
+
+```
+PAGE METADATA
+Chapter Title: রাসায়নিক বিক্রিয়া / Chemical Reactions
+Chapter Number: 7
+Page Number: 146
+Main Topics: Reversible Reactions, Exothermic Reactions
+
+CHEMICAL EQUATIONS
+C2H5OH + CH3COOH  ⇌  CH3COOC2H5 + H2O
+Reactants: ইথানল (Ethanol), ইথানয়িক এসিড (Ethanoic acid)
+Products: ইথাইল ইথানয়েট এস্টার (Ethyl ethanoate ester), পানি (Water)
+Catalyst: HCl
+
+H2 + I2  ⇌ 2HI
+Reactants: হাইড্রোজেন (Hydrogen), আয়োডিন (Iodine)
+Product: হাইড্রোজেন আয়োডাইড (Hydrogen iodide)
+
+N2 (g) + 3H2 (g)  ⇌  2NH3 (g)  + 92 kJ
+Reactants: নাইট্রোজেন (Nitrogen), হাইড্রোজেন (Hydrogen)
+Product: অ্যামোনিয়া (Ammonia)
+Catalyst: Fe (Iron)
+Temperature: 450°C-550°C
+Pressure: 200-250 atm
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+REVERSIBLE REACTION
+Bengali Definition: যে বিক্রিয়ায় বিক্রিয়ক ও উৎপাদ উভয় দিকেই বিক্রিয়া করতে পারে তাকে উভমুখী বা পশ্চাৎমুখী বিক্রিয়া বলে।
+English Translation: A reaction in which reactants and products can react in both directions is called a reversible reaction.
+Related Chemical Equations: C2H5OH + CH3COOH  ⇌  CH3COOC2H5 + H2O,  H2 + I2  ⇌ 2HI
+
+EXOTHERMIC REACTION
+Bengali Definition: যে রাসায়নিক বিক্রিয়ায় তাপ উৎপন্ন হয় তাদের তাপোৎপাদী বিক্রিয়া বলে।
+English Translation: Chemical reactions that produce heat are called exothermic reactions.
+Related Chemical Equations: N2 (g) + 3H2 (g)  ⇌  2NH3 (g)  + 92 kJ
+Examples: Production of Ammonia via Haber process
+
+```
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: [Not specified in the text]
+PAGE NUMBER: 147
+MAIN TOPICS: Reaction Heat, Endothermic Reactions, Redox Reactions
+
+CHEMICAL EQUATIONS:
+N2 (g) + 3H2 (g)  Fe→ 2NH3 (g) ; ΔH = -92 kJ
+Temperature: 200-250 atm
+450°C-550°C
+
+N2(g) + O2(g) + 180 kJ  → 2NO(g)
+N2(g) + O2(g)  → 2NO(g); ΔH = + 180 kJ
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+বিক্রিয়া তাপ (Reaction Heat)
+Bengali Definition: সমতাকৃত সমীকরণ অনুযায়ী একটি রাসায়নিক বিক্রিয়া সংঘটিত হতে তাপের যে পরিবর্তন হয় তাকে বিক্রিয়া তাপ বলে।
+English Translation: The change in heat when a chemical reaction occurs according to a balanced equation is called the heat of reaction.
+
+তাপহারী বিক্রিয়া বা তাপশোষী বিক্রিয়া (Endothermic Reactions)
+Bengali Definition: যে রাসায়নিক বিক্রিয়ায় তাপশক্তির শোষন ঘটে সেই রাসায়নিক বিক্রিয়াকে তাপহারি বা তাপশোষী বিক্রিয়া বলে।
+English Translation:  A chemical reaction in which heat energy is absorbed is called an endothermic reaction.
+Related Chemical Equations:
+N2(g) + O2(g) + 180 kJ  → 2NO(g)
+N2(g) + O2(g)  → 2NO(g); ΔH = + 180 kJ
+
+রেডক্স (Redox) বিক্রিয়া (Redox Reaction)
+Bengali Definition: জারণ-বিজারণ বিক্রিয়ায় বিক্রিয়কসমূহের মধ্যে ইলেকট্রনের আদানপ্রদান ঘটে। একটি বিক্রিয়ক ইলেকট্রন ত্যাগ করে এবং অপর বিক্রিয়কটি সেই ইলেকট্রনকে গ্রহণ করে।
+English Translation: In a redox reaction, electrons are exchanged between reactants. One reactant loses electrons and the other gains electrons.
+Related Chemical Equations: Not explicitly provided here, but the principle is introduced for subsequent discussion of electron transfer.
+
+TERM OR PROPERTY NAME: জারণ (Oxidation)
+Bengali Definition: [Not explicitly defined in this context]
+English Translation: [Not explicitly defined in this context, but implies loss of electrons]
+Related Chemical Equations: [Not applicable]
+Examples: [Not given]
+
+TERM OR PROPERTY NAME: বিজারণ (Reduction)
+Bengali Definition: [Not explicitly defined in this context]
+English Translation: [Not explicitly defined in this context, but implies gain of electrons]
+Related Chemical Equations: [Not applicable]
+Examples: [Not given]
+
+TERM OR PROPERTY NAME: রেডক্স (Redox)
+Bengali Definition: জারণ ও বিজারণ উভয়েই একই সাথে ঘটে।
+English Translation: Both oxidation and reduction occur simultaneously
+Related Chemical Equations: [Not applicable]
+Examples: [Not given]
+
+SAFETY INFORMATION:
+Not present on this page.
+
+
+CHAPTER TITLE: জারণ-বিজারণ / Oxidation-Reduction
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 148
+MAIN TOPICS: Oxidation, Reduction, Oxidation Number
+
+CHEMICAL EQUATIONS:
+
+Na + 1/2 Cl2 → NaCl
+
+Fe2+ → Fe3+ + e-  [Oxidation Reaction]
+
+Na0 → Na1+ + e-  [Oxidation Reaction]
+
+Cl0 + e- → Cl1-   [Reduction Reaction]
+
+Cu2+ + e- → Cu1+  [Reduction Reaction]
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+OXIDATION REACTION
+Bengali Definition: যে বিক্রিয়ায় কোনো পরমাণুর ইলেকট্রনের দান ঘটে অর্থাৎ ঐ পরমাণুর ধনাত্মক চার্জের সংখ্যা বৃদ্ধি পায় বা ঋণাত্মক চার্জের সংখ্যা হ্রাস পায় সেই বিক্রিয়াকে জারণ বিক্রিয়া বলে।
+English Translation: The reaction in which an atom loses electrons, meaning the positive charge of that atom increases or the negative charge decreases, is called an oxidation reaction.
+Related Chemical Equations:  Fe2+ → Fe3+ + e-, Na0 → Na1+ + e-
+
+REDUCTION REACTION
+Bengali Definition: যে বিক্রিয়ায় কোনো পরমাণুর ইলেকট্রনের গ্রহণ ঘটে অর্থাৎ ঐ পরমাণুর ধনাত্মক চার্জের সংখ্যা হ্রাস পায় বা ঋণাত্মক চার্জের সংখ্যা বৃদ্ধি পায় সেই বিক্রিয়াকে বিজারণ বিক্রিয়া বলে।
+English Translation: The reaction in which an atom gains electrons, meaning the positive charge of that atom decreases or the negative charge increases, is called a reduction reaction.
+Related Chemical Equations: Cl0 + e- → Cl1-, Cu2+ + e- → Cu1+
+
+OXIDATION NUMBER
+Bengali Definition: কোনো অণু বা যৌগমূলকের মধ্যে অবস্থিত পরমাণুগুলোর কোনোটি ইলেকট্রন ছেড়ে দেওয়ার আবার কোনোটি ইলেকট্রন গ্রহণ করার প্রবণতা দেখায়। অণু বা যৌগমূলকের মধ্যে অবস্থিত কোনো পরমাণুর ইলেকট্রন ছাড়ার প্রবণতাকে ধনাত্মক চিহ্নযুক্ত একটি সংখ্যা দিয়ে আর কোনো পরমাণুর ইলেকট্রন গ্রহণ করার প্রবণতাকে ঋণাত্মক চিহ্নযুক্ত সংখ্যা দিয়ে প্রকাশ করা হয়। অণু বা যৌগমূলকের মধ্যে অবস্থিত কোনো পরমাণুর এই ধনাত্মক বা ঋণাত্মক চিহ্নযুক্ত সংখ্যাকেই তার জারণ সংখ্যা (Oxidation Number) বলে।
+English Translation: The atoms in a molecule or ion have a tendency to either donate or accept electrons. The tendency of an atom in a molecule to lose electrons is represented by a positive number, and the tendency to gain electrons is represented by a negative number. This positive or negative number assigned to an atom in a molecule or ion is called its oxidation number.
+Related Chemical Equations: N/A
+
+OTHER CHEMICAL INFORMATION
+
+*   The oxidation number of atoms in single element molecules like Na, Mg, Fe is considered zero.
+*   The oxidation number of atoms in molecules of same element like H2, O2, N2, Cl2, Br2 is also considered zero.
+*   The oxidation number of Fe in FeSO4 is +2, and in elemental Fe is zero.
+*   The oxidation number of Cl in HCl is -1, and in Cl2 is zero.
+
+OTHER NOTES:
+The oxidation number of an element in a compound depends on the oxidation numbers of other elements in the compound. To calculate the oxidation number of an unknown element in a compound, one must know the oxidation number of other elements.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not explicitly stated in the text
+PAGE NUMBER: 149
+MAIN TOPICS: Oxidation numbers, Rules for assigning oxidation numbers
+
+TABLE 7.01: DIFFERENT OXIDATION NUMBERS OF ATOMS IN COMPOUNDS
+Jaron Sonkhar Niyom / Rules for Oxidation Number
+Yaugger Sanket / Compound Symbol
+Moul O Jaron Sonkha / Element and Oxidation Number
+
+RULES FOR OXIDATION NUMBER
+
+*   Dhatu-samuher jaron sonkha dhonattok ebong adhatu-samuher jaron sonkha rinattok hoy.
+    / The oxidation number of metals is positive, and the oxidation number of nonmetals is negative.
+*   Niropekkho poromanu ba mukto mouler jaron sonkha shunya hoy.
+    / The oxidation number of a neutral atom or free element is zero.
+*   Niropekkho youge poromanu-samuher mot jaron sonkha shunya hoy.
+    / The total oxidation number of atoms in a neutral compound is zero.
+*   Adhan-bishishto ayone poromanu-samuher mot jaron sonkha adhan sonkhar soman hoy.
+    / The total oxidation number of atoms in a charged ion is equal to the charge of the ion.
+*   Khar dhatu-samuher jaron sonkha +1 hoy.
+    / The oxidation number of alkali metals is +1.
+*   Mritkhar dhatu-samuher jaron sonkha +2 hoy.
+    / The oxidation number of alkaline earth metals is +2.
+*   Dhatob hailaide halogen-er jaron sonkha -1 hoy.
+    / The oxidation number of halogens in metal halides is -1.
+*   Odhikangsho youge hydrogen-er jaron sonkha +1 kintu dhatob hydride-e hydrogen-er jaron sonkha -1 hoy.
+    / In most compounds, the oxidation number of hydrogen is +1, but in metal hydrides, the oxidation number of hydrogen is -1.
+*   Odhikangsho youge (oxide-e) oxygen-er jaron sonkha -2 kintu par-oxide-e oxygen-er jaron sonkha -1 hoy ebong super-oxide-e oxygen-er jaron sonkha -½ .
+    / In most compounds (oxides), the oxidation number of oxygen is -2, but in peroxides, the oxidation number of oxygen is -1, and in superoxides, the oxidation number of oxygen is -½ .
+
+COMPOUND AND ELEMENT OXIDATION NUMBERS:
+
+NaCl
+Na = +1
+Cl = -1
+
+Fe, H₂
+Fe = 0
+H = 0
+
+H₂O
+H = +1
+O = -2
+Total = 0
+
+SO₄²⁻, NH₄⁺
+SO₄²⁻ = -2
+NH₄⁺ = +1
+
+KCl, K₂CO₃
+K = +1
+
+CaO, MgSO₄
+Ca = +2
+Mg = +2
+
+MgCl₂, LiCl
+Cl = -1
+
+NH₃, LiAlH₄
+H = +1
+H = -1
+
+K₂O, CaO
+O = -2
+
+K₂O₂, H₂O₂
+O = -1
+NaO₂, KO₂
+O = -½
+
+PROCEDURE FOR DETERMINING OXIDATION NUMBER
+
+KONO ONU BA AYONE SANGSHLISHTO POROMANUR JARON SANKHA NICHER PODDHOTITE NIRNOY KORA JAY:
+/ The oxidation number of atoms involved in a molecule or ion can be determined by following procedure:
+
+1. YOUG BA AYONE OBOSHITHO JE POROMANUTIR JARON SANKHA BER KORTE HOBE DHORE NEI TAR JARON SANKHA X.
+  / Assume the oxidation number of the atom whose oxidation number needs to be determined in the compound or ion is X.
+2. YOUG BA AYONER SOKOL MOULER JARON SANKHAKE TADER NIJ NIJ POROMANU SANKHA DARA GUN KORE TADER SOMOSTI BER KORTE HOBE.
+    / Multiply the oxidation number of all the elements in the compound or ion by their respective number of atoms and calculate their sum.
+3. JARON SANKHAR SOMOSTI HOBE ONUR KHETRE SHUNNO (0) EBONG AYONER KHETRE TAR CHIHNO SHO CHARGE SANKHAR SOMAN. EKHAN THEKE POROMANUR JARON SANKHA X BER KORA JABE. JEMON: DHORA JAK KMnO4 ONUTE KENDRIO POROMANU Mn ER JARON MAN BER KORTE HOBE. DHORA JAK, Mn ER JARON MAN DHORO x.
+    / The sum of the oxidation numbers will be zero (0) in the case of a molecule and equal to the charge of the ion including the sign in the case of an ion. From here, the oxidation number x of the atom can be calculated. For example: Suppose in KMnO₄ molecule, the oxidation number of the central atom Mn has to be calculated. Let the oxidation number of Mn be x.
+
+
+CHAPTER TITLE: জারণ-বিজারণ / Oxidation-Reduction
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 150
+MAIN TOPICS: Oxidation Number, Calculation of Oxidation Numbers, Difference between Oxidation Number and Valency
+
+CHEMICAL EQUATIONS:
+None on this page, but calculations are presented to calculate oxidation states.
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+
+Question 1
+নিম্নলিখিত যৌগে লাল বর্ণে লেখা মৌলের জারণ সংখ্যা নির্ণয় করো: CuSO4, HNO3, H3PO4, MnO2, K2Cr2O7, Na2S2O3 এবং CuI
+Translation: Find the oxidation number of the elements written in red in the following compounds: CuSO4, HNO3, H3PO4, MnO2, K2Cr2O7, Na2S2O3, and CuI
+Type: Numerical
+Chemical Components: CuSO4, HNO3, H3PO4, MnO2, K2Cr2O7, Na2S2O3, CuI
+Key Concept: Oxidation Number Calculation
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: জারণ সংখ্যা (Oxidation Number)
+Bengali Definition: জারণ সংখ্যা হলো পরমাণু বা আয়নে উপস্থিত চার্জ সংখ্যা (চিহ্নসহ)। এটি ধনাত্মক বা ঋণাত্মক, পূর্ণসংখ্যা, শূন্য এমনকি ভগ্নাংশও হতে পারে।
+English Translation: Oxidation number is the charge present on an atom or ion (including the sign). It can be positive or negative, a whole number, zero or even a fraction.
+Related Chemical Equations: Not applicable in definition
+Examples: None in definition
+
+TERM OR PROPERTY NAME: যোজনী (Valency)
+Bengali Definition: যোজনী হলো একটি মৌল অন্য মৌলের সাথে যুক্ত হওয়ার সামর্থ্য। যোজনী ধনাত্মক বা ঋণাত্মক হয় না, এটি সর্বদাই পূর্ণসংখ্যা হয়। শুধু নিস্ক্রিয় গ্যাসের যোজনী শূন্য হয়।
+English Translation: Valency is the capacity of an element to combine with other elements. Valency is not positive or negative, it is always a whole number. Only the valency of inert gases is zero.
+Related Chemical Equations: Not applicable in definition
+Examples: None in definition
+
+SAFETY INFORMATION:
+None on this page
+
+CALCULATIONS OF OXIDATION NUMBER:
+
+Calculation 1
+KMnO4
+(+1)x1+xx1 + (-2)x4 = 0
+x = 7
+Mn এর জারণ সংখ্যা +7
+Translation:
+The oxidation number of K is +1, O is -2. The overall charge of KMnO4 is 0. To calculate the oxidation number of Mn,
+(+1) * 1 + x * 1 + (-2) * 4 = 0
+x = 7
+Oxidation number of Mn is +7
+
+Calculation 2:
+H₂SO₄
+ধরি, H₂SO₄ এ S এর জারণ সংখ্যা = x
+অতএব, (+1)×2+x+(-2)x4 = 0
+X = 6
+অতএব, H2SO4 এ S এর জারণ সংখ্যা = +6।
+Translation:
+Assume, the oxidation number of S in H2SO4 is x.
+(+1)*2 + x + (-2)*4 = 0
+x= 6
+Therefore, the oxidation number of S in H2SO4 is +6.
+Given values:
+Cu এর জারণ মান = +2, O এর জারণ মান = -2, H এর জারণ মান = +1, K এর জারণ মান = +1, Na এর জারণ মান = +1, I এর জারণ মান = -1
+Translation:
+Oxidation number of Cu is +2, O is -2, H is +1, K is +1, Na is +1, I is -1.
+
+EXTRA NOTES:
+The page emphasizes the difference between oxidation number and valency, highlighting that oxidation number can be positive, negative, zero, or a fraction, whereas valency is always a whole number and not signed.
+Page reference: 150
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 151
+MAIN TOPICS: Oxidation-Reduction (Redox) Reactions, Electron Transfer
+
+CHEMICAL EQUATIONS:
+
+Na + ½ Cl₂ → NaCl
+
+Jaran Ardhobikriya (Oxidation Half-reaction): Na⁰ → Na⁺ + e⁻
+Bijaran Ardhobikriya (Reduction Half-reaction): Cl⁰ + e⁻ → Cl⁻
+
+Jaran-Bijaran Bikriya (Redox Reaction): Na⁰ + Cl⁰ → Na⁺ + Cl⁻ = NaCl
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+None on this page
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: জারণ (Jaran) / Oxidation
+BENGALI DEFINITION: যে রাসায়নিক বিক্রিয়ায় ইলেকট্রনের দান ঘটে তাকে জারণ বিক্রিয়া বলে।
+ENGLISH TRANSLATION: The chemical reaction in which electrons are donated is called oxidation reaction.
+
+TERM OR PROPERTY NAME: বিজারণ (Bijaran) / Reduction
+BENGALI DEFINITION: যে রাসায়নিক বিক্রিয়ায় ইলেকট্রনের গ্রহণ ঘটে তাকে বিজারণ বিক্রিয়া বলা হয়।
+ENGLISH TRANSLATION: The chemical reaction in which electrons are accepted is called reduction reaction.
+
+TERM OR PROPERTY NAME: বিজারক (Bijarok) / Reducing Agent
+BENGALI DEFINITION: যে পদার্থ ইলেকট্রন ত্যাগ করে তাদেরকে বিজারক বলে।
+ENGLISH TRANSLATION: The substance that donates electrons is called a reducing agent.
+
+TERM OR PROPERTY NAME: জারক (Jarak) / Oxidizing Agent
+BENGALI DEFINITION: যে পদার্থ ইলেকট্রন গ্রহণ করে তাদেরকে জারক পদার্থ বলে।
+ENGLISH TRANSLATION: The substance that accepts electrons is called an oxidizing agent.
+
+TERM OR PROPERTY NAME: জারণ-বিজারণ (Jaran-Bijaran) / Oxidation-Reduction (Redox)
+BENGALI DEFINITION: জারণ-বিজারণ বিক্রিয়া একই সাথে সংঘটিত হয়।
+ENGLISH TRANSLATION: Oxidation-reduction reactions occur simultaneously.
+
+BENGALI DEFINITION: জারণ-বিজারণ একটি যুগপৎ প্রক্রিয়া (Simultaneous Process)।
+ENGLISH TRANSLATION: Oxidation-reduction is a simultaneous process.
+
+BENGALI DEFINITION: জারণ-বিজারণ বিক্রিয়া মানেই ইলেকট্রন স্থানান্তর প্রক্রিয়া।
+ENGLISH TRANSLATION: Oxidation-reduction reaction means electron transfer process.
+
+RELATED CHEMICAL EQUATIONS:
+Na + ½ Cl₂ → NaCl
+Na⁰ → Na⁺ + e⁻
+Cl⁰ + e⁻ → Cl⁻
+Na⁰ + Cl⁰ → Na⁺ + Cl⁻ = NaCl
+
+EXAMPLES:
+Types of Reactions Where Redox Occurs:
+1. সংযোজন বিক্রিয়া (Sanjojan Bikriya) / Combination reaction
+2. বিয়োজন বিক্রিয়া (Biyojan Bikriya) / Decomposition reaction
+3. প্রতিস্থাপন বিক্রিয়া (Protisthapon Bikriya) / Displacement reaction
+4. দহন বিক্রিয়া (Dohon Bikriya) / Combustion reaction
+
+SAFETY INFORMATION:
+None on this page
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified in the image
+PAGE NUMBER: 152
+MAIN TOPICS: Addition reaction, Decomposition reaction, Substitution reaction
+
+1. সংযোজন বিক্রিয়া (ADDITION REACTION)
+BENGALI DEFINITION: যে জারণ-বিজারণ বিক্রিয়ায় দুই বা ততোধিক রাসায়নিক পদার্থ পরস্পরের সাথে যুক্ত হয়ে একটিমাত্র উৎপাদ উৎপন্ন করে তাকে সংযোজন বিক্রিয়া বলে।
+ENGLISH TRANSLATION: An addition reaction is a redox reaction where two or more chemical substances combine to form a single product.
+RELATED CHEMICAL EQUATIONS:
+  2FeCl2(aq) + Cl2(g) → FeCl3(aq)
+  N2 + 3H2 → 2NH3
+
+TERM OR PROPERTY NAME: সংশ্লেষণ বিক্রিয়া (Synthesis Reaction)
+BENGALI DEFINITION: তবে যেসব সংযোজন বিক্রিয়ায় শুধু মৌলিক পদার্থ যুক্ত হয়ে যৌগ গঠন করে, তাদেরকে সংশ্লেষণ বিক্রিয়াও বলে।
+ENGLISH TRANSLATION: However, those addition reactions where only basic substances combine to form a compound are also called synthesis reactions.
+RELATED CHEMICAL EQUATIONS: N2 + 3H2 → 2NH3 (This reaction can be considered as both addition and synthesis reaction)
+
+2. বিয়োজন বিক্রিয়া (DECOMPOSITION REACTION)
+BENGALI DEFINITION: যে বিক্রিয়ায় একটি যৌগ ভেঙে একাধিক যৌগ বা মৌলে উৎপন্ন হয় তাকে বিয়োজন বিক্রিয়া বলা হয়।
+ENGLISH TRANSLATION: A decomposition reaction is a reaction in which a compound breaks down into two or more compounds or elements.
+RELATED CHEMICAL EQUATIONS:
+  PCl5  →  PCl3 + Cl2
+  2H2O(l) → 2H2(g) + O2(g)
+
+3. প্রতিস্থাপন বিক্রিয়া (SUBSTITUTION OR DISPLACEMENT REACTION)
+BENGALI DEFINITION: কোনো অধিক সক্রিয় মৌল বা যৌগমূলক অপর কোনো কম সক্রিয় মৌল বা যৌগমূলককে প্রতিস্থাপন করে নতুন যৌগ উৎপন্ন করার প্রক্রিয়াকে প্রতিস্থাপন বিক্রিয়া বলে।
+ENGLISH TRANSLATION: A substitution or displacement reaction is a process where a more active element or radical displaces a less active element or radical to produce a new compound.
+RELATED CHEMICAL EQUATIONS:
+  Zn(s) + H2SO4(l) → ZnSO4(aq) + H2(g)
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 153
+MAIN TOPICS: Combustion Reactions, Non-Redox Reactions, Neutralization Reactions
+
+CHEMICAL EQUATIONS:
+CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + তাপ
+S(s) + O2(g) → SO2(g) + তাপ
+C(s) + O2(g) → CO2(g) + তাপ
+2Mg(s) + O2(g) → 2MgO(g) + তাপ
+2H2(g) + O2(g) → 2H2O(g) + তাপ
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+
+DIAGRAM TITLE: জ্বালানির দহন / Combustion of Fuel
+Description: The image shows a lit burner with a blue flame coming from the center ring, indicating the combustion process.
+Components: Flame, burner ring
+Chemical Labels: None shown
+Safety Notes: Handle with care. Flames are hot and cause burns.
+Purpose: Demonstrates a combustion reaction with a real world example.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+দহন বিক্রিয়া (Combustion Reaction)
+Bengali Definition: কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে।
+English Translation: The process of burning an element or compound in the presence of oxygen in the air to convert it into an oxide of the constituent elements is called combustion reaction. Heat is always produced in a combustion reaction. In this process, electron transfer occurs.
+Related Chemical Equations: Listed above
+Examples: Methane combustion, sulfur combustion, carbon combustion, magnesium combustion, hydrogen combustion
+
+নন-রেডক্স (Non Redox) বিক্রিয়া
+Bengali Definition: এমন অনেক রাসায়নিক বিক্রিয়া দেখা যায় যেখানে ইলেকট্রনের আদান-প্রদান ঘটে না। এ ধরনের রাসায়নিক বিক্রিয়াকে নন-রেডক্স বিক্রিয়া বলে। এ ধরনের বিক্রিয়ায় যেহেতু ইলেকট্রনের আদান-প্রদান ঘটে না সুতরাং বিক্রিয়ায় কোনো পরমাণুর জারণ সংখ্যার হ্রাস বা বৃদ্ধি ঘটে না।
+English Translation: There are many chemical reactions where no electron transfer occurs. These types of chemical reactions are called non-redox reactions. Since there is no electron transfer in this type of reaction, there is no increase or decrease in the oxidation number of any atom.
+Related Chemical Equations: None applicable at this time
+Examples: Neutralization reactions, Precipitation reactions
+
+প্রশমন বিক্রিয়া (Neutralization Reaction)
+Bengali Definition: একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়।
+English Translation: An acid and a base react with each other to neutralize and produce salt and water. This reaction is called neutralization reaction. This type of reaction is also called an acid-base reaction.
+Related Chemical Equations: HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+Examples: Reaction of hydrochloric acid and sodium hydroxide.
+
+SAFETY INFORMATION:
+None mentioned on this page.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 154
+MAIN TOPICS: Neutralization Reactions, Heat of Neutralization
+
+CHEMICAL EQUATIONS:
+
+H+ + Cl- + Na+ + OH-  → Na+ + Cl- + H2O
+
+H+ + OH-  → H2O + 57.34 kJ
+
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন। / Demonstrating Neutralization Through Experiment.
+Purpose: To demonstrate the neutralization reaction between an acid and a base, producing salt and water.
+Materials Required:
+    - 10 mL NaOH solution
+    - HCl solution
+    - Two beakers
+    - Blue litmus paper
+    - Dropper
+    - Glass rod
+Safety Precautions: Handle acids and bases with care; avoid skin contact.
+Procedure:
+    1. Take 10 mL of NaOH solution in a glass container or beaker.
+    2. Take HCl solution in another beaker.
+    3. Immerse a piece of blue litmus paper in the NaOH solution.
+    4. Using a dropper, slowly add the HCl solution to the NaOH solution while stirring with a glass rod using your right hand.
+    5. Continue stirring and adding the acid to the base until the litmus paper turns red.
+    6. Once the litmus paper turns red note that the NaOH solution has been neutralized by the HCl solution.
+Expected Observations:
+    - The blue litmus paper initially submerged in the base solution will turn red when the acid is added, indicating neutralization.
+Key Learning Points:
+    - Acid and base react to form salt and water.
+    - The reaction is called a neutralization reaction.
+    - Litmus paper can be used as an indicator to determine the end point of the reaction.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: প্রশমন বিক্রিয়া / Neutralization Reaction
+Bengali Definition: এসিড ও ক্ষার বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে, এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়।
+English Translation: The reaction in which an acid and a base react to produce salt and water is called a neutralization reaction.
+Related Chemical Equations: H+ + OH-  → H2O + 57.34 kJ, HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+
+TERM OR PROPERTY NAME: তাপোৎপাদী বিক্রিয়া / Exothermic Reaction
+Bengali Definition: প্রশমন বিক্রিয়ায় সর্বদাই তাপ উৎপন্ন হয়। অর্থাৎ প্রশমন বিক্রিয়া তাপোৎপাদী বিক্রিয়া
+English Translation: Heat is always produced in neutralization reactions. That is, a neutralization reaction is an exothermic reaction.
+
+TERM OR PROPERTY NAME: দর্শক আয়ন / Spectator Ions
+Bengali Definition: এই দ্রবণে উপস্থিত Na+ ও Cl- আয়নদ্বয় বিক্রিয়ায় অংশগ্রহণ করে না। এদেরকে দর্শক আয়ন বলে।
+English Translation: In this solution, the Na+ and Cl- ions do not participate in the reaction. These are called spectator ions.
+Related Chemical Equations: H+ + Cl- + Na+ + OH-  → Na+ + Cl- + H2O
+
+TERM OR PROPERTY NAME: প্রশমন তাপ / Heat of Neutralization
+Bengali Definition: 1 মোল পানি উৎপন্ন করতে যে পরিমাণ তাপ উৎপন্ন হয় তাকে প্রশমন তাপ বলে।
+English Translation: The amount of heat produced when 1 mole of water is formed is called the heat of neutralization.
+Examples: 1 mole of water produces 57.34 kJ of heat.
+
+SAFETY ALERT
+Hazard Description: Handling of acid and base requires caution.
+Required Precautions: Avoid direct skin contact with acid and base.
+Emergency Procedures: In case of spillage wash with plenty of water and consult an instructor or lab technician.
+Protective Equipment: Use gloves and eye protection if necessary.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 155
+MAIN TOPICS: Precipitation Reaction, Experimental Demonstration
+
+2.  CHEMICAL EQUATIONS
+    NaCl(aq) + AgNO3(aq) → AgCl(s)↓ + NaNO3(aq)
+    Na2SO4(aq) + BaCl2(aq) → BaSO4(s)↓ + 2NaCl(aq)
+    FeSO4 + NaOH → Fe(OH)2↓ + Na2SO4
+
+3.  CHEMICAL PROPERTIES AND DEFINITIONS
+    PRECIPITATION REACTION
+    Bengali Definition: একই দ্রাবকে দুটি যৌগ মিশ্রিত করলে তারা পরস্পরের সাথে বিক্রিয়া করে যে উৎপাদগুলো উৎপন্ন করে তাদের মধ্যে কোনোটি যদি ঐ দ্রাবকে অদ্রবণীয় বা খুবই কম পরিমাণে দ্রবণীয় হয় তবে তা বিক্রিয়া পাত্রের তলায় কঠিন অবস্থায় তলানি হিসেবে জমা হয়। এ তলানিকে অধঃক্ষেপ (precipitate) বলে। যে বিক্রিয়ায় দ্রবণীয় বিক্রিয়ক পদার্থ বিক্রিয়া করে অদ্রবণীয় কঠিন উৎপাদে পরিণত হয় তাকে অধঃক্ষেপণ বিক্রিয়া বলে।
+    English Translation: When two compounds are mixed in the same solvent, if any of the products formed by their reaction is insoluble or very slightly soluble in the solvent, it settles at the bottom of the reaction vessel as a solid precipitate.  The reaction in which soluble reactants convert into insoluble solid products is called a precipitation reaction.
+
+4. EXPERIMENTAL PROCEDURES
+   EXPERIMENT TITLE:  পরীক্ষণের মাধ্যমে অধঃক্ষেপণ বিক্রিয়া প্রদর্শন / Demonstration of Precipitation Reaction Through Experiment
+    Purpose: To demonstrate the formation of a precipitate in a chemical reaction.
+    Materials Required:
+        - Test tube
+        - 2-3 mL Ferrous sulfate solution
+        - Sodium hydroxide (NaOH) solution
+    Safety Precautions: Wear safety goggles and gloves. Handle chemicals carefully. Avoid contact with skin or eyes.
+    Procedure:
+        1. Take 2-3 mL of ferrous sulfate solution in a test tube.
+        2. Add sodium hydroxide (NaOH) solution drop by drop into the test tube.
+        3. Observe the changes in the solution
+    Expected Observations: A green precipitate will form slowly in the solution, settling at the bottom of the test tube.
+    Key Learning Points: Ferrous sulfate reacts with sodium hydroxide to form an insoluble solid precipitate of iron(II) hydroxide (Fe(OH)2).
+
+5. DIAGRAMS AND ILLUSTRATIONS
+    DIAGRAM TITLE: চিত্র 7.02: অধঃক্ষেপণ বিক্রিয়া / Figure 7.02: Precipitation Reaction
+    Description: The diagram shows a sequence of two test tubes.  The first test tube contains a light-colored solution (FeSO4) with a burette above it dripping in a clear solution labeled 'NaOH' . The arrow indicates the direction of the solutions getting mixed. The second test tube shows the resulting solution after mixing, which now contains a green solid settling at the bottom of the test tube, labeled Fe(OH)2.
+    Components:
+        - Test tube
+        - Burette
+        - FeSO4 solution
+        - NaOH solution
+        - Fe(OH)2 precipitate
+    Chemical Labels: FeSO4, NaOH, Fe(OH)2
+    Safety Notes: Wear safety goggles during the experiment. Avoid direct skin contact with chemicals.
+    Purpose: The diagram illustrates the experimental setup and outcome of a precipitation reaction.
+
+6. SAFETY INFORMATION
+    There are no specific safety alerts on the given page but general lab safety guidelines should be followed as outlined above.
+
+
+CHAPTER TITLE: বিশেষ ধরনের রাসায়নিক বিক্রিয়া / Special Types of Chemical Reactions
+CHAPTER NUMBER: 7.3
+PAGE NUMBER: 156
+MAIN TOPICS: Hydrolysis, Hydration Reactions
+
+CHEMICAL EQUATIONS:
+
+SiCl4 + H2O → Si(OH)4 + 4HCl
+
+AlCl3(s) + 3H2O(l) → Al(OH)3(s) + 3HCl(aq)
+
+CuSO4 + 5H2O → CuSO4.5H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+আর্দ্র বিশ্লেষণ বিক্রিয়া বা পানি বিশ্লেষণ (Hydrolysis)
+Bengali Definition: কোনো রাসায়নিক ব্রিক্রিয়ায় ব্রিক্রিয়ক হিসেবে পানি অন্য কোনো যৌগের সাথে বিক্রিয়া করে উৎপাদ উৎপন্ন করলে তাকে আর্দ বিশ্লেষণ বিক্রিয়া বলে।
+English Translation: Hydrolysis is a chemical reaction where water acts as a reactant and reacts with another compound to form products.
+
+পানিযোজন (Hydration) বিক্রিয়া
+Bengali Definition: অনেক সময় দেখা যায়, আয়নিক যৌগগুলো কেলাস বা স্ফটিক গঠনের জন্য এক বা একাধিক পানির অণুর সাথে যুক্ত হয়। এ ধরনের বিক্রিয়াকে পানিযোজন বিক্রিয়া বলে।
+English Translation: Hydration is a reaction where ionic compounds combine with one or more water molecules to form crystals.
+
+কেলাস পানি (Water of crystallization)
+Bengali Definition: যৌগগুলোর সাথে যে কয়টি পানির অণু যুক্ত হয় তাদেরকে কেলাস পানি বলে।
+English Translation: The water molecules that are bound to a compound are called water of crystallization.
+
+SAFETY INFORMATION:
+There is no specific safety information on this page.
+
+QUESTIONS AND PROBLEMS:
+There are no explicit questions or problems on this page.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified on the page
+PAGE NUMBER: 157
+MAIN TOPICS: Hydration Reactions, Isomerization, Polymerization
+
+CHEMICAL EQUATIONS:
+ZnSO4 + 7H2O → ZnSO4.7H2O
+(হেপ্টা হাইড্রেট জিংক সালফেট) / (Hepta Hydrated Zinc Sulfate)
+
+FeSO4 + 7H2O → FeSO4.7H2O
+(হেপ্টা হাইড্রেট ফেরাস সালফেট) / (Hepta Hydrated Ferrous Sulfate)
+
+CaCl2 + 6H2O → CaCl2.6H2O
+(হেক্সা হাইড্রেট ক্যালসিয়াম ক্লোরাইড) / (Hexa Hydrated Calcium Chloride)
+
+MgCl2 + 7H2O → MgCl2.7H2O
+(হেপ্টা হাইড্রেট ম্যাগনেসিয়াম ক্লোরাইড) / (Hepta Hydrated Magnesium Chloride)
+
+NH4CNO  → H2N-CO-NH2
+(তাপ) / (Heat)
+
+n(CH2=CH2)  → (-CH2-CH2-)n
+(O2) / (Oxygen)
+200°C, 1200 atm
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+পানিযোজন (Hydration)
+Bengali Definition: পানিযোজন বিক্রিয়া মূলত সংযোজন বিক্রিয়ার মতো। তবে সংযোজন বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান ঘটে কিন্তু পানিযোজনে ইলেকট্রনের আদানপ্রদান ঘটে না।
+English Translation: Hydration reactions are similar to addition reactions. However, in addition reactions, electrons are exchanged, but in hydration reactions, electrons are not exchanged.
+
+সমানুকরণ (Isomerisation)
+Bengali Definition: যদি দুটি যৌগের আণবিক সংকেত একই থাকে কিন্তু গাঠনিক সংকেত ভিন্ন হয় তবে তাদেরকে পরস্পরের সমানু বলা হয়। একটি সমানু থেকে অপর একটি সমানু তৈরীরর প্রক্রিয়াকে সমানুকরণ বিক্রিয়া বলে।
+English Translation: If two compounds have the same molecular formula but different structural formulas, they are called isomers of each other. The process of forming one isomer from another is called isomerization.
+Related Chemical Equations: NH4CNO  → H2N-CO-NH2
+
+পলিমারকরণ (Polymerization)
+Bengali Definition: প্রভাবক, উচ্চ চাপ ও তাপের প্রভাবে যখন এক বা একাধিক যৌগের অসংখ্য ক্ষুদ্র ক্ষুদ্র অণু পরস্পরের সাথে যুক্ত হয়ে একটি বৃহদাকার অণু তৈরি করে তখন তাকে পলিমারকরণ বিক্রিয়া বলে। এক্ষেত্রে বৃহদাকার অণুটিকে পলিমার অণু এবং ক্ষুদ্র অণুটিকে মনোমার অণু বলা হয়। যে বিক্রিয়ায় অসংখ্য মনোমার থেকে পলিমার উৎপন্ন হয় তাকে পলিমারকরণ বিক্রিয়া বলে।
+English Translation: When many small molecules of one or more compounds combine to form a large molecule under the influence of a catalyst, high pressure, and heat, the process is called polymerization. In this case, the larger molecule is called a polymer molecule, and the smaller molecule is called a monomer molecule. The reaction in which a polymer is formed from many monomers is called a polymerization reaction.
+Related Chemical Equations: n(CH2=CH2)  → (-CH2-CH2-)n
+
+---
+
+CHAPTER TITLE: বাস্তব ক্ষেত্রে সংঘটিত কয়েকটি রাসায়নিক বিক্রিয়ার উদাহরণ / Examples of a Few Real Life Chemical Reactions
+CHAPTER NUMBER: 7
+PAGE NUMBER: 158
+MAIN TOPICS: Oxidation, Corrosion, Acid-Base Neutralization
+
+CHEMICAL EQUATIONS:
+
+2Fe + 1.5O₂ + 3H₂O → 2Fe(OH)₃
+2Fe(OH)₃ → Fe₂O₃.nH₂O (মরিচা / Rust)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: মরিচা / Rust
+Bengali Definition: মরিচা ঝাঁঝরা জাতীয় পদার্থ হওয়ায় এর ভিতর দিয়ে বাতাসের অক্সিজেন এবং জলীয় বাষ্প ঢুকে লোহার পৃষ্ঠকে ক্রমাগত ক্ষয় করতে থাকে।
+English Translation: Rust is a porous substance, through which atmospheric oxygen and water vapor penetrate to corrode the iron surface continuously.
+Related Chemical Equations: 2Fe + 1.5O₂ + 3H₂O → 2Fe(OH)₃; 2Fe(OH)₃ → Fe₂O₃.nH₂O
+Examples: The rusting of iron tools like knives, scissors, and axes.
+
+TERM OR PROPERTY NAME: Fe₂O₃.nH₂O
+Bengali Definition: মরিচার রাসায়নিক সংকেত
+English Translation: Chemical formula of rust
+Related Chemical Equations: 2Fe(OH)₃ → Fe₂O₃.nH₂O
+Examples: n can be 1, 2, 3 or any integer number.
+
+TERM OR PROPERTY NAME: ক্ষয়রোধ / Corrosion prevention
+Bengali Definition: Cu ও Al এর দ্রব্যাদির বাতাসের অক্সিজেনের সংস্পর্শে এলে প্রথমে তাদের উপর CuO ও Al₂O₃ এর একটি আস্তরণ পড়ে। পরবর্তীতে বাতাসের অক্সিজেন উক্ত আস্তরণ ভেদ করে আর Cu বা Al সংস্পর্শে আসতে পারে না। ফলে আর বিক্রিয়া সাধিত হয় না।
+English Translation: When copper (Cu) and aluminum (Al) objects are exposed to atmospheric oxygen, a layer of CuO and Al₂O₃ forms on their surface. This layer prevents further contact with oxygen and prevents further reaction.
+Related Chemical Equations:  CuO, Al₂O₃
+Examples: The formation of protective layers on copper and aluminium objects.
+
+TERM OR PROPERTY NAME: জ্বালা নিরাময় / Soothing of irritation
+Bengali Definition: পিঁপড়ার মুখ বা মৌমাছির হুলে এক ধরনের এসিড থাকে যেটি জ্বালা-যন্ত্রণার সৃষ্টি করে। ক্ষতস্থানে চুন (ক্ষারক) যোগ করার ফলে এসিডের সাথে বিক্রিয়া করে সেটি প্রশমিত হয়।
+English Translation: The sting of ants or bees contains an acid that causes burning irritation. Applying lime (a base) neutralizes the acid, thus reducing the burning sensation.
+Related Chemical Equations: Acid + Base → Salt + Water
+Examples:  Using lime to neutralize insect stings.
+
+REAL-LIFE EXAMPLES
+
+1.  লোহায় মরিচা পড়া / Rusting of Iron
+    Bengali Description: লোহার তৈরি বিভিন্ন যন্ত্রপাতি যেমন: ছুরি, কাঁচি, বঁটি, দা ইত্যাদি বাতাসে মুক্ত অবস্থায় রেখে দিলে মরিচা পড়ে।
+    English Translation: Iron tools like knives, scissors, and axes develop rust when exposed to the open air.
+2. তামা (Cu) ও অ্যালুমিনিয়াম (Al) এর ক্ষয়রোধ / Corrosion prevention of Copper (Cu) and Aluminium (Al)
+    Bengali Description: Cu ও Al এর দ্রব্যাদির বাতাসের অক্সিজেনের সংস্পর্শে এলে প্রথমে তাদের উপর CuO ও Al₂O₃ এর একটি আস্তরণ পড়ে।
+    English Translation: Copper and aluminium objects form protective layers of CuO and Al₂O₃ when exposed to air.
+3.  পিঁপড়া বা মৌমাছির কামড়ের জ্বালা নিরাময় / Soothing the irritation from an ant or bee sting
+    Bengali Description: পিঁপড়া বা মৌমাছি কামড়ালে ক্ষতস্থানে জ্বালা যন্ত্রণা করে, চুন লাগালে এসিডের সাথে বিক্রিয়া করে সেটি প্রশমিত হয়।
+    English Translation: Insect stings cause burning irritation, applying lime will help neutralise the acid.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 159
+MAIN TOPICS:  Respiration, Antacids, Combustion of Natural Gas
+
+CHEMICAL EQUATIONS:
+C6H12O6 + 6O2  → 6CO2 + 6H2O + শক্তি
+2HCl + Mg(OH)2 → MgCl2 + 2H2O
+3HCl + Al(OH)3 → AlCl3 + 3H2O
+CH4 + 2O2 → CO2 + 2H2O + শক্তি
+
+EXPERIMENTAL PROCEDURES:
+None on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page.
+
+QUESTIONS AND PROBLEMS:
+None on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+RESPIRATION
+Bengali Definition: আমাদের শরীরের প্রতিটি কোষে শ্বসন প্রক্রিয়া সাধিত হয়। শ্বসনে মূলত গ্লুকোজ (C₂H₁₂O₂) অণু অক্সিজেন দ্বারা জারিত হয়ে (O₂ এর সাথে বিক্রিয়া করে) কার্বন ডাই-অক্সাইড (CO₂), পানি (H₂O) ও শক্তি উৎপন্ন করে।
+English Translation: Respiration takes place in every cell of our body. In respiration, glucose (C6H12O6) molecules are oxidized by oxygen (reacts with O2) to produce carbon dioxide (CO2), water (H2O) and energy.
+Related Chemical Equations: C6H12O6 + 6O2  → 6CO2 + 6H2O + শক্তি
+Examples: Not specified
+
+ANTACIDS
+Bengali Definition: মানুষের শরীরের বিপাক ক্রিয়ায় অনেকের পাকস্থলীতে অতিরিক্ত HCl তৈরি হয়। অতিরিক্ত HCl কে প্রশমিত করার জন্য রোগীকে ডাক্তার এন্টাসিড জাতীয় ওষুধ খেতে বলেন। এন্টাসিড হলো Mg(OH)2 ও Al(OH)3 এর মিশ্রণ। এই ক্ষারক দুটি অতিরিক্ত HCl কে প্রশমিত করে এবং রোগী এসিডিটি থেকে মুক্তি পায়।
+English Translation: In the metabolic process of the human body, excess HCl is produced in the stomach of some people. Doctors advise patients to take antacid medications to neutralize the excess HCl. Antacids are a mixture of Mg(OH)2 and Al(OH)3. These two bases neutralize the excess HCl and relieve the patient from acidity.
+Related Chemical Equations: 2HCl + Mg(OH)2 → MgCl2 + 2H2O, 3HCl + Al(OH)3 → AlCl3 + 3H2O
+Examples: Mg(OH)2, Al(OH)3
+
+NATURAL GAS AS FUEL
+Bengali Definition: প্রাকৃতিক গ্যাস জ্বালানি হিসেবে ব্যবহার করা হয়। প্রাকৃতিক গ্যাসে বেশির ভাগই মিথেন থাকে। মিথেন গ্যাসকে অক্সিজেনে পোড়ালে CO₂ এবং জলীয় বাষ্প ও তাপশক্তি উৎপন্ন হয়। CNG, ডিজেল, পেট্রল, কেরোসিন, অকটেন ইত্যাদি জ্বালানিকে পোড়ালেও একইভাবে CO₂ এবং জলীয়বাষ্প ও তাপশক্তি উৎপন্ন হয়।
+English Translation: Natural gas is used as fuel. Natural gas mostly contains methane. When methane gas is burned in oxygen, CO2, water vapor, and heat are produced. Burning fuels such as CNG, diesel, petrol, kerosene, and octane also produces CO2, water vapor, and heat.
+Related Chemical Equations: CH4 + 2O2 → CO2 + 2H2O + শক্তি
+Examples: Methane, CNG, Diesel, Petrol, Kerosene, Octane.
+
+GALVANIZING
+Bengali Definition: কোনো ধাতুর উপর জিংকের প্রলেপ দেওয়াকে গ্যালভানাইজিং বলে।
+English Translation: Coating a metal with zinc is called galvanizing.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TIN PLATING
+Bengali Definition: টিনের প্রলেপ দেওয়াকে টিন প্লেটিং বলে।
+English Translation: Coating with tin is called tin plating.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: 7
+PAGE NUMBER: 160
+MAIN TOPICS: Rate of Reaction, Methods of Preventing Rusting
+
+(i) তড়িৎ বিশ্লেষণের মাধ্যমে একটি ধাতুর উপর অন্য একটি ধাতুর প্রলেপ দেওয়ার প্রক্রিয়াগুলোকে ইলেকট্রোপ্লেটিং বলে। এভাবে ধাতব পৃষ্ঠকে রক্ষা করা যায়।
+    Translation: (i) The process of applying a coating of one metal over another through electrolysis is called electroplating. This way, metal surfaces can be protected.
+
+(ii) বর্ষাকালে ছাদ বা বাড়ির আঙিনা পিচ্ছিল হয়। তখন আমরা বালি ফেলে দিয়ে পিচ্ছিলতা কমানোর চেষ্টা করি। ছাদ বা আঙিনাকে পিচ্ছিল করে ক্ষার জাতীয় পদার্থ। সুতরাং এ ক্ষারকে প্রশমিত করার জন্য এসিড জাতীয় পদার্থ যোগ করতে হবে। বালু (SiO₂) অম্লধর্মী। তাই বালু যোগ করার ফলে অম্ল-ক্ষার প্রশমন বিক্রিয়ার মাধ্যমে পিচ্ছিলতা দূর হয়।
+    Translation: (ii) During the rainy season, the roofs or yards of houses become slippery. At that time, we try to reduce the slipperiness by scattering sand. The substance that makes the roof or yard slippery is alkaline. Therefore, to neutralize this alkali, an acidic substance must be added. Sand (SiO₂) is acidic. Therefore, by adding sand, the slipperiness is removed through an acid-base neutralization reaction.
+
+(iii) সেলাই করার সুচকে নারিকেল তেলের ভিতর ডুবিয়ে রাখা হয়। কারণ সুচ যাতে বাতাসের অক্সিজেন ও জলীয় বাষ্পের সাথে রাসায়নিক বিক্রিয়া করে ক্ষয় না হয়। এভাবে লোহার তৈরি সুচে মরিচা পড়া রোধ করা যায়।
+    Translation: (iii) Sewing needles are kept immersed in coconut oil. This is because the needle should not corrode due to chemical reactions with atmospheric oxygen and water vapor. This prevents rusting on iron needles.
+
+7.5 বিক্রিয়ার গতিবেগ বা বিক্রিয়ার হার (Rate of Reaction)
+    Translation: 7.5 Rate of Reaction
+
+আমরা জানি, সকল রাসায়নিক বিক্রিয়ায় বিক্রিয়ক পদার্থ উৎপাদে পরিণত হয়। কোনো কোনো রাসায়নিক বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হতে 1 সেকেন্ডের কম সময় লাগে। আবার, কোনো কোনো রাসায়নিক বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হতে অনেক বেশি সময় লাগে।
+    Translation: We know that in all chemical reactions, reactants are converted into products. Some chemical reactions take less than 1 second to convert reactants into products. Again, some chemical reactions take much longer to convert reactants into products.
+
+একক সময়ে যে পরিমাণ বিক্রিয়ক উৎপাদে পরিণত হয় তাকে বিক্রিয়ার হার বলে।
+    Translation: The amount of reactants converted into products per unit time is called the rate of reaction.
+
+DIAGRAM TITLE: বিভিন্ন গতিসম্পন্ন বিক্রিয়া: লোহার মরিচা, মোমবাতির প্রজ্বালন, বোমা বিস্ফোরণ।
+Translation: Different Rate of Reaction: Iron Rusting, Candle Burning, Bomb Explosion
+Description: The image shows three different reactions, iron rusting, a burning candle and a bomb explosion.
+Components: Rusting iron chains, a burning candle, a bomb explosion
+Chemical Labels: None shown
+Safety Notes: None shown
+Purpose: To illustrate different rates of chemical reactions
+
+Examples:
+যেমন: NaCl দ্রবণে AgNO3 যোগ করার পর 1 সেকেন্ডের কম সময়ে AgCl এর সাদা অধঃক্ষেপ উৎপন্ন করে। আবার, লোহার তৈরি একটি ব্রিজে মরিচা পড়তে অনেক দিন সময় লাগে।
+    Translation: For example: When AgNO3 is added to a NaCl solution, a white precipitate of AgCl is formed in less than 1 second. Again, it takes many days for rust to form on an iron bridge.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 161
+MAIN TOPICS: Reaction Rate, Chemical Reactions, Experimental Procedure
+
+EXPERIMENTAL PROCEDURES
+EXPERIMENT TITLE: বিক্রিয়ার হার পরীক্ষা / Testing Reaction Rates
+Purpose: To investigate the effect of different conditions on the rate of a chemical reaction.
+Materials Required:
+   - Four test tubes or clear glass cups
+   - Sodium carbonate (Na₂CO₃) or washing soda (approx. 0.5 mg per test tube)
+   - Normal water
+   - Hot water
+   - Lemon juice (Citric acid) or Vinegar (4-10% Acetic acid) (1 ml per test tube)
+Safety Precautions:
+  - Handle glassware carefully to avoid breakage.
+  - Wear gloves and safety goggles to avoid any skin and eye irritation.
+Procedure:
+   1. Take four test tubes or clear glass cups and label them 1, 2, 3, and 4.
+   2. Add approximately 0.5 mg of sodium carbonate (Na₂CO₃) to each test tube.
+   3. Add normal water to test tubes 1 and 2.
+   4. Add hot water to test tubes 3 and 4.
+   5. Add 1 ml of lemon juice or vinegar to test tubes 2 and 4.
+   6. Observe and record any changes.
+Expected Observations:
+  - Bubbles are likely to be produced in test tubes 2 and 4.
+  - The rate of bubble formation might differ between test tubes 2 and 4.
+Key Learning Points:
+  - Temperature affects the rate of chemical reactions.
+  - Acids react with carbonates to produce carbon dioxide gas.
+
+DIAGRAM TITLE: চিত্র 7.04: সোডিয়াম কার্বনেট দ্রবণের সাথে ভিনেগার বা এসিটিক এসিডের বিক্রিয়া। / Figure 7.04: Reaction of Sodium Carbonate Solution with Vinegar or Acetic Acid.
+Description: The diagram shows four test tubes. Test tubes 1 and 2 contain cold water, and test tubes 3 and 4 contain hot water. Test tubes 2 and 4 are also shown with bubbles.
+Components: Test tubes 1, 2, 3, and 4; water; sodium carbonate; vinegar/lemon juice
+Chemical Labels: Na₂CO₃,  Acetic acid (or Citric Acid)
+Safety Notes: Be cautious while handling hot water and chemicals.
+Purpose: To illustrate a comparative experiment of reaction rate with different conditions.
+
+QUESTIONS AND PROBLEMS
+Question 1
+কোন কোন টেস্টটিউবে গ্যাসের বুদ্বুদ উৎপন্ন হয়?
+Translation: In which test tubes are gas bubbles produced?
+Type: Short answer
+Chemical Components: Sodium carbonate (Na₂CO₃), Acetic acid (or Citric acid)
+Key Concept: Acid-carbonate reaction
+
+Question 2
+কোন কোন টেস্টটিউবে গ্যাসের বুদ্বুদ উৎপন্ন হয় না?
+Translation: In which test tubes are gas bubbles not produced?
+Type: Short answer
+Chemical Components: Sodium carbonate (Na₂CO₃), Water
+Key Concept: Acid-carbonate reaction
+
+Question 3
+কোন টেস্টটিউবে সবচেয়ে বেশি পরিমাণে গ্যাসের বুদ্বুদ উৎপন্ন হয়?
+Translation: In which test tube are the most gas bubbles produced?
+Type: Short answer
+Chemical Components: Sodium carbonate (Na₂CO₃), Acetic acid (or Citric acid), Hot water
+Key Concept: Reaction rate and temperature
+
+Question 4
+কোন টেস্টটিউবে সবচেয়ে কম পরিমাণে গ্যাসের বুদবুদ উৎপন্ন হয়?
+Translation: In which test tube are the least gas bubbles produced?
+Type: Short answer
+Chemical Components: Sodium carbonate (Na₂CO₃), Acetic acid (or Citric acid), Normal water
+Key Concept: Reaction rate and temperature
+
+ADDITIONAL NOTE
+চিন্তা করো: 2 ও 4 নম্বর টেস্টটিউবের একটিতে বেশি পরিমাণে গ্যাস নির্গত হয় কেন? / Think: Why is more gas released in one of the test tubes 2 and 4?
+This prompts critical thinking about why reactions proceed at different rates.
+
+Note: No chemical equations were explicitly given on this page.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: 7
+PAGE NUMBER: 162
+MAIN TOPICS: Reversible Reactions, Le Chatelier's Principle, Chemical Equilibrium
+
+7.5.1 লা-শাতেলিয়ার নীতি (Le Chatelier's Principle)
+আমরা জানি, উভমুখী বিক্রিয়ায় বিক্রিয়ক পদার্থগুলো পরস্পরের সাথে বিক্রিয়া করে উৎপাদে পরিণত হয়, এই বিক্রিয়াকে সম্মুখবর্তী বিক্রিয়া বলে। আবার, উৎপাদ পদার্থগুলো পরস্পরের সাথে বিক্রিয়া করে বিক্রিয়কে পরিণত হয়, এই বিক্রিয়াকে পশ্চাৎমুখী বিক্রিয়া বলে। বিক্রিয়ার শুরুতে সম্মুখবর্তী বিক্রিয়ার হার অনেক বেশি থাকে। যতই সময় যেতে থাকে সম্মুখবর্তী বিক্রিয়ার হার ততই কমতে থাকে।
+English Translation:
+We know that in a reversible reaction, reactants react with each other to form products, this reaction is called forward reaction. Again, product substances react with each other to form reactants, this reaction is called backward reaction. At the beginning of the reaction, the rate of the forward reaction is much higher. As time goes on, the rate of the forward reaction decreases.
+
+DIAGRAM TITLE: বিক্রিয়ায় সাম্যাবস্থা / Chemical Equilibrium in Reaction
+Description: The diagram consists of two graphs showing how reaction rates change over time and how concentrations of reactants and products change. The first graph shows forward and reverse reaction rates converging to equilibrium. The second graph shows reactants decreasing while products increase, then both stabilize at equilibrium.
+Components:
+    - Forward reaction rate line
+    - Reverse reaction rate line
+    - Equal reaction rate line
+    - Reactant concentration line
+    - Product concentration line
+    - Time (horizontal axis)
+    - Reaction rate/Concentration (vertical axis)
+Chemical Labels: None.
+Safety Notes: None.
+Purpose: Illustrates the concept of dynamic equilibrium in a reversible reaction, showing rates and concentrations.
+
+আবার, বিক্রিয়ার শুরুতে পশ্চাৎমুখী বিক্রিয়ার হার কম থাকে। যতই সময় পার হয় পশ্চাৎমুখী বিক্রিয়ার হার ততই বাড়তে থাকে। এক সময় সম্মুখবর্তী বিক্রিয়ায় হার এবং পশ্চাৎমুখী বিক্রিয়ায় হার সমান হয়ে যায়। এ অবস্থাকে উভমুখী বিক্রিয়ার সাম্যাবস্থা বলা হয়।
+English Translation:
+Again, at the beginning of the reaction, the rate of the backward reaction is low. As time passes, the rate of the backward reaction increases. At one point, the rate of the forward reaction and the rate of the backward reaction become equal. This state is called the equilibrium of reversible reaction.
+
+সাম্যাবস্থায় সম্মুখবর্তী বিক্রিয়া এবং পশ্চাৎমুখী বিক্রিয়া চলতে থাকে, যে পরিমাণ বিক্রিয়ক সম্মুখবর্তী বিক্রিয়ায় উৎপাদে পরিণত হয়েছে, পশ্চাৎমুখী বিক্রিয়ায় উৎপাদ থেকে ঠিক সেই পরিমাণ বিক্রিয়ক।
+English Translation:
+At equilibrium, both forward and backward reactions continue to take place. The amount of reactant that has converted to product in the forward reaction is exactly the amount of reactant formed from product in the backward reaction.
+
+TERM OR PROPERTY NAME: সম্মুখবর্তী বিক্রিয়া / Forward Reaction
+Bengali Definition: উভমুখী বিক্রিয়ায় বিক্রিয়ক পদার্থগুলো পরস্পরের সাথে বিক্রিয়া করে উৎপাদে পরিণত হয়।
+English Translation: In a reversible reaction, reactants react with each other to form products.
+Related Chemical Equations: [None on this page]
+
+TERM OR PROPERTY NAME: পশ্চাৎমুখী বিক্রিয়া / Backward Reaction
+Bengali Definition: উভমুখী বিক্রিয়ায় উৎপাদ পদার্থগুলো পরস্পরের সাথে বিক্রিয়া করে বিক্রিয়কে পরিণত হয়।
+English Translation: In a reversible reaction, products react with each other to form reactants.
+Related Chemical Equations: [None on this page]
+
+TERM OR PROPERTY NAME: উভমুখী বিক্রিয়ার সাম্যাবস্থা / Equilibrium of Reversible Reaction
+Bengali Definition:  এক সময় সম্মুখবর্তী বিক্রিয়ায় হার এবং পশ্চাৎমুখী বিক্রিয়ায় হার সমান হয়ে যায়।
+English Translation: A state when the rate of the forward reaction and the rate of the backward reaction become equal.
+Related Chemical Equations: [None on this page]
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 163
+MAIN TOPICS: Chemical Equilibrium, Le Chatelier's Principle, Effect of Temperature on Equilibrium
+
+CHEMICAL EQUATIONS:
+N₂ + 3H₂  ⇌ 2NH₃ + 92 kJ
+
+LA-CHATELIER'S PRINCIPLE:
+
+TERM OR PROPERTY NAME: La Chatelier's Principle
+BENGALI DEFINITION: কোনো বিক্রিয়ার সাম্যাবস্থায় থাকাকালীন যদি তাপ, চাপ, ঘনমাত্রা ইত্যাদি পরিবর্তন করা হয় তবে সাম্যের অবস্থান এমনভাবে পরিবর্তিত হয় যেন তাপ, চাপ, ঘনমাত্রা ইত্যাদির পরিবর্তনের ফলাফল প্রশমিত হয়।
+ENGLISH TRANSLATION: If a system at equilibrium is subjected to a change in conditions such as temperature, pressure, or concentration, the system will adjust itself to counteract the change and restore a new equilibrium.
+RELATED CHEMICAL EQUATIONS: N₂ + 3H₂  ⇌ 2NH₃ + 92 kJ
+
+LA-CHATELIER'S PRINCIPLE EXPLANATION:
+
+BENGALI TEXT: তাপ, চাপ কিংবা ঘনমাত্রার প্রভাবে সাম্যাবস্থার কী ধরনের পরিবর্তন হয় লা-শাতেলিয়ার নীতির মাধ্যমে সেটি খুব সহজে ব্যাখ্যা করা যায়।
+ENGLISH TRANSLATION: How changes in temperature, pressure, or concentration affect equilibrium can be easily explained using Le Chatelier's principle.
+
+EFFECT OF TEMPERATURE ON EQUILIBRIUM:
+
+BENGALI TEXT: একটি উভমুখী বিক্রিয়া বিবেচনা করা যাক: N₂ + 3H₂  ⇌ 2NH₃ + 92 kJ এই বিক্রিয়ার সম্মুখমুখী অংশটি তাপ উৎপাদী, অর্থাৎ যখন N₂ এবং H₂ বিক্রিয়ক তখন উৎপাদ NH₃ উৎপন্ন হওয়ার সময় বিক্রিয়াটি তাপ উৎপাদন করে। এই বিক্রিয়ার বিপরীতমুখী অংশটি তাপহারী, অর্থাৎ NH₃ কে ভেঙে N₂ এবং H₂ উৎপন্ন করার সময় তাপ শোষিত হয়, কাজেই এর জন্য তাপ প্রয়োগ করতে হয়। আমরা এখন লা-শাতেলিয়ার নীতির ভিত্তিতে দেখতে চাই এই উভমুখী বিক্রিয়ায় তাপ প্রয়োগ করা হলে কী ঘটবে। লা-শাতেলিয়ার নীতি অনুযায়ী তাপ প্রয়োগ করা হলে তাপ বৃদ্ধিজনিত ফলাফল প্রশমিত হতে হবে। তাপ প্রয়োগ করা হলে যদি সম্মুখমুখী তাপ উৎপাদী বিক্রিয়াটি বৃদ্ধি পায় তা হলে আরও বেশি তাপ উৎপাদিত হবে এবং ফলাফল প্রশমিত না হয়ে আরও বৃদ্ধি পাবে। যদি বিপরীতমুখী তাপহারী বিক্রিয়াটি বৃদ্ধি পায় তাহলে সেটি তাপ শোষণ করে তাপ বৃদ্ধিজনিত ফলাফল প্রশমিত করবে। কাজেই লা-শাতেলিয়ার নীতি অনুযায়ী আমরা বলতে পারি তাপমাত্রা বৃদ্ধি করা হলে বিপরীতমুখী তাপহারী বিক্রিয়াটি বৃদ্ধি পাবে। অন্যভাবে বলা যায়, তাপোৎপাদী বিক্রিয়ায় তাপ প্রয়োগ করলে সাম্য ডানদিক থেকে বামদিকে সরে যায় অর্থাৎ NH₃ ভেঙে N₂ ও H₂ উৎপন্ন করে।
+ENGLISH TRANSLATION: Let's consider the reversible reaction: N₂ + 3H₂  ⇌ 2NH₃ + 92 kJ. The forward reaction is exothermic, meaning that when N₂ and H₂ react to form NH₃, heat is produced. The reverse reaction is endothermic, meaning that when NH₃ decomposes into N₂ and H₂, heat is absorbed. According to Le Chatelier's principle, if we increase the temperature, the system will shift to counteract that change. If the forward (exothermic) reaction were favored, it would produce more heat, further increasing the temperature.  The system instead favors the reverse (endothermic) reaction. Thus, if we increase the temperature, the equilibrium will shift towards the reverse reaction, meaning it will favor the decomposition of NH₃ into N₂ and H₂. In simpler terms, increasing temperature in an exothermic reaction shifts the equilibrium from right to left, meaning that  NH₃ will decompose into N₂ and H₂.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 164
+MAIN TOPICS: Effect of Temperature on Equilibrium, Effect of Pressure on Equilibrium
+
+CHEMICAL EQUATIONS:
+N2 + O2 + 180 kJ  ⇌  2NO
+N2(g) + 3H2(g)  ⇌  2NH3 (g)
+N2(g) + O2(g)  ⇌  2NO(g)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: তাপ উৎপাদী বিক্রিয়া (Exothermic Reaction)
+Bengali Definition: যে বিক্রিয়ায় তাপ উৎপন্ন হয়।
+English Translation: A reaction that releases heat.
+
+TERM OR PROPERTY NAME: তাপহারী বিক্রিয়া (Endothermic Reaction)
+Bengali Definition: যে বিক্রিয়ায় তাপ শোষিত হয়।
+English Translation: A reaction that absorbs heat.
+
+TERM OR PROPERTY NAME: লা-শাতেলিয়ার নীতি (Le Chatelier's Principle)
+Bengali Definition:  সাম্যাবস্থায় কোনো সিস্টেমের উপর চাপ, তাপমাত্রা বা ঘনত্বের পরিবর্তন আনা হলে, সিস্টেমটি এমনভাবে পরিবর্তিত হবে যেন পরিবর্তনের প্রভাব প্রশমিত হয়।
+English Translation: If a change of condition is applied to a system in equilibrium, the system will adjust itself to counteract the change.
+
+SAMABOSTHAR UPOR CHAPER PROBHAAB (EFFECT OF PRESSURE ON EQUILIBRIUM)
+Bengali Definition: যে সকল বিক্রিয়ায় বিক্রিয়ক ও উৎপাদের মধ্যে যেকোনো একটি গ্যাসীয় বা সবই গ্যাসীয় অবস্থায় থাকে সেসব বিক্রিয়ায় সাম্যাবস্থার উপর চাপের প্রভাব থাকে। সাম্যাবস্থায় বিক্রিয়কের মোট মোল সংখ্যা এবং উৎপাদের মোট মোল সংখ্যার পরিবর্তন হলে সাম্যাবস্থার উপর চাপের প্রভাব থাকবে।
+English Translation: In reactions where at least one of the reactants or products is in the gaseous phase, the equilibrium is affected by pressure. Changes in total moles of reactants and products also affect equilibrium under pressure.
+
+SAMABOSTHAR UPOR TAPMATRAR PROBHAAB (EFFECT OF TEMPERATURE ON EQUILIBRIUM)
+Bengali Definition: বিক্রিয়ার সাম্যাবস্থায় তাপমাত্রা হ্রাস করা হলে সম্মুখমুখী তাপ উৎপাদী বিক্রিয়াটি বৃদ্ধি পাবে এবং তাপ হ্রাসজনিত ফলাফল প্রশমিত করবে। অর্থাৎ সাম্য বাম দিক থেকে ডানদিকে সরে যাবে। যে সকল বিক্রিয়ায় তাপের পরিবর্তন হয় না সে সকল বিক্রিয়ায় সাম্যাবস্থার উপর তাপমাত্রার কোনো প্রভাব নেই।
+English Translation: When temperature decreases in a reaction at equilibrium, the forward exothermic reaction will be favored and compensate for the change. This implies that equilibrium shifts from left to right. Reactions with no temperature change are unaffected by temperature change on the equilibrium.
+
+EXPERIMENTAL PROCEDURES:
+Not applicable for this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+Not applicable for this page.
+
+QUESTIONS AND PROBLEMS:
+Not applicable for this page.
+
+SAFETY INFORMATION:
+Not applicable for this page.
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not explicitly stated but assumed as part of a chapter
+PAGE NUMBER: 165
+MAIN TOPICS: Chemical Equilibrium, Concentration Effects
+
+CHEMICAL EQUATIONS:
+(No Chemical Equations on this page)
+
+EXPERIMENTAL PROCEDURES:
+(No Experimental Procedures on this page)
+
+DIAGRAMS AND ILLUSTRATIONS:
+(No Diagrams or Illustrations on this page)
+
+QUESTIONS AND PROBLEMS:
+Question 1
+ভিনেগারে নিচের কোন এসিডটি উপস্থিত থাকে?
+Translation: Which of the following acids is present in vinegar?
+Type: Multiple choice
+Chemical Components: Citric acid, Acetic acid, Tartaric acid, Ascorbic acid
+Key Concept: Acids in common substances
+
+Question 2
+মৌমাছি কামড় দিলে ক্ষতস্থানে কোনটি ব্যবহার করা যেতে পারে?
+Translation: Which of the following can be used on a bee sting?
+Type: Multiple choice
+Chemical Components: Lime, Vinegar, Table salt, Water
+Key Concept: Neutralizing bee stings
+
+Question 3
+এন্টাসিড জাতীয় ওষুধ সেবনে কোন ধরনের বিক্রিয়া সম্পন্ন হয়?
+Translation: What type of reaction occurs when taking antacid medicine?
+Type: Multiple choice
+Chemical Components: Acids, Bases
+Key Concept: Acid-Base Reactions
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+SAMYABASTHAR UPAR GHONOMATRAR PROBHAB
+Bengali Definition: সকল বিক্রিয়ার সাম্যাবস্থার উপর বিক্রিয়কের ঘনমাত্রার প্রভাব রয়েছে। বিক্রিয়ার সাম্যাবস্থায় যে কোনো একটি বিক্রিয়কের ঘনমাত্রা বাড়ালে লা-শাতেলিয়ার নীতি অনুসারে বিক্রিয়কের ঘনমাত্রা কমিয়ে পরিবর্তনের ফলাফলকে প্রশমিত করার জন্য উৎপাদের পরিমাণ বৃদ্ধি হতে হবে। আমরা বলতে পারি, এখানে বিক্রিয়ার সাম্যাবস্থা ডানদিকে অগ্রসর হয়। একইভাবে বিক্রিয়ার সাম্যাবস্থায় যেকোনো একটি উৎপাদের ঘনমাত্রা বাড়ানো হলে উৎপাদের পরিমাণ কমানোর জন্য বিক্রিয়াটি বিপরীত দিকে ঘটতে থাকে এবং বিক্রিয়কের ঘনমাত্রা বৃদ্ধি হতে থাকে। অন্যভাবে বলতে পারি, সাম্যাবস্থা বামদিকে অগ্রসর হয়।
+English Translation: The concentration of reactants has an effect on the equilibrium of all reactions. According to Le Chatelier's principle, if the concentration of a reactant is increased, the equilibrium shifts to reduce the concentration of that reactant and increase the concentration of products. In this case, the reaction proceeds in the forward direction. Similarly, if the concentration of a product is increased at equilibrium, the equilibrium will shift to reduce the concentration of that product, increasing the concentration of reactants. In other words, the equilibrium shifts backward.
+Related Chemical Equations: (Not stated explicitly on the page)
+Examples: (Not stated explicitly on the page)
+
+SAFETY INFORMATION:
+(No Safety Information present on this page)
+
+
+CHAPTER TITLE: রাসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 166
+MAIN TOPICS: Chemical Reactions, Oxidation Numbers
+
+4. H2SO4 + MgO →  বিক্রিয়ায়-
+
+(i) তাপ উৎপন্ন হয় / Heat is produced
+(ii) ইলেকট্রন স্থানান্তর ঘটে / Electron transfer occurs
+(iii) অধঃক্ষেপ পড়ে / A precipitate forms
+নিচের কোনটি সঠিক? / Which of the following is correct?
+(ক) i
+(খ) ii ও iii
+(গ) i ও iii
+(ঘ) i, ii ও iii
+
+5. 2FeCl2 + Cl2 → 2FeCl3 বিক্রিয়াটি-
+
+(i) সমানুকরণ বিক্রিয়া / Isomerization reaction
+(ii) জারণ-বিজারণ / Oxidation-reduction
+(iii) সংযোজন বিক্রিয়া / Addition reaction
+
+নিচের কোনটি সঠিক? / Which of the following is correct?
+(ক) i ও ii
+(খ) i ও iii
+(গ) ii ও iii
+(ঘ) i, ii ও, iii
+
+6. H2SO4 এ সালফারের জারণ সংখ্যা কত? / What is the oxidation number of sulfur in H2SO4?
+(ক) +2
+(খ) +4
+(গ) +6
+(ঘ) +8
+
+সৃজনশীল প্রশ্ন / Creative Questions
+
+1. অপু ও সেতু উভয়ের বাসায় রান্নার কাজে প্রাকৃতিক গ্যাস ব্যবহার করা হয়। অপুর বাসার পাত্রের নিচে কালো দাগ পড়লেও সেতুর বাসার পাত্রের নিচে কোনো দাগ নেই। / Apu and Setu both use natural gas for cooking at home. Apu's pot has black marks on the bottom, but Setu's pot has no marks.
+
+Question 1
+(ক) একমুখী বিক্রিয়া কাকে বলে? / What is a unidirectional reaction?
+Translation: What is a unidirectional reaction?
+Type: Short answer
+Chemical Components: Not directly involved
+Key Concept: Reaction types
+
+Question 2
+(খ) রাসায়নিক সাম্যাবস্থা বলতে কী বোঝায়? / What do you mean by chemical equilibrium?
+Translation: What do you mean by chemical equilibrium?
+Type: Short answer
+Chemical Components: Not directly involved
+Key Concept: Chemical equilibrium
+
+Question 3
+(গ) রান্নার সময় তাদের বাসায় সম্পন্ন বিক্রিয়াটি কোন ধরনের? ব্যাখ্যা করো। / What type of reaction occurs in their home during cooking? Explain.
+Translation: What type of reaction occurs in their homes during cooking? Explain.
+Type: Analytical
+Chemical Components: Natural gas
+Key Concept: Chemical reactions in real life
+
+Question 4
+(ঘ) উদ্দীপকের কোন বাসায় রান্নার কাজে গ্যাসের অপচয় হয় বলে তুমি মনে করো? তোমার উত্তরের সপক্ষে যুক্তি দাও। / In which of the homes described, do you think there is a waste of gas during cooking? Give reasons for your answer.
+Translation:  In which home, according to the scenario, do you think gas is wasted during cooking? Provide arguments to support your answer.
+Type: Analytical
+Chemical Components: Natural gas
+Key Concept: Practical gas usage and combustion
+
+
+CHAPTER TITLE: রাসায়নিক বিক্রিয়া / Chemical Reactions
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 167
+MAIN TOPICS: Chemical Reactions, Stoichiometry, Redox Reactions
+
+CHEMICAL EQUATIONS:
+Pb(NO3)2 + 2KI →  [No products given, reaction incomplete in original image]
+Na + 1/2 Cl2 → NaCl
+Zn + H2SO4 → ZnSO4 + H2
+
+EXPERIMENTAL PROCEDURES:
+EXPERIMENT TITLE: Reaction of Lead Nitrate with Potassium Iodide
+Purpose: To observe the formation of a precipitate from a chemical reaction
+Materials Required:
+  - 0.2 M Lead Nitrate (Pb(NO3)2) solution
+  - 0.5 M Potassium Iodide (KI) solution
+  - Water
+  - Four test tubes
+  - Measuring cylinders
+Procedure:
+  1. Label four test tubes as 1st, 2nd, 3rd and 4th.
+  2. In the 1st test tube, add 1 mL of 0.2 M Pb(NO3)2, 4 mL of water, and 1 mL of 0.5M KI solution
+  3. In the 2nd test tube, add 2 mL of 0.2 M Pb(NO3)2, 3 mL of water, and 1 mL of 0.5M KI solution
+  4. In the 3rd test tube, add 3 mL of 0.2 M Pb(NO3)2, 2 mL of water, and 1 mL of 0.5M KI solution
+  5. In the 4th test tube, add 4 mL of 0.2 M Pb(NO3)2, 1 mL of water, and 1 mL of 0.5M KI solution
+  6. Observe the reaction in each test tube, noting any precipitate formation.
+Expected Observations:
+  - A yellow precipitate will form in each test tube.
+Key Learning Points:
+  - Lead nitrate reacts with potassium iodide to form a yellow precipitate.
+  - Different ratios of reactants can affect precipitate formation.
+
+QUESTIONS AND PROBLEMS:
+Question 1
+তাপ উৎপাদী বিক্রিয়া কাকে বলে?
+Translation: What is an exothermic reaction?
+Type: Short Answer
+Chemical Components: General
+Key Concept: Exothermic Reactions
+
+Question 2
+যোজনী ও জারণ সংখ্যা এক নয় কেন? ব্যাখ্যা করো।
+Translation: Why are valency and oxidation number not the same? Explain.
+Type: Analytical
+Chemical Components: General
+Key Concept: Valency, Oxidation Number
+
+Question 3
+সারণিতে ব্যবহৃত মোট KI এর পরিমাণ কত গ্রাম? নির্ণয় করে দেখাও।
+Translation: What is the total amount of KI used in the table, in grams? Determine and show.
+Type: Numerical
+Chemical Components: KI
+Key Concept: Stoichiometry, Molar Mass
+
+Question 4
+কোন পাত্রের দ্রবণটি অধিক হলুদ হবে বলে তুমি মনে করো? যুক্তিসহ ব্যাখ্যা করো।
+Translation: Which test tube's solution do you think will be the most yellow? Explain with reasons.
+Type: Analytical
+Chemical Components: Pb(NO3)2, KI
+Key Concept: Precipitation, Stoichiometry
+
+Question 5
+সমাণুকরণ বিক্রিয়া কাকে বলে?
+Translation: What is an isomerization reaction?
+Type: Short Answer
+Chemical Components: General
+Key Concept: Isomerization Reaction
+
+Question 6
+উভমুখী বিক্রিয়া বলতে কী বোঝ?
+Translation: What do you mean by a reversible reaction?
+Type: Short Answer
+Chemical Components: General
+Key Concept: Reversible Reaction
+
+Question 7
+দ্বিতীয় বিক্রিয়াটির উৎপাদ যৌগটিতে সালফারের জারণ সংখ্যা নির্ণয় করো।
+Translation: Determine the oxidation number of sulfur in the product compound of the second reaction.
+Type: Numerical
+Chemical Components: ZnSO4
+Key Concept: Oxidation Number
+
+Question 8
+উদ্দীপকে প্রথম বিক্রিয়াটিতে জারণ-বিজারণ যুগপৎ ঘটে-বিশ্লেষণ করো।
+Translation: Analyze how oxidation and reduction occur simultaneously in the first reaction of the stimulus.
+Type: Analytical
+Chemical Components: Na, Cl2, NaCl
+Key Concept: Redox Reaction
+
+

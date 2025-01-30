@@ -1,0 +1,2662 @@
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 6
+Page Number: 70
+Topic Stream: Algebra
+Prerequisite Topics: Linear equations in one variable, methods of solving equations (transposition, elimination, cross-multiplication, symmetry), graphical representation of equations.
+Learning Objectives: Students will be able to explain substitution and elimination methods for solving equations, solve simple simultaneous equations with two variables, form and solve simultaneous equations from mathematical problems, represent solutions of simultaneous equations graphically, and solve simultaneous equations using graphs.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Introduction to Simple Simultaneous Equations
+Bengali Explanation: গাণিতিক সমস্যা সমাধানে সমীকরণের ভূমিকা গুরুত্বপূর্ণ। আমরা ষষ্ঠ ও সপ্তম শ্রেণিতে এক চলকবিশিষ্ট সরল সমীকরণ ও এ-সংক্রান্ত বাস্তব সমস্যার সমীকরণ গঠন করে তা সমাধান করতে শিখেছি। সপ্তম শ্রেণিতে সমীকরণের পক্ষান্তর বিধি, বর্জন বিধি, আড়গুণন বিধি ও প্রতিসাম্য বিধি সম্পর্কে জেনেছি। এ ছাড়াও লেখচিত্রের সাহায্যে কীভাবে সমীকরণের সমাধান করতে হয় তা জেনেছি। এ অধ্যায়ে দুই চলকবিশিষ্ট সরল সহসমীকরণের বিভিন্ন পদ্ধতিতে সমাধান ও লেখচিত্রের সাহায্যে সমাধান সম্পর্কে বিস্তারিত আলোচনা করা হয়েছে।
+English Translation: The role of equations is crucial in solving mathematical problems. In grades six and seven, we learned to form and solve linear equations with one variable and related real-world problems. In grade seven, we learned about the transposition, elimination, cross-multiplication, and symmetry rules of equations. We also learned how to solve equations using graphs. In this chapter, we will discuss in detail the various methods of solving simple simultaneous equations with two variables and their solutions using graphs.
+Mathematical Notation:  N/A
+Visual Support: N/A
+Real-World Connection: Simultaneous equations are used to model and solve problems involving multiple unknowns, such as in physics, economics, and engineering.
+
+CONCEPT PRESENTATION:
+Core Concept: Definition of Simple Simultaneous Equations
+Bengali Explanation: x+y = 5 একটি সমীকরণ। এখানে, x ও y দুইটি অজানা রাশি বা চলক। এই চলক দুইটি একঘাতবিশিষ্ট। এরূপ সমীকরণ সরল সমীকরণ। এখানে, যে সংখ্যাদ্বয়ের যোগফল 5 সেই সংখ্যা দ্বারাই সমীকরণটি সিদ্ধ হবে। যেমন, x = 4, y = 1; বা, x = 3, y = 2; বা, x = 2, y = 3; বা, x = 1, y = 4, ইত্যাদি, এরূপ অসংখ্য সংখ্যাযুগল দ্বারা সমীকরণটি সিদ্ধ হবে। আবার, x - y = 3 এই সমীকরণটি বিবেচনা করলে দেখতে পাই, সমীকরণটি x = 4, y = 1 বা x = 5, y = 2 বা x = 6, y = 3 বা x = 7, y = 4 বা x = 8, y = 5 বা x = 2, y=-1 বা x = 1, y = -2, x = 0, y = -3... ইত্যাদি অসংখ্য সংখ্যাযুগল দ্বারা সিদ্ধ হয়। এখানে, x + y = 5 এবং x - y = 3 সমীকরণ দুইটি একত্রে বিবেচনা করলে উভয় সমীকরণ হতে প্রাপ্ত সংখ্যাযুগলের মধ্যে x = 4, y = 1 দ্বারা উভয় সমীকরণ যুগপৎ সিদ্ধ হয়। চলকের মান দ্বারা একাধিক সমীকরণ সিদ্ধ হলে, সমীকরণসমূহকে একত্রে সহসমীকরণ বলা হয় এবং চলক একঘাত বিশিষ্ট হলে সহসমীকরণকে সরল সহসমীকরণ বলে।
+English Translation: x + y = 5 is an equation. Here, x and y are two unknown quantities or variables. These variables are of the first degree. Such an equation is a simple equation. Here, the equation will be satisfied by any pair of numbers whose sum is 5. For example, x = 4, y = 1; or x = 3, y = 2; or x = 2, y = 3; or x = 1, y = 4, etc. There are infinitely many such pairs of numbers that satisfy the equation. Again, if we consider the equation x - y = 3, we see that the equation is satisfied by x = 4, y = 1 or x = 5, y = 2 or x = 6, y = 3 or x = 7, y = 4 or x = 8, y = 5 or x = 2, y = -1 or x = 1, y = -2, x = 0, y = -3... etc. There are infinitely many such pairs of numbers that satisfy the equation. Here, if we consider the two equations x + y = 5 and x - y = 3 together, we find that the pair x = 4, y = 1 satisfies both equations simultaneously. If multiple equations are satisfied by the values of the variables, the equations are called simultaneous equations. If the variables are of the first degree, the simultaneous equations are called simple simultaneous equations.
+Mathematical Notation:
+Equation 1: x + y = 5
+Equation 2: x - y = 3
+Visual Support: N/A
+Real-World Connection:  Simultaneous equations can represent relationships between different quantities in a problem, and finding the solution means finding the values that satisfy all the relationships at the same time.
+
+PROBLEM-SOLVING FRAMEWORK
+N/A
+
+VISUAL ELEMENT
+N/A
+
+EXERCISE SET
+N/A
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সরল সহসমীকরণ
+- English Translation: Simple Simultaneous Equations
+- Usage Context: Used to describe a set of two or more linear equations with the same variables.
+- Common Misconceptions: Students may confuse simultaneous equations with single equations or may not understand that the solution must satisfy all equations simultaneously.
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol (usually a letter) that represents an unknown quantity.
+- Common Misconceptions: Students may confuse variables with constants or may not understand that a variable can take on different values.
+Mathematical Terms:
+- Bengali Term: সিদ্ধ হওয়া
+- English Translation: Satisfied
+- Usage Context: An equation is satisfied when the values of the variables make the equation true.
+- Common Misconceptions: Students may not understand that a solution must satisfy all equations in a system of simultaneous equations.
+Mathematical Terms:
+- Bengali Term: যুগপৎ
+- English Translation: Simultaneously
+- Usage Context: Occurring at the same time. In the context of equations, it means that the solution must satisfy all equations at the same time.
+- Common Misconceptions: Students may not understand that a solution must satisfy all equations in a system of simultaneous equations.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 6
+Page Number: 98
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, solving linear equations with one variable
+Learning Objectives: Solve simultaneous linear equations with two variables using the substitution method.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Definition of the solution of simultaneous equations.
+Bengali Explanation: চলকদ্বয়ের যে মান দ্বারা সহসমীকরণ যুগপৎ সিদ্ধ হয়, এদেরকে সহসমীকরণের মূল বা সমাধান বলা হয়।
+English Translation: The values of the variables that satisfy the simultaneous equations together are called the roots or solutions of the simultaneous equations.
+Mathematical Notation:  If we have equations like x+y=5 and x-y=3, the solution is the pair of values (x,y) that satisfy both equations.
+Visual Support: None in this section.
+Real-World Connection: Simultaneous equations can be used to model real-world problems involving multiple unknowns.
+
+CONCEPT PRESENTATION:
+Core Concept: Introduction to solving simultaneous equations using the substitution method.
+Bengali Explanation: দুই চলকবিশিষ্ট দুইটি সরল সমীকরণের সমাধানের পদ্ধতিগুলোর মধ্যে নিচের পদ্ধতি দুইটি আলোচনা করা হলো: (১) প্রতিস্থাপন পদ্ধতি (Method of Substitution) (২) অপনয়ন পদ্ধতি (Method of Elimination)
+English Translation: Among the methods for solving two linear equations with two variables, the following two methods are discussed: (1) Method of Substitution (2) Method of Elimination
+Mathematical Notation: None in this section.
+Visual Support: None in this section.
+Real-World Connection: None in this section.
+
+CONCEPT PRESENTATION:
+Core Concept: Steps for solving simultaneous equations using the substitution method.
+Bengali Explanation: এই পদ্ধতিতে আমরা নিচের ধাপগুলো অনুসরণ করে সমাধান করতে পারি: (ক) যেকোনো সমীকরণ থেকে চলক দুইটির একটির মান অপরটির মাধ্যমে প্রকাশ করা। (খ) অপর সমীকরণে প্রাপ্ত চলকের মানটি স্থাপন করে এক চলকবিশিষ্ট সমীকরণ সমাধান করা। (গ) নির্ণীত সমাধান প্রদত্ত সমীকরণ দুইটির যেকোনো একটিতে বসিয়ে অপর চলকের মান নির্ণয় করা।
+English Translation: In this method, we can solve by following the steps below: (a) Express the value of one of the two variables in terms of the other from any equation. (b) Substitute the value of the variable obtained in the other equation and solve the resulting equation with one variable. (c) Substitute the obtained solution in any of the given equations to find the value of the other variable.
+Mathematical Notation: None in this section.
+Visual Support: None in this section.
+Real-World Connection: None in this section.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ১। সমাধান কর: x+y=7, x-y=3
+- English Translation: Example 1. Solve: x+y=7, x-y=3
+- Given Information: Two equations: x+y=7 and x-y=3
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Substitution method.
+   - Strategy planning: Express x in terms of y from the second equation, substitute it into the first equation, solve for y, and then find x.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Given equations:
+       x + y = 7  ...(1)
+       x - y = 3  ...(2)
+     - From equation (2), we get: x = y + 3 ...(3)
+     - Substituting the value of x from equation (3) into equation (1):
+       y + 3 + y = 7
+     - Simplifying:
+       2y = 7 - 3
+       2y = 4
+       y = 2
+     - Substituting y = 2 in equation (3):
+       x = 2 + 3
+       x = 5
+   - Mathematical reasoning: Each step is based on algebraic manipulation and substitution.
+   - Common mistake warnings: Be careful with signs when rearranging equations.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations.
+   - Alternative approaches: Elimination method could also be used.
+   - Units and precision: No units involved, the solution is precise.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Basic
+Problem Type: Computational
+Skills Tested: Solving simultaneous equations using substitution.
+Solution Framework: Follow the steps of the substitution method as shown in the example.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সহসমীকরণ
+- English Translation: Simultaneous Equations
+- Usage Context: A set of equations with multiple variables that need to be solved together.
+- Common Misconceptions: Confusing with independent equations.
+
+Mathematical Terms:
+- Bengali Term: প্রতিস্থাপন পদ্ধতি
+- English Translation: Substitution Method
+- Usage Context: A method to solve simultaneous equations by expressing one variable in terms of another.
+- Common Misconceptions: Forgetting to substitute back to find the other variable.
+
+Mathematical Terms:
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The values of the variables that satisfy all equations in a system.
+- Common Misconceptions: Thinking a single value is a solution for multiple variables.
+
+
+PAGE IDENTIFIER
+Chapter: বীজগণিত / Algebra
+Chapter Number: Not specified in the image
+Page Number: 99
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebraic equations, substitution method
+Learning Objectives: Solve simultaneous linear equations using substitution method
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the substitution method.
+Bengali Explanation: দুইটি চলক বিশিষ্ট দুইটি সরল সমীকরণ থেকে একটি চলকের মান অন্য চলকের মাধ্যমে প্রকাশ করে, সেই মান অন্য সমীকরণে বসিয়ে একটি চলকের মান বের করা এবং সেই মান ব্যবহার করে অন্য চলকের মান বের করা।
+English Translation: Solving two linear equations with two variables by expressing one variable in terms of the other, substituting this expression into the other equation to find the value of one variable, and then using this value to find the value of the other variable.
+Mathematical Notation: Given equations: a1x + b1y = c1 and a2x + b2y = c2. Solve for x and y.
+Visual Support: None in this page.
+Real-World Connection: This method is used in various fields like physics, economics, and engineering to solve problems involving multiple variables.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ২। সমাধান কর: x+2y=9, 2x - y = 3
+- English Translation: Example 2. Solve: x+2y=9, 2x - y = 3
+- Given Information: Two equations: x+2y=9 and 2x - y = 3
+- Unknown Elements: Values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Substitution method.
+   - Strategy planning: Express one variable in terms of the other from one equation and substitute it into the other equation.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - From equation (2), express y in terms of x: y = 2x - 3 (Equation 3)
+     - Substitute the value of y from equation (3) into equation (1): x + 2(2x - 3) = 9
+     - Simplify and solve for x: x + 4x - 6 = 9 => 5x = 15 => x = 3
+     - Substitute the value of x = 3 into equation (3) to find y: y = 2 * 3 - 3 = 6 - 3 = 3
+   - Mathematical reasoning: Substitution method is used to reduce the number of variables in an equation.
+   - Common mistake warnings: Be careful with signs when substituting and simplifying.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations.
+   - Alternative approaches: Elimination method could also be used.
+   - Units and precision: No units involved in this problem.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৩। সমাধান কর: 2y+5z = 16, y-2z = -1
+- English Translation: Example 3. Solve: 2y+5z = 16, y-2z = -1
+- Given Information: Two equations: 2y+5z = 16 and y-2z = -1
+- Unknown Elements: Values of y and z that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Substitution method.
+   - Strategy planning: Express one variable in terms of the other from one equation and substitute it into the other equation.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - From equation (2), express y in terms of z: y = 2z - 1 (Equation 3)
+   - Mathematical reasoning: Substitution method is used to reduce the number of variables in an equation.
+   - Common mistake warnings: Be careful with signs when substituting and simplifying.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of y and z back into the original equations.
+   - Alternative approaches: Elimination method could also be used.
+   - Units and precision: No units involved in this problem.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving simultaneous linear equations using substitution.
+Solution Framework: Follow the steps of the solved examples.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The values of the variables that satisfy an equation or a system of equations.
+- Common Misconceptions: Thinking there is only one solution for all equations.
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+- Bengali Term: প্রতিস্থাপন
+- English Translation: Substitution
+- Usage Context: Replacing a variable with its equivalent expression.
+- Common Misconceptions: Incorrectly substituting values.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: Not explicitly stated in the image, assumed to be part of a chapter on simultaneous equations.
+Page Number: 100
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebraic manipulation, solving linear equations, substitution method.
+Learning Objectives: Solve simultaneous linear equations using substitution, understand the concept of variables and their values.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the substitution method.
+Bengali Explanation: সমীকরণ (1) এ y এর মান বসিয়ে পাই, ... এখন z এর মান সমীকরণ (3) এ বসিয়ে পাই, ... নির্ণেয় সমাধান (y, z) = (3, 2)
+English Translation: Substituting the value of y in equation (1), ... Now, substituting the value of z in equation (3), ... The required solution is (y, z) = (3, 2)
+Mathematical Notation:  The equations are presented in standard algebraic notation.
+Visual Support: None in this section.
+Real-World Connection: Simultaneous equations are used to model relationships between multiple variables in various real-world scenarios.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৪। সমাধান কর: 2/x + 1/y = 1, 4/x - 9/y = -1
+- English Translation: Example 4. Solve: 2/x + 1/y = 1, 4/x - 9/y = -1
+- Given Information: Two equations: 2/x + 1/y = 1 and 4/x - 9/y = -1
+- Unknown Elements: The values of x and y.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations with two unknowns (x and y).
+   - Relevant formula selection: Substitution method for solving simultaneous equations.
+   - Strategy planning: Introduce new variables u = 1/x and v = 1/y to simplify the equations, solve for u and v, then find x and y.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Let 1/x = u and 1/y = v.
+     2. The equations become: 2u + v = 1 (Equation 3) and 4u - 9v = -1 (Equation 4).
+     3. From equation (3), express v in terms of u: v = 1 - 2u (Equation 5).
+     4. Substitute the value of v from equation (5) into equation (4): 4u - 9(1 - 2u) = -1.
+     5. Simplify and solve for u: 4u - 9 + 18u = -1 => 22u = 8 => u = 8/22 = 4/11.
+     6. Substitute the value of u back into equation (5) to find v: v = 1 - 2(4/11) = 1 - 8/11 = 3/11.
+     7. Since u = 1/x, then x = 1/u = 11/4.
+     8. Since v = 1/y, then y = 1/v = 11/3.
+   - Mathematical reasoning: Substitution is used to eliminate one variable and solve for the other.
+   - Common mistake warnings: Be careful with signs when substituting and simplifying.
+   - Visual aids used: None in this example.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations to verify the solution.
+   - Alternative approaches: Elimination method could also be used to solve this system of equations.
+   - Units and precision: The values of x and y are fractions.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: Not applicable
+Key Components: Not applicable
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving simultaneous equations using substitution, algebraic manipulation.
+Solution Framework: Use the substitution method, simplify equations, and solve for the unknowns.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The values of the variables that satisfy the equation(s).
+- Common Misconceptions: Thinking there is always a unique solution.
+- Bengali Term: প্রতিস্থাপন
+- English Translation: Substitution
+- Usage Context: Replacing a variable with its equivalent expression.
+- Common Misconceptions: Incorrectly substituting values.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: Not specified in the text
+Page Number: 101
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, solving linear equations, substitution method
+Learning Objectives: Understand and apply the elimination method for solving simultaneous linear equations.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Elimination Method for Solving Simultaneous Equations
+Bengali Explanation: (২) অপনয়ন পদ্ধতি। এই পদ্ধতিতে নিচের ধাপগুলো অনুসরণ করে সমাধান করা যায়: (ক) প্রদত্ত উভয় সমীকরণকে এমন দুইটি সংখ্যা বা রাশি দ্বারা পৃথকভাবে গুণ করতে হবে যেন যেকোনো একটি চলকের সহগের সাংখ্যিক মান সমান হয়। (খ) একটি চলকের সহগ একই চিহ্ন বিশিষ্ট হলে সমীকরণ পরস্পর বিয়োগ, অন্যথায় যোগ করতে হবে। বিয়োগফলকৃত (বা যোগফলকৃত) সমীকরণটি একটি এক চলকবিশিষ্ট সরল সমীকরণ হবে। (গ) সরল সমীকরণ সমাধানের নিয়মে চলকটির মান নির্ণয় করা। (ঘ) প্রাপ্ত চলকের মান প্রদত্ত যেকোনো একটি সমীকরণে বসিয়ে অপর চলকের মান নির্ণয় করা।
+English Translation: (2) Elimination Method. In this method, the following steps are followed to solve: (a) Multiply both equations by two numbers or expressions separately so that the numerical coefficients of one of the variables become equal. (b) If the coefficients of a variable have the same sign, subtract the equations from each other; otherwise, add them. The resulting equation will be a simple equation with one variable. (c) Find the value of the variable using the rules for solving simple equations. (d) Substitute the value of the obtained variable into any of the given equations to find the value of the other variable.
+Mathematical Notation:  General form of simultaneous equations: a1x + b1y = c1, a2x + b2y = c2. Elimination involves manipulating these equations to eliminate one variable.
+Visual Support: None in this section.
+Real-World Connection: Solving systems of equations is used in various fields like physics, economics, and engineering to model and solve problems with multiple unknowns.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৫। সমাধান কর: 5x-4y = 6, x + 2y = 4
+- English Translation: Example 5. Solve: 5x - 4y = 6, x + 2y = 4
+- Given Information: Two equations: 5x - 4y = 6 and x + 2y = 4
+- Unknown Elements: Values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Multiply equations to make the coefficients of 'y' equal, then add the equations to eliminate 'y'.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Given equations:
+       5x - 4y = 6  ...(1)
+       x + 2y = 4   ...(2)
+     - Multiply equation (2) by 2:
+       2 * (x + 2y) = 2 * 4
+       2x + 4y = 8  ...(4)
+     - Equation (1) remains unchanged:
+       5x - 4y = 6  ...(3)
+     - Add equation (3) and (4):
+       (5x - 4y) + (2x + 4y) = 6 + 8
+       7x = 14
+     - Solve for x:
+       x = 14 / 7
+       x = 2
+   - Mathematical reasoning: Multiplying equation (2) by 2 makes the coefficients of 'y' opposites, allowing for elimination through addition.
+   - Common mistake warnings: Ensure correct multiplication and addition/subtraction of equations.
+   - Visual aids used: None in this example.
+
+3. Answer Verification
+   - Method of checking: Substitute the value of x back into either of the original equations to find y.
+   - Alternative approaches: Could also eliminate 'x' by multiplying equation (2) by 5 and then subtracting.
+   - Units and precision: No units involved in this problem.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: N/A
+Key Components: N/A
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Applying the elimination method to solve simultaneous equations.
+Solution Framework: Follow the steps of the elimination method: multiply equations to match coefficients, add or subtract to eliminate a variable, solve for the remaining variable, and substitute back to find the other variable.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: অপনয়ন পদ্ধতি
+- English Translation: Elimination Method
+- Usage Context: A method for solving simultaneous equations by eliminating one variable.
+- Common Misconceptions: Confusing when to add or subtract equations, incorrect multiplication of equations.
+- Bengali Term: সহগ
+- English Translation: Coefficient
+- Usage Context: The numerical factor of a term in an algebraic expression.
+- Common Misconceptions: Confusing coefficients with variables.
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: Not explicitly stated in the image, but implied to be part of a chapter on simultaneous equations.
+Page Number: 102
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebraic operations, solving linear equations with one variable.
+Learning Objectives: Students will learn to solve a system of two linear equations with two variables using the elimination method.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the elimination method.
+Bengali Explanation: দুইটি চলকবিশিষ্ট দুইটি সরল সমীকরণকে সমাধান করার জন্য অপনয়ন পদ্ধতি ব্যবহার করা।
+English Translation: Solving a system of two linear equations with two variables using the elimination method.
+Mathematical Notation:  The general form of a system of two linear equations is:
+a₁x + b₁y = c₁
+a₂x + b₂y = c₂
+Visual Support: None in this specific page, but the concept is explained through worked examples.
+Real-World Connection: Simultaneous equations are used to model and solve problems involving multiple unknowns in various fields like physics, economics, and engineering.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৬। সমাধান কর: x + 4y = 14, 7x - 3y = 5
+- English Translation: Example 6. Solve: x + 4y = 14, 7x - 3y = 5
+- Given Information: Two linear equations: x + 4y = 14 and 7x - 3y = 5
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations with two unknowns (x and y).
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Multiply equations by suitable constants to make the coefficients of one variable equal, then add or subtract the equations to eliminate that variable.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Equation (1): x + 4y = 14
+     - Equation (2): 7x - 3y = 5
+     - Multiply equation (1) by 3: 3x + 12y = 42 (Equation 3)
+     - Multiply equation (2) by 4: 28x - 12y = 20 (Equation 4)
+     - Add equation (3) and (4): 31x = 62
+     - Solve for x: x = 62/31 = 2
+     - Substitute x = 2 in equation (1): 2 + 4y = 14
+     - Solve for y: 4y = 12, y = 12/4 = 3
+   - Mathematical reasoning: The multiplication step ensures that the coefficients of 'y' become opposites, allowing for elimination when the equations are added.
+   - Common mistake warnings: Ensure correct multiplication and addition/subtraction of equations.
+   - Visual aids used: None in this specific example.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into both original equations to verify they hold true.
+   - Alternative approaches: Substitution method could also be used, but the elimination method is demonstrated here.
+   - Units and precision: No units are involved in this problem.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version:  (3) ও (4) সমীকরণ যোগ করে পাই, 7x=14,  সমীকরণ (2) এx এর মান বসিয়ে পাই, 2+2y = 4
+- English Translation: Adding equations (3) and (4), we get 7x=14. Substituting the value of x in equation (2), we get 2+2y = 4
+- Given Information:  7x=14 and 2+2y = 4
+- Unknown Elements: The values of x and y.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations with one unknown each.
+   - Relevant formula selection: Basic algebraic operations.
+   - Strategy planning: Solve for x in the first equation and then solve for y in the second equation.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - 7x = 14
+     - x = 14/7 = 2
+     - 2 + 2y = 4
+     - 2y = 4 - 2
+     - 2y = 2
+     - y = 2/2 = 1
+   - Mathematical reasoning: Basic algebraic operations to isolate the variables.
+   - Common mistake warnings: Ensure correct arithmetic operations.
+   - Visual aids used: None in this specific example.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations to verify they hold true.
+   - Alternative approaches: None needed for this simple example.
+   - Units and precision: No units are involved in this problem.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: N/A
+Key Components: N/A
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving simultaneous linear equations using the elimination method.
+Solution Framework: Follow the steps demonstrated in the example, multiplying equations by suitable constants to eliminate one variable.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The values of the variables that satisfy an equation or a system of equations.
+- Common Misconceptions: Thinking a solution is just one number, not a set of values.
+
+- Bengali Term: অপনয়ন
+- English Translation: Elimination
+- Usage Context: A method for solving simultaneous equations by eliminating one variable.
+- Common Misconceptions: Confusing elimination with other methods like substitution.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: Not specified in the image
+Page Number: 103
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, solving linear equations
+Learning Objectives: Solve simultaneous linear equations using elimination method.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the elimination method.
+Bengali Explanation: দুইটি সরল সমীকরণ থেকে চলকের মান বের করার জন্য একটি পদ্ধতি যেখানে একটি চলককে অপনয়ন করা হয়।
+English Translation: A method to find the values of variables from two linear equations by eliminating one of the variables.
+Mathematical Notation:  The general form of a linear equation is ax + by = c. The elimination method involves manipulating the equations to make the coefficients of one variable equal, then adding or subtracting the equations to eliminate that variable.
+Visual Support: None in this page.
+Real-World Connection: Solving systems of equations is used in various fields like physics, economics, and engineering to model and solve problems involving multiple variables.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৭। সমাধান কর: 5x-3y = 9, 3x-5y = -1
+- English Translation: Example 7. Solve: 5x-3y = 9, 3x-5y = -1
+- Given Information: Two linear equations: 5x - 3y = 9 and 3x - 5y = -1
+- Unknown Elements: Values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Multiply equations by suitable constants to make the coefficients of 'y' equal, then subtract the equations to eliminate 'y' and solve for 'x'. Substitute the value of 'x' in one of the original equations to find 'y'.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Multiply equation (1) by 5: 25x - 15y = 45 (Equation 3)
+     - Multiply equation (2) by 3: 9x - 15y = -3 (Equation 4)
+     - Subtract equation (4) from equation (3): (25x - 15y) - (9x - 15y) = 45 - (-3)
+     - Simplify: 16x = 48
+     - Solve for x: x = 48/16 = 3
+     - Substitute x = 3 in equation (1): 5(3) - 3y = 9
+     - Simplify: 15 - 3y = 9
+     - Solve for y: -3y = 9 - 15 => -3y = -6 => y = -6/-3 = 2
+   - Mathematical reasoning: The coefficients of 'y' were made equal to eliminate 'y' by subtraction.
+   - Common mistake warnings: Be careful with signs when subtracting equations.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Method of checking: Substitute x=3 and y=2 in both original equations.
+   - Alternative approaches: Substitution method could also be used.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৮। সমাধান কর: x/5 + 3/y = 3, x/2 - 6/y = 2
+- English Translation: Example 8. Solve: x/5 + 3/y = 3, x/2 - 6/y = 2
+- Given Information: Two linear equations: x/5 + 3/y = 3 and x/2 - 6/y = 2
+- Unknown Elements: Values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Multiply equations by suitable constants to make the coefficients of '1/y' equal, then add the equations to eliminate '1/y' and solve for 'x'. Substitute the value of 'x' in one of the original equations to find 'y'.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - The solution steps are not shown in the image.
+   - Mathematical reasoning: The coefficients of '1/y' will be made equal to eliminate '1/y' by addition.
+   - Common mistake warnings: Be careful with signs when adding equations.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Method of checking: Substitute x and y in both original equations.
+   - Alternative approaches: Substitution method could also be used.
+   - Units and precision: No units involved.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving simultaneous linear equations using elimination method.
+Solution Framework: Use the elimination method to solve for x and y.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+
+Mathematical Terms:
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The value(s) of the variable(s) that satisfy an equation or a system of equations.
+- Common Misconceptions: Thinking a solution is always a single number.
+
+Mathematical Terms:
+- Bengali Term: অপনয়ন
+- English Translation: Elimination
+- Usage Context: A method to solve simultaneous equations by removing one variable.
+- Common Misconceptions: Confusing elimination with substitution.
+
+
+PAGE IDENTIFIER
+Chapter:  [Not specified in the image]
+Chapter Number: [Not specified in the image]
+Page Number: 104
+Topic Stream: Algebra
+Prerequisite Topics: Solving linear equations, fractions, substitution method
+Learning Objectives: Solve a system of two linear equations with two variables using the elimination and substitution method.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving a system of linear equations using elimination and substitution.
+Bengali Explanation: (1) নং সমীকরণকে (2) দ্বারা গুণ করে (2) নং সমীকরণ এর সাথে যোগ করে পাই,
+English Translation: Multiplying equation (1) by 2 and adding it to equation (2), we get:
+Mathematical Notation:  The process involves manipulating equations to eliminate one variable and solve for the other.
+Visual Support: None
+Real-World Connection: This method is used in various fields to solve problems involving multiple unknowns.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: সমাধান কর: 2x/5 + 6/y = 6  এবং x/2 - 6/y = 2
+- English Translation: Solve the system of equations: 2x/5 + 6/y = 6 and x/2 - 6/y = 2
+- Given Information: Two equations with two variables, x and y.
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations with two variables.
+   - Relevant formula selection: Elimination method by adding equations after multiplying one of them by a constant.
+   - Strategy planning: Multiply the first equation by 2 and add it to the second equation to eliminate the y term.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Equation (1): 2x/5 + 6/y = 6
+     - Equation (2): x/2 - 6/y = 2
+     - Adding the equations: 2x/5 + x/2 = 6 + 2
+     - Combining fractions: (4x + 5x)/10 = 8
+     - Simplifying: 9x/10 = 8
+     - Solving for x: 9x = 80 => x = 80/9
+   - Mathematical reasoning: Adding the equations eliminates the 'y' term, allowing us to solve for 'x'.
+   - Common mistake warnings: Ensure correct fraction addition and multiplication.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the value of x back into one of the original equations to solve for y.
+   - Alternative approaches: Substitution method could also be used.
+   - Units and precision: The solution is a pair of numerical values.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: (1) নং সমীকরণে x এর মান বসিয়ে পাই,
+- English Translation: Substituting the value of x in equation (1), we get:
+- Given Information: x = 80/9 and equation (1): 2x/5 + 6/y = 6
+- Unknown Elements: The value of y.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Value of x and equation (1).
+   - Relevant formula selection: Substitution method.
+   - Strategy planning: Substitute the value of x into equation (1) and solve for y.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Substituting x = 80/9 in equation (1): 2(80/9)/5 + 6/y = 6
+     - Simplifying: 16/9 + 6/y = 3
+     - Isolating the y term: 6/y = 3 - 16/9
+     - Simplifying: 6/y = 11/9
+     - Solving for y: y = 6 * 9/11 = 54/11
+     - Simplifying: y = 27/11
+   - Mathematical reasoning: Substituting the known value of x allows us to solve for y.
+   - Common mistake warnings: Ensure correct fraction subtraction and division.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into both original equations to verify.
+   - Alternative approaches: None
+   - Units and precision: The solution is a pair of numerical values.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving systems of linear equations, fraction manipulation
+Solution Framework: Use elimination or substitution methods.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The values of variables that satisfy an equation or a system of equations.
+- Common Misconceptions: Thinking there is always a unique solution.
+- Bengali Term: যোগ
+- English Translation: Addition
+- Usage Context: Combining two or more numbers or quantities.
+- Common Misconceptions: Confusing addition with other operations.
+- Bengali Term: গুণ
+- English Translation: Multiplication
+- Usage Context: Repeated addition of a number or quantity.
+- Common Misconceptions: Confusing multiplication with other operations.
+- Bengali Term: বসিয়ে
+- English Translation: Substituting
+- Usage Context: Replacing a variable with its value.
+- Common Misconceptions: Incorrect substitution.
+
+
+PAGE IDENTIFIER
+Chapter: অনুশীলনী ৬.১ / Exercise 6.1
+Chapter Number: 6
+Page Number: 105
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebraic equations, understanding of variables, solving simple equations.
+Learning Objectives: Students will learn to solve systems of linear equations using substitution and elimination methods.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving systems of linear equations using the substitution method.
+Bengali Explanation: প্রতিস্থাপন পদ্ধতিতে দুইটি চলকবিশিষ্ট সরল সহসমীকরণ সমাধান।
+English Translation: Solving systems of linear equations with two variables using the substitution method.
+Mathematical Notation:  Given two equations, solve for one variable in terms of the other and substitute into the second equation.
+Visual Support: None in this section.
+Real-World Connection:  Used in various fields like economics, physics, and engineering to model and solve problems involving multiple variables.
+
+CONCEPT PRESENTATION:
+Core Concept: Solving systems of linear equations using the elimination method.
+Bengali Explanation: অপনয়ন পদ্ধতিতে দুইটি চলকবিশিষ্ট সরল সহসমীকরণ সমাধান।
+English Translation: Solving systems of linear equations with two variables using the elimination method.
+Mathematical Notation: Given two equations, manipulate them to eliminate one variable by adding or subtracting the equations.
+Visual Support: None in this section.
+Real-World Connection: Used in various fields like economics, physics, and engineering to model and solve problems involving multiple variables.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ১। x + y = 4, x - y = 2
+- English Translation: 1. x + y = 4, x - y = 2
+- Given Information: Two linear equations with two variables, x and y.
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations, two unknowns.
+   - Relevant formula selection: Substitution method.
+   - Strategy planning: Solve one equation for one variable, substitute into the other.
+
+2. Solution Steps
+   - From the second equation, x = y + 2.
+   - Substitute this into the first equation: (y + 2) + y = 4.
+   - Simplify: 2y + 2 = 4.
+   - Solve for y: 2y = 2, so y = 1.
+   - Substitute y = 1 back into x = y + 2: x = 1 + 2, so x = 3.
+   - Common mistake warnings: Ensure correct substitution and simplification.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Substitute x = 3 and y = 1 into both original equations.
+   - 3 + 1 = 4 (True)
+   - 3 - 1 = 2 (True)
+   - Alternative approaches: Elimination method could also be used.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ১৩। x - y = 4, x + y = 6
+- English Translation: 13. x - y = 4, x + y = 6
+- Given Information: Two linear equations with two variables, x and y.
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations, two unknowns.
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Add the two equations to eliminate y.
+
+2. Solution Steps
+   - Add the two equations: (x - y) + (x + y) = 4 + 6.
+   - Simplify: 2x = 10.
+   - Solve for x: x = 5.
+   - Substitute x = 5 into the second equation: 5 + y = 6.
+   - Solve for y: y = 1.
+   - Common mistake warnings: Ensure correct addition and substitution.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Substitute x = 5 and y = 1 into both original equations.
+   - 5 - 1 = 4 (True)
+   - 5 + 1 = 6 (True)
+   - Alternative approaches: Substitution method could also be used.
+   - Units and precision: No units involved.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: N/A
+Key Components: N/A
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Basic to Intermediate
+Problem Type: Computational
+Skills Tested: Solving linear equations using substitution and elimination.
+Solution Framework: Apply substitution or elimination method as appropriate.
+
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational
+Skills Tested: Solving linear equations with fractional coefficients using substitution and elimination.
+Solution Framework: Simplify the equations before applying substitution or elimination method.
+
+EXERCISE SET
+Difficulty Level: Advanced
+Problem Type: Computational
+Skills Tested: Solving linear equations with literal coefficients using substitution and elimination.
+Solution Framework: Apply substitution or elimination method, keeping the literal coefficients in the solution.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: প্রতিস্থাপন পদ্ধতি
+- English Translation: Substitution method
+- Usage Context: Solving systems of equations by expressing one variable in terms of another.
+- Common Misconceptions: Forgetting to substitute back to find the value of the second variable.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: অপনয়ন পদ্ধতি
+- English Translation: Elimination method
+- Usage Context: Solving systems of equations by adding or subtracting equations to eliminate one variable.
+- Common Misconceptions: Incorrectly adding or subtracting equations, not multiplying equations by a constant to match coefficients.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সহসমীকরণ
+- English Translation: System of equations
+- Usage Context: A set of two or more equations with the same variables.
+- Common Misconceptions: Treating each equation independently.
+
+
+PAGE IDENTIFIER
+Chapter: বাস্তবভিত্তিক সমস্যার সহসমীকরণ গঠন ও সমাধান / Formation and Solution of Simultaneous Equations for Real-World Problems
+Chapter Number: 6.3
+Page Number: 106
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, linear equations, variables
+Learning Objectives: Students will learn to form and solve simultaneous equations from real-world problems.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving real-world problems using simultaneous linear equations.
+Bengali Explanation: সরল সহসমীকরণের ধারণা থেকে বাস্তব জীবনের বহু সমস্যা সমাধান করা যায়। অনেক সমস্যায় একাধিক চলক আসে। প্রত্যেক চলকের জন্য আলাদা প্রতীক ব্যবহার করে সমীকরণ গঠন করা যায়। এরূপ ক্ষেত্রে যতগুলো প্রতীক ব্যবহার করা হয়, ততগুলো সমীকরণ গঠন করতে হয়। অতঃপর সমীকরণগুলো সমাধান করে চলকের মান নির্ণয় করা যায়।
+English Translation: Many real-life problems can be solved using the concept of simple simultaneous equations. Many problems involve multiple variables. Equations can be formed by using separate symbols for each variable. In such cases, the number of equations formed is equal to the number of symbols used. Then, the values of the variables can be determined by solving the equations.
+Mathematical Notation:  Systems of linear equations with two variables (e.g., x + y = 60, x - y = 20)
+Visual Support: None in this section.
+Real-World Connection:  This section introduces how to use algebra to solve practical problems involving multiple unknowns.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুইটি সংখ্যার যোগফল 60 এবং বিয়োগফল 20 হলে, সংখ্যা দুইটি নির্ণয় কর।
+- English Translation: If the sum of two numbers is 60 and their difference is 20, find the two numbers.
+- Given Information: Sum of two numbers = 60, Difference of two numbers = 20
+- Unknown Elements: The two numbers
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Sum and difference of two numbers are given.
+   - Relevant formula selection:  Formulate two linear equations based on the given information.
+   - Strategy planning: Solve the system of equations using addition and subtraction.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Let the two numbers be x and y, where x > y.
+     - Equation 1: x + y = 60
+     - Equation 2: x - y = 20
+     - Adding equations (1) and (2): 2x = 80
+     - Solving for x: x = 80/2 = 40
+     - Subtracting equation (2) from (1): 2y = 40
+     - Solving for y: y = 40/2 = 20
+   - Mathematical reasoning:  Using elimination method to solve the system of equations.
+   - Common mistake warnings:  Carefully add and subtract equations to avoid sign errors.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations.
+   - Alternative approaches:  Substitution method could also be used.
+   - Units and precision:  The numbers are integers, no units are involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ফাইয়াজ ও আয়াজের কতকগুলো আপেলকুল ছিল। ফাইয়াজের আপেলকুল থেকে আয়াজকে 10টি আপেলকুল দিলে আয়াজের আপেলকুলের সংখ্যা ফাইয়াজের আপেলকুলের সংখ্যার তিনগুণ হতো। আর আয়াজের আপেলকুল থেকে ফাইয়াজকে 20টি দিলে ফাইয়াজের আপেলকুলের সংখ্যা আয়াজের সংখ্যার দ্বিগুণ হতো। কার কতগুলো আপেলকুল ছিল?
+- English Translation: Fayaz and Ayaz had some apples. If Fayaz gave 10 apples to Ayaz, the number of apples Ayaz had would be three times the number Fayaz had. If Ayaz gave 20 apples to Fayaz, the number of apples Fayaz had would be twice the number Ayaz had. How many apples did each of them have?
+- Given Information: Two conditions relating the number of apples Fayaz and Ayaz have.
+- Unknown Elements: The number of apples Fayaz and Ayaz had initially.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two conditions are given, each involving a transfer of apples.
+   - Relevant formula selection: Formulate two linear equations based on the given conditions.
+   - Strategy planning: Solve the system of equations using substitution or elimination.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Let the number of apples Fayaz had be x and the number of apples Ayaz had be y.
+     - Condition 1: y + 10 = 3(x - 10)
+     - Simplifying: y + 10 = 3x - 30
+     - Rearranging: 3x - y = 40  (Equation 1)
+   - Mathematical reasoning:  Translating word problem into algebraic equations.
+   - Common mistake warnings:  Carefully track the transfer of apples and the resulting changes.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original conditions.
+   - Alternative approaches:  Substitution method could also be used.
+   - Units and precision:  The numbers are integers, no units are involved.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Application
+Skills Tested: Forming and solving simultaneous equations from word problems.
+Solution Framework: Translate the word problems into algebraic equations and solve them using elimination or substitution.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সহসমীকরণ
+- English Translation: Simultaneous equations
+- Usage Context: Used when solving multiple equations with multiple variables.
+- Common Misconceptions: Confusing with single variable equations.
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing with constants.
+Mathematical Terms:
+- Bengali Term: যোগফল
+- English Translation: Sum
+- Usage Context: The result of addition.
+- Common Misconceptions: Confusing with difference.
+Mathematical Terms:
+- Bengali Term: বিয়োগফল
+- English Translation: Difference
+- Usage Context: The result of subtraction.
+- Common Misconceptions: Confusing with sum.
+
+
+PAGE IDENTIFIER
+Chapter: বীজগণিত / Algebra
+Chapter Number: Not specified in the text
+Page Number: 107
+Topic Stream: Algebra
+Prerequisite Topics: Solving linear equations, ratio and proportion
+Learning Objectives: Solving simultaneous linear equations, applying algebra to age-related problems
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using substitution and elimination methods.
+Bengali Explanation: দুইটি চলক বিশিষ্ট দুইটি সরল সমীকরণ সমাধান করে চলকগুলোর মান নির্ণয়।
+English Translation: Solving two linear equations with two variables to find the values of the variables.
+Mathematical Notation: Systems of equations like:
+x - 2y = -60
+x - 4y = -30
+x - 2y = 10
+Visual Support: None in this specific page.
+Real-World Connection: Solving age-related problems using algebraic equations.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৩। 10 বছর পূর্বে পিতা ও পুত্রের বয়সের অনুপাত ছিল 4:1। 10 বছর পরে পিতা ও পুত্রের বয়সের অনুপাত হবে 2:1। পিতা ও পুত্রের বর্তমান বয়স নির্ণয় কর।
+- English Translation: Example 3. 10 years ago, the ratio of the ages of a father and his son was 4:1. 10 years later, the ratio of their ages will be 2:1. Find the present ages of the father and the son.
+- Given Information: Ratio of ages 10 years ago = 4:1, Ratio of ages 10 years later = 2:1
+- Unknown Elements: Present age of father (x), Present age of son (y)
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two ratios of ages at different times.
+   - Relevant formula selection: Setting up equations based on the given ratios.
+   - Strategy planning: Form two equations and solve them simultaneously.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Let the present age of the father be x years and the present age of the son be y years.
+     - 10 years ago, the ages were (x-10) and (y-10). The ratio is (x-10)/(y-10) = 4/1. This simplifies to x - 4y = -30 (Equation 1).
+     - 10 years later, the ages will be (x+10) and (y+10). The ratio is (x+10)/(y+10) = 2/1. This simplifies to x - 2y = 10 (Equation 2).
+     - Subtracting equation 2 from equation 1: (x - 4y) - (x - 2y) = -30 - 10, which gives -2y = -40, so y = 20.
+     - Substitute y=20 in equation 2: x - 2(20) = 10, which gives x = 50.
+   - Mathematical reasoning: Using the given ratios to form linear equations and solving them.
+   - Common mistake warnings: Careful with signs when simplifying equations.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original ratio equations.
+   - Alternative approaches: Could use substitution method instead of elimination.
+   - Units and precision: Ages are in years.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version:  ফাইয়াজের আপেলকুলের সংখ্যা 28 টি এবং আয়াজের আপেলকুলের সংখ্যা 44 টি।
+- English Translation: Faiyaz has 28 apples and Ayaz has 44 apples.
+- Given Information: Faiyaz has 28 apples, Ayaz has 44 apples.
+- Unknown Elements: None, this is a statement of fact, not a problem to solve.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Number of apples each person has.
+   - Relevant formula selection: None.
+   - Strategy planning: None.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - The text states that Faiyaz has 28 apples and Ayaz has 44 apples.
+   - Mathematical reasoning: None.
+   - Common mistake warnings: None.
+   - Visual aids used: None.
+
+3. Answer Verification
+   - Method of checking: None.
+   - Alternative approaches: None.
+   - Units and precision: Apples are counted as whole numbers.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Application
+Skills Tested: Setting up and solving simultaneous linear equations.
+Solution Framework: Translate the word problem into algebraic equations and solve them.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing variables with constants.
+Mathematical Terms:
+- Bengali Term: অনুপাত
+- English Translation: Ratio
+- Usage Context: A comparison of two quantities.
+- Common Misconceptions: Confusing ratio with fraction.
+Mathematical Terms:
+- Bengali Term: সমাধান
+- English Translation: Solution
+- Usage Context: The value(s) that satisfy an equation or system of equations.
+- Common Misconceptions: Thinking there is always only one solution.
+Mathematical Terms:
+- Bengali Term: বিয়োগ
+- English Translation: Subtraction
+- Usage Context: An arithmetic operation that finds the difference between two numbers.
+- Common Misconceptions: Confusing subtraction with addition.
+Mathematical Terms:
+- Bengali Term: গুণ
+- English Translation: Multiplication
+- Usage Context: An arithmetic operation that combines two numbers to find their product.
+- Common Misconceptions: Confusing multiplication with addition.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: Not specified in the image
+Page Number: 108
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, solving linear equations, understanding place value
+Learning Objectives: Solving simultaneous linear equations using elimination method, forming equations from word problems
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the elimination method.
+Bengali Explanation: সমীকরণ (1) ও (2) হতে পাই, x-4y = -30, x-2y = 10. বিয়োগ করে -2y = -40, y = 20. y এর মান সমীকরণ (2) এ বসিয়ে পাই, x-2x20=10, x=50.
+English Translation: From equations (1) and (2), we have x-4y = -30 and x-2y = 10. Subtracting the second equation from the first, we get -2y = -40, which gives y = 20. Substituting the value of y in equation (2), we get x-2*20=10, which gives x=50.
+Mathematical Notation:
+```
+x - 4y = -30
+x - 2y = 10
+-2y = -40
+y = 20
+x - 2(20) = 10
+x = 50
+```
+Visual Support: None
+Real-World Connection: This method is used to solve problems involving two or more unknowns, such as age problems.
+
+CONCEPT PRESENTATION:
+Core Concept: Forming and solving simultaneous equations from a word problem involving a two-digit number.
+Bengali Explanation: উদাহরণ ৪। দুই অঙ্কবিশিষ্ট কোনো সংখ্যার অঙ্কদ্বয়ের সমষ্টির সাথে 7 যোগ করলে যোগফল দশক স্থানীয় অঙ্কটির তিনগুণ হয়। কিন্তু সংখ্যাটি থেকে 18 বাদ দিলে অঙ্কদ্বয় স্থান পরিবর্তন করে। সংখ্যাটি নির্ণয় কর। সমাধান: মনে করি, দুই অঙ্কবিশিষ্ট সংখ্যাটির একক স্থানীয় অঙ্ক x এবং দশক স্থানীয় অঙ্ক y। সংখ্যাটি = x+10y. ১ম শর্তানুসারে, x + y +7 = 3y, বা, x-2y = -7. ২য় শর্তানুসারে, x+10y-18=y+10x, বা, y-x=2. (1) ও (2) নং যোগ করে পাই, -y = -5, y=5. y-এর মান (1) নং-এ বসিয়ে পাই, x=3. নির্ণেয় সংখ্যাটি = 3+10×5=53.
+English Translation: Example 4: If 7 is added to the sum of the digits of a two-digit number, the result is three times the digit in the tens place. If 18 is subtracted from the number, the digits interchange their places. Find the number. Solution: Let the digit in the units place be x and the digit in the tens place be y. The number is x+10y. According to the first condition, x + y +7 = 3y, which simplifies to x-2y = -7. According to the second condition, x+10y-18=y+10x, which simplifies to y-x=2. Adding equations (1) and (2), we get -y=-5, so y=5. Substituting y=5 in equation (1), we get x=3. The required number is 3+10*5=53.
+Mathematical Notation:
+```
+Number = x + 10y
+x + y + 7 = 3y
+x - 2y = -7  (1)
+x + 10y - 18 = y + 10x
+9y - 9x = 18
+y - x = 2 (2)
+-y = -5
+y = 5
+x - 2(5) = -7
+x = 3
+Number = 3 + 10(5) = 53
+```
+Visual Support: None
+Real-World Connection: This type of problem helps in understanding the place value system and how to represent numbers algebraically.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: বর্তমানে পিতার বয়স 50 বছর এবং পুত্রের বয়স 20 বছর।
+- English Translation: Currently, the father's age is 50 years and the son's age is 20 years.
+- Given Information: Father's current age = 50, Son's current age = 20
+- Unknown Elements: None (This is a statement, not a problem to solve)
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Father's age and son's age are given.
+   - Relevant formula selection: Not applicable
+   - Strategy planning: Not applicable
+
+2. Solution Steps
+   - Step-by-step breakdown: Not applicable
+   - Mathematical reasoning: Not applicable
+   - Common mistake warnings: Not applicable
+   - Visual aids used: Not applicable
+
+3. Answer Verification
+   - Method of checking: Not applicable
+   - Alternative approaches: Not applicable
+   - Units and precision: Not applicable
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৪। দুই অঙ্কবিশিষ্ট কোনো সংখ্যার অঙ্কদ্বয়ের সমষ্টির সাথে 7 যোগ করলে যোগফল দশক স্থানীয় অঙ্কটির তিনগুণ হয়। কিন্তু সংখ্যাটি থেকে 18 বাদ দিলে অঙ্কদ্বয় স্থান পরিবর্তন করে। সংখ্যাটি নির্ণয় কর।
+- English Translation: Example 4: If 7 is added to the sum of the digits of a two-digit number, the result is three times the digit in the tens place. If 18 is subtracted from the number, the digits interchange their places. Find the number.
+- Given Information: Two-digit number, sum of digits + 7 = 3 * tens digit, number - 18 = digits interchanged
+- Unknown Elements: The two-digit number
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two conditions are given for the two-digit number.
+   - Relevant formula selection: Representing a two-digit number as 10y + x.
+   - Strategy planning: Form two equations based on the given conditions and solve them simultaneously.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Let the unit digit be x and the tens digit be y. The number is 10y + x.
+     2. First condition: x + y + 7 = 3y, which simplifies to x - 2y = -7 (Equation 1).
+     3. Second condition: 10y + x - 18 = 10x + y, which simplifies to 9y - 9x = 18, or y - x = 2 (Equation 2).
+     4. Adding equations (1) and (2), we get -y = -5, so y = 5.
+     5. Substituting y = 5 in equation (1), we get x - 2(5) = -7, so x = 3.
+     6. The number is 10(5) + 3 = 53.
+   - Mathematical reasoning: Using the place value system and forming equations based on the given conditions.
+   - Common mistake warnings: Be careful with the signs when simplifying equations and interchanging digits.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original conditions.
+     1. 3 + 5 + 7 = 15, and 3 * 5 = 15 (First condition satisfied).
+     2. 53 - 18 = 35 (Second condition satisfied).
+   - Alternative approaches: None mentioned
+   - Units and precision: The answer is a whole number.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Application
+Skills Tested: Forming and solving simultaneous linear equations from word problems.
+Solution Framework: Represent the unknown digits with variables, form equations based on the given conditions, and solve them using the elimination or substitution method.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that asserts the equality of two expressions.
+- Common Misconceptions: Confusing equations with expressions.
+
+Mathematical Terms:
+- Bengali Term: সহসমীকরণ
+- English Translation: Simultaneous Equations
+- Usage Context: A set of equations with the same variables, for which we seek a common solution.
+- Common Misconceptions: Thinking that each equation can be solved independently.
+
+Mathematical Terms:
+- Bengali Term: একক স্থানীয় অঙ্ক
+- English Translation: Units digit
+- Usage Context: The rightmost digit in a number.
+- Common Misconceptions: Confusing it with the tens digit.
+
+Mathematical Terms:
+- Bengali Term: দশক স্থানীয় অঙ্ক
+- English Translation: Tens digit
+- Usage Context: The second digit from the right in a number.
+- Common Misconceptions: Confusing it with the units digit.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 6
+Page Number: 109
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, solving linear equations, fractions
+Learning Objectives: Solve simultaneous equations using algebraic methods, understand the concept of a solution to a system of equations, understand the graphical representation of simultaneous equations.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving a system of two linear equations with two variables using algebraic methods.
+Bengali Explanation: দুইটি চলকবিশিষ্ট দুইটি সরল সমীকরণকে সমাধান করার পদ্ধতি। এখানে একটি ভগ্নাংশের লব ও হরের মান বের করার জন্য দুইটি সমীকরণ গঠন করা হয়েছে এবং সেই সমীকরণ দুটিকে সমাধান করে চলকগুলোর মান বের করা হয়েছে।
+English Translation: The method of solving two linear equations with two variables. Here, two equations are formed to find the numerator and denominator of a fraction, and the values of the variables are found by solving these two equations.
+Mathematical Notation:  x + 7 = 2y, x - y = -2
+Visual Support: None
+Real-World Connection: This method can be used to solve problems involving relationships between two unknown quantities.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: কোনো ভগ্নাংশের লবের সাথে 7 যোগ করলে ভগ্নাংশটির মান 2 হয় এবং হর থেকে 2 বাদ দিলে ভগ্নাংশটির মান 1 হয়। ভগ্নাংশটি নির্ণয় কর।
+- English Translation: If 7 is added to the numerator of a fraction, the value of the fraction becomes 2, and if 2 is subtracted from the denominator, the value of the fraction becomes 1. Determine the fraction.
+- Given Information: Adding 7 to the numerator results in a fraction value of 2. Subtracting 2 from the denominator results in a fraction value of 1.
+- Unknown Elements: The original fraction (numerator and denominator).
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two conditions are given that relate the numerator and denominator of a fraction.
+   - Relevant formula selection: Represent the fraction as x/y. Formulate two equations based on the given conditions.
+   - Strategy planning: Solve the system of equations using the substitution or elimination method.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Let the fraction be x/y.
+     2. According to the first condition, (x+7)/y = 2, which simplifies to x + 7 = 2y, and then to x - 2y = -7 (Equation 1).
+     3. According to the second condition, x/(y-2) = 1, which simplifies to x = y - 2, and then to x - y = -2 (Equation 2).
+     4. Subtract Equation 2 from Equation 1: (x - 2y) - (x - y) = -7 - (-2), which simplifies to -y = -5.
+     5. Therefore, y = 5.
+     6. Substitute y = 5 into Equation 2: x - 5 = -2, which simplifies to x = 3.
+   - Mathematical reasoning: The elimination method is used to solve for y, and then substitution is used to solve for x.
+   - Common mistake warnings: Be careful with signs when subtracting equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations to verify.
+   - Alternative approaches: The substitution method could also be used to solve the system of equations.
+   - Units and precision: The answer is a fraction, 3/5.
+
+CONCEPT PRESENTATION:
+Core Concept: Graphical solution of simultaneous linear equations.
+Bengali Explanation: দুইটি সরল সমীকরণকে লেখচিত্রে স্থাপন করে তাদের ছেদবিন্দু নির্ণয় করার মাধ্যমে সমাধান করা। ছেদবিন্দুর স্থানাঙ্কই হবে সমীকরণদ্বয়ের সমাধান।
+English Translation: Solving two linear equations by plotting them on a graph and finding their intersection point. The coordinates of the intersection point will be the solution to the equations.
+Mathematical Notation: (x, y) represents the coordinates of the intersection point.
+Visual Support: The text mentions that plotting the equations will result in two straight lines.
+Real-World Connection: This method provides a visual representation of the solution to a system of equations.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুইটি চলকবিশিষ্ট সরল সহসমীকরণে দুইটি সরল সমীকরণ থাকে। দুইটি সরল সমীকরণের জন্য লেখ অঙ্কন করলে দুইটি সরলরেখা পাওয়া যায়। এদের ছেদবিন্দুর স্থানাঙ্ক উভয় সরলরেখায় অবস্থিত। এই ছেদবিন্দুর স্থানাঙ্ক অর্থাৎ (x, y) প্রদত্ত সরল সহসমীকরণের মূল হবে।
+- English Translation: A system of two linear equations with two variables has two linear equations. Plotting these two equations results in two straight lines. The coordinates of the intersection point lie on both lines. These coordinates (x, y) are the solution to the given system of equations.
+- Given Information: Two linear equations with two variables.
+- Unknown Elements: The solution to the system of equations (x, y).
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: The intersection point of two lines represents the solution to the system of equations.
+   - Relevant formula selection: The equations are in the form of linear equations.
+   - Strategy planning: Plot the lines on a graph and find the coordinates of the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Plot the first linear equation on a graph.
+     2. Plot the second linear equation on the same graph.
+     3. Identify the point where the two lines intersect.
+     4. The coordinates of this intersection point (x, y) are the solution to the system of equations.
+   - Mathematical reasoning: The intersection point satisfies both equations simultaneously.
+   - Common mistake warnings: Ensure accurate plotting of the lines.
+   - Visual aids used: The graph itself is the visual aid.
+
+3. Answer Verification
+   - Method of checking: Substitute the coordinates of the intersection point into both equations to verify.
+   - Alternative approaches: Algebraic methods can also be used to solve the system of equations.
+   - Units and precision: The solution is a pair of coordinates (x, y).
+
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational, Conceptual
+Skills Tested: Solving simultaneous equations, understanding the graphical representation of equations.
+Solution Framework: Use algebraic methods (substitution or elimination) or graphical methods to solve the problems.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: ভগ্নাংশ
+- English Translation: Fraction
+- Usage Context: A number representing a part of a whole.
+- Common Misconceptions: Confusing numerator and denominator.
+
+Mathematical Terms:
+- Bengali Term: লব
+- English Translation: Numerator
+- Usage Context: The top part of a fraction.
+- Common Misconceptions: Confusing with the denominator.
+
+Mathematical Terms:
+- Bengali Term: হর
+- English Translation: Denominator
+- Usage Context: The bottom part of a fraction.
+- Common Misconceptions: Confusing with the numerator.
+
+Mathematical Terms:
+- Bengali Term: সরল সহসমীকরণ
+- English Translation: Simple Simultaneous Equations
+- Usage Context: A set of two or more equations with the same variables.
+- Common Misconceptions: Confusing with single equations.
+
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown quantity.
+- Common Misconceptions: Confusing with constants.
+
+Mathematical Terms:
+- Bengali Term: ছেদবিন্দু
+- English Translation: Intersection Point
+- Usage Context: The point where two lines cross.
+- Common Misconceptions: Assuming all lines intersect.
+
+Mathematical Terms:
+- Bengali Term: ভুজ
+- English Translation: Abscissa
+- Usage Context: The x-coordinate of a point.
+- Common Misconceptions: Confusing with the ordinate.
+
+Mathematical Terms:
+- Bengali Term: কোটি
+- English Translation: Ordinate
+- Usage Context: The y-coordinate of a point.
+- Common Misconceptions: Confusing with the abscissa.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 6
+Page Number: 110
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, plotting points on a graph
+Learning Objectives: Solve simultaneous equations graphically, understand the concept of intersection point as the solution.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations graphically.
+Bengali Explanation: লেখের সাহায্যে সরল সহসমীকরণ সমাধান।
+English Translation: Solving simple simultaneous equations graphically.
+Mathematical Notation:  Two linear equations in two variables, e.g., x + y = 7 and x - y = 1.
+Visual Support: A graph showing two intersecting lines, with the intersection point marked as A.
+Real-World Connection: Finding a common solution that satisfies two conditions simultaneously.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৬। লেখের সাহায্যে সমাধান কর: x + y = 7.................(i)  x - y = 1..................(ii)
+- English Translation: Example 6. Solve graphically: x + y = 7.................(i)  x - y = 1..................(ii)
+- Given Information: Two linear equations: x + y = 7 and x - y = 1.
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection:  Rearrange each equation to express y in terms of x (y = f(x)).
+   - Strategy planning: Create tables of x and y values for each equation, plot the points on a graph, and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - From equation (i), y = 7 - x (equation iii).
+     - Create a table (Table-1) with x values (-2, -1, 0, 1, 2, 3, 4) and corresponding y values (9, 8, 7, 6, 5, 4, 3).
+     - From equation (ii), y = x - 1 (equation iv).
+     - Create a table (Table-2) with x values (-2, -1, 0, 1, 2, 3, 4) and corresponding y values (-3, -2, -1, 0, 1, 2, 3).
+     - Plot the points from Table-1 on a graph and draw a line through them.
+     - Plot the points from Table-2 on the same graph and draw a line through them.
+     - Identify the intersection point of the two lines.
+   - Mathematical reasoning: The intersection point represents the solution because it satisfies both equations.
+   - Common mistake warnings: Ensure accurate plotting of points and drawing of lines.
+   - Visual aids used: The graph with the two intersecting lines.
+
+3. Answer Verification
+   - Method of checking: Substitute the coordinates of the intersection point (x=4, y=3) into both original equations.
+   - Alternative approaches: Solving the equations algebraically (not shown in this example).
+   - Units and precision: The solution is a pair of numerical values (x, y).
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: Graph
+Purpose: To visually represent the two linear equations and find their solution.
+Key Components:
+- Labels and markers: x-axis (XOX'), y-axis (YOY'), origin (O), intersection point (A).
+- Scale information: Each small square represents one unit.
+- Critical points/features: The two lines representing the equations, the intersection point A.
+- Relationship to text: The graph visually represents the data in Table-1 and Table-2, and the solution is found at the intersection of the lines.
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Graphical solution of simultaneous equations.
+Skills Tested: Creating tables of values, plotting points, drawing lines, identifying intersection points.
+Solution Framework: Rearrange equations to y = f(x), create tables, plot lines, find intersection.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সরল সহসমীকরণ
+- English Translation: Simple Simultaneous Equations
+- Usage Context: A set of two or more equations with the same variables.
+- Common Misconceptions: Confusing with single equations or not understanding the concept of a common solution.
+- Bengali Term: লেখ
+- English Translation: Graph
+- Usage Context: A visual representation of mathematical relationships.
+- Common Misconceptions: Not understanding the relationship between points on the graph and the equation.
+- Bengali Term: ভুজ
+- English Translation: Abscissa
+- Usage Context: The x-coordinate of a point.
+- Common Misconceptions: Confusing with the y-coordinate.
+- Bengali Term: কোটি
+- English Translation: Ordinate
+- Usage Context: The y-coordinate of a point.
+- Common Misconceptions: Confusing with the x-coordinate.
+- Bengali Term: মূলবিন্দু
+- English Translation: Origin
+- Usage Context: The point (0,0) where the x and y axes intersect.
+- Common Misconceptions: Not understanding its significance as the reference point.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 7
+Page Number: 111
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, plotting points on a graph, understanding linear equations
+Learning Objectives: Solve simultaneous linear equations graphically, understand the concept of a solution as the intersection point of two lines.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations graphically.
+Bengali Explanation: দুইটি সরল সমীকরণকে লেখচিত্রের মাধ্যমে সমাধান করা।
+English Translation: Solving two linear equations simultaneously using graphs.
+Mathematical Notation:  The concept involves finding the (x, y) coordinates that satisfy both equations.
+Visual Support: The page includes a graph showing the intersection of two lines, each representing a linear equation.
+Real-World Connection: This method can be used to find solutions in various real-world scenarios where two variables are related by two equations.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: উদাহরণ ৭। লেখের সাহায্যে সমাধান কর: 3x+4y=10 এবং x - y = 1
+- English Translation: Example 7. Solve using graphs: 3x+4y=10 and x - y = 1
+- Given Information: Two linear equations: 3x + 4y = 10 and x - y = 1
+- Unknown Elements: The values of x and y that satisfy both equations.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: The concept of plotting points and drawing lines on a graph.
+   - Strategy planning: Convert each equation to y = mx + c form, find points for each line, plot the lines, and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     - Equation (i): 3x + 4y = 10 is rearranged to y = (10-3x)/4.
+     - Equation (ii): x - y = 1 is rearranged to y = x - 1.
+     - For equation (i), a table of x and y values is created:
+       | x | -2 | 0 | 2 | 4 | 6 |
+       |---|----|---|---|---|---|
+       | y | 4 | 5/2 | 1 | -1/2 | -2 |
+     - For equation (ii), a table of x and y values is created:
+       | x | -2 | 0 | 2 | 4 | 6 |
+       |---|----|---|---|---|---|
+       | y | -3 | -1 | 1 | 3 | 5 |
+     - The points from each table are plotted on a graph.
+     - Lines are drawn through the plotted points for each equation.
+     - The intersection point of the two lines is identified.
+   - Mathematical reasoning: The intersection point represents the solution because it is the only point that lies on both lines, thus satisfying both equations.
+   - Common mistake warnings: Ensure accurate plotting of points and drawing of lines.
+   - Visual aids used: The graph shows the two lines and their intersection point.
+
+3. Answer Verification
+   - Method of checking: The coordinates of the intersection point are (2, 1). Substituting x=2 and y=1 into both original equations should satisfy them.
+   - Alternative approaches: Algebraic methods (substitution or elimination) can be used to verify the solution.
+   - Units and precision: The solution is a pair of numerical values (x, y).
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: Graph
+Purpose: To visually represent the two linear equations and find their solution.
+Key Components:
+- Labels and markers: X and Y axes are labeled, and the origin is marked as 0.
+- Scale information: The grid lines represent equal units on both axes.
+- Critical points/features: The intersection point of the two lines is the solution.
+- Relationship to text: The graph visually represents the equations and the solution derived in the text.
+
+PRACTICE PROBLEMS EXTRACTION
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Graphical solution of simultaneous equations
+Skills Tested: Ability to rearrange equations, create tables of values, plot points, draw lines, and identify intersection points.
+Solution Framework: Follow the steps outlined in the example: rearrange equations, create tables, plot points, draw lines, and find the intersection.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সরল সহসমীকরণ
+- English Translation: Simple Simultaneous Equations
+- Usage Context: Used to describe a set of two or more equations with the same variables.
+- Common Misconceptions: Students may confuse the concept of a solution with any point on either line, not just the intersection.
+- Bengali Term: লেখচিত্র
+- English Translation: Graph
+- Usage Context: A visual representation of mathematical relationships.
+- Common Misconceptions: Students may struggle with accurately plotting points or drawing lines.
+- Bengali Term: ভুজ
+- English Translation: Abscissa
+- Usage Context: The x-coordinate of a point.
+- Common Misconceptions: Students may confuse abscissa with ordinate.
+- Bengali Term: কোটি
+- English Translation: Ordinate
+- Usage Context: The y-coordinate of a point.
+- Common Misconceptions: Students may confuse ordinate with abscissa.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Simple Simultaneous Equations
+Chapter Number: 6
+Page Number: 112
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, linear equations, coordinate geometry
+Learning Objectives: Solve simultaneous linear equations, identify equations of straight lines, understand coordinate geometry concepts
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations and identifying linear equations.
+Bengali Explanation: দুইটি সরল সমীকরণ থেকে চলকগুলোর মান নির্ণয় এবং সরল রেখার সমীকরণ চিহ্নিতকরণ।
+English Translation: Determining the values of variables from two linear equations and identifying equations of straight lines.
+Mathematical Notation:  ax + by = c,  x = k, y = k
+Visual Support: None on this page.
+Real-World Connection: Used in various fields like physics, economics, and engineering to model relationships between variables.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ১। x + y = 5, x-y = 3 হলে (x, y) এর মান নিচের কোনটি?
+- English Translation: 1. If x + y = 5 and x - y = 3, then what is the value of (x, y)?
+- Given Information: x + y = 5, x - y = 3
+- Unknown Elements: Values of x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination or substitution method.
+   - Strategy planning: Solve the equations simultaneously to find x and y.
+
+2. Solution Steps
+   - Adding the two equations: (x + y) + (x - y) = 5 + 3 => 2x = 8 => x = 4
+   - Substituting x = 4 in x + y = 5: 4 + y = 5 => y = 1
+   - Solution: (x, y) = (4, 1)
+   - Common mistake warnings: Incorrectly adding or subtracting equations.
+
+3. Answer Verification
+   - Substituting x=4 and y=1 in both equations: 4+1=5 and 4-1=3. Both are correct.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ২। নিচের কোনটি সরল রেখার সমীকরণ নির্দেশ করে না?
+- English Translation: 2. Which of the following does not represent an equation of a straight line?
+- Given Information: Four equations: 3x - 3y = 0, x + y = 5, x = 1/y, 4x + 5y = 9
+- Unknown Elements: Identify the equation that is not linear.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Linear equations are of the form ax + by = c.
+   - Relevant formula selection: Definition of a linear equation.
+   - Strategy planning: Check each equation against the definition.
+
+2. Solution Steps
+   - 3x - 3y = 0 is linear.
+   - x + y = 5 is linear.
+   - x = 1/y is not linear because it can be written as xy = 1, which is not in the form ax + by = c.
+   - 4x + 5y = 9 is linear.
+   - Solution: x = 1/y is not a linear equation.
+   - Common mistake warnings: Confusing linear and non-linear equations.
+
+3. Answer Verification
+   - Linear equations have variables with power 1.
+   - Alternative approaches: Graphing the equations can also help.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৩। x - 2y = 8 ও 3x - 2y = 4 সমীকরণ জোটের x এর মান কত?
+- English Translation: 3. What is the value of x in the system of equations x - 2y = 8 and 3x - 2y = 4?
+- Given Information: x - 2y = 8, 3x - 2y = 4
+- Unknown Elements: Value of x
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination method.
+   - Strategy planning: Eliminate y to find x.
+
+2. Solution Steps
+   - Subtracting the first equation from the second: (3x - 2y) - (x - 2y) = 4 - 8 => 2x = -4 => x = -2
+   - Solution: x = -2
+   - Common mistake warnings: Incorrectly subtracting equations.
+
+3. Answer Verification
+   - Substituting x=-2 in both equations and solving for y.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৪। 4x + 5y = 9 সমীকরণটিতে কয়টি চলক আছে?
+- English Translation: 4. How many variables are there in the equation 4x + 5y = 9?
+- Given Information: 4x + 5y = 9
+- Unknown Elements: Number of variables
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Variables are the letters representing unknown values.
+   - Relevant formula selection: Definition of a variable.
+   - Strategy planning: Count the distinct letters representing unknowns.
+
+2. Solution Steps
+   - The variables are x and y.
+   - Solution: There are 2 variables.
+   - Common mistake warnings: Confusing coefficients with variables.
+
+3. Answer Verification
+   - Variables are the letters representing unknown values.
+   - Alternative approaches: None needed.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৫। মূল বিন্দুর স্থানাংক কোনটি?
+- English Translation: 5. What are the coordinates of the origin?
+- Given Information: None
+- Unknown Elements: Coordinates of the origin
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: The origin is the point where the x and y axes intersect.
+   - Relevant formula selection: Definition of the origin in coordinate geometry.
+   - Strategy planning: Recall the coordinates of the origin.
+
+2. Solution Steps
+   - The origin is at (0, 0).
+   - Solution: (0, 0)
+   - Common mistake warnings: Confusing the origin with other points.
+
+3. Answer Verification
+   - The origin is the point where the x and y axes intersect.
+   - Alternative approaches: None needed.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৬। (-3,-5) বিন্দুটি কোন চতুর্ভাগে অবস্থিত?
+- English Translation: 6. In which quadrant does the point (-3, -5) lie?
+- Given Information: Point (-3, -5)
+- Unknown Elements: Quadrant of the point
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Quadrants are defined by the signs of x and y coordinates.
+   - Relevant formula selection: Quadrant rules.
+   - Strategy planning: Determine the signs of x and y.
+
+2. Solution Steps
+   - x is negative and y is negative.
+   - Solution: The point is in the third quadrant.
+   - Common mistake warnings: Confusing the quadrants.
+
+3. Answer Verification
+   - Quadrant rules: (+,+), (-,+), (-,-), (+,-) for quadrants I, II, III, IV respectively.
+   - Alternative approaches: Visualizing the coordinate plane.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৭। x + 2y =30 সমীকরণের লেখচিত্রের উপর অবস্থিত বিন্দু
+i. (10, 10)
+ii. (0, 15)
+iii.(10, 20)
+নিচের কোনটি সঠিক?
+- English Translation: 7. Which of the following points lie on the graph of the equation x + 2y = 30?
+i. (10, 10)
+ii. (0, 15)
+iii.(10, 20)
+Which of the following is correct?
+- Given Information: Equation x + 2y = 30 and three points.
+- Unknown Elements: Which points satisfy the equation.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: A point lies on the graph if its coordinates satisfy the equation.
+   - Relevant formula selection: Substituting coordinates into the equation.
+   - Strategy planning: Substitute each point into the equation.
+
+2. Solution Steps
+   - For (10, 10): 10 + 2(10) = 30, which is correct.
+   - For (0, 15): 0 + 2(15) = 30, which is correct.
+   - For (10, 20): 10 + 2(20) = 50, which is incorrect.
+   - Solution: i and ii are correct.
+   - Common mistake warnings: Incorrect substitution.
+
+3. Answer Verification
+   - Substitute the coordinates into the equation.
+   - Alternative approaches: Graphing the equation.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: • নিচের অনুচ্ছেদটি লক্ষ করে ৮ ও ৯ নং প্রশ্নের উত্তর দাও:
+xও y সংখ্যা দুইটির বিয়োগফলের অর্ধেক 4। বড় সংখ্যাটির সাথে ছোট সংখ্যাটির তিনগুণ যোগ
+করলে যোগফল 20 হয়। যেখানে x >y!
+৮। প্রথম শর্ত কোনটি?
+- English Translation: • Observe the following paragraph and answer questions 8 and 9:
+Half of the difference between two numbers x and y is 4. Adding three times the smaller number to the larger number gives a sum of 20. Where x > y!
+8. What is the first condition?
+- Given Information: x and y are two numbers, x > y.
+- Unknown Elements: The equation representing the first condition.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Translate the word problem into an equation.
+   - Relevant formula selection: Translating words into mathematical expressions.
+   - Strategy planning: Identify the key phrases and their mathematical equivalents.
+
+2. Solution Steps
+   - "Difference between x and y" is x - y.
+   - "Half of the difference" is (x - y)/2.
+   - "Half of the difference is 4" is (x - y)/2 = 4, which simplifies to x - y = 8.
+   - Solution: x - y = 8
+   - Common mistake warnings: Incorrectly translating the word problem.
+
+3. Answer Verification
+   - Check the translation against the original statement.
+   - Alternative approaches: None needed.
+   - Units and precision: No units involved.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ৯। (x, y) এর মান নিচের কোনটি?
+- English Translation: 9. What is the value of (x, y)?
+- Given Information: x - y = 8 and x + 3y = 20
+- Unknown Elements: Values of x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations with two variables.
+   - Relevant formula selection: Elimination or substitution method.
+   - Strategy planning: Solve the equations simultaneously to find x and y.
+
+2. Solution Steps
+   - From x - y = 8, we get x = y + 8.
+   - Substituting in x + 3y = 20: (y + 8) + 3y = 20 => 4y = 12 => y = 3
+   - Substituting y = 3 in x = y + 8: x = 3 + 8 => x = 11
+   - Solution: (x, y) = (11, 3)
+   - Common mistake warnings: Incorrectly substituting or solving equations.
+
+3. Answer Verification
+   - Substituting x=11 and y=3 in both equations: 11-3=8 and 11+3(3)=20. Both are correct.
+   - Alternative approaches: Elimination method can also be used.
+   - Units and precision: No units involved.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+EXERCISE SET
+Difficulty Level: Basic to Intermediate
+Problem Type: Computational, Conceptual
+Skills Tested: Solving simultaneous equations, identifying linear equations, coordinate geometry
+Solution Framework: Use elimination or substitution for simultaneous equations, apply the definition of linear equations, use quadrant rules for coordinate geometry.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: সরল রেখার সমীকরণ
+- English Translation: Equation of a straight line
+- Usage Context: Represents a linear relationship between variables.
+- Common Misconceptions: Confusing with non-linear equations.
+
+Mathematical Terms:
+- Bengali Term: চলক
+- English Translation: Variable
+- Usage Context: A symbol representing an unknown value.
+- Common Misconceptions: Confusing with coefficients.
+
+Mathematical Terms:
+- Bengali Term: মূল বিন্দু
+- English Translation: Origin
+- Usage Context: The point (0, 0) in coordinate geometry.
+- Common Misconceptions: Confusing with other points.
+
+Mathematical Terms:
+- Bengali Term: চতুর্ভাগ
+- English Translation: Quadrant
+- Usage Context: One of the four regions of the coordinate plane.
+- Common Misconceptions: Confusing the order of quadrants.
+
+Mathematical Terms:
+- Bengali Term: সহসমীকরণ
+- English Translation: Simultaneous equations
+- Usage Context: A set of equations with the same variables.
+- Common Misconceptions: Solving equations individually instead of simultaneously.
+
+
+PAGE IDENTIFIER
+Chapter: গাণিতিক সমস্যা / Mathematical Problems
+Chapter Number: Not specified
+Page Number: 113
+Topic Stream: Algebra
+Prerequisite Topics: Basic arithmetic, solving simple equations
+Learning Objectives: Students will be able to solve word problems involving linear equations, fractions, and ratios. They will also learn to solve systems of linear equations using algebraic and graphical methods.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Solving word problems using linear equations.
+Bengali Explanation: এখানে বিভিন্ন গাণিতিক সমস্যা দেওয়া আছে যেখানে যোগ, বিয়োগ, গুণ, ভাগ এবং ভগ্নাংশ ব্যবহার করে সমাধান করতে হবে।
+English Translation: This section presents various mathematical problems that require solving using addition, subtraction, multiplication, division, and fractions.
+Mathematical Notation:  x + y = a, x - y = b, ax + by = c
+Visual Support: None
+Real-World Connection: These problems are designed to represent real-life situations where mathematical concepts are applied.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুইটি সংখ্যার যোগফল 100 এবং বিয়োগফল 20 হলে, সংখ্যা দুইটি নির্ণয় কর।
+- English Translation: The sum of two numbers is 100 and their difference is 20. Find the two numbers.
+- Given Information: Sum of two numbers = 100, Difference of two numbers = 20
+- Unknown Elements: The two numbers
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Sum and difference of two numbers are given.
+   - Relevant formula selection: Let the two numbers be x and y. Then, x + y = 100 and x - y = 20.
+   - Strategy planning: Solve the system of equations using elimination or substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Add the two equations: (x + y) + (x - y) = 100 + 20 => 2x = 120
+     2. Solve for x: x = 120 / 2 = 60
+     3. Substitute x in the first equation: 60 + y = 100 => y = 100 - 60 = 40
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct addition and subtraction of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The numbers are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুইটি সংখ্যার যোগফল 160 এবং একটি অপরটির তিনগুণ হলে, সংখ্যা দুইটি নির্ণয় কর।
+- English Translation: The sum of two numbers is 160 and one number is three times the other. Find the two numbers.
+- Given Information: Sum of two numbers = 160, One number is three times the other.
+- Unknown Elements: The two numbers
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Sum of two numbers and the relationship between them are given.
+   - Relevant formula selection: Let the two numbers be x and y. Then, x + y = 160 and x = 3y.
+   - Strategy planning: Solve the system of equations using substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Substitute x = 3y in the first equation: 3y + y = 160 => 4y = 160
+     2. Solve for y: y = 160 / 4 = 40
+     3. Substitute y in x = 3y: x = 3 * 40 = 120
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct substitution.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Elimination method can also be used.
+   - Units and precision: The numbers are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুইটি সংখ্যার প্রথমটির তিনগুণের সাথে দ্বিতীয়টির দুইগুণ যোগ করলে 59 হয়। আবার, প্রথমটির দুইগুণ থেকে দ্বিতীয়টি বিয়োগ করলে 9 হয়। সংখ্যাদ্বয় নির্ণয় কর।
+- English Translation: If we add three times the first number to twice the second number, we get 59. Also, if we subtract the second number from twice the first number, we get 9. Find the two numbers.
+- Given Information: 3x + 2y = 59, 2x - y = 9
+- Unknown Elements: The two numbers
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations are given based on the relationship between two numbers.
+   - Relevant formula selection: 3x + 2y = 59 and 2x - y = 9
+   - Strategy planning: Solve the system of equations using elimination or substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Multiply the second equation by 2: 4x - 2y = 18
+     2. Add the modified second equation to the first equation: (3x + 2y) + (4x - 2y) = 59 + 18 => 7x = 77
+     3. Solve for x: x = 77 / 7 = 11
+     4. Substitute x in the second equation: 2 * 11 - y = 9 => 22 - y = 9 => y = 22 - 9 = 13
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct multiplication and addition of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The numbers are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: ১ বছর পূর্বে পিতা ও পুত্রের বয়সের অনুপাত ছিল 3: 1 এবং 15 বছর পর পিতা-পুত্রের বয়সের অনুপাত হবে 2: 1। পিতা ও পুত্রের বর্তমান বয়স নির্ণয় কর।
+- English Translation: One year ago, the ratio of the ages of a father and his son was 3:1. After 15 years, the ratio of their ages will be 2:1. Find the present ages of the father and the son.
+- Given Information: Ratio of ages 1 year ago = 3:1, Ratio of ages after 15 years = 2:1
+- Unknown Elements: Present ages of father and son
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Ratios of ages at different times are given.
+   - Relevant formula selection: Let the present ages of father and son be f and s respectively. Then, (f-1)/(s-1) = 3/1 and (f+15)/(s+15) = 2/1
+   - Strategy planning: Form two equations and solve them.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. From the first ratio: f - 1 = 3(s - 1) => f - 1 = 3s - 3 => f = 3s - 2
+     2. From the second ratio: f + 15 = 2(s + 15) => f + 15 = 2s + 30 => f = 2s + 15
+     3. Equate the two expressions for f: 3s - 2 = 2s + 15 => s = 17
+     4. Substitute s in f = 3s - 2: f = 3 * 17 - 2 = 51 - 2 = 49
+   - Mathematical reasoning: Using the properties of ratios and linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct formation of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of f and s in both ratio equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The ages are in years.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: কোনো ভগ্নাংশের লবের সাথে ১ যোগ করলে এর মান 2 হয়। আবার, হর থেকে 1 বিয়োগ করলে এর মান 1 হয়। ভগ্নাংশটি নির্ণয় কর।
+- English Translation: If 1 is added to the numerator of a fraction, the value becomes 2. If 1 is subtracted from the denominator, the value becomes 1. Find the fraction.
+- Given Information: (x+1)/y = 2, x/(y-1) = 1
+- Unknown Elements: The fraction x/y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations are given based on the changes in the numerator and denominator.
+   - Relevant formula selection: (x+1)/y = 2 and x/(y-1) = 1
+   - Strategy planning: Solve the system of equations using substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. From the first equation: x + 1 = 2y => x = 2y - 1
+     2. From the second equation: x = y - 1
+     3. Equate the two expressions for x: 2y - 1 = y - 1 => y = 0
+     4. Substitute y in x = y - 1: x = 0 - 1 = -1
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct formation of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Elimination method can also be used.
+   - Units and precision: The fraction is -1/0, which is undefined.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: কোনো প্রকৃত ভগ্নাংশের লব ও হরের যোগফল 14 এবং বিয়োগফল ৪ হলে, ভগ্নাংশটি নির্ণয় কর।
+- English Translation: The sum of the numerator and denominator of a proper fraction is 14, and their difference is 4. Find the fraction.
+- Given Information: x + y = 14, x - y = 4
+- Unknown Elements: The fraction x/y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Sum and difference of numerator and denominator are given.
+   - Relevant formula selection: x + y = 14 and x - y = 4
+   - Strategy planning: Solve the system of equations using elimination.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Add the two equations: (x + y) + (x - y) = 14 + 4 => 2x = 18
+     2. Solve for x: x = 18 / 2 = 9
+     3. Substitute x in the first equation: 9 + y = 14 => y = 14 - 9 = 5
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct addition of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The fraction is 9/5.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: দুই অঙ্কবিশিষ্ট কোনো সংখ্যার অঙ্কদ্বয়ের যোগফল 10 এবং বিয়োগফল 4 হলে, সংখ্যাটি নির্ণয় কর।
+- English Translation: The sum of the digits of a two-digit number is 10, and their difference is 4. Find the number.
+- Given Information: x + y = 10, x - y = 4
+- Unknown Elements: The two-digit number
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Sum and difference of digits are given.
+   - Relevant formula selection: x + y = 10 and x - y = 4
+   - Strategy planning: Solve the system of equations using elimination.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Add the two equations: (x + y) + (x - y) = 10 + 4 => 2x = 14
+     2. Solve for x: x = 14 / 2 = 7
+     3. Substitute x in the first equation: 7 + y = 10 => y = 10 - 7 = 3
+     4. The number is 10x + y = 10*7 + 3 = 73
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct addition of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The number is an integer.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য প্রস্থ অপেক্ষা 25 মিটার বেশি। আয়তাকার ক্ষেত্রটির পরিসীমা 150 মিটার হলে, ক্ষেত্রটির দৈর্ঘ্য ও প্রস্থ নির্ণয় কর।
+- English Translation: The length of a rectangular field is 25 meters more than its width. If the perimeter of the field is 150 meters, find the length and width of the field.
+- Given Information: l = w + 25, 2(l + w) = 150
+- Unknown Elements: Length and width of the rectangle
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Relationship between length and width and the perimeter are given.
+   - Relevant formula selection: l = w + 25 and 2(l + w) = 150
+   - Strategy planning: Solve the system of equations using substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Substitute l = w + 25 in the second equation: 2(w + 25 + w) = 150 => 2(2w + 25) = 150 => 4w + 50 = 150
+     2. Solve for w: 4w = 100 => w = 25
+     3. Substitute w in l = w + 25: l = 25 + 25 = 50
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct substitution.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of l and w in both equations.
+   - Alternative approaches: Elimination method can also be used.
+   - Units and precision: The length and width are in meters.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: একজন বালক দোকান থেকে 15টি খাতা ও 10টি পেন্সিল 300 টাকা দিয়ে ক্রয় করলো। আবার অন্য একজন বালক একই দোকান থেকে একই ধরনের 10টি খাতা ও 15টি পেন্সিল 250 টাকায় ক্রয় করলো। প্রতিটি খাতা ও পেন্সিলের মূল্য নির্ণয় কর।
+- English Translation: A boy bought 15 notebooks and 10 pencils for 300 taka. Another boy bought 10 notebooks and 15 pencils of the same kind for 250 taka. Find the price of each notebook and pencil.
+- Given Information: 15x + 10y = 300, 10x + 15y = 250
+- Unknown Elements: Price of each notebook and pencil
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations are given based on the cost of notebooks and pencils.
+   - Relevant formula selection: 15x + 10y = 300 and 10x + 15y = 250
+   - Strategy planning: Solve the system of equations using elimination.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Multiply the first equation by 2: 30x + 20y = 600
+     2. Multiply the second equation by 3: 30x + 45y = 750
+     3. Subtract the first modified equation from the second: 25y = 150
+     4. Solve for y: y = 150 / 25 = 6
+     5. Substitute y in the first equation: 15x + 10 * 6 = 300 => 15x + 60 = 300 => 15x = 240 => x = 16
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct multiplication and subtraction of equations.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The prices are in taka.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: একজন লোকের নিকট 5000 টাকা আছে। তিনি উক্ত টাকা দুই জনের মধ্যে এমনভাবে ভাগ করে দিলেন, যেন, প্রথম জনের টাকা দ্বিতীয় জনের 4 গুণ হয়। প্রত্যেকের টাকার পরিমাণ নির্ণয় কর।
+- English Translation: A person has 5000 taka. He divides the money between two people such that the first person gets 4 times the amount of the second person. Find the amount each person receives.
+- Given Information: x + y = 5000, x = 4y
+- Unknown Elements: Amount each person receives
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Total amount and the relationship between the amounts are given.
+   - Relevant formula selection: x + y = 5000 and x = 4y
+   - Strategy planning: Solve the system of equations using substitution.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Substitute x = 4y in the first equation: 4y + y = 5000 => 5y = 5000
+     2. Solve for y: y = 5000 / 5 = 1000
+     3. Substitute y in x = 4y: x = 4 * 1000 = 4000
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct substitution.
+   - Visual aids used: None
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Elimination method can also be used.
+   - Units and precision: The amounts are in taka.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: x+y = 6, x-y=2
+- English Translation: Solve using graphs: x+y = 6, x-y=2
+- Given Information: x+y = 6, x-y=2
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: x+y = 6 and x-y=2
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For x+y=6: (0,6) and (6,0)
+        - For x-y=2: (0,-2) and (2,0)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: x + 4y = 11, 4x - y = 10
+- English Translation: Solve using graphs: x + 4y = 11, 4x - y = 10
+- Given Information: x + 4y = 11, 4x - y = 10
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: x + 4y = 11 and 4x - y = 10
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For x + 4y = 11: (11,0) and (3,2)
+        - For 4x - y = 10: (0,-10) and (3,2)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: 3x + 2y = 21, 2x - 3y = 1
+- English Translation: Solve using graphs: 3x + 2y = 21, 2x - 3y = 1
+- Given Information: 3x + 2y = 21, 2x - 3y = 1
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: 3x + 2y = 21 and 2x - 3y = 1
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For 3x + 2y = 21: (7,0) and (1,9)
+        - For 2x - 3y = 1: (2,-1) and (5,3)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: x + 2y = 1, x - y = 7
+- English Translation: Solve using graphs: x + 2y = 1, x - y = 7
+- Given Information: x + 2y = 1, x - y = 7
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: x + 2y = 1 and x - y = 7
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For x + 2y = 1: (1,0) and (-1,1)
+        - For x - y = 7: (7,0) and (0,-7)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: x - y = 0, x + 2y = -15
+- English Translation: Solve using graphs: x - y = 0, x + 2y = -15
+- Given Information: x - y = 0, x + 2y = -15
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: x - y = 0 and x + 2y = -15
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For x - y = 0: (0,0) and (1,1)
+        - For x + 2y = -15: (-15,0) and (-1,-7)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: লেখের সাহায্যে সমাধান কর: 4x + 3y = 11, 3x - 4y = 2
+- English Translation: Solve using graphs: 4x + 3y = 11, 3x - 4y = 2
+- Given Information: 4x + 3y = 11, 3x - 4y = 2
+- Unknown Elements: x and y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two linear equations are given.
+   - Relevant formula selection: 4x + 3y = 11 and 3x - 4y = 2
+   - Strategy planning: Plot the lines on a graph and find the intersection point.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     1. Find two points for each line:
+        - For 4x + 3y = 11: (2,1) and (5,-3)
+        - For 3x - 4y = 2: (2,1) and (6,4)
+     2. Plot the points and draw the lines.
+     3. Find the intersection point.
+   - Mathematical reasoning: The intersection point represents the solution to the system of equations.
+   - Common mistake warnings: Ensure accurate plotting of points and lines.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Solve algebraically.
+   - Units and precision: The values are integers.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: কোনো ভগ্নাংশের লবের সাথে 11 যোগ করলে ভগ্নাংশটির মান 2 হয়। আবার হর হতে 2 বিয়োগ করলে ভগ্নাংশটির মান 1 হয়। ক) ভগ্নাংশটি x/y ধরে সমীকরণ জোট গঠন কর। খ) সমীকরণ জোটটি অপনয়ন পদ্ধতিতে সমাধান করে (x, y) নির্ণয় কর। গ) সমীকরণ জোটটির লেখ অঙ্কন করে ছেদ বিন্দুর ভুজ ও কোটি নির্ণয় কর।
+- English Translation: If 11 is added to the numerator of a fraction, the value becomes 2. If 2 is subtracted from the denominator, the value becomes 1. a) Form a system of equations by considering the fraction as x/y. b) Solve the system of equations using the elimination method and find (x, y). c) Draw the graph of the system of equations and find the abscissa and ordinate of the intersection point.
+- Given Information: (x+11)/y = 2, x/(y-2) = 1
+- Unknown Elements: The fraction x/y
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations are given based on the changes in the numerator and denominator.
+   - Relevant formula selection: (x+11)/y = 2 and x/(y-2) = 1
+   - Strategy planning: Form equations, solve using elimination, and then graph.
+
+2. Solution Steps
+   - Step-by-step breakdown:
+     a) Equations: x + 11 = 2y => x - 2y = -11 and x = y - 2 => x - y = -2
+     b) Elimination: Subtract the second equation from the first: -y = -9 => y = 9. Substitute y in the second equation: x - 9 = -2 => x = 7.
+     c) Graph: Plot the lines x - 2y = -11 and x - y = -2. Find the intersection point (7,9).
+   - Mathematical reasoning: Using the properties of linear equations to solve for the unknowns.
+   - Common mistake warnings: Ensure correct formation of equations and accurate plotting.
+   - Visual aids used: Graph
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y in both equations.
+   - Alternative approaches: Substitution method can also be used.
+   - Units and precision: The fraction is 7/9.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None
+Purpose: None
+Key Components: None
+
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational, Conceptual, Application
+Skills Tested: Solving linear equations, word problem translation, graphical representation
+Solution Framework: Formulate equations based on the given information, solve using algebraic methods (elimination, substitution), and represent graphically.
+
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: যোগফল
+- English Translation: Sum
+- Usage Context: The result of addition.
+- Common Misconceptions: Confusing with product.
+
+- Bengali Term: বিয়োগফল
+- English Translation: Difference
+- Usage Context: The result of subtraction.
+- Common Misconceptions: Confusing with quotient.
+
+- Bengali Term: ভগ্নাংশ
+- English Translation: Fraction
+- Usage Context: A part of a whole.
+- Common Misconceptions: Confusing with integers.
+
+- Bengali Term: লব
+- English Translation: Numerator
+- Usage Context: The top part of a fraction.
+- Common Misconceptions: Confusing with denominator.
+
+- Bengali Term: হর
+- English Translation: Denominator
+- Usage Context: The bottom part of a fraction.
+- Common Misconceptions: Confusing with numerator.
+
+- Bengali Term: অনুপাত
+- English Translation: Ratio
+- Usage Context: Comparison of two quantities.
+- Common Misconceptions: Confusing with fraction.
+
+- Bengali Term: পরিসীমা
+- English Translation: Perimeter
+- Usage Context: The total length of the boundary of a shape.
+- Common Misconceptions: Confusing with area.
+
+- Bengali Term: ভুজ
+- English Translation: Abscissa
+- Usage Context: The x-coordinate of a point.
+- Common Misconceptions: Confusing with ordinate.
+
+- Bengali Term: কোটি
+- English Translation: Ordinate
+- Usage Context: The y-coordinate of a point.
+- Common Misconceptions: Confusing with abscissa.
+
+
+PAGE IDENTIFIER
+Chapter: সরল সহসমীকরণ / Linear Simultaneous Equations
+Chapter Number: Not explicitly stated in the image, but implied to be within the chapter on linear equations.
+Page Number: 114
+Topic Stream: Algebra
+Prerequisite Topics: Basic algebra, understanding of variables, linear equations, perimeter of a rectangle.
+Learning Objectives: Students will learn to form linear equations from word problems, solve simultaneous equations using elimination and substitution methods, and solve simultaneous equations graphically.
+
+MATHEMATICAL CONTENT CATEGORIZATION
+CONCEPT PRESENTATION:
+Core Concept: Forming linear equations from word problems involving the dimensions of a rectangle.
+Bengali Explanation: একটি আয়তাকার বাগানের দৈর্ঘ্য প্রস্থের দ্বিগুণ অপেক্ষা 5 মিটার বেশি এবং বাগানটির পরিসীমা 40 মিটার। দৈর্ঘ্য x মিটার ও প্রস্থ y মিটার হলে উপরের তথ্যের আলোকে দুইটি সমীকরণ গঠন কর।
+English Translation: The length of a rectangular garden is 5 meters more than twice its width, and the perimeter of the garden is 40 meters. If the length is x meters and the width is y meters, form two equations based on the given information.
+Mathematical Notation:
+- Length = x
+- Width = y
+- x = 2y + 5
+- 2(x + y) = 40
+Visual Support: None in the provided text, but a diagram of a rectangle with labeled sides would be helpful.
+Real-World Connection: This problem relates to real-world scenarios involving measurements and relationships between dimensions of rectangular objects.
+
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the elimination method.
+Bengali Explanation: অপনয়ন পদ্ধতিতে সমীকরণ জোটের সমাধান কর।
+English Translation: Solve the system of equations using the elimination method.
+Mathematical Notation: Not explicitly given in this section, but refers to solving the equations formed in the previous section.
+Visual Support: None in the provided text.
+Real-World Connection: This is a fundamental algebraic technique used in various fields.
+
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations graphically.
+Bengali Explanation: লেখচিত্রের সাহায্যে সমীকরণ জোটের সমাধান কর।
+English Translation: Solve the system of equations graphically.
+Mathematical Notation: Not explicitly given in this section, but refers to solving the equations formed in the previous section.
+Visual Support: None in the provided text, but would involve plotting the two equations on a graph and finding the intersection point.
+Real-World Connection: Graphical solutions provide a visual representation of the solution to a system of equations.
+
+CONCEPT PRESENTATION:
+Core Concept: Verifying if a point satisfies a linear equation.
+Bengali Explanation: (4,-1) বিন্দুটি কোন সমীকরণকে সিদ্ধ করে তা নির্ণয় কর।
+English Translation: Determine which of the given equations is satisfied by the point (4, -1).
+Mathematical Notation: Refers to the equations 7x - 3y = 31 and 9x - 5y = 41.
+Visual Support: None in the provided text.
+Real-World Connection: This is a basic check to see if a given point is a solution to an equation.
+
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations using the substitution method.
+Bengali Explanation: প্রতিস্থাপন পদ্ধতিতে সমাধান কর।
+English Translation: Solve the system of equations using the substitution method.
+Mathematical Notation: Refers to solving the equations 7x - 3y = 31 and 9x - 5y = 41.
+Visual Support: None in the provided text.
+Real-World Connection: This is another fundamental algebraic technique used in various fields.
+
+CONCEPT PRESENTATION:
+Core Concept: Solving simultaneous linear equations graphically.
+Bengali Explanation: লেখচিত্রের সাহায্যে সমাধান কর।
+English Translation: Solve the system of equations graphically.
+Mathematical Notation: Refers to solving the equations 7x - 3y = 31 and 9x - 5y = 41.
+Visual Support: None in the provided text, but would involve plotting the two equations on a graph and finding the intersection point.
+Real-World Connection: Graphical solutions provide a visual representation of the solution to a system of equations.
+
+PROBLEM-SOLVING FRAMEWORK
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: একটি আয়তাকার বাগানের দৈর্ঘ্য প্রস্থের দ্বিগুণ অপেক্ষা 5 মিটার বেশি এবং বাগানটির পরিসীমা 40 মিটার। দৈর্ঘ্য x মিটার ও প্রস্থ y মিটার হলে উপরের তথ্যের আলোকে দুইটি সমীকরণ গঠন কর।
+- English Translation: The length of a rectangular garden is 5 meters more than twice its width, and the perimeter of the garden is 40 meters. If the length is x meters and the width is y meters, form two equations based on the given information.
+- Given Information: Length = x, Width = y, Perimeter = 40, Length = 2 * Width + 5
+- Unknown Elements: Two linear equations in terms of x and y.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Length is x, width is y, perimeter is 40, length is 5 more than twice the width.
+   - Relevant formula selection: Perimeter of a rectangle = 2(length + width)
+   - Strategy planning: Translate the word problem into two equations.
+
+2. Solution Steps
+   - Equation 1: x = 2y + 5 (Length is 5 more than twice the width)
+   - Equation 2: 2(x + y) = 40 (Perimeter is 40)
+   - Simplify Equation 2: x + y = 20
+   - Common mistake warnings: Confusing length and width, incorrect perimeter formula.
+   - Visual aids used: None in the provided text, but a diagram would be helpful.
+
+3. Answer Verification
+   - Method of checking: Substitute the values of x and y back into the original equations.
+   - Alternative approaches: None mentioned in the text.
+   - Units and precision: Meters.
+
+EXAMPLE STRUCTURE
+Problem Statement:
+- Bengali Version: 7x-3y = 31 ও 9x – 5y = 41 দুইটি সরল সমীকরণ। (4,-1) বিন্দুটি কোন সমীকরণকে সিদ্ধ করে তা নির্ণয় কর।
+- English Translation: 7x - 3y = 31 and 9x - 5y = 41 are two linear equations. Determine which of the given equations is satisfied by the point (4, -1).
+- Given Information: Two equations: 7x - 3y = 31 and 9x - 5y = 41, and a point (4, -1).
+- Unknown Elements: Which equation is satisfied by the given point.
+
+Solution Path:
+1. Understanding Phase
+   - Key information identification: Two equations and a point (4, -1).
+   - Relevant formula selection: Substitute the x and y values into each equation.
+   - Strategy planning: Substitute x=4 and y=-1 into each equation and check if the equality holds.
+
+2. Solution Steps
+   - For 7x - 3y = 31: 7(4) - 3(-1) = 28 + 3 = 31. The equation is satisfied.
+   - For 9x - 5y = 41: 9(4) - 5(-1) = 36 + 5 = 41. The equation is satisfied.
+   - Common mistake warnings: Incorrect substitution, arithmetic errors.
+   - Visual aids used: None in the provided text.
+
+3. Answer Verification
+   - Method of checking: Double-check the arithmetic.
+   - Alternative approaches: None mentioned in the text.
+   - Units and precision: None applicable.
+
+DIAGRAM AND VISUAL ELEMENT PROCESSING
+VISUAL ELEMENT
+Type: None in the provided text.
+Purpose: None in the provided text.
+Key Components: None in the provided text.
+- Labels and markers: None in the provided text.
+- Scale information: None in the provided text.
+- Critical points/features: None in the provided text.
+- Relationship to text: None in the provided text.
+
+EXERCISE SET
+EXERCISE SET
+Difficulty Level: Intermediate
+Problem Type: Computational, Conceptual, Application
+Skills Tested: Forming equations, solving simultaneous equations using elimination, substitution, and graphical methods.
+Solution Framework:
+- For forming equations: Translate the word problem into mathematical expressions.
+- For elimination: Manipulate equations to eliminate one variable.
+- For substitution: Solve one equation for one variable and substitute into the other.
+- For graphical: Plot the equations and find the intersection point.
+
+MATHEMATICAL LANGUAGE PROCESSING
+TERMINOLOGY SECTION
+Mathematical Terms:
+- Bengali Term: দৈর্ঘ্য
+- English Translation: Length
+- Usage Context: Used to describe the longer side of a rectangle.
+- Common Misconceptions: Confusing with width.
+
+Mathematical Terms:
+- Bengali Term: প্রস্থ
+- English Translation: Width
+- Usage Context: Used to describe the shorter side of a rectangle.
+- Common Misconceptions: Confusing with length.
+
+Mathematical Terms:
+- Bengali Term: পরিসীমা
+- English Translation: Perimeter
+- Usage Context: The total distance around a shape.
+- Common Misconceptions: Confusing with area.
+
+Mathematical Terms:
+- Bengali Term: সমীকরণ
+- English Translation: Equation
+- Usage Context: A mathematical statement that two expressions are equal.
+- Common Misconceptions: Confusing with expression.
+
+Mathematical Terms:
+- Bengali Term: অপনয়ন পদ্ধতি
+- English Translation: Elimination method
+- Usage Context: A method to solve simultaneous equations by eliminating one variable.
+- Common Misconceptions: Confusing with substitution method.
+
+Mathematical Terms:
+- Bengali Term: প্রতিস্থাপন পদ্ধতি
+- English Translation: Substitution method
+- Usage Context: A method to solve simultaneous equations by substituting one variable in terms of the other.
+- Common Misconceptions: Confusing with elimination method.
+
+Mathematical Terms:
+- Bengali Term: লেখচিত্র
+- English Translation: Graph
+- Usage Context: A visual representation of mathematical relationships.
+- Common Misconceptions: Misinterpreting the axes or the intersection point.
+
+Mathematical Terms:
+- Bengali Term: সিদ্ধ করা
+- English Translation: Satisfy
+- Usage Context: When a value or point makes an equation true.
+- Common Misconceptions: Not understanding the concept of a solution.
+
+

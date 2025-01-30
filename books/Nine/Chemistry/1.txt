@@ -1,0 +1,733 @@
+CHAPTER METADATA
+Chapter Title: রসায়নের ধারণা / The Concepts of Chemistry
+Chapter Number: 1
+Page Number: 1
+Main Topics: Introduction to Chemistry, Relevance of Chemistry
+
+TEXT CONTENT
+
+তোমরা যারা নবম শ্রেণির বিজ্ঞান বিভাগের ছাত্র তারা রসায়ন বইটি হাতে পেয়েছো। বইটি হাতে পেয়ে কিছু প্রশ্ন তোমাদের মনের মধ্যে ঘুরপাক খাচ্ছে-রসায়ন বিষয়টি কী? কেনই-বা আমরা রসায়ন পড়ব? অর্থাৎ রসায়ন আমাদের কী কাজে লাগে? রসায়নের সাথে বিজ্ঞানের অন্যান্য শাখার কি কোনো সম্পর্ক আছে? এসব বিষয়ের উত্তর এ অধ্যায়টি পড়লে জানতে পারবে।
+
+Bengali Text: তোমরা যারা নবম শ্রেণির বিজ্ঞান বিভাগের ছাত্র তারা রসায়ন বইটি হাতে পেয়েছো। বইটি হাতে পেয়ে কিছু প্রশ্ন তোমাদের মনের মধ্যে ঘুরপাক খাচ্ছে-রসায়ন বিষয়টি কী? কেনই-বা আমরা রসায়ন পড়ব? অর্থাৎ রসায়ন আমাদের কী কাজে লাগে? রসায়নের সাথে বিজ্ঞানের অন্যান্য শাখার কি কোনো সম্পর্ক আছে? এসব বিষয়ের উত্তর এ অধ্যায়টি পড়লে জানতে পারবে।
+English Translation: You, the students of the science division of class nine, have received the chemistry book. Having received the book, some questions are swirling in your minds - what is the subject of chemistry? Why should we study chemistry? That is, what does chemistry do for us? Is there any connection between chemistry and other branches of science? You will be able to know the answers to these questions by reading this chapter.
+
+DIAGRAM TITLE
+Laboratory Apparatus
+Description: A collection of various glass laboratory apparatus, including beakers, conical flasks, and measuring cylinders filled with liquids of different colors (blue, orange, and green), are set against a dark background. The beakers appear to have graduated markings for volume.
+Components: Beakers, conical flasks, measuring cylinders, colored liquids.
+Chemical Labels: "500ml approx" written on several pieces of equipment
+Safety Notes: None specified in the image.
+Purpose: The diagram represents typical laboratory equipment used in chemistry experiments.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 2
+MAIN TOPICS: Introduction to Chemistry, Scientific Method
+
+LEARNING OBJECTIVES (from page content):
+
+*   রসায়নের ধারণা ব্যাখ্যা করতে পারব। / Explain the concept of chemistry.
+*   রসায়নের ক্ষেত্রসমূহ চিহ্নিত করতে পারব। / Identify the areas of chemistry.
+*  রসায়নের সাথে বিজ্ঞানের অন্য শাখাগুলোর সম্পর্ক ব্যাখ্যা করতে পারব। / Explain the relationship of chemistry with other branches of science.
+*  রসায়ন পাঠের গুরুত্ব ব্যাখ্যা করতে পারব। / Explain the importance of studying chemistry.
+*  রসায়নে অনুসন্ধান ও গবেষণা প্রক্রিয়ার বর্ণনা করতে পারব। / Describe the process of research and experimentation in chemistry.
+*   বিভিন্ন ধরনের অনুসন্ধানমূলক কাজের পরিকল্পনা প্রণয়ন, অনুমিত সিদ্ধান্ত গঠন ও পরীক্ষা করতে পারব। / Plan different types of investigative work, develop hypotheses, and test them.
+*   রসায়ন পরীক্ষাগারে কাজের সময় প্রয়োজনীয় সতর্কতা অবলম্বন করতে পারব। / Take necessary precautions while working in a chemistry lab.
+*   প্রকৃতিক ও বাস্তব জীবনের ঘটনাবলি রসায়নের দৃষ্টিতে ব্যাখ্যা করতে পারব। / Explain natural and real-life events from the perspective of chemistry.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: 1
+PAGE NUMBER: 9
+MAIN TOPICS: Introduction to Chemistry, Definition of Chemistry, Early use of metals
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: রসায়ন (Chemistry)
+Bengali Definition: বিজ্ঞানের যে শাখায় মৌল বা মৌলিক পদার্থের সমন্বয়ে গঠিত যৌগ বা যৌগিক পদার্থের সংযুক্তি, গঠন প্রকৃতি, ধর্ম, ব্যবহার ইত্যাদি এবং বস্তুসমূহের পারস্পরিক রূপান্তর ও রূপান্তরকালে শক্তি মূলত তাপ শক্তির শোষণ ও নিঃসরণ আলোচনা করা হয় তাকে রসায়ন বলে।
+English Translation: Chemistry is the branch of science that discusses the composition, structure, properties, uses, etc. of compounds or compound substances formed by combining elements or basic substances, as well as the mutual transformation of substances and the absorption and emission of energy, mainly heat energy, during transformation.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: সংকর ধাতু (Alloy)
+Bengali Definition: দুটি তরলকে একত্রে মিশিয়ে অতঃপর মিশ্রণকে ঠান্ডা করে কঠিন সংকর ধাতুতে (alloy) পরিণত করা হয়।
+English Translation: Two liquids are mixed together and then the mixture is cooled to form a solid alloy.
+
+SAFETY INFORMATION
+SAFETY ALERT
+Hazard Description: Melting metals can be very dangerous due to high temperatures.
+Required Precautions: Always use appropriate protective gear. Work in well ventilated areas when melting metals.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: বিজ্ঞান (Science)
+Bengali Definition: মানবজাতির পদ্ধতিগত, নিয়মানুগ ধারাবাহিক প্রচেষ্টা যার দ্বারা প্রকৃতিকে নিয়ন্ত্রণ করে নিজেদের কল্যাণে কাজে লাগানো।
+English Translation: Science is the systematic, methodical, and continuous effort of humankind to control nature for their own benefit.
+
+EXAMPLES
+1. কয়লা পোড়ালে তাপ উৎপাদিত হয় সেই সাথে কার্বন ডাইঅক্সাইড যৌগ গঠিত হয়। (Burning coal produces heat and carbon dioxide.)
+2. আর্দ্র-পরিবেশে লোহা বা লোহা নির্মিত জিনিস রেখে দিলে তাতে মরিচা পড়ে (Iron or iron-made objects rust in a humid environment).
+3. বিভিন্ন গাছের নির্যাস থেকে ঔষধ ও সুগন্ধি নিষ্কাশন করা হয় (Medicines and fragrances are extracted from the extracts of different plants).
+4. আকরিক থেকে বিভিন্ন ধাতু নিষ্কাশন (Extraction of various metals from ores).
+
+QUESTIONS AND PROBLEMS
+Question 1
+বিজ্ঞানের বিভিন্ন শাখার নাম লিখ।
+Translation: Write the names of different branches of science.
+Type: Short answer
+Chemical Components: None
+Key Concept: Branches of Science
+
+QUESTIONS AND PROBLEMS
+Question 2
+গহনা তৈরিতে ব্যবহৃত স্বর্ণ একটি সংকর ধাতু- ব্যাখ্যা করো।
+Translation: Gold used in jewelry is an alloy - explain.
+Type: Analytical
+Chemical Components: Gold, other metals
+Key Concept: Alloys
+
+HISTORICAL NOTES
+1.  3500 খ্রিষ্টপূর্বাব্দে তামা ও টিন গলিয়ে ব্রোঞ্জ তৈরি করা হতো। (Around 3500 BC, copper and tin were melted to make bronze.)
+2.  ব্রোঞ্জ দিয়ে অস্ত্র, কৃষি সরঞ্জাম ইত্যাদি তৈরি করা হতো। (Bronze was used to make weapons, agricultural tools, etc.)
+3. প্রাচীনকালে মানুষ তামা, সোনা, রূপা, টিন, লোহা ইত্যাদি ধাতু ব্যবহার করত। (In ancient times, people used metals such as copper, gold, silver, tin, and iron.)
+4. গ্রিক দার্শনিক ডেমোক্রিটাস বলেন, প্রত্যেক পদার্থকে অনবরত ভাঙতে থাকলে শেষ পর্যায়ে এমন এক কণা পাওয়া যায় যাকে আর ভাঙা যায় না। (Greek philosopher Democritus said that if every substance is continuously broken down, at the end a particle is found that can no longer be broken down.)
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 8
+MAIN TOPICS: History of Chemistry, Origin of the word "Chemistry"
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ATOM
+Bengali Definition: এক ক্ষুদ্র কণা পাওয়া যাবে যাকে আর ভাঙা যাবে না।
+English Translation: A tiny particle that cannot be broken down further.
+Related Chemical Equations: None
+
+ALCHEMIST
+Bengali Definition: মধ্যযুগীয় আরবের রসায়ন চর্চাকে আলকেমি (Alchemy) বলা হতো আর গবেষকদের বলা হতো আলকেমিস্ট (Alchemist)।
+English Translation: Medieval Arab chemistry practice was called Alchemy, and the researchers were called Alchemists.
+Related Chemical Equations: None
+
+CHEMISTRY
+Bengali Definition: এই Chemi শব্দ থেকেই Chemistry শব্দের উৎপত্তি, যার বাংলা প্রতিশব্দ হলো রসায়ন।
+English Translation: The word Chemistry originates from the word Chemi, and its Bengali equivalent is রসায়ন.
+Related Chemical Equations: None
+
+DIAGRAMS AND ILLUSTRATIONS
+
+DIAGRAM TITLE: চিত্র 1.01: অ্যান্টনি ল্যাভয়সিয়ে, রবার্ট বয়েল, স্যার ফ্রান্সিস বেকন এবং জন ডালটন।
+Description: Four portraits of scientists: Antoine Lavoisier, Robert Boyle, Sir Francis Bacon, and John Dalton.
+Components: Portraits of four individuals
+Chemical Labels: None
+Safety Notes: None
+Purpose: To illustrate key scientists in the development of chemistry.
+
+HISTORICAL CONTEXT
+
+*  Early philosophers like Democritus and Kanada proposed the idea of indivisible particles (atoms) but lacked experimental proof.
+*  Aristotle opposed this, believing that all matter was made of earth, fire, water, and air.
+* Medieval Arab alchemists tried to create gold from base metals and a life-extending elixir.
+* While unsuccessful in these aims, their experiments laid the groundwork for modern chemistry.
+*  Alchemist Jabir-ibn-Hayyan is often called the father of chemistry.
+* He believed that all matter is made of earth, fire, water, and air.
+*  Antoine Lavoisier, Robert Boyle, Sir Francis Bacon, and John Dalton are considered pioneers in modern chemistry.
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 5
+MAIN TOPICS: Introduction to Chemistry, Chemical Changes, Everyday Applications of Chemistry
+
+DEFINITION OF CHEMISTRY
+Bengali Definition: বিজ্ঞানের যে শাখায় পদার্থের গঠন, পদার্থের ধর্ম এবং পদার্থের পারস্পরিক রূপান্তর ইত্যাদি নিয়ে আলোচনা করা হয় তাকে রসায়ন বলে।
+English Translation: Chemistry is the branch of science that discusses the composition of matter, the properties of matter, and the transformations of matter, etc.
+
+TABLE 1.01: ANALYSIS OF EVERYDAY EVENTS FROM THE PERSPECTIVE OF CHEMISTRY
+TABLE TITLE: দৈনন্দিন জীবনের বিভিন্ন বিষয় রসায়নের দৃষ্টিকোণ থেকে বিশ্লেষণ। / Analysis of various aspects of everyday life from the perspective of chemistry.
+    
+    EVENT: কাঁচা আম টক কিন্তু পাকা আম মিষ্টি। / Raw mango is sour but ripe mango is sweet.
+        Bengali Analysis: কাঁচা আমে বিভিন্ন ধরনের জৈব এসিড থাকে যেমন: সাক্সিনিক এসিড, ম্যালেয়িক এসিড প্রভৃতি থাকে, ফলে কাঁচা আম টক। কিন্তু আম যখন পাকে তখন এই এসিডগুলোর রাসায়নিক পরিবর্তন ঘটে গ্লুকোজ ও ফ্রুক্টোজের সৃষ্টি হয়। তাই পাকা আম মিষ্টি।
+        English Translation: Raw mangoes contain various organic acids such as succinic acid and maleic acid, making them sour. However, when the mango ripens, these acids undergo chemical changes, producing glucose and fructose, making the ripe mango sweet.
+        Related Chemical Equations: (not given explicitly)
+    
+    EVENT: কেরোসিন, প্রাকৃতিক গ্যাস ও মোম ইত্যাদির দহন। / Combustion of kerosene, natural gas, and wax, etc.
+        Bengali Analysis: কেরোসিন, প্রাকৃতিক গ্যাস, মোম এগুলোর মূল উপাদান হাইড্রোকার্বন। হাইড্রোকার্বন হচ্ছে কার্বন আর হাইড্রোজেনের যৌগ। তাই যখন এগুলোর দহন ঘটে তখন বাতাসের অক্সিজেনের সাথে এগুলোর বিক্রিয়া হয় এবং কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, আলো আর তাপশক্তির সৃষ্টি হয়।
+        English Translation: Kerosene, natural gas, and wax are mainly composed of hydrocarbons. Hydrocarbons are compounds of carbon and hydrogen. When these are burned, they react with oxygen in the air to produce carbon dioxide, water vapor, light, and heat energy.
+    
+    EVENT: পেটের এসিডিটির জন্য এন্টাসিড ওষুধ খাওয়া। / Taking antacid medicine for stomach acidity.
+        Bengali Analysis: পাকস্থলীতে অতিরিক্ত হাইড্রোক্লোরিক এসিড নিঃসরিত হলে পেটে এসিডিটির সমস্যা হয়। এন্টাসিডে থাকে অ্যালুমিনিয়াম হাইড্রোক্সাইড ও ম্যাগনেসিয়াম হাইড্রোক্সাইড। এ দুটি যৌগ এসিডকে প্রশমিত করে।
+        English Translation: Excessive secretion of hydrochloric acid in the stomach leads to acidity problems. Antacids contain aluminum hydroxide and magnesium hydroxide. These two compounds neutralize the acid.
+        Related Chemical Equations: (not given explicitly)
+        
+    
+    CONCLUDING STATEMENT:
+    Bengali: এ ঘটনাগুলো থেকে সহজেই বুঝতে পারছো যে, আমাদের দৈনন্দিন জীবনের বিভিন্ন জিনিস রসায়নের সাথে সম্পর্কিত। কাজেই বিজ্ঞানের সবচেয়ে গুরুত্বপূর্ণ শাখার একটি হলো রসায়ন।
+    English Translation: From these events, it is easy to understand that various aspects of our daily lives are related to chemistry. Therefore, chemistry is one of the most important branches of science.
+
+1.2 THE SCOPES OF CHEMISTRY
+SECTION TITLE: রসায়নের পরিধি বা ক্ষেত্রসমূহ (The Scopes of Chemistry) / The Scopes of Chemistry
+    
+    Bengali Text: যেখানে পদার্থ আছে সেখানেই রসায়ন আছে। বায়ুমণ্ডলে বিভিন্ন গ্যাসীয় পদার্থ থাকে। বায়ুমণ্ডলে কিছু না কিছু রাসায়নিক পরিবর্তন অনবরত ঘটছে। আমরা যে মাটির উপরে বসবাস করছি সে মাটিতেও প্রতি মুহূর্তে ঘটে যাচ্ছে অসংখ্য পরিবর্তন। শুধু বর্তমান সময় কেন, সুদূর অতীতেও এইসব পরিবর্তন ঘটেছে। যখন এ পৃথিবীর প্রথম জন্ম হলো তখন পৃথিবী এমন ছিল না, পৃথিবী ছিল খুবই উত্তপ্ত। সেখানে কোনো বাতাস ছিল না, পানি ছিল না, ছিল না কোনো জীবের অস্তিত্ব। কোটি কোটি বছর ধরে ঘটেছে অসংখ্য রাসায়নিক পরিবর্তন। সৃষ্টি হয়েছে বায়ুমণ্ডল, সৃষ্টি হয়েছে পানি, সৃষ্টি হয়েছে হাজারো রকমের।
+    English Translation: Chemistry exists wherever matter exists. The atmosphere contains various gaseous substances. Chemical changes are constantly occurring in the atmosphere. There are numerous changes happening every moment even in the soil we live on. These changes occurred not just in present times but also in the distant past. When the Earth was first formed, it was not like it is now; it was very hot. There was no air, no water, and no living beings. Over billions of years, many chemical changes have occurred. The atmosphere has been created, water has been created, and thousands of different types of substances have been formed.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: 1
+PAGE NUMBER: 5
+MAIN TOPICS: Importance of Chemistry, Chemical Reactions in Daily Life, Chemical Composition of Common Substances
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: রাসায়নিক কারখানা
+Bengali Definition: প্রতিটি দেহ হলো এক-একটি বড় রাসায়নিক কারখানা।
+English Translation: Every body is a large chemical factory.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: রাসায়নিক বিক্রিয়া
+Bengali Definition: এখানে প্রতি মুহূর্তেই ঘটে চলেছে অসংখ্য রাসায়নিক বিক্রিয়া।
+English Translation: Numerous chemical reactions are occurring here every moment.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: বিয়োজিত (decomposed)
+Bengali Definition: অক্সিজেন শরীরের ভেতরে বিয়োজিত (decomposed) খাদ্য উপাদানের সাথে বিক্রিয়া করে শক্তি উৎপাদন করে।
+English Translation: Oxygen reacts with decomposed food components inside the body to produce energy.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: ডিহাইড্রেশন (dehydration)
+Bengali Definition: শরীরে পানির স্বল্পতা (dehydration) হলে মানুষ মারা যেতে পারে।
+English Translation: If there is a lack of water in the body (dehydration), a person can die.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TABLE 1.02: রসায়নের কিছু ক্ষেত্র।
+    
+| বস্তু/পদার্থ (Object/Substance) | উপাদান (Components)   | উৎস ও রাসায়নিক পরিবর্তন (Sources and Chemical Changes)     |
+|-------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| বায়ু (Air)                    | প্রধানত নাইট্রোজেন ও অক্সিজেন (Mainly Nitrogen and Oxygen) | আমরা শ্বাস নেওয়ার সময় যে বায়ু গ্রহণ করি সেই বায়ুর অক্সিজেন শরীরের ভেতরে বিয়োজিত (decomposed) খাদ্য উপাদানের সাথে বিক্রিয়া করে শক্তি উৎপাদন করে। এ ক্ষেত্রে নাইট্রোজেন লঘুকরণের মাধ্যমে বিক্রিয়ার তীব্রতাকে নিয়ন্ত্রণ করে খাদ্য। (When we breathe, the oxygen in the air we inhale reacts with decomposed food components inside the body to produce energy. In this case, nitrogen controls the intensity of the reaction through reduction.) |
+| খাবারের পানি (Drinking Water) | পানিসহ বিভিন্ন খনিজ লবণ (Water and Various Mineral Salts) | জীবের শরীরের বেশির ভাগই পানি। শরীরের বিষাক্ত পদার্থ এ পানিতে দ্রবীভূত হয়ে প্রস্রাব ও ঘামের সাহায্যে শরীর থেকে বের হয়ে যায়। খাবারের পানিতে পানি ছাড়াও বিভিন্ন ধরনের খনিজ লবণ যেমন-ক্যালসিয়াম, ম্যাগনেসিয়াম ইত্যাদি ধাতুর লবণ থাকে, যা আমাদের শরীরের জন্য বিশেষ উপকারী। (Most of the body of living beings is water. Toxic substances in the body are dissolved in this water and excreted from the body through urine and sweat. In drinking water, there are various types of mineral salts such as calcium, magnesium, etc. which are very beneficial for our body.) |
+| সার (Fertilizer)             | নাইট্রোজেন, অক্সিজেন, কার্বন, ফসফরাস, (Nitrogen, Oxygen, Carbon, Phosphorus) | আমরা যেমন খাবার খাই, তেমনি উদ্ভিদেরও খাবারের প্রয়োজন হয়। উদ্ভিদের খাবারের প্রধান উপাদান হলো-নাইট্রোজেন, অক্সিজেন, ফসফরাস, কার্বন ইত্যাদি। এগুলো উদ্ভিদ মাটি থেকে সংগ্রহ করে। তাছাড়া বিভিন্ন সারে এসব মৌলের যৌগ থাকে। (Just as we eat food, plants also need food. The main components of plant food are nitrogen, oxygen, phosphorus, carbon, etc. These are collected by plants from the soil. Moreover, these elements exist in various compounds in different fertilizers.)  |
+
+SAFETY ALERT:
+Hazard Description: শরীরে পানির স্বল্পতা (dehydration) হলে মানুষ মারা যেতে পারে। ওলাউঠা বা কলেরা রোগে মানুষের মৃত্যুর এটিই মূল কারণ।
+Required Precautions: Maintain proper hydration
+Emergency Procedures: Seek medical help in case of dehydration
+Protective Equipment: Not applicable in this context.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: None (Implied as a start of the chapter)
+PAGE NUMBER: 9
+MAIN TOPICS: Relationship between Chemistry and other sciences; Importance of Chemistry in daily life
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+CELLULOSE
+Bengali Definition: বাঁশ, আখের ছোবড়া ইত্যাদিতে প্রচুর পরিমাণে সেলুলোজ থাকে।
+English Translation: Bamboo, sugarcane stalks etc. contain large amounts of cellulose.
+Related Chemical Equations: Not applicable (no equation provided).
+Examples: Bamboo, sugarcane stalks
+
+1.3 রসায়নের সাথে বিজ্ঞানের অন্যান্য শাখার সম্পর্ক (RELATIONSHIP BETWEEN CHEMISTRY AND OTHER BRANCHES OF SCIENCE)
+
+Bengali Definition: ইতোমধ্যে তোমরা জেনেছো বিজ্ঞানের বিভিন্ন শাখা রয়েছে। যেমন- রসায়ন, জীববিজ্ঞান, পদার্থবিজ্ঞান, গণিত, পরিবেশবিজ্ঞান, ভূ-তত্ত্ব বিজ্ঞান ইত্যাদি। বিজ্ঞানের একটি শাখার সাথে অন্য একটি শাখার গভীর সম্পর্ক বিদ্যমান। বিজ্ঞানের অন্যান্য শাখা যেমন রসায়নের উপর নির্ভরশীল, রসায়নও তেমনি অন্যান্য শাখার উপর নির্ভরশীল। নিচে বিজ্ঞানের বিভিন্ন শাখার সাথে রসায়নের সম্পর্ক কয়েকটি উদাহরণের সাহায্যে ব্যাখ্যা করা হলো:
+English Translation: You have already learned that there are different branches of science. Such as chemistry, biology, physics, mathematics, environmental science, geology, etc. There is a deep relationship between one branch of science and another. Other branches of science are dependent on chemistry and chemistry is also dependent on other branches. Below is the relationship of chemistry with various branches of science explained through some examples:
+
+জীববিজ্ঞানের সাথে রসায়নের সম্পর্ক (RELATIONSHIP BETWEEN CHEMISTRY AND BIOLOGY)
+
+Bengali Definition: উদ্ভিদ সালোকসংশ্লেষণ (Photosynthesis) প্রক্রিয়ার মাধ্যমে তার সবুজ অংশে গ্লুকোজ তৈরি করে। সালোকসংশ্লেষণ মূলত একটি রাসায়নিক বিক্রিয়া। উদ্ভিদ পাতার সাহায্যে বাতাস থেকে কার্বন ডাই-অক্সাইড এবং মূল দিয়ে পানি শোষণ করে। উদ্ভিদ সূর্যালোকের উপস্থিতিতে সবুজ পাতায় বতর্মান ক্লোরোফিলের সাহায্যে এই পানি আর কার্বন ডাই-অক্সাইডের মধ্যে রাসায়নিক সংযোগ ঘটিয়ে গ্লুকোজ উৎপন্ন করে। এছাড়া বিভিন্ন প্রাণী যে শর্করা বা প্রোটিন জাতীয় খাবার খায় শরীর সেই খাবার ভেঙে গ্লুকোজ, অ্যামাইনো এসিড ইত্যাদি উৎপন্ন করে। সমগ্র জীবদেহই রাসায়নিক পদার্থ দিয়ে তৈরি। উদ্ভিদ ও প্রাণীদেহের এ সব রাসায়নিক পদার্থ ও তাদের মধ্যে ঘটে যাওয়া বিভিন্ন রাসায়নিক বিক্রিয়া জীববিজ্ঞানে আলোচনা করা হয়। তাই জীববিজ্ঞান ও রসায়ন পরস্পর সম্পর্কযুক্ত।
+English Translation: Plants produce glucose in their green parts through photosynthesis. Photosynthesis is basically a chemical reaction. Plants absorb carbon dioxide from the air through their leaves and water through their roots. In the presence of sunlight, with the help of chlorophyll in the green leaves, this water and carbon dioxide undergo a chemical reaction to produce glucose. In addition, when animals eat carbohydrate or protein rich foods, their bodies break down these foods to produce glucose, amino acids etc. All living things are made of chemical substances. All these chemical substances and chemical reactions that occur in plants and animals are discussed in biology. So, biology and chemistry are interrelated.
+
+পদার্থবিজ্ঞানের সাথে রসায়নের সম্পর্ক (RELATIONSHIP BETWEEN CHEMISTRY AND PHYSICS)
+Bengali Definition: পদার্থবিজ্ঞানের আলোচ্য বিষয়ের মধ্যে রয়েছে চুম্বক, বিদ্যুৎ, বিভিন্ন যন্ত্রপাতি ইত্যাদি। বিদ্যুতের জন্য যে ব্যাটারি ব্যবহার করা হয় তা রসায়নেরই অবদান। পেট্রোল, প্রাকৃতিক গ্যাস বা কয়লা পুড়িয়ে যে শক্তি উৎপন্ন হয় তা দিয়ে যানবাহন চলে, বিদ্যুৎ উৎপন্ন হয়। রসায়নও আবার পদার্থবিজ্ঞানের উপর নির্ভরশীল। ভৌত রসায়ন হলো রসায়নের একটি শাখা যার বিভিন্ন তত্ত্ব মূলত পদার্থবিজ্ঞানের বিভিন্ন তত্ত্ব এবং সূত্রের উপর ভিত্তি করে প্রতিষ্ঠিত। নিউক্লিয়ার ফিজিক্স এবং নিউক্লিয়ার কেমিস্ট্রি একই সূত্রে বাঁধা।
+English Translation: Physics deals with topics such as magnetism, electricity, and various instruments. The batteries used for electricity are a contribution of chemistry. Vehicles run and electricity is generated by the energy produced by burning petrol, natural gas, or coal. Chemistry is also dependent on physics. Physical chemistry is a branch of chemistry whose various theories are based on the theories and formulas of physics. Nuclear physics and nuclear chemistry are interrelated.
+
+গণিতের সাথে রসায়নের সম্পর্ক (RELATIONSHIP BETWEEN CHEMISTRY AND MATHEMATICS)
+Bengali Definition: রসায়নের সাথে গণিতের নিবিড় সম্পর্ক রয়েছে। রসায়নের বিভিন্ন ক্ষেত্রে বিশেষ করে গণনার কাজে গণিতের সাধারণ সূত্র থেকে জটিল সূত্র ব্যবহার করা হয়। যেমন- দ্রবণের ঘনমাত্রা নির্ণয়, যৌগের সংযুক্তি নির্ণয়, বিক্রিয়ার হার নির্ণয় ইত্যাদি।
+English Translation: Chemistry has a close relationship with mathematics. In various fields of chemistry, especially in calculations, complex formulas are used, based on simple formulas of mathematics. For example, determining the concentration of a solution, determining the composition of compounds, determining the rate of reaction, etc.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: 1
+PAGE NUMBER: 2025
+MAIN TOPICS: Importance of Chemistry, Applications of Chemistry in Daily Life, Environmental Impact of Chemicals
+
+1.  CHEMICAL EQUATIONS
+    None found on this page.
+
+2.  EXPERIMENTAL PROCEDURES
+    None found on this page.
+
+3.  DIAGRAMS AND ILLUSTRATIONS
+    None found on this page.
+
+4.  QUESTIONS AND PROBLEMS
+    None found on this page.
+
+5. CHEMICAL PROPERTIES AND DEFINITIONS
+    TERM OR PROPERTY NAME
+    Bengali Definition:  জমিকে উর্বর করার জন্য তৈরি করা হয়েছে সার। খেতের ফসল যেন পোকা-মাকড়ে নষ্ট না করে তার জন্য মানুষ তৈরি করেছে কীটনাশক (insecticides)। খাদ্যকে দীর্ঘ দিন সংরক্ষণ করার জন্য তৈরি করেছে প্রিজারভেটিভস (preservatives) জাতীয় রাসায়নিক পদার্থ। অর্থাৎ চাষাবাদ কিংবা খাদ্যের জন্য আমরা রসায়নের উপর নির্ভর করি।
+    English Translation:  Fertilizers are made to make the land fertile. To prevent crops from being destroyed by insects, humans have created insecticides. Preservatives are a type of chemical substance made for long-term storage of food. That is, we rely on chemistry for cultivation and food.
+    Related Chemical Equations: None
+    Examples: None
+
+    TERM OR PROPERTY NAME
+    Bengali Definition: শিল্পকারখানা, যানবাহন, মানুষের ব্যবহার্য সামগ্রী থেকে সৃষ্ট প্রচুর পরিমাণে রাসায়নিক বর্জ্য আমাদের পরিবেশের ক্ষতিসাধন করছে। এর মাঝে রয়েছে কার্বন ডাই-অক্সাইড, কার্বন মনোক্সাইড, সালফার ডাই-অক্সাইড, বিভিন্ন এসিড, বিভিন্ন ভারী ধাতু (যেমন- পারদ, লেড, আর্সেনিক, কোবাল্ট ইত্যাদি) সহ আরও অনেক ধরনের রাসায়নিক দ্রব্য। এগুলো বায়ুর সাথে মিশে বায়ুদূষণ, পানির সাথে মিশে পানিদূষণ এবং অন্যান্য উপায়ে পরিবেশের ক্ষতিসাধন করেই চলেছে।
+     English Translation:  A large amount of chemical waste generated from factories, vehicles, and human consumables is harming our environment. This includes carbon dioxide, carbon monoxide, sulfur dioxide, various acids, and various heavy metals (such as mercury, lead, arsenic, cobalt, etc.), as well as many other types of chemical substances. These mix with the air causing air pollution, mix with water causing water pollution, and harm the environment in other ways.
+    Related Chemical Equations: None
+    Examples: Carbon dioxide, Carbon monoxide, Sulfur dioxide, various acids, mercury, lead, arsenic, cobalt
+
+    TERM OR PROPERTY NAME
+    Bengali Definition:  এগুলো বিভিন্ন উদ্ভিদ বা মাছের শরীরে প্রবেশ করে তাদের ক্ষতিসাধন করছে। এসব মাছ এবং উদ্ভিদ আমরা খাদ্য হিসেবে খেয়ে পরোক্ষভাবে ক্ষতিগ্রস্ত হচ্ছি। বিভিন্ন ক্ষেত্রে অতিরিক্ত রাসায়নিক দ্রব্য ব্যবহার করা আমাদের জন্য ক্ষতির কারণ। যেমন- ফসলের খেতে ক্ষতিকারক পোকা-মাকড় ধ্বংস করার কাজে কীটনাশক ব্যবহার করা হয়। কিন্তু তা প্রয়োজনের অতিরিক্ত ব্যবহার করলে ঐ অতিরিক্ত কীটনাশক...
+    English Translation: These enter the bodies of various plants or fish and damage them.  We indirectly get harmed by eating those fish and plants. Using excessive chemical substances is a cause of harm. For example, pesticides are used to destroy harmful insects in crop fields. But if they are used excessively, those excess pesticides...
+    Related Chemical Equations: None
+    Examples: Pesticides
+
+6. SAFETY INFORMATION
+    None found on this page.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 9
+MAIN TOPICS: Impact of chemistry, Research in Chemistry
+
+বৃষ্টির পানিতে ধুয়ে পুকুর, নদ-নদী, খাল-বিলের পানিতে গিয়ে পড়ে যা ঐ পানিকে দূষিত করে। / The rainwater washes into ponds, rivers, canals, and bills, polluting the water.
+এ সকল কীটনাশকের কোনো কোনোটির কিছু অংশ উদ্বায়ী হওয়ায় তা বাতাসের সাথে মিশে বাতাসকে দূষিত করে অর্থাৎ কীটনাশকের অতিরিক্ত ব্যবহার পরিবেশের জন্য ক্ষতিকর। / Some parts of these pesticides are volatile and mix with the air, polluting it. Therefore, excessive use of pesticides is harmful to the environment.
+রসায়ন পাঠ করলে এ রকম প্রাকৃতিক ও বাস্তব জীবনের অনেক কিছুই তোমরা ব্যাখ্যা করতে পারবে। / By studying chemistry, you will be able to explain many such things in nature and in real life.
+সুতরাং বুঝতে পারছো রসায়ন একদিকে যেমন অনেক প্রয়োজনীয় ও মূল্যবান জিনিস আবিষ্কার করছে, তেমনিই তার অযৌক্তিক এবং অবিবেচকের মতো ব্যবহার পরিবেশেরও মারাত্মক ক্ষতিসাধন করছে। / So, you can understand that while chemistry is discovering many useful and valuable things, its irrational and reckless use is also causing serious harm to the environment.
+এখনো অনেক রোগের ওষুধ আবিষ্কার হয়নি। রসায়ন অধ্যয়ন ও গবেষণা করে সেসব ওষুধ আবিষ্কারের চেষ্টা করা এখন আমাদের দায়িত্ব। /  Many disease cures have not been discovered yet. Studying and researching chemistry to discover those cures is now our responsibility.
+কাজেই তোমরা নিশ্চয়ই বুঝতে পারছো রসায়ন পাঠ করে একদিকে আমরা যেরকম মানবকল্যাণের জন্য প্রয়োজনীয় অনেক নতুন জিনিস তৈরি করতে পারব, একই সাথে পরিবেশের জন্য কোনটি ক্ষতিকর সেটি বুঝতে পারব। / So, you can surely understand that by studying chemistry, on one hand, we can create many new things that are needed for human welfare; and at the same time, we can understand which things are harmful to the environment.
+আর তোমরা রসায়ন অধ্যয়ন করে এ পৃথিবীকে আরও এগিয়ে নিয়ে যাবে। এটা তোমাদের কাছে সবার প্রত্যাশা। / And by studying chemistry, you will take this world further ahead. This is everyone's expectation from you.
+
+1.5 রসায়নে অনুসন্ধান বা গবেষণা প্রক্রিয়া / 1.5 The Process of Research in Chemistry
+(The Process of Research in Chemistry)
+
+বিজ্ঞানের লক্ষ্য হলো মানবজাতির কল্যাণসাধন করা। / The goal of science is to serve humanity.
+এ উদ্দেশ্যে বিজ্ঞানীরা নিরন্তর পরিশ্রম করে যাচ্ছেন। / For this purpose, scientists are constantly working hard.
+বিজ্ঞানী নাম শুনতেই তোমাদের নিশ্চয়ই আইনস্টাইন, নিউটন, আর্কিমিডিস, ল্যাভয়সিয়ে, গ্যালিলিও এরকম মহান মনীষীর কথা মনে পড়ে যায়। / When you hear the name of a scientist, you must remember great scholars such as Einstein, Newton, Archimedes, Lavoisier, and Galileo.
+হ্যাঁ, তাঁরা তো অবশ্যই মহান বিজ্ঞানী। / Yes, they were indeed great scientists.
+তবে বিজ্ঞানী বলতে যা বোঝায় তাতে তোমরাও হতে পারো এক একজন বিজ্ঞানী। / However, anyone can become a scientist according to the meaning of the word scientist.
+আসলে পরীক্ষা-নিরীক্ষা ও পদ্ধতিগতভাবে যে সুসংবদ্ধ জ্ঞান অর্জন হয় সেই জ্ঞানই হলো বিজ্ঞান। / Actually, science is organized knowledge that is gained through tests and experiments in a systematic way.
+আর এই পরীক্ষা-নিরীক্ষার মাধ্যমে কোনো কিছু জানার চেষ্টাই হচ্ছে গবেষণা। যিনি এই গবেষণা করেন তিনিই বিজ্ঞানী। / And the attempt to learn something through these experiments is called research. The person who does this research is a scientist.
+কাজেই তুমিও যদি এই পরীক্ষা-নিরীক্ষার মাধ্যমে জ্ঞান অন্বেষণ করো তাহলে তুমিও হতে পারবে একজন বিজ্ঞানী। / So, if you also seek knowledge through these experiments, then you too can become a scientist.
+সঠিক পদ্ধতিতে পরীক্ষা-নিরীক্ষার মাধ্যমে অজানা কোনো কিছু জানার নামই গবেষণা। / The process of learning about something unknown through experiments in a systematic way is called research.
+তাহলে তোমরা বুঝতে পারছো গবেষণার জন্য কিছু নির্দিষ্ট পদ্ধতি অনুসরণ করতে হয়। / So, you can understand that research requires following certain methods.
+রসায়ন গবেষণারও পদ্ধতি রয়েছে। এখন রসায়ন গবেষণার পদ্ধতি তোমাদের কাছে ধাপে ধাপে ব্যাখ্যা করা হবে। / There are also methods for chemistry research. Now the methods of chemistry research will be explained to you step by step.
+গবেষণার জন্য প্রথমেই তোমাকে নির্ধারণ করতে হবে যে তুমি কী জানতে চাও বা কোন ধরনের নতুন পদার্থ তুমি আবিষ্কার করতে চাও। / For research, first you have to determine what you want to know or what kind of new substance you want to discover.
+ধরা যাক, তুমি জানতে চাও অ্যামোনিয়াম ক্লোরাইডকে পানিতে দ্রবীভূত করলে তাপ উৎপাদিত হবে না শোষিত হবে? / For example, do you want to know if dissolving ammonium chloride in water will produce or absorb heat?
+একে বলে বিষয় নির্বাচন। / This is called topic selection.
+ফর্মা নং-২, রসায়ন- ৯ম-১০ম শ্রেণি
+FORM NO-2, Chemistry - Class 9-10
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified in the provided page
+PAGE NUMBER: 10
+MAIN TOPICS: Heat of solution, Experimental procedure
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: অ্যামোনিয়াম ক্লোরাইড পানিতে দ্রবীভূতকরণ / Dissolving Ammonium Chloride in Water
+Purpose: To observe the temperature changes when ammonium chloride is dissolved in water.
+Materials Required:
+ - Beaker
+ - Water
+ - Ammonium Chloride (NH4Cl)
+ - Thermometer
+ - Glass rod
+ - Balance
+Safety Precautions:
+- Handle chemicals with care.
+- Beaker should be placed on a stable surface.
+Procedure:
+1. Take a beaker and add some water into it.
+2. Measure the initial temperature of the water using a thermometer.
+3. Accurately weigh a specific amount of ammonium chloride using a balance.
+4. Add the ammonium chloride to the water in the beaker.
+5. Gently stir the mixture with a glass rod until the ammonium chloride is dissolved.
+6. Continuously monitor the temperature of the water with the thermometer during dissolution.
+7. Record the temperature changes at different intervals.
+8. Add more ammonium chloride in measured amounts repeating steps 3-7 until the desired concentration is reached.
+Expected Observations:  The temperature of the water is expected to decrease as the ammonium chloride dissolves. This will be shown in the table below.
+Key Learning Points:
+- Dissolving some substances in water can cause a change in temperature.
+- Careful observation and measurement are important in experimental chemistry.
+
+TABLE 1.03: অ্যামোনিয়াম ক্লোরাইড পানিতে দ্রবীভূতকরণ / Dissolving Ammonium Chloride in Water
+| বিকারে দ্রবীভূত অ্যামোনিয়াম ক্লোরাইডের পরিমাণ / Amount of Ammonium Chloride dissolved in Beaker | দ্রবণের তাপমাত্রা / Solution Temperature |
+|---|---|
+| 0 গ্রাম (দ্রবীভূত করা হয়নি) / 0 gram (not dissolved) | 25°C |
+| 5 গ্রাম / 5 gram | 20°C |
+| 10 গ্রাম / 10 gram | 15°C |
+| 15 গ্রাম / 15 gram | 10°C |
+
+DESCRIPTION OF EXPERIMENTAL PROCEDURE:
+The experiment begins by taking a beaker and adding 250 ml of water into it. The initial temperature is measured with a thermometer and recorded (example 25°C). Then 5 grams of ammonium chloride is measured using a balance and added to the beaker of water. The solution is stirred with a glass rod until dissolved, and the new temperature is recorded with a thermometer (example 20°C). The process is repeated by adding another 5 grams of ammonium chloride and dissolving and recording the new temperature. Finally, another 5 grams is added for a final amount of 15 grams of ammonium chloride, with the temperature recorded. The temperature of the solution decreases as ammonium chloride is dissolved.
+
+ADDITIONAL NOTES:
+The text mentions that before conducting this experiment, it is important to review literature and research papers about dissolving calcium oxide in water. This will help to form a hypothesis about what will occur when dissolving ammonium chloride. This indicates that the dissolving of calcium oxide is exothermic (releases heat).
+The provided table shows how the temperature decreases when more ammonium chloride is added to the solution.
+
+SAFETY ALERT
+Hazard Description: Ammonium chloride is a mild irritant.
+Required Precautions: Avoid contact with eyes and skin.
+Protective Equipment: Wear safety glasses or goggles.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: Not explicitly stated, assumed to be part of chapter 1
+PAGE NUMBER: 11
+MAIN TOPICS: Heat absorption during dissolution, Research process in chemistry
+
+CHEMICAL EQUATIONS:
+None Present
+
+EXPERIMENTAL PROCEDURES:
+None Present
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 1.02: রসায়নে অনুসন্ধান বা গবেষণা প্রক্রিয়ার বিভিন্ন ধাপ। / Figure 1.02: Different steps of investigation or research process in chemistry.
+Description: The diagram shows a flowchart illustrating the different steps involved in a typical chemical research or investigation process. It has several rectangular boxes connected by arrows, depicting a sequential process.
+Components:
+    - বিষয়বস্তু নির্ধারণ (Topic Identification)
+    - বই বা পূর্বের গবেষণাপত্রের সাহায্যে বিষয়বস্তু সম্পর্কে কিছু ধারণা নেওয়া (Gather information from books and previous research about the topic)
+    - প্রয়োজনীয় বস্তু ও যন্ত্রপাতি পরীক্ষা প্রণালী নির্ধারণ (Determine necessary materials and experimental procedures)
+    - পরীক্ষণ (Experiment)
+    - তথ্য সংগ্রহ ও তথ্যের বিশ্লেষণ (Collect and analyze data)
+    - ফলাফল ও ফলাফল নিয়ে আলোচনা (Discuss the results and conclusion)
+Chemical Labels: None
+Safety Notes: None
+Purpose: To illustrate the systematic steps to conduct chemical experiments or research.
+
+QUESTIONS AND PROBLEMS:
+None Present
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+None Present
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description:  Various chemicals present in chemistry laboratories are dangerous to humans or the environment. Some chemicals are explosive in nature.
+Required Precautions:  Must be careful while using and handling chemicals.
+Emergency Procedures: Not specified in detail.
+Protective Equipment: Not specified in detail.
+
+TERM OR PROPERTY NAME
+Bengali Definition: সাধারণত যে ঘরে বা স্থানে বিজ্ঞানের বিভিন্ন পরীক্ষা-নিরীক্ষা এবং গবেষণা করা হয় তাকে পরীক্ষাগার বা গবেষণাগার (Laboratory) বলে। তাই যে ঘরে বা স্থানে রসায়নের পরীক্ষা-নিরীক্ষা ও গবেষণা করা হয় তাকে রসায়ন পরীক্ষাগার বা রসায়ন গবেষণাগার (Chemistry Laboratory) বলে।
+English Translation: Usually, the place or room where various experiments and research are performed in science is called a laboratory. Thus, a place or room where chemical experiments and research are conducted is called a chemistry laboratory or chemistry research laboratory.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+Bengali Definition: বুঝতেই পারছ রসায়ন গবেষণাগারে থাকবে বিভিন্ন রাসায়নিক দ্রব্য। প্রায় প্রত্যেকটি রাসায়নিক দ্রব্যই আমাদের জন্য অথবা পরিবেশের জন্য কম-বেশি ক্ষতিকর। কোনো রাসায়নিক দ্রব্য বিস্ফোরক জাতীয়, কোনোটি...
+English Translation: As you can understand, there will be various chemical substances in the chemistry laboratory. Almost every chemical substance is more or less harmful to us or the environment. Some chemical substances are explosive in nature, some...
+Related Chemical Equations: None
+Examples: None
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified in this excerpt
+PAGE NUMBER: 12
+MAIN TOPICS: Laboratory safety, Chemical hazard symbols
+
+SAFETY ALERT
+HAZARD DESCRIPTION:
+Some chemicals are flammable, some are harmful to the body, and some are harmful to the environment. Laboratory equipment is often made of glass, which can break.
+REQUIRED PRECAUTIONS:
+Be careful in the lab from entry to exit. Wear proper safety gear.
+EMERGENCY PROCEDURES:
+Acid on the body may cause wounds. Acid on clothes may ruin clothes. Fire and explosions are also possible.
+PROTECTIVE EQUIPMENT:
+Wear a lab coat (apron), gloves, and safety goggles.
+
+DIAGRAM TITLE: চিত্র 1.03: অ্যাপ্রোন, সেফটি গগলস, হ্যান্ড গ্লাভস এবং মাস্ক। / Figure 1.03: Apron, Safety Goggles, Hand Gloves, and Mask.
+DESCRIPTION: A line drawing depicting four essential pieces of lab safety equipment: a lab coat (apron), safety goggles, a pair of hand gloves, and a face mask.
+COMPONENTS: Lab coat/apron, safety goggles, hand gloves, face mask.
+CHEMICAL LABELS: None present in this diagram.
+SAFETY NOTES: These items are used for personal safety in the laboratory.
+PURPOSE: To illustrate the basic safety equipment needed in a chemistry lab.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: দাহ্য / Flammable
+BENGALI DEFINITION: (সহজেই যাতে আগুন ধরে যায়) / (Easily catches fire)
+ENGLISH TRANSLATION: (Easily catches fire)
+RELATED CHEMICAL EQUATIONS: Not applicable
+EXAMPLES: Not applicable
+
+TERM OR PROPERTY NAME: রাসায়নিক দ্রব্য / Chemical substance
+BENGALI DEFINITION:  রাসায়নিক দ্রব্যটি কোন প্রকৃতির। সেটি কি বিস্ফোরক অথবা দাহ্য নাকি তেজস্ক্রিয়?
+ENGLISH TRANSLATION: What is the nature of the chemical substance? Is it explosive, flammable, or radioactive?
+RELATED CHEMICAL EQUATIONS: Not applicable
+EXAMPLES: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: সাংকেতিক চিহ্ন / Symbolic sign
+BENGALI DEFINITION:  সেটি বোঝানোর জন্য রাসায়নিক পদার্থের বোতল বা কৌটার লেবেলে এক ধরনের সাংকেতিক চিহ্ন ব্যবহার করা হয়।
+ENGLISH TRANSLATION: Symbolic signs are used on chemical containers to indicate the nature of the chemical substance.
+RELATED CHEMICAL EQUATIONS: Not applicable
+EXAMPLES: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: সর্বজনীন নিয়ম (Globally Harmonized System) / Globally Harmonized System
+BENGALI DEFINITION: এ সংক্রান্ত একটি সর্বজনীন নিয়ম (Globally Harmonized System) চালুর বিষয়কে সামনে রেখে জাতিসংঘের উদ্যোগে পরিবেশ ও উন্নয়ন নামে একটি সম্মেলন অনুষ্ঠিত হয়।
+ENGLISH TRANSLATION: A global standard system was developed and adopted by the United Nations for the sake of the environment and development.
+RELATED CHEMICAL EQUATIONS: Not applicable
+EXAMPLES: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: ঝুঁকির মাত্রা / Degree of risk
+BENGALI DEFINITION:  এ সম্মেলনে বিভিন্ন পদার্থের ঝুঁকি এবং ঝুঁকির মাত্রা বোঝানোর জন্য সর্বজনীন সাংকেতিক চিহ্ন নির্ধারণ করা হয়।
+ENGLISH TRANSLATION:  In this summit, universal symbolic signs were established to denote the risks and degree of risk associated with different substances.
+RELATED CHEMICAL EQUATIONS: Not applicable
+EXAMPLES: Not applicable
+
+SAFETY ALERT
+HAZARD DESCRIPTION: There are risks in using chemicals and the degree of that risk varies.
+REQUIRED PRECAUTIONS: It is necessary to be aware of the risks and take appropriate safety measures.
+EMERGENCY PROCEDURES: Not specified.
+PROTECTIVE EQUIPMENT: Not specified.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: 1
+PAGE NUMBER: 13
+MAIN TOPICS: Chemical safety symbols, Hazard communication
+
+SAFETY ALERT
+Hazard Description: General safety warnings for handling chemicals
+
+Required Precautions:
+-Handle chemicals carefully
+-Be aware of the risks associated with the chemical
+-Use personal protective equipment (PPE)
+
+TABLE 1.04: সাংকেতিক চিহ্ন ও সাংকেতিক চিহ্নবিশিষ্ট পদার্থের ঝুঁকি / Table 1.04: Symbolic signs and risks of substances with symbolic signs
+
+EXPLOSIVE SUBSTANCE
+Bengali Definition: এ চিহ্নবিশিষ্ট পদার্থ থেকে খুব সাবধান থাকতে হবে। এসব পদার্থ ব্যবহারের সময় মনে রাখতে হবে এসব পদার্থে আগুন লাগলে প্রচণ্ড বিস্ফোরন হতে পারে, যার জন্য শরীরের এবং গবেষণাগারের মারাত্মক ক্ষতি হতে পারে। তাই এ দ্রব্যগুলো খুব সাবধানে নাড়াচাড়া করতে হয়। টিএনটি, পার-অক্সাইড, নাইট্রোগ্লিসারিন ইত্যাদি এ ধরনের বিস্ফোরক পদার্থ।
+English Translation:  Be very careful with substances marked with this symbol.  Remember when handling these substances that they can explode violently if exposed to fire, causing serious damage to the body and the laboratory. Therefore, these materials must be handled very carefully. TNT, peroxides, nitroglycerin, etc. are examples of explosive substances.
+
+FLAMMABLE SUBSTANCE
+Bengali Definition: অ্যালকোহল, ইথার ইত্যাদি দাহ্য পদার্থ। এসব পদার্থে দ্রুত আগুন ধরে যেতে পারে। তাই এদের আগুন বা তাপ থেকে সব সময় দূরে রাখতে হবে।
+English Translation: Alcohol, ether, etc. are flammable substances. These substances can catch fire quickly. Therefore, they should always be kept away from fire or heat.
+
+TOXIC SUBSTANCE
+Bengali Definition: এ চিহ্নধারী পদার্থ বিষাক্ত প্রকৃতির। তাই শরীরে লাগলে বা শ্বাস-প্রশ্বাস অথবা ক্ষতের মাধ্যমে শরীরে প্রবেশ করলে শরীরের নানা ধরনের ক্ষতি হতে পারে। বেনজিন, ক্লোরোবেনজিন, মিথানল এ ধরনের পদার্থ। এ ধরনের পদার্থ ব্যবহারের সময় অ্যাপ্রোন, হ্যান্ড গ্লাভস, সেফটি গগলস, মাস্ক ইত্যাদি ব্যবহার করতে হবে।
+English Translation: Substances with this symbol are toxic. Therefore, if they enter the body through the skin, respiration, or cuts, they can cause various types of harm. Benzene, chlorobenzene, methanol, etc. are examples of such substances. When using these substances, wear an apron, hand gloves, safety goggles, a mask, etc.
+
+IRRITANT SUBSTANCE
+Bengali Definition: ডাস্ট, লঘু এসিড, ক্ষার, নাইট্রাস অক্সাইড ইত্যাদি উত্তেজক পদার্থ। এগুলো ত্বক, চোখ, শ্বাসতন্ত্র ইত্যাদির ক্ষতি করে। তাই এ ধরনের পদার্থ ব্যবহারের সময় অ্যাপ্রোন, হ্যান্ড গ্লাভস, সেফটি গগলস ব্যবহার করতে হবে।
+English Translation: Dust, dilute acids, bases, nitrous oxide, etc. are irritant substances. These substances can damage the skin, eyes, and respiratory system. Therefore, when using these substances, wear an apron, hand gloves, and safety goggles.
+
+HEALTH RISK SUBSTANCE
+Bengali Definition: এ ধরনের পদার্থ ত্বকে লাগলে বা শ্বাসপ্রশ্বাসের সাথে শরীরের ভেতরে গেলে তা শরীরের স্বল্পমেয়াদি বা দীর্ঘমেয়াদি ক্ষতিসাধন করে। এগুলো শরীরে প্রবেশ করলে ক্যানসারের মতো কঠিন রোগ কিংবা শ্বাসতন্ত্রের ক্ষতি হতে পারে। বেনজিন, টলুইন, জাইলিন ইত্যাদি এ ধরনের পদার্থ। তাই এগুলোকে সতর্কভাবে রাখতে হবে এবং ব্যবহারের সময় অ্যাপ্রোন, হ্যান্ড গ্লাভস, সেফটি গগলস ও মাস্ক পরে নিতে হবে।
+English Translation: If substances of this type come into contact with the skin or enter the body through the respiratory system, they can cause short-term or long-term damage to the body. If these substances enter the body, they can cause serious illnesses like cancer or damage to the respiratory system. Benzene, toluene, xylene, etc. are examples of these substances. Therefore, these substances must be kept with caution, and during use, wear an apron, hand gloves, safety goggles, and a mask.
+
+
+CHAPTER TITLE: Not available from the provided page / Not available from the provided page
+CHAPTER NUMBER: Not available from the provided page
+PAGE NUMBER: 14
+MAIN TOPICS: Hazardous substances, environmental pollution, safety precautions
+
+DIAGRAM TITLE: তেজস্ক্রিয় পদার্থ (Radioactive substance)
+Description: A yellow diamond shape with a black trefoil symbol in the center, indicating a radioactive substance.
+Components: Trefoil symbol, yellow diamond background
+Chemical Labels: None visible
+Safety Notes: These substances emit harmful radiation that can cause cancer and disabilities. Special care should be taken when handling them.
+Purpose: To visually identify radioactive materials.
+
+DIAGRAM TITLE: পরিবেশের জন্য ক্ষতিকর (Dangerous for environment)
+Description: A yellow diamond shape with a black stylized tree and dead fish image, symbolizing substances harmful to the environment.
+Components: Stylized tree, dead fish, yellow diamond background.
+Chemical Labels: None visible.
+Safety Notes: These substances, like lead and mercury, require careful handling. They should be stored in designated areas and recycled when possible to prevent them from harming the environment.
+Purpose: To visually identify materials harmful to the environment.
+
+DIAGRAM TITLE: ক্ষত সৃষ্টিকারী (Corrosive)
+Description: A yellow diamond shape with a black image of a test tube pouring liquid onto a hand with damage shown, indicating corrosive substances.
+Components: Test tube, pouring liquid, hand with damage, yellow diamond background
+Chemical Labels: None visible
+Safety Notes: Direct contact with these substances can cause burns and damage to body tissues. Inhalation can harm internal organs. Examples are Hydrochloric Acid, Sulfuric Acid, Sodium Hydroxide concentrated solutions.
+Purpose: To visually identify corrosive materials.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+RADIOACTIVE SUBSTANCES
+Bengali Definition: এসব পদার্থ থেকে ক্ষতিকারক রশ্মি বের হয় যা ক্যানসারের মতো মরণব্যাধি সৃষ্টি করতে পারে কিংবা একজনকে বিকলাঙ্গ করে দিতে পারে। তাই এসব পদার্থ ব্যবহারের সময় বিশেষ সতর্ক থাকা প্রয়োজন। ইউরেনিয়াম, রেডিয়াম ইত্যাদি তেজস্ক্রিয় পদার্থ।
+English Translation: These substances emit harmful radiation that can cause fatal diseases like cancer or disabilities. Therefore, special precautions must be taken while handling these substances. Examples include Uranium and Radium.
+Related Chemical Equations: None given.
+Examples: Uranium, Radium
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+ENVIRONMENTALLY HAZARDOUS SUBSTANCES
+Bengali Definition: এ পদার্থগুলো পরিবেশের জন্য ক্ষতিকর। এ ধরনের পদার্থের উদাহরণ হলো লেড, মার্কারি ইত্যাদি। তাই এগুলোকে ব্যবহার করার সময় যথেষ্ট সতর্ক হওয়া প্রয়োজন। ব্যবহারের পরে এগুলো যেখানে-সেখানে না ফেলে একটি নির্দিষ্ট স্থানে রাখতে হবে। এসব পদার্থকে যথাসম্ভব পুনরুদ্ধার করে আবার ব্যবহার করার চেষ্টা করতে হবে। তাহলে এগুলো সহজে পরিবেশে ছড়িয়ে পড়তে পারবে না।
+English Translation: These substances are harmful to the environment. Examples include lead and mercury. Sufficient caution is necessary during usage, and proper disposal in designated places is mandatory after use. Efforts should be made to recycle these materials so that they don't easily spread in the environment.
+Related Chemical Equations: None given.
+Examples: Lead, Mercury
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+CORROSIVE SUBSTANCES
+Bengali Definition: এ পদার্থগুলো শরীরে লাগলে শরীরে ক্ষতের সৃষ্টি হয়। শ্বাস-প্রশ্বাসের সাথে গ্রহণ করলে তা শরীরের ভেতরের অঙ্গেরও ক্ষতিসাধন করতে পারে। হাইড্রোক্লোরিক এসিড, সালফিউরিক এসিড, সোডিয়াম হাইড্রোক্সাইডের ঘন দ্রবণ এ জাতীয় পদার্থের উদাহরণ।
+English Translation: These substances cause damage to the body if they come into contact with it. Inhalation can harm internal organs. Examples include concentrated solutions of Hydrochloric acid, Sulfuric acid and Sodium Hydroxide.
+Related Chemical Equations: None given
+Examples: Hydrochloric acid, Sulfuric acid, concentrated Sodium Hydroxide solution
+
+QUESTIONS AND PROBLEMS:
+Question 1
+নিচের কোন পদার্থটির ব্যবহারে পরিবেশের সবচেয়ে বেশি ক্ষতি হয়?
+Translation: Which of the following substances causes the most damage to the environment when used?
+Type: Multiple choice
+Chemical Components:  preservatives, pesticides, alcohol/ether, fertilizers
+Key Concept: Environmental impact of chemicals
+
+SAFETY ALERT
+HAZARD DESCRIPTION: Radioactive substances emit harmful radiation, corrosive substances cause tissue damage, and environmental pollutants can harm ecosystems.
+REQUIRED PRECAUTIONS: Handle radioactive substances with extreme care, use protective equipment for corrosive substances, and dispose of pollutants in designated locations.
+EMERGENCY PROCEDURES: Seek immediate medical attention for radiation exposure or burns. For accidental exposure to pollutants, notify authorities and follow safety protocols.
+PROTECTIVE EQUIPMENT: Wear appropriate radiation shielding, gloves, and eye protection. Handle hazardous substances in well-ventilated areas, use respirators for inhalation hazards.
+
+
+CHAPTER TITLE: রসায়নের ধারণা / Concepts of Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 15
+MAIN TOPICS: Chemical safety symbols, Alloys, Real-world applications of chemistry
+
+QUESTION 2
+নিচের সাংকেতিক চিহ্নটি কী প্রকাশ করে?
+Translation: What does the following symbolic sign represent?
+Type: Multiple choice
+Chemical Components: None
+Key Concept: Chemical safety symbols
+
+(ক) বিস্ফোরক পদার্থ / (a) Explosive substance
+(খ) দাহ্য পদার্থ / (b) Flammable substance
+(গ) তেজস্ক্রিয় রশ্মি / (c) Radioactive rays
+(ঘ) আগুনের শিখা / (d) Flame
+
+QUESTION 3
+নিচের কোন চিহ্নটি তেজস্ক্রিয় রশ্মি নির্দেশ করে?
+Translation: Which of the following symbols indicates radioactive rays?
+Type: Multiple choice
+Chemical Components: None
+Key Concept: Chemical safety symbols
+
+(ক) [Image of an exploding bomb]
+(খ) [Image of a flame above a tree]
+(গ) [Image of a radioactive symbol]
+(ঘ) [Image of a person silhouette within a diamond]
+
+QUESTION 4
+কপারের সাথে অন্য কোন ধাতুকে গলিয়ে ব্রোঞ্জ তৈরি করা হয়?
+Translation: Which other metal is melted with copper to make bronze?
+Type: Multiple choice
+Chemical Components: Copper, Bronze
+Key Concept: Alloys
+
+(ক) লোহা / (a) Iron
+(খ) জিংক / (b) Zinc
+(গ) টিন / (c) Tin
+(ঘ) লেড / (d) Lead
+
+CREATIVE QUESTION 1
+DIAGRAMS A & B
+Description: Diagram A shows a person holding a medicine cup, and diagram B shows a farmer spraying pesticides in a field.
+Components: A: person, medicine cup B: farmer, pesticide sprayer, field
+Chemical Labels: None
+Safety Notes: Observe safety measures while taking medicine and using pesticides.
+Purpose: To illustrate real-world applications of chemistry
+
+QUESTION 1(K)
+গবেষণা কী?
+Translation: What is research?
+Type: Short answer
+Chemical Components: None
+Key Concept: Scientific investigation
+
+QUESTION 1(KH)
+পাকা আম খেতে মিষ্টি লাগে কেন?
+Translation: Why do ripe mangoes taste sweet?
+Type: Short answer
+Chemical Components: Sugars in mangoes
+Key Concept: Chemical composition of food
+
+QUESTION 1(G)
+উদ্দীপকের A নং চিত্রে রসায়ন কীভাবে সম্পর্কিত-ব্যাখ্যা করো।
+Translation: How is chemistry related to figure A of the stimulus - explain.
+Type: Analytical
+Chemical Components: Medications
+Key Concept: Role of chemistry in medicine
+
+QUESTION 1(GH)
+উদ্দীপকের কোনটির অতিরিক্ত ব্যবহার পরিবেশের জন্য ক্ষতিকর- যুক্তিসহ লেখো।
+Translation: Which of the stimulus if overused is harmful to the environment - write with justification
+Type: Analytical
+Chemical Components: Pesticides
+Key Concept: Environmental impact of chemicals
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 16
+MAIN TOPICS: Chemical safety symbols, hazards of chemicals
+
+DIAGRAM TITLE: চিত্র-1 / Figure-1
+Description: A yellow diamond with a black border. Inside is a black flame symbol indicating flammable or combustible materials.
+Components: Diamond-shaped yellow background, Black Flame symbol
+Chemical Labels: Not applicable
+Safety Notes: Indicates the presence of flammable material; avoid open flames, heat sources, and sparks.
+Purpose:  To denote flammable chemical substances
+
+DIAGRAM TITLE: চিত্র-2 / Figure-2
+Description: A yellow diamond with a black border. Inside is a black skull and crossbones symbol indicating toxic or poisonous substances.
+Components: Diamond-shaped yellow background, Black skull and crossbones symbol
+Chemical Labels: Not applicable
+Safety Notes: Indicates the presence of toxic or poisonous materials. Avoid ingestion, inhalation, and skin contact.
+Purpose: To denote toxic or poisonous chemical substances
+
+DIAGRAM TITLE: চিত্র-3 / Figure-3
+Description: A yellow diamond with a black border. Inside is a black trefoil symbol, indicating radioactive material.
+Components: Diamond-shaped yellow background, Black trefoil symbol
+Chemical Labels: Not applicable
+Safety Notes: Indicates radioactive material, avoid direct contact, prolonged exposure, and follow specific handling procedures.
+Purpose: To denote radioactive chemical substances
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+(ক) রসায়ন কী?
+Translation: (a) What is chemistry?
+Type: Short answer
+Chemical Components: Not applicable
+Key Concept: Definition of chemistry
+
+Question 2
+(খ) পেটে এসিডিটির জন্য এন্টাসিড খাওয়া হয় কেন?
+Translation: (b) Why are antacids taken for stomach acidity?
+Type: Short answer
+Chemical Components: Acids, bases, antacids
+Key Concept: Acid-base neutralization
+
+Question 3
+(গ) চিত্র-ও এর সাংকেতিক চিহ্নবিশিষ্ট রাসায়নিক পদার্থ মানুষের কী কী ক্ষতিসাধন করে- ব্যাখ্যাসহ লেখো।
+Translation: (c) What kinds of harm do chemical substances with the symbolic sign of figure-3 cause to humans? Write with explanation.
+Type: Analytical
+Chemical Components: Radioactive material
+Key Concept: Hazards of radioactivity
+
+Question 4
+(ঘ) চিত্র-1 ও চিত্র-2 এর সাংকেতিক চিহ্নবিশিষ্ট রাসায়নিক পদার্থসমূহের ব্যবহার কেন ঝুঁকিপূর্ণ- ব্যাখ্যা করো।
+Translation: (d) Why is the use of chemical substances with the symbolic signs of figures 1 and 2 risky? Explain.
+Type: Analytical
+Chemical Components: Flammable and toxic substances
+Key Concept: Hazards of flammability and toxicity
+
+---
+
+

@@ -1,0 +1,1607 @@
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: 10
+PAGE NUMBER: 30
+MAIN TOPICS: Mineral resources, Metals, Non-metals
+
+DIAGRAM TITLE
+নানা বর্ণের খনিজ পাথর। / Various colored mineral stones.
+Description: A photograph of various polished mineral stones of different colors and shapes piled together. Some are translucent, some opaque, and some have bands of color.
+Components: Polished mineral stones
+Chemical Labels: None
+Safety Notes: None
+Purpose: To visually introduce the concept of minerals.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+খনিজ সম্পদ / Mineral Resources
+Bengali Definition:  এদের মধ্যে অনেক পদার্থ খনি থেকে পাওয়া যায়।
+English Translation:  Many substances are found from mines.
+
+METALS AND NONMETALS
+Bengali Definition:  কীভাবে খনি থেকে ধাতু ও অধাতু পাওয়া যায়?
+English Translation: How are metals and nonmetals obtained from mines?
+
+CONSERVATION OF MINERALS
+Bengali Definition: আবার সেগুলোকে কীভাবে সংরক্ষণ করা যায় বা এগুলো থেকে কীভাবে অন্য কোনো প্রয়োজনীয় সামগ্রী তৈরি করা যায় সেগুলো নিয়েই এ অধ্যায়ে আলোচনা করা হবে।
+English Translation: How can they be conserved, or how can other useful materials be made from them? These will be the topics discussed in this chapter.
+---
+
+CHAPTER TITLE:  রাসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 234
+MAIN TOPICS: Mineral resources, Comparison of rocks, minerals and ores, Metal extraction
+
+•	এ অধ্যায় পাঠ শেষে আমরা / After completing this chapter we will be able to:
+•	খনিজ সম্পদের ধারণা দিতে পারব। / Be able to explain the concept of mineral resources.
+•	শিলা, খনিজ ও আকরিকের মধ্যে তুলনা করতে পারব। / Be able to compare rocks, minerals, and ores.
+•	ধাতুসমূহের নিষ্কাশনের উপযুক্ত উপায় নির্ধারণ করতে পারব। / Be able to determine appropriate methods for metal extraction.
+•	ধাতুসংকর তৈরির কারণ ব্যাখ্যা করতে পারব। / Be able to explain the reasons for making alloys.
+•	সালফারের উৎস এবং এদের কতিপয় প্রয়োজনীয় যৌগ প্রস্তুতের বিক্রিয়া, রাসায়নিক ধর্মের বর্ণনা এবং গৃহে, শিল্পে ও কৃষিক্ষেত্রে তা ব্যবহারের গুরুত্ব বিশ্লেষণ করতে পারব। / Be able to analyze the importance of sulfur's sources, its reaction to produce several compounds, its chemical properties, and its uses in homes, industries, and agriculture.
+•	খনিজ দ্রব্যের সসীমতা, যথাযথ ব্যবহার ও পুনর্ব্যবহারের গুরুত্ব বিশ্লেষণ করতে পারব। / Be able to analyze the importance of the limited nature of mineral resources, their proper use, and reuse.
+•	খনিজ দ্রব্যের ব্যবহারে সতর্কতা এবং সংরক্ষণে আগ্রহ প্রদর্শন করতে পারব। / Be able to show interest in caution and conservation in the use of mineral resources.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: 10
+PAGE NUMBER: 235
+MAIN TOPICS: Mineral resources, Rock composition
+
+10.1 খনিজ সম্পদ (Mineral Resources)
+
+খনিজ সম্পদ: আমাদের প্রয়োজনীয় বিভিন্ন ধাতু, অধাতু, উপধাতু বা তাদের বিভিন্ন যৌগ প্রকৃতিতে মাটি, পানি কিংবা বায়ুমণ্ডল থেকে সংগ্রহ করা হয়। মাটি, পানি বা বায়ুমণ্ডলের যে অংশ থেকে এগুলোকে সংগ্রহ করা হয় তাকে খনিজ বলে।
+_English Translation: Mineral resources: Our necessary various metals, non-metals, metalloids, or their various compounds are collected from soil, water, or the atmosphere in nature. The part of soil, water, or the atmosphere from which these are collected is called a mineral._
+
+খনিজ কঠিন হতে পারে, যেমন-লোহা বা তামার খনিজ। তরল হতে পারে, যেমন-পেট্রোলিয়াম বা খনিজ তেলের খনিজ, আবার গ্যাসীয় হতে পারে যেমন-প্রকৃতিক গ্যাসের খনিজ।
+_English Translation: Minerals can be solid, such as iron or copper minerals. It can be liquid, like petroleum or mineral oil, or gaseous, like natural gas minerals._
+
+আমাদের দেশে প্রচুর পরিমাণ প্রাকৃতিক গ্যাস পাওয়া যায় যা রান্নার কাজে, যানবাহনের জ্বালানি হিসেবে, বিদ্যুৎ উৎপাদনে বা বিভিন্ন শিল্পকারখানায় কাঁচামাল হিসেবে ব্যবহার করা হচ্ছে।
+_English Translation: In our country, a large amount of natural gas is found which is used for cooking, as fuel for vehicles, in electricity generation, or as raw material in various industries._
+
+মধ্যপ্রাচ্যের বিভিন্ন দেশে পেট্রোলিয়ামের খনিজ রয়েছে, যা তারা সারা পৃথিবীতে রপ্তানি করছে এবং সমস্ত পৃথিবীর খনিজ তেলের চাহিদা পূরণ করছে।
+_English Translation: Various countries in the Middle East have petroleum minerals, which they export all over the world and fulfill the demand for mineral oil of the whole world._
+
+দক্ষিণ আফ্রিকাতে রয়েছে সোনা ও হীরার খনিজ।
+_English Translation: South Africa has gold and diamond minerals._
+
+এছাড়া বিভিন্ন দেশে বিভিন্ন ধরনের খনিজ পাওয়া যায়, যা দেশ তথা সমগ্র পৃথিবীর উন্নয়নে মুখ্য ভূমিকা পালন করছে। কঠিন, তরল বা গ্যাসীয় এ খনিজগুলোকে একত্রে খনিজ সম্পদ বলা হয়।
+_English Translation: In addition, different types of minerals are found in different countries, which play a major role in the development of the country and the entire world. These solid, liquid, or gaseous minerals are collectively called mineral resources._
+
+DIAGRAM TITLE: ভূত্বকের প্রধান প্রধান উপাদান / Main components of the Earth's crust
+Description: A pie chart showing the percentage composition of various elements in the Earth's crust. The largest segment is Oxygen followed by Silicon, then Aluminum, Iron, Calcium, Sodium, Potassium, Magnesium and others.
+Components:
+- Oxygen
+- Silicon
+- Aluminum
+- Iron
+- Calcium
+- Sodium
+- Potassium
+- Magnesium
+- Others
+Chemical Labels: None shown in diagram
+Safety Notes: N/A
+Purpose: To illustrate the relative abundance of different elements in the earth's crust
+
+10.1.2 শিলা (Rocks)
+
+বিভিন্ন খনিজ পদার্থ মিশ্রিত হয়ে কিছু শক্ত কণা তৈরি হয়, ঐ শক্ত কণাসমূহ একত্র হয়ে যে পদার্থ তৈরি হয় তাকে শিলা বলে।
+_English Translation: Various mineral substances are mixed to form some hard particles, and the substance formed by the combination of these hard particles is called rock._
+
+এসব শিলা যেভাবে তৈরি হয়েছে তার উপর ভিত্তি করে শিলা সাধারণত তিন প্রকার: (i) আগ্নেয় শিলা, (ii) পাললিক শিলা ও (iii) রূপান্তরিত শিলা
+_English Translation: Based on how these rocks are formed, rocks are generally of three types: (i) Igneous rocks, (ii) Sedimentary rocks and (iii) Metamorphic rocks._
+
+
+CHAPTER TITLE: শিলা ও খনিজ / Rocks and Minerals
+CHAPTER NUMBER: 10
+PAGE NUMBER: 236
+MAIN TOPICS: Types of Rocks, Rock Formation, Earth Layers
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+আগ্নেয় শিলা (Igneous Rock)
+Bengali Definition: আগ্নেয়গিরি থেকে যে গলিত পদার্থসমূহের মিশ্রণ বের হয় তাকে ম্যাগমা বলে। ম্যাগমা যখন ঠান্ডা হয়ে কঠিন পদার্থে পরিণত হয় তখন তাকে আগ্নেয় শিলা বলে।
+English Translation: The mixture of molten substances that comes out of a volcano is called magma. When magma cools and solidifies, it is called igneous rock.
+Examples: গ্রানাইট / Granite
+
+পাললিক শিলা (Sedimentary Rock)
+Bengali Definition: আবহাওয়া ও জলবায়ু ইত্যাদি পরিবর্তনের ফলে বৃষ্টির পানি, বাতাস, কুয়াশা, ঝড় ইত্যাদির কারণে মাটির উপরিভাগের ভূ-ত্বকের কাদামাটি, বালিমাটি ইত্যাদি ধুয়ে কোনো কোনো জায়গায় পলি আকারে জমা হয় তারপরে পলির মধ্যে জমে থাকা কণাগুলো বিভিন্ন স্তরে স্তরে সজ্জিত হয়ে যে শিলা তৈরি হয় তাকে পাললিক শিলা বলে।
+English Translation: Due to changes in weather and climate, rainwater, wind, fog, storms, etc. wash away mud, sand, etc. from the surface of the earth and deposit them as sediment in certain places. The particles that accumulate within the sediment are arranged in layers to form sedimentary rocks.
+Examples: বেলেপাথর / Sandstone
+
+রূপান্তরিত শিলা (Metamorphic Rock)
+Bengali Definition: আগ্নেয় শিলা, পাললিক শিলা বিভিন্ন তাপ ও চাপে পরিবর্তিত হয়ে নতুন ধরনের যে শিলা তৈরি হয় সেগুলোকে রূপান্তরিত শিলা বলে।
+English Translation: Metamorphic rocks are formed when igneous and sedimentary rocks are transformed under different temperatures and pressures.
+Examples: কয়লা / Coal
+
+DIAGRAM TITLE: চিত্র 10.02: আগ্নেয় শিলা, পাললিক শিলা এবং রূপান্তরিত শিলা / Figure 10.02: Igneous Rock, Sedimentary Rock, and Metamorphic Rock
+Description: Three images are shown side by side. The first image shows molten rock, representing igneous rock. The second image depicts layers of rock, representing sedimentary rock. The third image shows a pile of dark, chunk-like material, representing metamorphic rock.
+Components: Igneous rock image, Sedimentary rock image, Metamorphic rock image
+Chemical Labels: None shown
+Safety Notes: None
+Purpose: To visually show examples of three types of rock formations.
+
+DIAGRAM TITLE: চিত্র 10.03: শিলার বিভিন্ন স্তর / Figure 10.03: Different Layers of Rocks
+Description: An illustration of a cross-section of the earth showing different layers.
+Components: Different colored layers of the earth’s crust
+Chemical Labels: None shown
+Safety Notes: None
+Purpose: To show the arrangement of different rock layers beneath the earth's surface
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+মাটির নিচে শিলার বিভিন্ন স্তর সৃষ্টির প্রক্রিয়া / The process of creating different rock layers under the soil
+Bengali Definition: মাটির নিচে শিলা বিভিন্ন স্তরে সজ্জিত থাকে।
+English Translation: Rocks are arranged in different layers under the soil.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+
+```
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Nonmetals
+CHAPTER NUMBER: 10
+PAGE NUMBER: 237
+MAIN TOPICS: Minerals, Ores, Metal Extraction
+
+খনিজ (Minerals): মাটির উপরিভাগে বা মাটির তলদেশে যেসকল পদার্থ থেকে আমরা প্রয়োজনীয় দ্রবাদি যেমন-বিভিন্ন প্রকার ধাতু বা অধাতু ইত্যাদি সংগ্রহ করে থাকি তাদেরকে খনিজ বলা হয়। (Minerals: Substances found on or beneath the Earth’s surface from which we obtain necessary materials, such as various metals or nonmetals, are called minerals.)
+যে অঞ্চল থেকে খনিজ উত্তোলন করা হয় তাকে খনি বলে। (The area from which minerals are extracted is called a mine.)
+
+আকরিক (Ores)
+যে সকল খনিজ থেকে লাভজনকভাবে ধাতু বা অধাতুকে সংগ্রহ বা নিষ্কাশন করা যায় সে সকল খনিজকে আকরিক বলে। (Ores: Minerals from which metals or nonmetals can be profitably extracted are called ores.)
+যেমন—গ্যালেনা (PbS) থেকে লাভজনকভাবে লেড ধাতু নিষ্কাশন করা যায়, তাই গ্যালেনাকে লেড ধাতুর আকরিক বা লেড ধাতুর খনিজ বলা হয়। (For example, lead can be profitably extracted from galena (PbS), so galena is called an ore of lead or a mineral of lead.)
+বক্সাইট থেকে লাভজনকভাবে অ্যালুমিনিয়াম ধাতু নিষ্কাশন করা যায়। (Aluminum metal can be profitably extracted from bauxite.)
+অতএব বক্সাইটকে অ্যালুমিনিয়ামের আকরিক বা খনিজ বলা হয়। (Therefore, bauxite is called an ore or mineral of aluminum.)
+আবার, কাদামাটি থেকে লাভজনকভাবে অ্যালুমিনিয়াম ধাতু নিষ্কাশন করা যায় না, সেজন্য কাদামাটি শুধু অ্যালুমিনিয়ামের খনিজ কিন্তু আকরিক নয়। (However, aluminum metal cannot be profitably extracted from clay, so clay is only a mineral of aluminum, but not an ore.)
+অতএব, আমরা বলতে পারি আকরিক হলে সেটা অবশ্যই খনিজ হবে কিন্তু খনিজ হলে সেটা আকরিক নাও হতে পারে। (Thus, we can say that if a substance is an ore, it is definitely a mineral, but if it is a mineral, it may or may not be an ore.)
+
+আয়রনের সালফাইডকে আয়রন পাইরাইটস (FeS₂) বলা হয়। (Iron sulfide is called iron pyrite (FeS₂).)
+আয়রন পাইরাইটস থেকে আয়রন ধাতু নিষ্কাশন করা যায়। (Iron metal can be extracted from iron pyrite.)
+
+খনিজ সম্পদের অবস্থান
+আগে মনে করা হতো যে শুধু ভূগর্ভে বা মাটির নিচেই বুঝি খনিজ পদার্থ পাওয়া যায়। (Previously, it was believed that minerals were only found underground or beneath the earth.)
+এখন আর এ ধারণা সঠিক বলা যায় না। (This concept is no longer considered accurate.)
+কোনো কোনো খনিজ ভূগর্ভে আবার কোনো কোনো খনিজ ভূপৃষ্ঠে পাওয়া যায়। (Some minerals are found underground, while others are found on the surface.)
+সালফার খনিজ ভূগর্ভে পাওয়া যায়। (Sulfur minerals are found underground.)
+নেত্রকোনার বিজয়পুরে সাদা মাটি বা কেউলিন খনিজ ভূপৃষ্ঠেই পাওয়া যায়। (White clay or kaolin minerals are found on the surface in Bijoypur, Netrokona.)
+কক্সবাজারের সমুদ্রের বালিতে জিরকোনিয়ামের খনিজ জিরকন, আবার লোহার খনিজ হেমাটাইট, অ্যালুমিনিয়ামের খনিজ বক্সাইট এগুলো অনেক জায়গাতে ভূপৃষ্ঠেই পাওয়া যায়। (Zircon, a mineral of zirconium, is found in the sands of the Cox’s Bazar sea, and hematite, a mineral of iron, and bauxite, a mineral of aluminum, are also found on the surface in many places.)
+হ্যালোজেনসমূহের খনিজ সমুদ্রের পানিতে পাওয়া যায়। (Minerals of halogens are found in sea water.)
+
+10.2 ধাতু নিষ্কাশন (Metal Extraction)
+যে পদ্ধতিতে আকরিক থেকে ধাতু সংগ্রহ করা হয় তাকে ধাতু নিষ্কাশন বলে। (The process by which metals are extracted from ores is called metal extraction.)
+বিভিন্ন ধাতুর ধর্মও বিভিন্ন। (The properties of different metals vary.)
+সে কারণে সকল ধাতুকে পৃথক করতে নির্দিষ্ট কোনো একটি প্রক্রিয়া নেই। (Therefore, there is no single specific process for separating all metals.)
+তাই বিভিন্ন...
+```
+
+CHAPTER TITLE: ধাতুর নিষ্কাশন / Metal Extraction
+CHAPTER NUMBER: Not explicitly mentioned on page
+PAGE NUMBER: 238
+MAIN TOPICS: Metal extraction, ore processing, ore concentration
+
+(i) আকরিককে চূর্ণ-বিচূর্ণ করা / Crushing of Ore
+সাধারণত খনি থেকে যে আকরিককে উত্তোলন করা হয় তা যদি বড় এবং কঠিন শিলাখণ্ড হয় তবে এই কঠিন শিলাকে চূর্ণ-বিচূর্ণ করা হয়। প্রথমে শিলাখণ্ডকে জো ক্রাশারের সাহায্যে ছোট ছোট টুকরায় পরিণত করা হয় এবং তারপর বল ক্রাশারের সাহায্যে আকরিকের ছোট ছোট টুকরাকে মিহি দানায় বা পাউডারে পরিণত করা হয়।
+Translation: Usually, the ore extracted from mines is in the form of large and hard rock fragments which need to be crushed. Initially, the rock fragments are turned into small pieces using a jaw crusher and then these small pieces are further converted into fine granules or powder using a ball crusher.
+
+(ii) আকরিক এর ঘনীকরণ / Concentration of Ore
+সাধারণত যে আকরিক থেকে ধাতু নিষ্কাশন করা হবে সেই আকরিক ব্যতীত অন্যান্য কিছু পদার্থ আকরিকের সাথে মিশ্রিত অবস্থায় থাকে। আকরিকের সাথে মিশ্রিত থাকা এসব পদার্থকে অপদ্রব্য বা খনিজমল বলে। কাজেই আকরিককে যখন চূর্ণ-বিচূর্ণ করে পাউডারের দানায় পরিণত করা হয় তখনো সেই পাউডার দানার মধ্যে বিভিন্ন অপদ্রব্য বা খনিজমল থাকে। যেমন-বক্সাইট আকরিককে খনি থেকে তোলার সময় বক্সাইট আকরিকের সাথে খনিজমল হিসেবে বালি মিশ্রিত থাকে। এই খনিজমলসমূহকে দূর করে বিশুদ্ধ আকরিক পাওয়ার জন্য যে পদ্ধতি প্রয়োগ করা হয় তাকে আকরিকের ঘনীকরণ বলা হয়। আকরিকের ঘনীকরণের জন্য বিভিন্ন পদ্ধতি ব্যবহার করা হয়। যেমন: হাইড্রোলাইটিক পদ্ধতি, চৌম্বকীয় পৃথকীকরণ, ফেনা ভাসমান পদ্ধতি, রাসায়নিক পদ্ধতি ইত্যাদি।
+Translation: Generally, the ore from which the metal is to be extracted has some other substances mixed with it. These substances mixed with the ore are called impurities or gangue. Therefore, even when the ore is turned into powder through crushing, these impurities remain mixed with it. For example, when bauxite ore is extracted from the mine, sand is mixed with it as gangue. The process used to remove these impurities to obtain pure ore is called the concentration of ore. Different methods are used for concentrating the ore, such as: hydraulic method, magnetic separation, froth flotation method, chemical method, etc.
+
+DIAGRAM TITLE: জো ক্রাশার / Jaw Crusher
+Description: The diagram shows a machine used to crush large rocks into smaller pieces.
+Components: The machine consists of a frame, crushing jaws, and a hopper.
+Chemical Labels: None
+Safety Notes: Keep hands clear while operating the crusher. Ensure proper safety measures are followed.
+Purpose: The jaw crusher is used for the primary crushing of rocks into smaller pieces for further processing.
+
+TERM OR PROPERTY NAME: আকরিক / Ore
+Bengali Definition: খনি থেকে উত্তোলন করা ধাতুর যৌগ।
+English Translation: The metallic compound extracted from mines.
+
+TERM OR PROPERTY NAME: অপদ্রব্য / Gangue
+Bengali Definition: আকরিকের সাথে মিশ্রিত থাকা অবাঞ্ছিত পদার্থ।
+English Translation: Unwanted substances mixed with the ore.
+
+TERM OR PROPERTY NAME: খনিজমল / Gangue
+Bengali Definition: আকরিকের সাথে মিশ্রিত থাকা অবাঞ্ছিত খনিজ পদার্থ।
+English Translation: Unwanted mineral substances mixed with the ore.
+
+SAFETY ALERT
+Hazard Description: Operating heavy machinery for crushing ore can be dangerous.
+Required Precautions: Ensure proper training before operating machines. Always wear safety gear.
+Emergency Procedures: In case of an accident, stop the machine immediately and seek assistance.
+Protective Equipment: Safety glasses, gloves, and protective clothing should be worn when handling machinery.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 239
+MAIN TOPICS: Mineral separation techniques, Froth floatation, Hydrolytic method
+
+HYDROLYTIC METHOD
+Bengali: এ পদ্ধতিটি সাধারণত ব্যবহৃত হয় অক্সাইড আকরিকের ক্ষেত্রে। অক্সাইড আকরিকের কণাগুলো ভারী হয়। আর এতে থাকা অপদ্রব্যগুলো কিন্তু তুলনামূলক হালকা হয়। এই পদ্ধতিতে ১টি কম্পমান হেলানো খাঁজকাটা টেবিলের মধ্যে আকরিককে ঢালা হয়, এই আকরিকের উপর দিয়ে পানি প্রবাহিত করা হয়। এতে ভারী আকরিক ঘনীভূত হয়ে খাঁজের মধ্যে পড়ে থাকে এবং হালকা খনিজমলসমূহ পানির প্রবাহে ধৌত হয়ে চলে যায়। এভাবে আকরিক থেকে খনিজমলসমূহ চলে যাবার পর আকরিক গাঢ় হয়।
+English Translation: This method is generally used for oxide ores. Oxide ore particles are heavy. But the impurities present in them are relatively light. In this method, the ore is poured into a vibrating inclined grooved table. Water is passed over the ore. The heavy ore concentrates in the grooves, and the light mineral waste is washed away by the water flow. In this way, after the mineral waste is removed from the ore, the ore becomes concentrated.
+
+FROTH FLOATATION METHOD
+Bengali: এ পদ্ধতিতে সালফাইড আকরিকগুলোকে ঘনীকরণ করা হয়। একটি বড় ট্যাংকে আকরিক নিয়ে এর মধ্যে পানি দেওয়া হয়, তারপর এর মধ্যে অল্প অল্প করে তেল যোগ করা হয়। এরপর এই মিশ্রণের মধ্যে বায়ুপ্রবাহ চালনা করলে সালফাইড আকরিকগুলো তেলে দ্রবীভূত হয় এবং ফেনার আকারে ভেসে উঠে। ফেনাসহ আকরিক পৃথক করে নেওয়া হয় এবং খনিজমল পাত্রের তলায় পড়ে থাকে।
+English Translation: This method is used to concentrate sulfide ores. In a large tank, the ore is mixed with water, then oil is added little by little. Then, when air is blown into this mixture, the sulfide ores dissolve in the oil and float to the top in the form of froth. The ore with froth is separated, and the mineral waste settles at the bottom of the container.
+
+EXPERIMENT TITLE: OIL FROTH FLOTATION METHOD EXPERIMENT
+Purpose: To separate minerals from ore using the froth floatation method.
+Materials Required: Sand, kerosene, spatula, liquid/powder soap, watch glass, a large test tube with stopper, chalcopyrite, galena or hematite ore powder.
+Safety Precautions: Wear appropriate protective gear (gloves, eye protection).  Work in a well-ventilated area. Kerosene is flammable, handle with care.
+Procedure:
+    1. Take a large test tube. Add a mixture of sand and one of the ore powders.
+    2. Seal the test tube with a stopper and shake. Observe if the sand and minerals separate.
+    3. Add a little liquid/powder soap and a few drops of kerosene to the test tube.
+    4. Seal the test tube again with a stopper and shake well.
+    5. Take some of the froth with a spatula and place on watch glass for examination. Examine if there are any minerals in the froth.
+    6. The sand settles at the bottom, but the minerals float in the upper part of the test tube.
+Expected Observations:  The minerals will be collected in the froth at the top, while the sand will settle at the bottom of the test tube.
+Key Learning Points: This experiment demonstrates the use of froth floatation method to separate minerals from ore.
+
+DIAGRAM TITLE: OIL FROTH FLOTATION PROCESS
+Description:  A test tube containing a mixture of ore, water, soap, and kerosene is shown. A layer of froth is at the top of the liquid, with the mineral particles attached to it. The separation of froth using a spatula is shown in another part of the diagram, which has been placed on a watch glass.
+Components: Test tube, liquid, froth, spatula, watch glass, ore particles
+Chemical Labels: None
+Safety Notes: Be careful while using kerosene since it is flammable.
+Purpose: To show the physical setup and the results of the froth floatation method, where the minerals attach to the froth and can be collected separately.
+
+MAGNETIC SEPARATION METHOD
+Bengali: যখন খনিজমল বা আকরিক এদের মধ্যে যেকোনো একটি চুম্বক দ্বারা আকর্ষিত হয় তখন এই পদ্ধতি ব্যবহার করা হয়। এ পদ্ধতিতে চূর্ণীকৃত আকরিককে একটি ঘূর্ণায়মান বেল্টের উপর দিয়ে চালনা করা হয়। বেল্টটি চিত্রের মতো দুইটি ধাতব চাকার সাহায্যে ঘোরে। এই ধাতব চাকা দুইটির একটি চৌম্বক।
+English Translation: This method is used when any one of the mineral wastes or ores is attracted by a magnet. In this method, the crushed ore is passed over a rotating belt. The belt rotates with the help of two metal wheels as shown in the figure. One of these metal wheels is magnetic.
+
+SAFETY ALERT
+Hazard Description: Kerosene is flammable.
+Required Precautions: Handle kerosene with care, avoid open flames, use in a well-ventilated area.
+Protective Equipment: Safety glasses and gloves
+
+Page Reference: 239 (from provided page number at top of text)
+
+
+CHAPTER TITLE: ধাতুর নিষ্কাশন / Metal Extraction
+CHAPTER NUMBER: 10
+PAGE NUMBER: 240
+MAIN TOPICS: Magnetic separation, Chemical method of ore purification
+
+DIAGRAM TITLE: চৌম্বকীয় পৃথকীকরণ / Magnetic Separation
+Description: The diagram shows a conveyor belt system.  A magnetic roller separates magnetic ore from non-magnetic impurities.  The magnetic material is collected below the roller, while non-magnetic materials fall farther away.
+Components: চৌম্বক ধর্ম বিশিষ্ট চাকা (magnetic roller), ঘূর্ণায়মান কেট (rotating belt), অচৌম্বক পদার্থ (non-magnetic substance), চৌম্বক পদার্থ (magnetic substance)
+Chemical Labels: None
+Safety Notes: None
+Purpose: To demonstrate the process of separating magnetic ore from non-magnetic impurities.
+
+CHEMICAL EQUATIONS
+Al2O3.2H2O + 2NaOH  →  2NaAlO2 + 3H2O
+NaAlO2 + 2H2O  →  Al(OH)3↓+ NaOH
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+চৌম্বকীয় পৃথকীকরণ / Magnetic Separation
+Bengali Definition:  চুম্বক দ্বারা আকর্ষিত হয়ে খনিজমলযুক্ত আকরিকের চৌম্বক অংশটি চুম্বক ধর্ম বিশিষ্ট চাকার নিচে এবং কাছে স্তূপ আকারে জমা হয়। অন্যদিকে অচৌম্বক অংশটি একটু দূরে চিত্রের মতো জমা হয়। ফলে আকরিক খনিজমল থেকে পৃথক হয়ে যায়।
+English Translation: The magnetic portion of the ore, attracted by a magnet, is deposited in a pile under and near the magnetic wheel. The non-magnetic portion is deposited a little further away, as shown in the picture. As a result, the ore is separated from the mineral waste.
+Related Chemical Equations: None
+Examples:  ক্রোমাইট FeO.Cr₂O₃, ব্লুটাইল TiO₂ / Chromite FeO.Cr₂O₃, Rutile TiO₂
+
+রাসায়নিক পদ্ধতি / Chemical Method
+Bengali Definition: যে সকল ক্ষেত্রে কোনো পদার্থ আকরিক বা খনিজমলের যেকোনো একটির সাথে বিক্রিয়া করে কিন্তু অন্যটির সাথে বিক্রিয়া করে না সে সকল ক্ষেত্রে আকরিক থেকে খনিজমল অপসারণ করার জন্য রাসায়নিক পদ্ধতি প্রয়োগ করা হয়।
+English Translation: In cases where a substance reacts with one component of an ore or mineral waste but not with another, a chemical method is used to remove the mineral waste from the ore.
+Related Chemical Equations: See above
+Examples: বক্সাইট থেকে অ্যালুমিনিয়াম অক্সাইড / Aluminium oxide from bauxite.
+
+SAFETY ALERT
+Hazard Description: Sodium hydroxide is corrosive.
+Required Precautions: Handle with care. Use appropriate protective equipment such as gloves and goggles when handling NaOH.
+Emergency Procedures: In case of skin contact, wash immediately with plenty of water. In case of eye contact, rinse with water for at least 15 minutes and seek medical attention.
+Protective Equipment: Gloves, goggles, lab coat
+
+EXTRACTION PRIORITY NOTES:
+- Correctly extracted chemical formulas, equations and symbols.
+- Experimental procedure for the extraction of Aluminium oxide using a chemical method is complete and accurately transcribed.
+- Safety information includes hazards, precautions, emergency procedures, and protective equipment.
+- Maintained the bengali and included the english translations.
+- Diagrams described accurately and completely.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 241
+MAIN TOPICS: Calcination, Roasting, Metal Extraction
+
+CHEMICAL EQUATIONS:
+2Al(OH)3  → Al2O3 + 3H2O
+Temperature: 1100°C
+
+Fe2O3.3H2O  → Fe2O3 + 3H2O
+Condition: Δ = তাপ (Heat)
+
+ZnCO3  → ZnO + CO2
+Condition: Δ = তাপ (Heat)
+
+CaCO3  → CaO + CO2
+Condition: Δ = তাপ (Heat)
+
+2PbS + 3O2  → 2PbO + 2SO2
+Condition: Δ = তাপ (Heat)
+
+2ZnS + 3O2 → 2ZnO + 2SO2
+Condition: Δ = তাপ (Heat)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: ভক্ষ্মীকরণ (Calcination)
+Bengali Definition: আকরিককে উপস্থিত ধাতুকে বিজারিত করে পৃথক করার আগে ঘনীভূত আকরিককে গলনাঙ্কের চেয়ে কম তাপমাত্রায় বাতাসের অনুপস্থিতিতে উত্তপ্ত করা হয়। এই প্রক্রিয়াকে ভক্ষ্মীকরণ বলে।
+English Translation: Calcination is the process of heating concentrated ore below its melting point in the absence of air before reducing it to isolate the metal. This process is called calcination.
+Related Chemical Equations: Fe2O3.3H2O  → Fe2O3 + 3H2O , ZnCO3  → ZnO + CO2 , CaCO3  → CaO + CO2
+
+TERM OR PROPERTY NAME: তাপজারণ (Roasting)
+Bengali Definition: সাধারণত সালফাইড আকরিকের তাপজারণ করা হয়। সালফাইড আকরিককে গলনাঙ্কের চেয়ে কম তাপমাত্রায় বাতাসের উপস্থিতিতে উত্তপ্ত করা হয়।
+English Translation: Roasting is generally done for sulfide ores. Sulfide ores are heated at a temperature lower than the melting point in the presence of air.
+Related Chemical Equations:  2PbS + 3O2  → 2PbO + 2SO2 , 2ZnS + 3O2 → 2ZnO + 2SO2
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: অ্যালুমিনিয়াম হাইড্রোক্সাইড (Aluminium Hydroxide)
+Bengali Definition:  অ্যালুমিনিয়াম হাইড্রোক্সাইড।
+English Translation: Aluminium Hydroxide.
+Related Chemical Equations: 2Al(OH)3  → Al2O3 + 3H2O
+
+TERM OR PROPERTY NAME: অ্যালুমিনিয়াম অক্সাইড (Aluminum Oxide)
+Bengali Definition: অ্যালুমিনিয়াম অক্সাইড
+English Translation: Aluminum Oxide
+Related Chemical Equations: 2Al(OH)3  → Al2O3 + 3H2O
+
+TERM OR PROPERTY NAME: বক্সাইট আকরিক (Bauxite Ore)
+Bengali Definition: বক্সাইট আকরিক
+English Translation: Bauxite Ore
+
+TERM OR PROPERTY NAME: ঘনীকৃত আকরিক (Concentrated Ore)
+Bengali Definition: ঘনীকৃত আকরিক
+English Translation: Concentrated Ore
+
+TERM OR PROPERTY NAME: ধাতব অক্সাইড (Metal Oxide)
+Bengali Definition: ধাতব অক্সাইড
+English Translation: Metal Oxide
+
+TERM OR PROPERTY NAME: মুক্ত ধাতু (Free Metal)
+Bengali Definition: মুক্ত ধাতু
+English Translation: Free Metal
+
+TERM OR PROPERTY NAME: বিজারণ (Reduction)
+Bengali Definition: বিজারণ
+English Translation: Reduction
+
+TEXT DESCRIPTION:
+In the upper process, pure aluminum oxide is obtained by concentrating bauxite ore.
+Concentrated ore is converted into oxide by calcination or roasting method.
+Before separating the metal, the concentrated ore is heated below its melting point in the absence of air. In this process, some impurities like carbonate, bicarbonate, and hydroxide are removed as carbon dioxide or water. If these impurities are not removed, they will be difficult to remove later.
+Generally, roasting is performed for sulfide ores. Sulfide ores are heated in the presence of air at a temperature below the melting point. As a result, volatile mineral impurities like sulfides, phosphorus, arsenic etc., are removed as oxides.
+The metal oxide obtained by calcination or roasting of ore is reduced to obtain the metal. This reduction can be done in various ways, such as reduction by electrolysis, carbon reduction, self-reduction, etc. The method of reduction depends on the position of the metal in the activity series. A table is provided below to help you understand easily.
+
+SAFETY INFORMATION:
+There is no explicit safety information present on this page.
+
+
+CHAPTER TITLE: ধাতুর সক্রিয়তা সিরিজ / Metal Activity Series
+CHAPTER NUMBER: 10
+PAGE NUMBER: 282
+MAIN TOPICS: Metal Activity Series, Reduction by Electrolysis, Aluminum Extraction
+
+TABLE 10.01: Metal Activity Series
+
+| Metal Position in Activity Series                          | Metal | Reduction Method                                           |
+|-------------------------------------------------------------|-------|-----------------------------------------------------------|
+| Highly active metals, positioned at the top of the series    | K     | Reduction by electrolysis                                  |
+|                                                             | Na    |                                                           |
+|                                                             | Ca    |                                                           |
+|                                                             | Mg    |                                                           |
+|                                                             | Al    |                                                           |
+| Moderately active metals, positioned in the middle of the series | Zn  | Reduction by carbon reduction method                       |
+|                                                             | Fe    |                                                           |
+|                                                             | Pb    |                                                           |
+| Less active metals, positioned at the bottom of the series    | Cu    | Reduction by self-reduction method                       |
+|                                                             | Hg    |                                                           |
+|                                                             | Ag    |                                                           |
+| Almost inactive metals, positioned at the very bottom of the series   | Pt   | Found in pure form                                         |
+|                                                             | Au    |                                                           |
+
+REDUCTION BY ELECTROLYSIS
+Bengali: তড়িৎ বিশ্লেষণের মাধ্যমে বিজারণ (Reduction by Electrolysis): সক্রিয়তা সিরিজে প্রদর্শিত উপরের দিকে অবস্থিত অধিক সক্রিয় ধাতু K, Na, Ca, Mg, Al ইত্যাদি ধাতুসমূহের জন্য তড়িৎ বিশ্লেষণের মাধ্যমে বিজারণ সম্পন্ন করা হয়। নিচে অ্যালুমিনিয়ামের অক্সাইড থেকে তড়িৎ বিশ্লেষণ পদ্ধতি প্রয়োগ করে অ্যালুমিনিয়াম ধাতু নিষ্কাশন পদ্ধতি বর্ণনা করা হলো।
+English Translation: Reduction by Electrolysis: For highly active metals positioned at the top of the activity series, such as K, Na, Ca, Mg, Al, reduction is done through electrolysis. Below, the method for extracting aluminum metal from aluminum oxide using electrolysis is described.
+
+EXPERIMENTAL PROCEDURE: ALUMINUM EXTRACTION BY ELECTROLYSIS
+Purpose: To extract aluminum metal from aluminum oxide (Al₂O₃).
+Materials Required:
+    - Aluminum oxide (Al₂O₃)
+    - Cryolite (Na₃AlF₆)
+    - Graphite carbon electrodes
+    - Steel container
+    - Battery
+Safety Precautions:
+    - High temperatures are involved, so handle with care.
+    - Avoid direct contact with molten materials.
+Procedure:
+    1. First, melt the solid aluminum oxide.
+    2. Aluminum oxide melts at 2050°C, which is a very high temperature.
+    3. To lower the melting point, cryolite (Na₃AlF₆) is added.
+    4. The melting point of aluminum oxide decreases to 800°C-1000°C with added cryolite.
+    5. The molten mixture of Al₂O₃  contains Al³⁺ and O²⁻ ions.
+    6. The molten mixture is placed in a graphite-lined steel container.
+    7. Carbon rods are immersed into the molten mixture, without touching the steel container.
+    8. The steel container is connected to the negative terminal of the battery.
+Expected Observations:
+    - Aluminum metal will form at the cathode (steel container).
+    - Oxygen gas will form at the anode (carbon rods).
+Key Learning Points:
+    - Electrolysis is used to extract reactive metals.
+    - Cryolite lowers the melting point of aluminum oxide.
+    - Ions are formed in the molten electrolyte.
+
+CHEMICAL EQUATIONS:
+Al₂O₃ → 2Al³⁺ + 3O²⁻
+
+DIAGRAM DESCRIPTION: ELECTROLYTIC CELL FOR ALUMINUM EXTRACTION
+Description: A steel container lined with graphite acts as the cathode. Several graphite rods are placed inside the container as the anode. The container is filled with molten aluminum oxide mixed with cryolite. The container is connected to the negative terminal of a power source. The carbon rods are connected to the positive terminal of the power source.
+Components:
+    - Steel container (cathode)
+    - Graphite lining
+    - Molten aluminum oxide and cryolite mixture
+    - Carbon rods (anode)
+    - Power source (battery)
+Chemical Labels: Al₂O₃, Na₃AlF₆, Al³⁺, O²⁻
+Safety Notes: High temperatures are required, molten materials are corrosive, and proper electrical connections are required.
+Purpose: To demonstrate the electrolytic process of extracting aluminum from its oxide.
+
+SAFETY ALERT
+Hazard Description: Molten aluminum oxide is extremely hot and can cause severe burns.
+Required Precautions: Wear heat-resistant gloves and protective clothing. Use proper equipment and take extreme care when handling molten materials.
+Emergency Procedures: In case of a burn, immediately rinse the affected area with cold water and seek medical attention.
+Protective Equipment: Heat-resistant gloves, protective clothing, and safety glasses.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 243
+MAIN TOPICS: Electrolytic Extraction of Aluminum, Carbon Reduction Method
+
+CHEMICAL EQUATIONS:
+6O2-  → 3O2 + 12e-  [অ্যানোড বিক্রিয়া] / [Anode Reaction]
+2Al3+ + 6e- → 2Al   [ক্যাথোড বিক্রিয়া] / [Cathode Reaction]
+
+ZnO + C  → Zn + CO
+Δ
+FeO + C → Fe + CO
+Δ
+PbO + C → Pb + CO
+Δ
+CuO + C  → Cu + CO
+
+DIAGRAM TITLE: চিত্র 10.07: তড়িৎ বিশ্লেষণের পদ্ধতিতে অ্যালুমিনিয়াম ধাতু নিষ্কাশন। / Figure 10.07: Aluminum metal extraction by electrolysis method.
+DESCRIPTION: The diagram shows an electrolytic cell setup for extracting aluminum. The cell has a steel container lined with graphite. Inside, there is a molten mixture of aluminum oxide and cryolite. Two carbon rods act as electrodes. One is the carbon anode and the other is the carbon cathode.
+COMPONENTS:
+* কার্বন অ্যানোড / Carbon Anode
+* কার্বন ক্যাথোড / Carbon Cathode
+* গলিত অ্যালুমিনিয়াম অক্সাইড এবং ক্রায়োলাইট এর মিশ্রণ / Molten aluminum oxide and cryolite mixture
+* গ্রাফাইটের আন্তরণ যুক্ত স্টিলের পাত্র / Graphite-lined steel container
+* গলিত অ্যালুমিনিয়াম / Molten Aluminum
+CHEMICAL LABELS: None present in the diagram itself
+SAFETY NOTES: Molten salts and high voltages used; Proper safety measures should be followed in real-life applications.
+PURPOSE: To illustrate the electrolytic extraction of aluminum.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+কার্বন বিজারণ পদ্ধতি / Carbon Reduction Method
+Bengali Definition: ধাতব অক্সাইড এর সাথে কার্বনকে উত্তপ্ত করে ধাতু নিষ্কাশন করা হয়।
+English Translation: Metals are extracted by heating metallic oxides with carbon.
+Related Chemical Equations:
+ZnO + C  → Zn + CO
+Δ
+FeO + C → Fe + CO
+Δ
+PbO + C → Pb + CO
+Δ
+CuO + C  → Cu + CO
+Examples: ZnO থেকে Zn ধাতু, FeO থেকে Fe ধাতু, PbO থেকে Pb ধাতু কিংবা CuO থেকে Cu ধাতু / Zn metal from ZnO, Fe metal from FeO, Pb metal from PbO, or Cu metal from CuO.
+
+SAFETY ALERT
+HAZARD DESCRIPTION: Electrolysis involves high temperature and high voltage electricity which can be dangerous
+REQUIRED PRECAUTIONS: Use heat resistant materials, use insulated gloves, ensure adequate ventilation.
+EMERGENCY PROCEDURES:  In case of electrical shock, shut off the power supply immediately, in case of burning seek medical assistance.
+PROTECTIVE EQUIPMENT: Gloves, goggles, heat resistant clothing.
+
+EXTRA NOTES:
+The text mentions that carbon reduction method is used for metals of moderate reactivity in the activity series.
+
+
+CHAPTER TITLE: একক কাজ / Unit Task
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 244
+MAIN TOPICS: Extraction of lead from lead oxide, Auto-reduction, Experimental procedures
+
+EXPERIMENT TITLE: লেড বা সিসার অক্সাইড থেকে ধাতব লেড নিষ্কাশন / Extraction of Metallic Lead from Lead Oxide
+PURPOSE: To extract metallic lead from lead oxide using a reduction reaction.
+MATERIALS REQUIRED:
+ - হলুদ বর্ণের লেড অক্সাইড (Yellow Lead Oxide)
+ - এক টুকরা সাদা কাগজ (A piece of white paper)
+ - বুনসেন বার্নার/স্পিরিট ল্যাম্প (Bunsen burner/Spirit lamp)
+ - দিয়াশলাইয়ের কাঠি (Matchsticks)
+SAFETY PRECAUTIONS:
+ - লেড, লেড অক্সাইড ও এর বাষ্প বিষাক্ত পদার্থ (Lead, lead oxide and their vapors are poisonous)
+ - একে খালি হাতে স্পর্শ করবে না (Do not touch with bare hands).
+ - এর বাষ্প শ্বাস-প্রশ্বাসের সাথে টেনে নিবে না (Do not inhale the vapors).
+PROCEDURE:
+ 1. প্রথমে বার্নারের শিখাটি ছোট করে নাও। (First, reduce the size of the burner flame)
+ 2. একটি দিয়াশলাইয়ের কাঠি এমনভাবে পোড়াও যেন বারুদের কোনো অবশেষ না থাকে। (Burn a matchstick in such a way that there is no residue of gunpowder)
+ 3. দিয়াশলাইয়ের কাঠির কয়লা হয়ে যাওয়া অংশটি পানিতে ভিজিয়ে একটু লেড অক্সাইড যুক্ত করো। (Dip the charred end of the matchstick in water and add a little lead oxide)
+ 4. দিয়াশলাইয়ের কাঠির লেড অক্সাইড যুক্ত মাথাটি বার্নারের আগুনে ধরো এবং উজ্জ্বল ধূসর বর্ণের গলিত লেডের ছোট্ট বিন্দু সৃষ্টি হয় কি না তা লক্ষ করো। (Hold the lead oxide-coated end of the matchstick in the burner flame and observe whether a small droplet of molten, bright grey lead forms)
+ 5. দিয়াশলাইয়ের কাঠিটি ঠাণ্ডা হতে দাও। একে একটি সাদা কাগজের উপরে রেখে লেড কণা খুঁজে বের করো। প্রয়োজনে একটি আতসি কাচ (লেন্স) ব্যবহার করো। পর্যবেক্ষণে যদি লেড না পাওয়া যায় তাহলে ii-v ধাপের কাজগুলো পুনরায় করো। (Let the matchstick cool. Place it on a piece of white paper and look for lead particles. Use a magnifying glass if needed. If no lead is found, repeat steps ii-v)
+EXPECTED OBSERVATIONS: Formation of small, bright grey droplets of molten lead
+KEY LEARNING POINTS: Reduction of metal oxide using carbon. Importance of safety while handling toxic materials.
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+দিয়াশলাইয়ের কাঠির পোড়া অংশটি পানিতে ভেজানোর কারণ ব্যাখা করো।
+Translation: Explain why the charred part of the matchstick is soaked in water.
+Type: Short Answer
+Chemical Components: Carbon, Lead Oxide
+Key Concept: Reduction Reaction, Use of carbon as reducing agent.
+
+Question 2
+এতে কোনো রাসায়নিক বিক্রিয়া হয়েছে কি? তোমার উত্তরের পক্ষে যুক্তি দাও।
+Translation: Has there been a chemical reaction? Justify your answer.
+Type: Analytical
+Chemical Components: Lead Oxide, Carbon
+Key Concept: Chemical Reaction, Reduction.
+
+Question 3
+সিসা বা লেড মুক্ত করার জন্য প্রয়োজনীয় কার্বন কোথা থেকে এলো?
+Translation: Where did the carbon needed to free lead come from?
+Type: Short Answer
+Chemical Components: Carbon, Lead Oxide
+Key Concept: Source of carbon in a reduction reaction.
+
+Question 4
+কথায় ও আণবিক সংকেত ব্যবহার করে বিক্রিয়াটির রাসায়নিক সমীকরণ লিখ।
+Translation: Write the chemical equation for the reaction using words and chemical formulas.
+Type: Analytical
+Chemical Components: Lead oxide (PbO), Carbon (C), Lead (Pb), Carbon dioxide (CO2)
+Key Concept: Balancing chemical equations.
+
+Question 5
+কপার, আয়রন বা জিংক অক্সাইড নিয়ে পরীক্ষাটি করলে একই রকম ফল পাওয়া যাবে কি? তোমার উত্তরের পক্ষে যুক্তি দাও।
+Translation: Would the same result be obtained if the experiment was done with copper, iron or zinc oxide? Justify your answer.
+Type: Analytical
+Chemical Components: Copper Oxide, Iron Oxide, Zinc Oxide
+Key Concept: Reactivity series of metals, Differences in reduction properties.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: স্ববিজারণ (Auto-Reduction)
+Bengali Definition: সক্রিয়তা সিরিজে অবস্থিত নিচের দিকে অবস্থিত কম সক্রিয় ধাতু Cu, Hg, Ag ধাতুসমূহের অক্সাইড এর ক্ষেত্রে কোনো বিজারক যোগ না করে শুধু উত্তপ্ত করেও বিজারণ ঘটানো হয়।
+English Translation: Auto-reduction is a process where less reactive metals like Cu, Hg, and Ag, located lower in the activity series, can be reduced from their oxides simply by heating, without the addition of a reducing agent.
+Related Chemical Equations: Not given explicitly in the text but implied examples would include: 2HgO(s) --> 2Hg(l) + O2(g)
+Examples: উদাহরণ হিসেবে মার্কারির আকরিককে এভাবে বিজারিত করা যায় (An example is reducing mercury from its ore)
+
+SAFETY ALERT
+HAZARD DESCRIPTION:  লেড, লেড অক্সাইড ও এর বাষ্প বিষাক্ত পদার্থ। (Lead, lead oxide, and their vapors are toxic.)
+REQUIRED PRECAUTIONS: একে খালি হাতে স্পর্শ করবে না। এর বাষ্প শ্বাস-প্রশ্বাসের সাথে টেনে নিবে না। (Do not touch with bare hands. Do not inhale the vapors.)
+EMERGENCY PROCEDURES: Not mentioned in text.
+PROTECTIVE EQUIPMENT: Not explicitly mentioned, but it is implied to avoid bare skin contact and inhalation.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 245
+MAIN TOPICS: Metal Purification, Electrolytic Refining, Smelting
+
+CHEMICAL EQUATIONS
+HgS + O2 → Hg(l) + SO2
+2HgS + 3O2 → 2HgO(s) + 2SO2(g)
+2HgO(s) + HgS(s) → 3Hg(l) + SO2(g)
+
+METAL PURIFICATION
+Bengali Text: (v) ধাতু বিশুদ্ধিকরণ
+উপরে উল্লেখিত বিজারণ পদ্ধতিসমূহের মাধ্যমে প্রাপ্ত ধাতুসমূহ সম্পূর্ণরূপে বিশুদ্ধ হয় না। এতেও উল্লেখযোগ্য পরিমাণ অপদ্রব্য থেকে যায়। এ অপদ্রব্য দূর করতে বিভিন্ন পদ্ধতি ব্যবহার করা হয়।
+English Translation: (v) Metal Purification: The metals obtained through the reduction processes mentioned above are not completely pure. They still contain significant amounts of impurities. Different methods are used to remove these impurities.
+
+SLAG FORMATION METHOD
+Bengali Definition: বিগালক যোগ করার পদ্ধতি: উচ্চ তাপমাত্রায় কার্বন বিজারণ পদ্ধতিতে প্রাপ্ত ধাতুর মধ্যে কিছু খনিজমল দ্রবীভূত থাকতে পারে। এই খনিজমল অপসারণ করার জন্য যে পদার্থ যোগ করা হয় তাকে বিগালক বলে। খনিজমল ক্ষারকীয় হলে এসিডিক বিগালক (SiO₂) যোগ করা হয় এবং খনিজমল এসিডিক হলে তার মধ্যে ক্ষারকীয় বিগালক (CaO) যোগ করা হয়। বিগালক এবং খনিজমল একত্র হয়ে ধাতুর মল বা ধাতুমল তৈরি হয়। ধাতুর মল গলিত ধাতুতে দ্রবীভূত হয় না বলে উপর থেকে ধাতুমলকে গলিত ধাতু থেকে আলাদা করে ফেলা হয়। বিগলন প্রক্রিয়ায় প্রাপ্ত ধাতু বিশুদ্ধ নয়। এই অবিশুদ্ধ ধাতুকে তড়িৎ বিশ্লেষণ পদ্ধতি প্রয়োগ করে ধাতু বিশুদ্ধ করা হয়। নিচে ধাতু বিশুদ্ধকরণের জন্য তড়িৎ বিশ্লেষণ পদ্ধতি আলোচনা করা হলো।
+English Translation: Slag Addition Method: Some mineral impurities may be dissolved in the metal obtained by carbon reduction at high temperatures. The substance added to remove these mineral impurities is called a flux. If the mineral impurity is basic, acidic flux (SiO₂) is added, and if the mineral impurity is acidic, basic flux (CaO) is added. The flux and mineral impurity combine to form slag. Since the slag is not soluble in molten metal, it is separated from the molten metal from the top. The metal obtained by smelting is not pure. This impure metal is purified by using the electrolytic refining method. The electrolytic refining method for metal purification is discussed below.
+
+ELECTROLYTIC REFINING OF METALS
+Bengali Definition: তড়িৎ বিশ্লেষণ পদ্ধতিতে ধাতুর বিশোধন: তড়িৎ বিশ্লেষণ পদ্ধতিতে ধাতুর বিশোধনে অবিশুদ্ধ ধাতুকে অ্যানোড এবং বিশুদ্ধ ধাতুর একটি পাতকে ক্যাথোড হিসেবে ব্যবহার করা হয়। তড়িৎ বিশ্লেষ্য হিসেবে যে ধাতুকে বিশুদ্ধ করতে হবে তার লবণের দ্রবণকে ব্যবহার করা হয়। যখন তড়িৎ বিশ্লেষ্য কোষে বিদ্যুৎ প্রবাহিত করা হয় তখন অ্যানোড থেকে ধাতুর পরমাণু ইলেকট্রন ত্যাগ করে আয়ন হিসেবে দ্রবণে প্রবেশ করে। অপরদিকে, ধাতব আয়ন ইলেকট্রন গ্রহণ করে বিশুদ্ধ ধাতু হিসেবে ধাতবপাতে জমা হয়। তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতু ও অন্যান্য ধাতু বিশোধন করা হয়। নিচে তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর বিশুদ্ধকরণ বর্ণনা করা হলো।
+English Translation: Electrolytic Refining of Metals: In the electrolytic refining method, the impure metal is used as the anode and a thin sheet of pure metal is used as the cathode. The solution of a salt of the metal to be purified is used as the electrolyte. When electricity is passed through the electrolyte cell, metal atoms at the anode lose electrons and enter the solution as ions. On the other hand, metal ions gain electrons and are deposited as pure metal on the cathode. Copper and other metals are refined by the electrolytic process. The electrolytic purification of copper metal is described below.
+
+ELECTROLYTIC REFINING OF COPPER
+Bengali Definition: তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর বিশুদ্ধকরণ: বিজারণ প্রক্রিয়ায় প্রাপ্ত কপার ধাতু 98% বিশুদ্ধ। একে তড়িৎ বিশোধন পদ্ধতি প্রয়োগ করে 99.9% বিশুদ্ধ কপার ধাতু তৈরি করা যায়। এক্ষেত্রে CuSO4 এর জলীয় দ্রবণ একটি পাত্রে নেওয়া হয়। এই পাত্রে যে ধাতবদণ্ডকে বিশুদ্ধ করতে হবে সেই অবিশুদ্ধ কপারদণ্ডকে ব্যাটারির ধনাত্মক প্রান্তের সাথে যুক্ত করা হয়। এটি অ্যানোড হিসেবে কাজ করে। একটি বিশুদ্ধ কপার দণ্ডকে ঐ ব্যাটারির ঋণাত্মক প্রান্তের সাথে যুক্ত করা হয়। এটি
+English Translation: Electrolytic Refining of Copper: The copper metal obtained by the reduction process is 98% pure. It can be refined to 99.9% pure copper metal by applying the electrolytic refining method. In this case, an aqueous solution of CuSO4 is taken in a container. The impure copper rod to be purified is connected to the positive terminal of the battery in this container. It acts as the anode. A pure copper rod is connected to the negative terminal of the battery. It
+
+ELECTROLYTIC REFINING OF COPPER
+Purpose: To purify impure copper metal to a higher purity level using electrolysis.
+Materials Required:
+    - Impure copper rod (anode)
+    - Pure copper strip (cathode)
+    - Aqueous copper sulfate (CuSO4) solution (electrolyte)
+    - Battery
+    - Connecting wires
+Safety Precautions:
+    - Avoid direct contact with electricity and chemicals.
+    - Wear safety goggles to protect eyes.
+Procedure:
+   1.  Set up the electrolytic cell with the impure copper rod as the anode connected to the positive terminal of a battery.
+   2.  Connect the pure copper strip as the cathode to the negative terminal of the battery.
+   3.  Place both electrodes in the aqueous copper sulfate solution.
+   4.  Apply electrical current through the circuit.
+Expected Observations:
+    - Copper ions from the impure anode dissolve into the solution, while copper ions from the solution deposit onto the cathode.
+    - The anode (impure copper rod) will gradually decrease in size due to dissolution.
+    - The cathode (pure copper strip) will increase in size due to deposition.
+    - Impurities in the impure copper anode may settle at the bottom as anode mud.
+Key Learning Points:
+    - Electrolysis uses electrical energy to facilitate chemical reactions.
+    - Anode oxidation occurs, and cathode reduction occurs in electrolytic cells.
+    - Electrolytic refining is effective in purifying metals from their ores.
+
+
+CHAPTER TITLE:  ধাতু ও অধাতু / Metals and Nonmetals
+CHAPTER NUMBER: 10
+PAGE NUMBER: 246
+MAIN TOPICS:  Electrolytic Refining of Copper, Extraction of Iron
+
+CHEMICAL EQUATIONS:
+
+Cu(s) → Cu²⁺ + 2e⁻ (অবিশুদ্ধ কপার অ্যানোড থেকে Cu²+ এর দ্রবণে গমন)
+Cu²⁺ + 2e⁻ → Cu(s) (দ্রবণ থেকে Cu²+ বিশুদ্ধ কপার ক্যাথোডে জমা হওয়া)
+Fe₂O₃ + 3C → Fe + 3CO
+3Fe₂O₃ + CO₂ → 2Fe₃O₄ + CO₂
+Fe₂O₄ + CO₂ → Fe + CO₂
+CaCO₃ → CaO + CO₂
+CaO + SiO₂ → CaSiO₃ (ধাতুমল)
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE:  তড়িৎ বিশ্লেষণের সাহায্যে অবিশুদ্ধ কপার বিশোধন। / Electrolytic Refining of Impure Copper.
+Description:  A beaker contains a blue solution. Two rods are inserted in the beaker, one labeled "অবিশুদ্ধ কপার (অ্যানোড)" (impure copper (anode)) which is thicker, and another labeled "বিশুদ্ধ কপার (ক্যাথোড)" (pure copper (cathode)) which is thinner, and a circle is labeled  "Cu²+" inside the blue solution. The anode and cathode are connected to a battery through wires. Arrows point from the anode to the solution and from the solution to the cathode.
+Components:  অবিশুদ্ধ কপার (অ্যানোড) / Impure Copper (Anode), বিশুদ্ধ কপার (ক্যাথোড) / Pure Copper (Cathode), Cu²+ ions in solution.
+Chemical Labels:  Cu(s), Cu²+
+Safety Notes: No safety notes are given for this diagram.
+Purpose: Demonstrates the process of refining impure copper using electrolysis.
+
+DIAGRAM TITLE:  বাত্যা চুল্লিতে আয়রন নিষ্কাশন। / Iron Extraction in a Blast Furnace.
+Description: A diagram of a blast furnace showing a conical structure made of  "ইস্পাতের আবরণ" (steel casing) and "অগ্নিসহ ইট" (refractory bricks). Iron ore, coke, and limestone are added at the top. Hot air is injected at the bottom. Molten iron and slag are shown at the bottom of the furnace.
+Components: লোহার আকরিক, কোক, চুনাপাথর / Iron ore, coke, limestone, ইস্পাতের আবরণ / steel casing,  অগ্নিসহ ইট / refractory bricks, গরম বায়ু / hot air, গলিত আয়রন / molten iron, গলিত ধাতুমল / molten slag.
+Chemical Labels: No chemical labels are visible in the diagram.
+Safety Notes: No safety notes are mentioned regarding the diagram.
+Purpose:  Illustrates the process of extracting iron from its ore in a blast furnace.
+
+EXPERIMENTAL PROCEDURES:
+
+IRON EXTRACTION PROCESS
+Purpose: To extract iron from its ore, Hematite (Fe₂O₃)
+Materials Required: Iron ore, coke, limestone, blast furnace
+Safety Precautions: High temperatures and molten substances are involved. Proper protective gear and controlled environment is needed.
+Procedure:
+ 1. Iron ore (Hematite Fe₂O₃), coke and limestone are added to the top of the blast furnace.
+ 2. Hot air is blown in at the bottom of the furnace.
+ 3. Coke reacts to produce carbon monoxide.
+ 4. Carbon monoxide reduces the iron oxide to iron.
+ 5. Limestone decomposes to calcium oxide and carbon dioxide.
+ 6. Calcium oxide reacts with silicon dioxide (sand) to form calcium silicate slag.
+ 7. Molten iron and slag are collected at the bottom of the furnace.
+Expected Observations:  Molten iron collected at the bottom with slag as a by-product
+Key Learning Points: Iron is extracted from its oxide by reduction process.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME:  তড়িৎ বিশ্লেষণ (Electrolysis)
+Bengali Definition:  ব্যাটারির সাহায্যে দ্রবণের মধ্যে তড়িৎ প্রবাহিত করলে অ্যানোড হিসেবে ব্যবহৃত অবিশুদ্ধ কপার দণ্ড থেকে Cu²+ আয়ন হিসেবে দ্রবণে চলে যায় এবং দ্রবণ থেকে Cu²+ বিশুদ্ধ কপার দণ্ডে জমা হয়। এক্ষেত্রে অ্যানোডের জারণ বিক্রিয়া সংঘটিত হয় এবং ক্যাথোডের বিজারণ বিক্রিয়া সম্পন্ন হয়।
+English Translation:  When electricity is passed through a solution using a battery, Cu²+ ions move from the impure copper anode to the solution, and Cu²+ ions from the solution deposit on the pure copper cathode. Oxidation occurs at the anode, and reduction occurs at the cathode.
+Related Chemical Equations:
+  Cu(s) → Cu²⁺ + 2e⁻
+   Cu²⁺ + 2e⁻ → Cu(s)
+Examples:  Refining of Copper.
+
+TERM OR PROPERTY NAME:  আয়রণ নিষ্কাশন (Iron Extraction)
+Bengali Definition:  আয়রণ একটি গুরুত্বপূর্ণ ধাতু। আয়রণ এর গুরুত্বপূর্ণ আকরিক হলো হেমাটাইট Fe₂O,। প্রধাণত: তিনটি ধাপে যেমন- (1) গাঢ়ীকরণ, (2) ভস্মীকরণ/ তাপজারণ ও (3) বিগলন দ্বারা ব্যাত্যাচুল্লিতে লৌহ নিষ্কাষণ করা হয়।
+English Translation: Iron is an important metal. Its main ore is Hematite Fe₂O₃. The main steps of the process are: (1) concentration, (2) roasting/calcination, and (3) reduction in the blast furnace.
+Related Chemical Equations:
+  Fe₂O₃ + 3C → Fe + 3CO
+  3Fe₂O₃ + CO₂ → 2Fe₃O₄ + CO₂
+  Fe₂O₄ + CO₂ → Fe + CO₂
+  CaCO₃ → CaO + CO₂
+  CaO + SiO₂ → CaSiO₃
+Examples: Production of iron in a blast furnace
+
+SAFETY ALERT
+Hazard Description: High temperatures and handling of molten substances are involved in iron extraction.
+Required Precautions: Use of proper personal protective equipment including gloves, eyewear and heat resistant clothing. Operations should be carried out in a controlled environment.
+Emergency Procedures: In case of burns, use appropriate burn treatment protocols.
+
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 247
+MAIN TOPICS: Metal extraction, melting points, environmental impact
+
+1. GROUP WORK: Extraction of Metals
+   * Sodium Chloride Melting Point:
+     Sodium chloride has a melting point of 801°C. A mixture of 40-42% sodium chloride and 58-60% calcium chloride has a melting point of approximately 600°C.
+     Considering the above, describe a method for extracting sodium metal. The factors you should consider are:
+       * Cost of melting
+       * Whether both sodium and calcium metals will be released together if a mixture is used
+       * Environmental pollution caused by the reaction products
+   * Aluminum Oxide Melting Point:
+     Aluminum oxide has a melting point of 2050°C. A mixture of aluminum oxide and cryolite (Na3AlF6) has a melting point between 800-1000°C.
+     Considering the above, describe a method for extracting aluminum metal. The factors you should consider are:
+        * Cost of melting
+        * Whether both sodium and aluminum metals will be released together if a mixture is used
+        * Environmental pollution caused by the reaction products
+
+2. COPPER EXTRACTION AND ENVIRONMENTAL IMPACT:
+   * What harm to the environment is caused by the byproduct gas released during copper extraction?
+   * Explain how to prevent this harm (acid rain).
+   * Give your opinion on how to use this byproduct gas in a way that benefits the environment and is profitable.
+
+3.  METAL ORES TABLE:
+
+| METAL      | ORE                      | EXTRACTION REACTION | COMMENTS   |
+| -----------|---------------------------|----------------------|-----------|
+| Mercury    | Cinnabar HgS              |                      |          |
+| Zinc      | Zinc Blende ZnS          |                      |          |
+|            | Calamine ZnCO₃            |                      |          |
+| Lead       | Galena PbS                |                      |          |
+| Iron       | Magnetite Fe₃O₄          |                      |          |
+|           | Hematite Fe₂O₃             |                      |          |
+|           | Limonite Fe₂O₃.3H₂O      |                      |          |
+| Copper     | Copper Pyrite CuFeS₂       |                      |          |
+|            | Chalcocite Cu₂S           |                      |          |
+| Aluminum  | Bauxite Al₂O₃.2H₂O       |                      |          |
+| Sodium     | Sea Water NaCl           |                      |          |
+| Calcium    | Limestone CaCO₃         |                      |          |
+
+
+CHAPTER TITLE: নির্বাচিত সংকর ধাতু / Selected Alloys
+CHAPTER NUMBER: 10.3
+PAGE NUMBER: 248
+MAIN TOPICS: Alloys, Metal Extraction, Bronze Age
+
+CHEMICAL EQUATIONS:
+There are no chemical equations on this page.
+
+EXPERIMENTAL PROCEDURES:
+There are no experimental procedures on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+There are no diagrams on this page.
+
+QUESTIONS AND PROBLEMS:
+
+Question 4
+চিত্রটি লক্ষ করো এবং প্রশ্নগুলোর উত্তর দাও। চুল্লিতে সংঘটিত সম্ভাব্য বিক্রিয়াসমূহ ভাষায় ও আণবিক সংকেতের সাহায্যে লিখ। বিবেচনা করবে: আকরিকের সাথে খনিজমল হিসেবে সিলিকন ডাই-অক্সাইড উপস্থিত আছে; বিক্রিয়ার উৎপাদ বিক্রিয়ায় উপস্থিত অন্যান্য বিক্রিয়ক বা উৎপাদের সাথে বিক্রিয়া করতে পারে।
+Translation: Observe the diagram and answer the questions. Write the possible reactions occurring in the furnace using language and molecular formulas. Consider: Silicon dioxide is present as a gangue with the ore; the product of the reaction can react with other reactants or products present in the reaction.
+Type: Analytical
+Chemical Components: Silicon dioxide (SiO2), Various metal ores and possible reactants
+Key Concept: Metal Extraction
+
+Question 5
+টেবিলে উপস্থাপিত আকরিক থেকে ধাতু নিষ্কাশনের সম্ভাব্য বিক্রিয়া টেবিলে উপস্থাপন করো। তোমার উত্তরের পক্ষে যুক্তি মন্তব্য কলামে উপস্থাপন করো।
+Translation: Present the possible reactions for extracting metals from the ores presented in the table. Present a reasoned argument in favor of your answers in a comment column.
+Type: Analytical
+Chemical Components: Various metal ores
+Key Concept: Metal Extraction
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+ALLOY
+Bengali Definition: কতগুলো ধাতুকে একত্রে গলানোর পর গলিত মিশ্রণকে ঠান্ডা করলে যে ধাতু মিশ্রণ পাওয়া যায় তাকে সংকর ধাতু বলা হয়।
+English Translation: An alloy is a mixture of metals obtained when several metals are melted together and the molten mixture is cooled.
+Related Chemical Equations: None given
+Examples: Steel, Bronze, Brass
+
+BRONZE
+Bengali Definition: কোনো গরম গলিত ধাতুর মধ্যে অন্য কোনো গরম গলিত ধাতু বা অধাতু মিশিয়ে সেই মিশ্রণকে ঠান্ডা করলে যে কঠিন পদার্থ পাওয়া যায় তাকে বলা হয় সংকর ধাতু।
+English Translation: An alloy is a solid substance obtained by mixing another molten metal or non-metal into a hot molten metal and then cooling the mixture.
+Related Chemical Equations: None given
+Examples: Bronze is made from copper and tin.
+
+STEEL
+Bengali Definition: লোহা এবং কার্বন মিশিয়ে স্টিল নামক সংকর ধাতু তৈরি করা হয়।
+English Translation: Steel is an alloy made by mixing iron and carbon.
+Related Chemical Equations: None given
+Examples: Knives, scissors, railway wheels
+
+STAINLESS STEEL
+Bengali Definition: আবার গরম গলিত লোহার মধ্যে গলিত কার্বন, নিকেল ও ক্রোমিয়াম মিশিয়ে যে সংকর ধাতু তৈরি হয় তাকে স্টেইনলেস স্টিল বলে।
+English Translation: Stainless steel is an alloy made by mixing molten carbon, nickel and chromium into molten iron.
+Related Chemical Equations: None given
+Examples: Surgical instruments
+
+BRASS
+Bengali Definition: গলিত কপার এবং গলিত জিংক একত্রে মিশিয়ে পিতল নামক সংকর ধাতু তৈরি হয়।
+English Translation: Brass is an alloy made by mixing molten copper and molten zinc.
+Related Chemical Equations: None given
+Examples: Electrical switches, utensils
+
+SAFETY INFORMATION:
+There is no safety information on this page.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 249
+MAIN TOPICS: Alloy composition, alloy applications, metal mixtures
+
+TABLE 8.02: বিভিন্ন সংকর ধাতু ও তার ব্যবহার / Table 8.02: Different Alloys and Their Uses
+
+ALLOY NAME: স্টিল / Steel
+COMPOSITION:
+    লোহা / Iron: 99%
+    কার্বন / Carbon: 1%
+USES: রেলের চাকা ও লাইন, ইঞ্জিন, জাহাজ, যানবাহন, ক্রেন, যুদ্ধাস্ত্র, ছুরি, কাঁচি, ঘড়ির স্প্রিং, চুম্বক, কৃষি যন্ত্রপাতি ইত্যাদি / Railway wheels and lines, engines, ships, vehicles, cranes, armaments, knives, scissors, watch springs, magnets, agricultural equipment, etc.
+
+ALLOY NAME: মরিচাবিহীন ইস্পাত (স্টেইনলেস স্টিল) / Stainless Steel
+COMPOSITION:
+   লোহা / Iron: 74%
+   ক্রোমিয়াম / Chromium: 18%
+   নিকেল / Nickel: 8%
+USES: ছুরি, কাঁটা চামচ, পাকঘরের সিঙ্ক, রসায়ন শিল্পের বিক্রিয়া পাত্র, অস্ত্রোপচারের যন্ত্রপাতি ইত্যাদি / Knives, forks, kitchen sinks, reaction vessels in the chemical industry, surgical instruments, etc.
+
+ALLOY NAME: পিতল (ব্রাস) / Brass
+COMPOSITION:
+    কপার / Copper: 65%
+    জিংক / Zinc: 35%
+USES: অলংকার, কলকবজার বিয়ারিং, বৈদ্যুতিক সুইচ, দরজার হাতল, ডেকচি পাতিল ইত্যাদি / Jewelry, bearings for machinery, electrical switches, door handles, cooking pots, etc.
+
+ALLOY NAME: কাঁসা (ব্রোঞ্জ) / Bronze
+COMPOSITION:
+   কপার / Copper: 90%
+    টিন / Tin: 10%
+USES: ধাতু গলানো যন্ত্রাংশ, থালা, গ্লাস ইত্যাদি / Metal melting equipment, plates, glasses, etc.
+
+ALLOY NAME: ডুরালমিন / Duralumin
+COMPOSITION:
+    অ্যালুমিনিয়াম / Aluminum: 95%
+    কপার / Copper: 4%
+    ম্যাগনেসিয়াম, ম্যাঙ্গানিজ ও লোহা / Magnesium, manganese, and iron: 1%
+USES: উড়োজাহাজের বডি, বাইসাইকেলের পার্টস ইত্যাদি / Airplane bodies, bicycle parts, etc.
+
+ALLOY NAME: 24 ক্যারেট স্বর্ণ / 24 Carat Gold
+COMPOSITION:
+   স্বর্ণ / Gold: 100%
+USES: ডেন্টিস্ট্রি, মুদ্রা, ইলেকট্রনিক সংযোগ / Dentistry, coins, electronic connections.
+
+ALLOY NAME: 22 ক্যারেট স্বর্ণ / 22 Carat Gold
+COMPOSITION:
+   স্বর্ণ / Gold: 91.67%
+   কপার এবং অন্যান্য ধাতু / Copper and other metals: 8.33%
+USES: অলংকার / Jewelry.
+
+ALLOY NAME: 21 ক্যারেট স্বর্ণ / 21 Carat Gold
+COMPOSITION:
+   স্বর্ণ / Gold: 87.5%
+   কপার এবং অন্যান্য ধাতু / Copper and other metals: 12.5%
+USES: অলংকার / Jewelry.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+সংকর ধাতু / Alloy:
+Bengali Definition: বিভিন্ন ধাতু একত্রে মিশিয়ে সংকর ধাতু তৈরি করা হয়। এই সংকর ধাতু তৈরিতে সকল ধাতুকে সমান পরিমাণে মেশানো হয় না। সংকর ধাতুর মধ্যে একটি থাকে প্রধান ধাতু এবং অন্য এক বা একাধিক পদার্থ থাকে অপ্রধান ধাতু বা অধাতু। যেমন-পিতলের মধ্যে প্রধান ধাতু কপার থাকে 65% এবং জিংক 35% থাকে। / Various metals are mixed together to create an alloy. In making an alloy, not all metals are mixed in equal amounts. There is one main metal and one or more other substances (secondary metal or non-metals) in the alloy. For example, in brass, the main metal copper is 65% and zinc is 35%.
+English Translation: Alloys are created by mixing different metals together. In the making of an alloy, not all metals are mixed in equal proportions. There is one primary metal and one or more secondary metals or non-metals within the alloy. For example, in brass, the primary metal, copper, is 65% and zinc is 35%.
+Related Chemical Equations: None Specified
+Examples: Steel, Stainless Steel, Brass, Bronze, Duralumin, Gold Alloys
+
+NOTE: The naming convention of alloys is based on the dominant metal.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: 10
+PAGE NUMBER: 250
+MAIN TOPICS: Metal alloys, Corrosion of metals
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: মরিচা (Rust)
+Bengali Definition: লোহার সংকর ধাতুর তৈরি জিনিসপত্র জানালার গ্রিল, আলমিরা ইত্যাদি খোলা জায়গা বা বাতাসে দীর্ঘদিন থাকলে এসব জিনিসপত্রের উপর লালচে বাদামি বর্ণের এক ধরনের পদার্থ তৈরি হয়। এই বাদামি পদার্থকে লোহার মরিচা বলা হয়।
+English Translation: When iron alloy-made items like window grills, almirahs etc. are left in the open or exposed to air for a long time, a reddish-brown substance forms on their surface. This reddish-brown substance is called iron rust.
+Related Chemical Equations: Fe2O3.nH₂O
+Examples: N/A
+
+TERM OR PROPERTY NAME: তাম্রমল (Copper Oxide/Patina)
+Bengali Definition: বিশুদ্ধ কপার বা পিতল বা কাঁসার তৈরি জিনিসপত্র দীর্ঘদিন বাতাসে থাকার ফলে এদের উপর কালো বা বাদামি বা সবুজ বর্ণের একটি আস্তরণ পড়ে। এই আস্তরণকে কপারের তাম্রমল বলা হয়।
+English Translation: When pure copper, brass or bronze items are left in the air for a long time, a black, brown, or green layer forms on their surface. This layer is called copper oxide/patina.
+Related Chemical Equations: Cu₂O, Cu₂S
+Examples: N/A
+
+TERM OR PROPERTY NAME: ধাতুর ক্ষয় (Corrosion of Metals)
+Bengali Definition: সাধারণত বিশুদ্ধ ধাতু বা সংকর ধাতু দীর্ঘদিন বাতাসে থাকার ফলে ধাতু বা সংকর ধাতুর উপর ভিন্ন বর্ণযুক্ত একটি নতুন পদার্থের সৃষ্টি হয়। এই প্রক্রিয়াকে ধাতুর ক্ষয় বলে।
+English Translation: Generally, when a pure metal or alloy is exposed to air for a long time, a new substance with different color forms on the metal or alloy's surface. This process is called metal corrosion.
+Related Chemical Equations: N/A
+Examples: N/A
+
+CHEMICAL EQUATIONS:
+Fe₂O₃.nH₂O
+(Note: This is the chemical formula of hydrated ferric oxide, commonly known as rust.)
+C₁₂O
+(Note: This is the chemical formula of cuprous oxide.)
+Cu₂S
+(Note: This is the chemical formula of cuprous sulfide or Chalcocite)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: জারণ (Oxidation)
+Bengali Definition: কোনো কোনো ধাতু বা সংকর ধাতু যখন বায়ুমণ্ডলে থাকে তখন ধাতুসমূহ ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হয়। এখানে একটি জারণ বিক্রিয়া হয়।
+English Translation: When certain metals or alloys are exposed to the atmosphere, the metals lose electrons and become positive ions. This is called an oxidation reaction.
+Related Chemical Equations:  N/A
+Examples: N/A
+
+TERM OR PROPERTY NAME: বিজারণ (Reduction)
+Bengali Definition: ধাতু যে ইলেকট্রন ত্যাগ করে বায়ুমণ্ডলের কোনো উপাদান সেই ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হয়। এখানে একটি বিজারণ বিক্রিয়া সংঘটিত হয়।
+English Translation: The electrons lost by the metal are gained by some component of the atmosphere, which becomes a negative ion. This is called a reduction reaction.
+Related Chemical Equations: N/A
+Examples: N/A
+
+TEXT
+যেমন-স্টিলের মধ্যে লোহা প্রধান ধাতু এবং কার্বন অপ্রধান অধাতু। স্টিলে লোহা থাকে 99% এবং কার্বন থাকে 1% এজন্য স্টিলকে লোহার সংকর ধাতু বলা হয়। অনুরূপভাবে, কাঁসার মধ্যে প্রধান ধাতু কপার থাকে 90%, টিন থাকে 10%। এজন্য কাঁসা কপারের সংকর ধাতু। আবার, পিতলে প্রধান ধাতু কপার থাকে 65% এবং অপ্রধান ধাতু জিংক থাকে 35%। এজন্য পিতলও কপারের সংকর ধাতু। কপারের দুইটি সংকর ধাতু আছে, যথা-পিতল (ব্রাস) ও কাঁসা (ব্রোঞ্জ)।
+Translation: For example, steel has iron as the main metal and carbon as a non-metal. Steel contains 99% iron and 1% carbon, which is why steel is called an iron alloy. Similarly, bronze contains 90% copper and 10% tin. Therefore, bronze is an alloy of copper. Again, brass contains 65% copper and 35% zinc. Thus, brass is also an alloy of copper. Copper has two alloys, namely brass and bronze.
+
+লোহা ক্ষয়প্রাপ্ত হয়ে যে লালচে বাদামি বর্ণের মরিচা তৈরি হয় সেটি হলো আর্দ্র ফেরিক অক্সাইড (Fe2O3.nH₂O)। আবার বিভিন্ন বর্ণের তাম্রমলে বিভিন্ন ধরনের পদার্থ উপস্থিত থাকে। যেমন-কোনো কোনো তাম্রমলে কিউপ্রাস অক্সাইড (C₁₂O) উপস্থিত থাকে। কোনো কোনো তাম্রমলে কিউপ্রাস সালফাইড বা চালকোসাইট (Cu₂S) উপস্থিত থাকে। তাম্রমলকে কোনো নির্দিষ্ট রাসায়নিক সংকেতে প্রকাশ করা যায় না। কারণ তাম্রমলের সব জায়গায় একই ধরনের পদার্থ তৈরি হয় না।
+Translation: The reddish-brown rust that is formed when iron corrodes is hydrated ferric oxide (Fe2O3.nH₂O). Also, different substances are present in different colored copper oxides/patinas. For example, some copper oxides/patinas contain cuprous oxide (C₁₂O). Some copper oxides/patinas contain cuprous sulfide or Chalcocite (Cu₂S). Patina cannot be expressed with a specific chemical formula, because the substance formed is not uniform throughout the patina.
+
+অতঃপর ধনাত্মক আয়ন এবং ঋণাত্মক আয়নের মধ্যে বিক্রিয়ায় একটি যৌগ তৈরি হয়। নতুন যৌগটি রূপান্তরিত হয়ে বা অন্যান্য যৌগের সাথে বিক্রিয়া করে। এভাবে ধাতু বা সংকর ধাতু ক্ষয়প্রাপ্ত হয়।
+Translation: Subsequently, a compound is formed through the reaction between positive and negative ions. The new compound is transformed or reacts with other compounds. In this way metal or alloy get corroded.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not explicitly mentioned on the page
+PAGE NUMBER: 251
+MAIN TOPICS: Rusting of Iron, Oxidation-Reduction Reactions
+
+CHEMICAL EQUATIONS:
+H2O → H+ + OH-
+2Fe → 2Fe2+ + 4e-
+O2 + 4H+ + 4e- → 2H2O
+4Fe2+ + 4H+ + O2 → 4Fe3+ + 2H2O
+Fe3+ + 3OH- → Fe(OH)3
+2Fe(OH)3 → Fe2O3.3H2O
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: লোহার মরিচা সৃষ্টির পরীক্ষা / Experiment on the Formation of Rust on Iron
+Purpose: To investigate the conditions required for iron to rust.
+Materials Required:
+    - Four test tubes
+    - Water
+    - Cooking oil or olive oil
+    - Iron samples (not explicitly mentioned, but implied by the context of the chapter)
+Safety Precautions: No specific safety precautions are mentioned on this page, however, standard laboratory safety should be maintained.
+Procedure:
+    1. Take four test tubes and label them from 1 to 4.
+    2. Arrange the test tubes as shown in the figure (not provided, but implied).
+    3. Boil water in test tube number 3 for one minute and then add 1 ml of cooking oil or olive oil on top of the water. The oil layer will prevent air from entering the water.
+
+Expected Observations: This section doesn't mention the observations. However, it is expected that rust will form at different rates depending on the conditions in each test tube.
+Key Learning Points: The text does not explicitly mention key learning points, but it's implied that the experiment aims to show how the presence of water and air affect rust formation.
+
+QUESTIONS AND PROBLEMS:
+(There are no questions on the page)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+(Definitions are embedded in the text)
+
+TERM OR PROPERTY NAME: জারণ বিজারণ বিক্রিয়া / Oxidation-Reduction Reaction
+Bengali Definition: লোহায় মরিচা পড়ার বিক্রিয়াটি জারণ বিজারণ বিক্রিয়া।
+English Translation: The reaction of rusting of iron is an oxidation-reduction reaction.
+
+TERM OR PROPERTY NAME: মরিচা / Rust
+Bengali Definition: পানিযুক্ত ফেরিক অক্সাইড বা মরিচা Fe2O3.3H2O
+English Translation: Hydrated ferric oxide or rust, Fe2O3.3H2O.
+
+SAFETY INFORMATION:
+(There are no explicit safety alerts on this page.)
+
+
+CHAPTER TITLE: ধাতু ক্ষয় / Metal Corrosion
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 252
+MAIN TOPICS: Metal Corrosion, Rust Prevention, Electroplating
+
+DIAGRAM TITLE: মরিচা সৃষ্টির পরীক্ষা / Rust Formation Experiment
+DESCRIPTION: Four test tubes are shown, each containing a different setup. Test tube 1 contains a piece of iron wire, anhydrous Calcium Chloride at the bottom, and air. Test tube 2 contains a piece of iron wire with boiled water. Test tube 3 contains a piece of iron wire with boiled water and air. Test tube 4 contains a piece of iron wire, cold water, and oxygen.
+COMPONENTS: Test tubes, Iron wire, Anhydrous CaCl2, Boiled water, Air, Oxygen.
+CHEMICAL LABELS: CaCl2
+SAFETY NOTES: None
+
+DIAGRAM TITLE: চাবির উপর কপার ধাতুর ইলেকট্রোপ্লেটিং / Electroplating Copper on a Key
+DESCRIPTION: A beaker containing copper sulfate solution is shown. A copper strip acts as the anode and a key acts as the cathode in the electrochemical cell. Wires connected to a battery or power supply allow electric current to flow in the solution.
+COMPONENTS: Beaker, Copper sulfate solution, Copper strip, Key, Wires, Power source.
+CHEMICAL LABELS: Cu²⁺
+SAFETY NOTES: None
+
+METAL CORROSION PREVENTION METHODS
+Bengali Definition: ধাতু বা সংকর ধাতু যদি বাতাসের অক্সিজেন এবং পানির সংস্পর্শে না আসে তবে ধাতু ক্ষয়প্রাপ্ত হয় না।
+English Translation: If a metal or alloy does not come into contact with atmospheric oxygen and water, then the metal does not corrode.
+Related Chemical Equations: None given on this page.
+Examples: (i) রং করে (painting), (ii) ইলেকট্রোপ্লেটিং (electroplating), (iii) গ্যালভানাইজিং (galvanizing)
+
+TERM: মরিচা / Rust
+Bengali Definition: Not defined on this page
+English Translation: Not defined on this page
+Related Chemical Equations: Not given on this page.
+Examples: Not given on this page.
+
+TERM: ইলেকট্রোপ্লেটিং / Electroplating
+Bengali Definition: Not defined on this page
+English Translation: Not defined on this page
+Related Chemical Equations: Not given on this page.
+Examples: চাবির উপর কপার ধাতুর প্রলেপ দেওয়া / Coating a key with copper
+
+TERM: গ্যালভানাইজিং / Galvanizing
+Bengali Definition: Not defined on this page
+English Translation: Not defined on this page
+Related Chemical Equations: Not given on this page.
+Examples: Not given on this page
+
+SAFETY ALERT
+Hazard Description: No specific hazards mentioned in this text.
+Required Precautions: No specific precautions mentioned in this text.
+Emergency Procedures: No emergency procedures mentioned in this text.
+Protective Equipment: No protective equipment mentioned in this text.
+
+INSTRUCTIONS:
+Bengali Text: এভাবে টেস্টটিউবগুলোকে এক সপ্তাহ রেখে দাও এবং পর্যবেক্ষণ করো।
+English Translation: Leave the test tubes for a week and observe.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Non-metals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 253
+MAIN TOPICS: Electroplating, Galvanizing, Metal Recycling
+
+ELECTROPLATING
+Bengali: সাধারণত তড়িৎ বিশ্লেষণ পদ্ধতি প্রয়োগ করে একটি ধাতুর উপর আরেকটি ধাতুর প্রলেপ দেওয়ার প্রক্রিয়াকে বলা হয় ইলেকট্রোপ্লেটিং। এক্ষেত্রে যে ধাতুর প্রলেপ দিতে হবে তাকে ব্যাটারির ধনাত্মক প্রান্তের সাথে যুক্ত করা হয়। যে ধাতুর উপর প্রলেপ দিতে হবে তাকে ব্যাটারির ঋণাত্মক প্রান্তের সাথে যুক্ত করা হয়। এরপর তড়িৎ বিশ্লেষণ পদ্ধতির মাধ্যমে ইলেকট্রোপ্লেটিং করা হয়। যেমন- লোহার উপর কপার ধাতুর প্রলেপ দেওয়ার জন্য CuSO4 এর একটি দ্রবণ নেওয়া হয় এবং কপার দণ্ডকে ব্যাটারির ধনাত্মক প্রান্তের সাথে এবং লোহা দণ্ডকে ব্যাটারির ঋণাত্মক প্রান্তের সাথে যুক্ত করে দ্রবণে তড়িৎ প্রবাহিত করা হয়। তড়িৎ প্রবাহকালে Cu দণ্ডের কপার 2টি ইলেকট্রন ত্যাগ করে Cu2+ হিসেবে দ্রবণে চলে যায়।
+English Translation: Generally, the process of applying a coating of one metal over another using electrolysis is called electroplating. In this process, the metal that needs to be coated is connected to the positive terminal of a battery. The metal on which the coating needs to be applied is connected to the negative terminal of the battery. Then, electroplating is done through electrolysis. For example, to deposit a copper coating on iron, a solution of CuSO4 is used, and a copper rod is connected to the positive terminal of the battery and an iron rod is connected to the negative terminal and an electric current is passed through the solution. During the current flow, the copper from the Cu rod loses two electrons and enters the solution as Cu2+.
+
+CHEMICAL EQUATIONS:
+Cu → Cu2+ + 2e- [জারণ বিক্রিয়া] / Oxidation reaction
+Cu2+ + 2e- → Cu [বিজারণ বিক্রিয়া] / Reduction reaction
+
+GALVANIZING
+Bengali: যেকোনো ধাতুর উপর জিংকের প্রলেপ দেওয়াকে গ্যালভানাইজিং বলে। এক্ষেত্রে তড়িৎ বিশ্লেষণের প্রয়োজন নেই। কোনো ধাতুর উপর যেকোনোভাবে জিংকের প্রলেপ দিয়ে গ্যালভানাইজিং করা হয়।
+English Translation: The process of applying a zinc coating over any metal is called galvanizing. In this process, electrolysis is not required. Galvanizing is done by applying zinc coating by any method.
+
+METAL RECYCLING
+Bengali: পৃথিবীতে প্রতিটি মৌলিক পদার্থ বা ধাতুর পরিমাণ নির্দিষ্ট। কোনো ধাতুর তৈরি জিনিসপত্র ব্যবহারের পর সেটা ফেলে না দিয়ে সেটাকে সংগ্রহ করে ঐ ধাতু তৈরির কারখানায় সেগুলো পাঠিয়ে দেওয়া হয়। ঐ পরিত্যক্ত ধাতু থেকে ব্যবহার উপযোগী ধাতু তৈরি করা হয়। পরিত্যক্ত ধাতু থেকে আবার ব্যবহার উপযোগী ধাতুতে পরিণত করার পদ্ধতিকে ধাতু পুনঃপ্রক্রিয়াজাতকরণ বলে। যেমন-পরিত্যক্ত অ্যালুমিনিয়ামের হাঁড়ি-পাতিলকে অ্যালুমিনিয়াম তৈরির কারখানায় প্রেরণ করে অ্যালুমিনিয়াম ধাতু পুনঃপ্রক্রিয়াজাতকরণ করা হয়। পরিত্যক্ত লোহাকে লোহা তৈরির কারখানায় প্রেরণ করে লোহা ধাতু পুনঃপ্রক্রিয়াজাতকরণ করা হয়। আমেরিকায় যে কপার ব্যবহৃত হয় সেই কপারের প্রায় 21% কপার পুনঃপ্রক্রিয়াজাত এর মাধ্যমে তৈরি করে। ইউরোপে যে অ্যালুমিনিয়াম ব্যবহৃত হয় সেই অ্যালুমিনিয়ামের 60% অ্যালুমিনিয়াম পুনঃপ্রক্রিয়াজাতকরণের মাধ্যমে তৈরি হয়।
+English Translation: The amount of every element or metal is limited on Earth. After using metal products, they are not thrown away, rather they are collected and sent to the factories that create those metals. Usable metals are produced from these discarded metals. The method of converting discarded metal to usable metal is called metal recycling. For example, discarded aluminum pots and pans are sent to aluminum factories for recycling. Discarded iron is sent to iron factories for recycling. Approximately 21% of the copper used in America is produced through recycling. About 60% of the aluminum used in Europe is produced through aluminum recycling.
+
+
+CHAPTER TITLE: খনিজ অধাতু (Nonmetal Minerals) / Nonmetal Minerals
+CHAPTER NUMBER: 10.5
+PAGE NUMBER: 254
+MAIN TOPICS: Sulfur Extraction, Frasch Process
+
+DEFINITION
+খনিজ অধাতু (Mineral Nonmetals):
+Bengali Definition: খনি থেকে যে অধাতুসমূহকে পাওয়া যায় তাদেরকে খনিজ অধাতু বলা হয়।
+English Translation: Nonmetals obtained from mines are called mineral nonmetals.
+
+DEFINITION
+সালফার (Sulfur):
+Bengali Definition: সালফার হলুদ বর্ণের পদার্থ।
+English Translation: Sulfur is a yellow-colored substance.
+
+SULFUR EXTRACTION
+Bengali: সালফারের খনি মাটির অনেক নিচে থাকে। ফ্রাশ (Frasch) পদ্ধতিতে সালফারের খনি থেকে সালফারকে নিষ্কাশন করা হয়। এক্ষেত্রে মাটির অনেক নিচে সালফারের খনির মধ্যে তিনটি এককেন্দ্রিক পাইপ প্রবেশ করানো হয়, যাকে ফ্লাশ পাইপ বলে।
+English Translation: Sulfur mines are located deep underground. Sulfur is extracted from sulfur mines using the Frasch process. In this process, three concentric pipes are inserted into the sulfur mine deep underground, these pipes are called Frasch pipes.
+
+SULFUR MELTING POINT
+Bengali: সালফার 115° C তাপমাত্রায় গলে যায়।
+English Translation: Sulfur melts at 115°C.
+
+FRASCH PROCESS EXPLANATION:
+Bengali: এজন্য সালফারের গলনাঙ্কের চেয়ে বেশি তাপমাত্রায় গরম পানি (সুপার হিটেড ওয়াটার) তিনটি এককেন্দ্রিক নলের বাইরের পাইপ দিয়ে প্রবাহিত করা হয় যাতে গরম পানির তাপমাত্রায় সালফার গলে যায়।
+English Translation: Therefore, hot water (superheated water) at a temperature higher than the melting point of sulfur is passed through the outer pipe of the three concentric pipes so that the sulfur melts at that hot water's temperature.
+
+WATER BOILING POINT AT INCREASED PRESSURE
+Bengali: আমরা জানি এক বায়ুমণ্ডলীয় চাপে পানির স্ফুটনাঙ্ক 100° C, কিন্তু চাপ বাড়ালে পানির স্ফুটনাঙ্ক বৃদ্ধি পায়।
+English Translation: We know that the boiling point of water at one atmospheric pressure is 100°C, but the boiling point of water increases when pressure is increased.
+
+SUPERHEATED WATER DEFINITION
+Bengali: এভাবে অতিরিক্ত চাপে 100° C থেকে 374° C তাপমাত্রার মধ্যবর্তী যেকোনো তাপমাত্রার পানিকে সুপার হিটেড ওয়াটার বলে।
+English Translation: Thus, water at any temperature between 100°C and 374°C under increased pressure is called superheated water.
+
+FRASCH PROCESS DESCRIPTION
+Bengali: এবার সবচেয়ে ভিতরের পাইপ দিয়ে 20-22 বায়ুমণ্ডল চাপের বাতাস প্রবাহিত করা হয়। একদিকে বাইরের পাইপ দিয়ে গরম পানির চাপে এবং সবচেয়ে ভিতরের পাইপ দিয়ে বাতাসের চাপে গলিত সালফার মাঝের পাইপ দিয়ে মাটির উপরে উঠে এসে বাইরের পাত্রে জমা হয়।
+English Translation: Now, air at 20-22 atmospheric pressure is pumped through the innermost pipe. The molten sulfur is then forced upwards through the middle pipe due to the pressure of the hot water in the outer pipe and the air in the innermost pipe, and it is collected in a container outside the mine.
+
+DIAGRAM TITLE: ফ্রাশ পদ্ধতিতে সালফার উত্তোলন / Sulfur Extraction by Frasch Process
+Description:  The diagram shows a cross-section of the Frasch process setup. Three concentric pipes are inserted into the ground, reaching the sulfur deposit. Superheated water goes through the outer pipe, melting the sulfur. Compressed air is passed down the center pipe. The molten sulfur is then forced up the middle pipe due to pressure difference.
+Components:
+    - বায়ু (Air)
+    - সুপার হিটেড ওয়াটার (উত্তপ্ত পানি) / Superheated Water (Hot water)
+    - সালফার ধারণকারী শিলা (Sulfur-bearing rock)
+    - গলিত সালফার (Molten Sulfur)
+Chemical Labels: None
+Safety Notes: High-pressure steam and potential for hot sulfur.
+Purpose: This diagram illustrates how sulfur is extracted using the Frasch process.
+
+SULFUR USES
+Bengali: সালফার বিভিন্ন শিল্পকারখানায় প্রচুর পরিমাণে ব্যবহৃত হয়।
+English Translation: Sulfur is used extensively in various industries.
+
+SULFURIC ACID PRODUCTION
+Bengali: (i) সালফিউরিক এসিড প্রস্তুতিতে সালফার ব্যবহার করা হয়।
+English Translation: (i) Sulfur is used in the production of sulfuric acid.
+
+RUBBER VULCANIZATION
+Bengali: (ii) রাবারকে টেকসই করার জন্য রাবারের মধ্যে সালফার যোগ করা হয়। একে রাবারের ভলকানাইজিং বলে।
+English Translation: (ii) Sulfur is added to rubber to make it durable. This is called rubber vulcanization.
+
+SULFONAMIDE DRUGS
+Bengali: (iii) সালফানাইড দ্বারা বিভিন্ন প্রকার ওষুধ তৈরি করা হয়। সালফানাইড ব্যাকটেরিয়া ধ্বংস করে। সালফানাইড প্রস্তুতিতে সালফার ব্যবহার করা হয়।
+English Translation: (iii) Various types of medicines are made from sulfonamides. Sulfonamides destroy bacteria. Sulfur is used in the production of sulfonamides.
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Nonmetals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 255
+MAIN TOPICS: Sulfur compounds, Sulfur dioxide, Sulfuric acid production
+
+CHEMICAL EQUATIONS
+S + O2 → SO2
+SO2 + H2O → H2SO3
+
+DIAGRAM TITLE: স্পর্শ পদ্ধতিতে সালফিউরিক এসিড (H₂SO₄) প্রস্তুতি / Sulfuric Acid (H2SO4) Production by Contact Process
+DESCRIPTION: The diagram shows a flow chart of the contact process for producing sulfuric acid. It starts with sulfur and dry air entering a furnace, producing sulfur dioxide and oxygen. The mixture then goes to a converter at 450°C with Vanadium pentaoxide catalyst, where sulfur dioxide is converted to sulfur trioxide. Finally, the sulfur trioxide is passed through oleum with added water to produce sulfuric acid.
+COMPONENTS: Furnace, Converter, Oleum absorber, Sulfur inlet, Dry air inlet, water inlet, Sulfuric acid outlet, SO2, SO3, H2SO4, Vanadium pentaoxide catalyst
+CHEMICAL LABELS: SO2, SO3, H2SO4, H2S2O7
+SAFETY NOTES: Not specified
+PURPOSE: To illustrate the contact process for producing sulfuric acid
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+SULFUR DIOXIDE
+Bengali Definition: সালফার ডাই অক্সাইড গ্যাস অত্যন্ত বিষাক্ত। এই গ্যাস নাক বা মুখের মধ্য দিয়ে শরীরে প্রবেশ করলে শরীরের ক্ষতি হয়। SO₂ গ্যাস চোখে প্রবেশ করলে চোখ জ্বালাপোড়া করে।
+English Translation: Sulfur dioxide gas is extremely toxic. This gas is harmful to the body if it enters through the nose or mouth. SO2 gas irritates the eyes if it enters the eyes.
+Related Chemical Equations: S + O2 → SO2
+Examples: Formed when sulfur-containing coal or petroleum products are burned in air.
+
+SULFUROUS ACID
+Bengali Definition: যখন বৃষ্টি হয় তখন এই গ্যাস পানির সাথে বিক্রিয়া করে সালফিউরাস এসিড (H₂SO₃) উৎপন্ন করে যেটি বৃষ্টির পানির সাথে মাটিতে পড়ে। এই বৃষ্টিকে এসিড বৃষ্টি বলে।
+English Translation: When it rains, this gas reacts with water to produce sulfurous acid (H2SO3), which falls to the ground with rainwater. This rain is called acid rain.
+Related Chemical Equations: SO2 + H2O → H2SO3
+
+SULFURIC ACID
+Bengali Definition: সালফিউরিক এসিড অন্যান্য রাসায়নিক দ্রব্য অপেক্ষা সবচেয়ে বেশি ব্যবহৃত হয় বলে সালফিউরিক এসিডকে রাসায়নিক দ্রব্যের রাজা বলা হয়।
+English Translation: Sulfuric acid is used more than any other chemical, therefore it is called the king of chemicals.
+Related Chemical Equations: Not specified
+Examples: Produced industrially from sulfur using the contact process.
+
+SAFETY ALERT
+HAZARD DESCRIPTION: Sulfur dioxide gas is highly toxic and causes irritation to the eyes and respiratory system.
+REQUIRED PRECAUTIONS: Avoid inhaling sulfur dioxide gas. Handle sulfur dioxide with proper ventilation.
+EMERGENCY PROCEDURES: In case of eye contact, flush with water immediately. If inhaled, move to fresh air.
+
+EXTRACTION PRIORITIES
+1. Accuracy of chemical equations and formulas: Complete and accurate.
+2. Clarity of experimental procedures: The description of the contact process is clear.
+3. Completeness of safety information: Safety alerts about sulfur dioxide toxicity are included.
+4. Preservation of key scientific terminology: Bengali and English terms included.
+5. Clear connection between text and diagrams: The contact process explanation matches the diagram.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 256
+MAIN TOPICS: Production of Sulfuric Acid, Properties of Sulfuric Acid
+
+CHEMICAL EQUATIONS:
+
+S + O2 → SO2
+
+2SO2 + O2 → 2SO3
+Temperature: 450°C - 550°C
+Catalyst: Vanadium pentoxide
+
+H2SO4 + SO3 → H2S2O7
+
+H2S2O7 + H2O → 2H2SO4
+
+H2SO4 + Ca(OH)2 → CaSO4 + 2H2O
+
+EXPERIMENTAL PROCEDURES:
+
+STEP 1: SULFUR DIOXIDE PRODUCTION
+     Purpose: Produce sulfur dioxide gas
+    Materials Required: Sulfur (S), Dry air (without water vapor), Furnace
+    Safety Precautions: Handle sulfur and heat with care. Ensure proper ventilation
+    Procedure:
+        1.  Sulfur (S) is heated in a furnace.
+        2.  Dry air (containing oxygen) is passed over the heated sulfur.
+        3. The sulfur and oxygen react to produce sulfur dioxide (SO2) gas.
+   Expected Observations: Formation of sulfur dioxide gas.
+   Key Learning Points: Sulfur and oxygen combine at high temperatures to produce sulfur dioxide.
+    
+STEP 2: SULFUR TRIOXIDE PRODUCTION
+    Purpose: Convert sulfur dioxide to sulfur trioxide.
+    Materials Required: Sulfur dioxide (SO2) gas, Oxygen (O2) gas, Furnace, Vanadium pentoxide (V2O5) catalyst
+    Safety Precautions: Use a catalyst and ensure high temperature safety protocols.
+    Procedure:
+        1. Sulfur dioxide gas (SO2) and oxygen gas (O2) are passed through a furnace.
+        2. The furnace is maintained at a high temperature between 450°C and 550°C.
+        3. Vanadium pentoxide (V2O5) acts as a catalyst to speed up the reaction.
+       4.  Sulfur dioxide reacts with oxygen to form sulfur trioxide (SO3).
+    Expected Observations: Formation of sulfur trioxide gas.
+    Key Learning Points: Sulfur dioxide can be oxidized to sulfur trioxide in the presence of a catalyst and at high temperatures.
+
+STEP 3: SULFURIC ACID PRODUCTION
+     Purpose: Production of Sulfuric acid (H2SO4)
+    Materials Required: Sulfur trioxide (SO3) gas, Concentrated sulfuric acid (H2SO4), Water
+   Safety Precautions: Handle concentrated acids with extreme care. Wear appropriate safety gear.
+    Procedure:
+       1. Sulfur trioxide (SO3) is absorbed into concentrated sulfuric acid (H2SO4) to form fuming sulfuric acid (oleum) H2S2O7
+      2.  Water (H2O) is reacted with the fuming sulfuric acid H2S2O7
+        3. Liquid sulfuric acid is formed.
+    Expected Observations: Production of sulfuric acid
+    Key Learning Points: Sulfur trioxide doesn't directly react with water. It is absorbed first into H2SO4 and then reacted with H2O to form H2SO4
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+ACID PROPERTY OF SULFURIC ACID
+Bengali Definition: লঘু H₂SO₄ বা গাঢ় H₂SO₄ কোনো ক্ষারের সাথে বিক্রিয়া করে লবণ এবং পানি তৈরি করে। একে H₂SO₄ এর এসিড ধর্ম বলে। যেমন: সালফিউরিক এসিড ক্যালসিয়াম হাইড্রোক্সাইড এর সাথে বিক্রিয়া করে ক্যালসিয়াম সালফেট লবণ এবং পানি উৎপন্ন করে।
+English Translation: Dilute H2SO4 or concentrated H2SO4 reacts with a base to form salt and water. This is known as the acidic property of H2SO4. Example: Sulfuric acid reacts with calcium hydroxide to produce calcium sulfate salt and water.
+Related Chemical Equations: H2SO4 + Ca(OH)2 → CaSO4 + 2H2O
+Examples: Not applicable
+
+OXIDATION PROPERTY OF SULFURIC ACID
+Bengali Definition: H₂SO₄ এর মধ্যে অনেক বেশি পানি থাকলে অর্থাৎ পানির মধ্যে H₂SO₄ দিলে সেই H₂SO₄ কে লঘু H2SO4 এসিড বলে। লঘু H₂SO₄ এর জারণ ধর্ম নেই। কিন্তু যে H₂SO₄ এর মধ্যে পানি কম পরিমাণে থাকে সেই H₂SO₄ গাঢ় H₂SO₄ বলে। গাঢ় H₂SO₄ এর জারণ ধর্ম আছে। গাঢ় H2SO4 কপারকে জারিত করে কপার সালফেটে পরিণত করে এবং নিজে বিজারিত হয়ে সালফার ডাই- অক্সাইড এবং পানি উৎপন্ন করে।
+English Translation: If H2SO4 has more water in it, it is called dilute H2SO4. Dilute H2SO4 does not show oxidation property. But if there is less amount of water then it's called concentrated H2SO4 which shows oxidation property. Concentrated H2SO4 oxidizes copper to copper sulfate, and itself gets reduced to sulfur dioxide and water.
+Related Chemical Equations: Not explicitly given in this text, but implies a reaction where H2SO4 acts as an oxidizer.
+Examples: Not applicable
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Concentrated sulfuric acid is highly corrosive and can cause severe burns. Sulfuric acid releases toxic fumes.
+Required Precautions: Wear protective gear including gloves, goggles, and lab coat.
+Emergency Procedures: In case of contact, wash immediately with copious amounts of water. Seek medical help.
+Protective Equipment: Gloves, goggles, lab coat.
+
+TERM OR PROPERTY NAME
+OLEUM
+Bengali Definition: ধূমায়মান সালফিউরিক এসিডকে অলিয়াম বলে।
+English Translation: Fuming sulfuric acid is called oleum.
+Related Chemical Equations: H2SO4 + SO3 → H2S2O7
+Examples: Not applicable
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Nonmetals
+CHAPTER NUMBER: Not explicitly stated on page
+PAGE NUMBER: 257
+MAIN TOPICS: Dehydrating property of sulfuric acid, Reactions with sulfuric acid
+
+CHEMICAL EQUATIONS
+2H₂SO₄ (g) + Cu → CuSO₄ + SO₂ + 2H₂O
+C₁₂H₂₂O₁₁ + H₂SO₄ → 12C + H₂SO₄.11H₂O
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+DEHYDRATING PROPERTY
+Bengali Definition: যে পদার্থ কোনো যৌগ থেকে পানি শোষণ করে সেই পদার্থকে নিরুদক বলে। পানি শোষণ করার ধর্মকে নিরুদন ধর্ম বলে।
+English Translation: A substance that absorbs water from a compound is called a dehydrating agent. The property of absorbing water is called the dehydrating property.
+Related Chemical Equations: C₁₂H₂₂O₁₁ + H₂SO₄ → 12C + H₂SO₄.11H₂O
+Examples: Concentrated H₂SO₄ is a dehydrating agent, but dilute H₂SO₄ is not. Concentrated H₂SO₄ removes water from sugar (C₁₂H₂₂O₁₁).
+
+EXPERIMENTAL PROCEDURES
+
+EXPERIMENT 1
+Purpose: To observe the reaction of dilute sulfuric acid with lime water.
+Materials Required: Test tube, 2-3 mL lime water, a few drops of dilute sulfuric acid.
+Safety Precautions: Handle acids with care. Wear eye protection.
+Procedure:
+1. Take 2-3 mL of lime water in a test tube.
+2. Add a few drops of dilute sulfuric acid to it.
+3. Observe the changes carefully.
+Expected Observations: (Not provided)
+Key Learning Points: To be explained after observation.
+
+EXPERIMENT 2
+Purpose: To observe the reaction of concentrated sulfuric acid with potassium iodide.
+Materials Required: Test tube, a pinch of potassium iodide (KI), a few drops of concentrated sulfuric acid.
+Safety Precautions: Handle concentrated acids with care. Wear eye protection. Do not inhale any fumes.
+Procedure:
+1. Take a pinch of potassium iodide (KI) in a test tube.
+2. Add a few drops of concentrated sulfuric acid to it.
+3. Observe the changes carefully.
+Expected Observations: (Not provided)
+Key Learning Points: To be explained after observation.
+
+EXPERIMENT 3
+Purpose: To observe the dehydrating effect of concentrated sulfuric acid on sugar.
+Materials Required: Test tube, one spoon of sugar (C₁₂H₂₂O₁₁), a few drops of concentrated sulfuric acid.
+Safety Precautions: This experiment should be done with care. Handle concentrated acids with care. Wear eye protection and gloves. Avoid skin contact.
+Procedure:
+1. Take one spoon of sugar (C₁₂H₂₂O₁₁) in a test tube.
+2. Add a few drops of concentrated sulfuric acid to it.
+3. Observe the changes carefully.
+Expected Observations: (Not provided)
+Key Learning Points: To be explained after observation.
+
+DIAGRAMS AND ILLUSTRATIONS
+
+DIAGRAM TITLE: চিত্র 10.14: সালফিউরিক এসিডের ব্যবহার / Figure 10.14: Uses of Sulfuric Acid
+Description: A pie chart showing the different uses of sulfuric acid by percentage.
+Components: Steel production (2%), Plastic (7%), Soap and Detergents (26%), Salt (5%), Fertilizer (3%), Chemical Products (28%), Dye Materials (26%).
+Chemical Labels: No chemical formulas shown.
+Safety Notes: No explicit safety notes.
+Purpose:  To illustrate the various applications of sulfuric acid in different industries.
+
+QUESTIONS AND PROBLEMS
+
+QUESTION 1
+Bengali question text: উপরের পরীক্ষা তিনটির কোনটিতে সালফিউরিক এসিডের কোন ধর্ম (এসিড, জারক, নিরুদক) প্রকাশ করে তা ব্যাখ্যা করো।
+Translation: In which of the above three experiments does sulfuric acid exhibit which of its properties (acid, oxidizing agent, dehydrating agent)? Explain.
+Type: Analytical
+Chemical Components: H₂SO₄, H₂O, KI, C₁₂H₂₂O₁₁
+Key Concept: Properties of sulfuric acid
+
+QUESTION 2
+Bengali question text: সালফিউরিক এসিডের ব্যবহার প্রকাশকারী পাই চার্টের (চিত্র: 10.13) তথ্যের ভিত্তিতে বাংলাদেশে সালফিউরিক এসিডের অর্থনৈতিক গুরুত্ব বিশ্লেষণ করো।
+Translation: Based on the information in the pie chart (Figure 10.13) showing the uses of sulfuric acid, analyze the economic importance of sulfuric acid in Bangladesh.
+Type: Analytical
+Chemical Components: H₂SO₄
+Key Concept: Economic importance of sulfuric acid
+
+SAFETY INFORMATION
+SAFETY ALERT
+Hazard Description: Concentrated sulfuric acid is corrosive and can cause severe burns. It is also a strong dehydrating agent.
+Required Precautions: Handle concentrated sulfuric acid with extreme care. Always wear eye protection and gloves. Avoid skin contact.
+Emergency Procedures: In case of skin contact, wash immediately with plenty of water. If acid comes in contact with the eyes, wash thoroughly with water and seek medical attention. In case of inhalation, move to fresh air.
+Protective Equipment: Wear safety goggles, gloves, and lab coat.
+
+
+CHAPTER TITLE: অনুশীলনী / Exercises
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 258
+MAIN TOPICS: Properties of metals, Rusting of iron, Gold purity
+
+1.  MULTIPLE CHOICE QUESTIONS
+
+    1.  TABLE QUESTION
+
+        Which record in the table typically shows the characteristics of a metal?
+
+        |        | Melting Point | Boiling Point | Density |         |         | Melting Point | Boiling Point | Density |
+        | :----- | :----------- | :------------ | :------ | :------ | :------ | :----------- | :------------ | :------ |
+        | (a)    | 1539         | 2887          | 7.86    | (b)     | -219     | 183           | 0.002    |
+        | (c)    | -113         | 45            | 0.79    | (d)     | 117      | 888           | 1.96    |
+
+2.  EXPERIMENTAL SETUP DIAGRAM
+    DESCRIPTION: Four test tubes are shown, each containing an iron nail. The first tube contains air and anhydrous CaCl2, the second contains boiled water, the third contains air and iron nail coated in oil, and the fourth contains oxygen and distilled water.
+    COMPONENTS: Test tubes, iron nails, air, boiled water, anhydrous CaCl2, oil, oxygen, distilled water
+    CHEMICAL LABELS: CaCl2
+    SAFETY NOTES: None
+    PURPOSE: To investigate the conditions required for rusting of iron.
+
+3.  QUESTIONS BASED ON DIAGRAM
+
+    Question 2
+    কোন টেস্টটিউবের পেরেকটিতে সবচেয়ে বেশি মরিচা ধরবে? / Which test tube's nail will rust the most?
+    (ক) প্রথম / (a) First
+    (খ) দ্বিতীয় / (b) Second
+    (গ) তৃতীয় / (c) Third
+    (ঘ) চতুর্থ / (d) Fourth
+    Type: Multiple choice
+    Chemical Components: Iron (Fe), oxygen (O2), water (H2O)
+    Key Concept: Conditions for rusting
+
+    Question 3
+    পরীক্ষাটির ভিত্তিতে যে সিদ্ধান্তসমূহ গ্রহণ করা যায়- (i) মরিচা ধরার জন্য অক্সিজেন আবশ্যক (ii) লবণ প্রভাবক হিসেবে কাজ করছে (iii) কেবল অক্সিজেন উপস্থিত থাকলেই মরিচা ধরে না। নিচের কোনটি সঠিক? / Based on the experiment, the conclusions that can be drawn are - (i) Oxygen is necessary for rusting (ii) Salt acts as a catalyst (iii) Rusting does not occur only with the presence of oxygen. Which of the following is correct?
+    (ক) i ও ii / (a) i and ii
+    (খ) ii ও iii / (b) ii and iii
+    (গ) i ও iii / (c) i and iii
+    (ঘ) i, ii ও iii / (d) i, ii and iii
+    Type: Multiple choice
+    Chemical Components: Iron (Fe), oxygen (O2), water (H2O), salt (NaCl or similar)
+    Key Concept: Factors affecting rusting
+
+    Question 4
+    গিনি সোনার কোন নমুনাটি সর্বোচ্চ দৃঢ়? / Which sample of guinea gold is the strongest?
+    (ক) 18 ক্যারেট / (a) 18 Carat
+    (খ) 21 ক্যারেট / (b) 21 Carat
+    (গ) 22 ক্যারেট / (c) 22 Carat
+    (ঘ) 24 ক্যারেট / (d) 24 Carat
+    Type: Multiple choice
+    Chemical Components: Gold (Au), various metals
+    Key Concept: Purity of gold
+
+
+CHAPTER TITLE: খনিজ সম্পদ: ধাতু-অধাতু / Mineral Resources: Metals and Nonmetals
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 259
+MAIN TOPICS: Sulfuric acid dilution, Mineral ores, Reactivity series
+
+5.  লঘুকরণের পানিতে ফোঁটায় ফোঁটায় সালফিউরিক এসিড যোগ করার কারণ, সালফিউরিক এসিড-
+    (i) এর হাইড্রেশন তাপ অত্যধিক
+    (ii) একটি দ্বিক্ষারকীয় এসিড
+    (iii) ক্ষয়কারক পদার্থ
+    Translation: The reason for adding sulfuric acid drop by drop to water for dilution, sulfuric acid is-
+    (i) It has a high heat of hydration
+    (ii) A dibasic acid
+    (iii) A corrosive substance
+
+    Question 5
+    নিচের কোনটি সঠিক?
+    Translation: Which of the following is correct?
+    Type: Multiple choice
+    Chemical Components: Sulfuric acid (H2SO4), Water (H2O)
+    Key Concept: Acid dilution
+
+6. SO3 কে 98% সালফিউরিক এসিডে শোষণ করে পানি যোগে প্রয়োজনমতো লঘু করা হয়, কারণ সালফিউরিক এসিড-
+    (i) জলীয় বাষ্পের সাথে ঘন কুয়াশা সৃষ্টি করে
+    (ii) পানিযোগে প্রচুর তাপ নির্গত করে
+    (iii) একটি নিরুদক পদার্থ
+    Translation: SO3 is absorbed in 98% sulfuric acid and diluted with water as needed because sulfuric acid-
+    (i) Creates dense fog with water vapor
+    (ii) Releases a lot of heat when mixed with water
+    (iii) A dehydrating substance
+
+   Question 6
+    নিচের কোনটি সঠিক?
+    Translation: Which of the following is correct?
+    Type: Multiple choice
+    Chemical Components: Sulfur trioxide (SO3), Sulfuric acid (H2SO4), Water (H2O)
+    Key Concept: Sulfuric acid properties
+
+7.  নিচের কোনটি খনিজমল?
+    Translation: Which of the following is a mineral ore?
+    Type: Multiple choice
+    Chemical Components: Al2O3, ZnS, SiO2, PbS
+    Key Concept: Mineral Ores
+
+8.  সিনেবার কোন ধাতুর আকরিক?
+   Translation: Cinnabar is an ore of which metal?
+    Type: Multiple choice
+    Chemical Components: HgS
+    Key Concept: Metal ores
+
+9. অ্যালুমিনিয়ামের গলনাঙ্ক কত?
+    Translation: What is the melting point of aluminum?
+    Type: Multiple choice
+    Chemical Components: Aluminum (Al)
+    Key Concept: Melting point
+
+10. নিচের কোনটির সক্রিয়তা বেশি?
+    Translation: Which of the following has more reactivity?
+    Type: Multiple choice
+    Chemical Components: Cu, Zn, Fe, Pb
+    Key Concept: Reactivity Series
+
+11. তাম্রমলে থাকে
+    i. CuCO3
+    ii. CuSO4
+    iii. Cu(OH)2
+    Translation: Copper rust contains:
+    i. CuCO3
+    ii. CuSO4
+    iii. Cu(OH)2
+
+    Question 11
+    নিচের কোনটি সঠিক?
+   Translation: Which of the following is correct?
+    Type: Multiple choice
+    Chemical Components: CuCO3, CuSO4, Cu(OH)2
+    Key Concept: Composition of copper rust
+
+
+```
+Chapter Title: রসায়ন / Chemistry
+Chapter Number: Not specified
+Page Number: 260
+Main Topics: Metal extraction, Ore processing
+
+12. কাঁসাতে টিনের পরিমাণ কত?
+Bengali: কাঁসাতে টিনের পরিমাণ কত?
+Translation: What is the amount of tin in bronze?
+(ক) 90% (খ) 65% (গ) 35% (ঘ) 10%
+
+Bengali: ক্যালামাইনের তাপজারণে উৎপন্ন ZnO কে চিত্রের ন্যায় রিটর্টে নিয়ে জিংক ধাতু আহরণ করা হয়।
+Translation: Zinc metal is extracted by taking the ZnO produced by calcination of calamine in a retort, as shown in the figure.
+Bengali: উৎপন্ন ধাতুকে তড়িৎ বিশ্লেষণের সাহায্যে আরও বিশুদ্ধ করা হয়।
+Translation: The produced metal is further purified by electrolysis.
+
+DIAGRAM TITLE: জিংক অক্সাইড ও কোকের মিশ্রণ রিটর্ট (Zinc oxide and coke mixture retort)
+Description: A diagram showing a retort apparatus, labeled with "জিংক অক্সাইড ও কোকের মিশ্রণ" (zinc oxide and coke mixture), "শীতক" (cooler), and "ফ্লোর" (floor). An arrow points towards the retort, indicating the direction of heat application
+Components: Retort, cooler (শীতক), floor (ফ্লোর), zinc oxide and coke mixture (জিংক অক্সাইড ও কোকের মিশ্রণ)
+Chemical Labels: ZnO, C
+Safety Notes: Ensure proper ventilation to avoid accumulation of harmful gases produced during the heating process.
+Purpose: To illustrate the setup for extracting zinc from zinc oxide.
+
+SUJONSHIL PROSHNO (CREATIVE QUESTIONS)
+
+1. (ক) ক্যালামাইনের রাসায়নিক সংকেত লেখো।
+Bengali: ক্যালামাইনের রাসায়নিক সংকেত লেখো।
+Translation: Write the chemical formula of calamine.
+Type: Short answer
+Chemical Components: Calamine
+Key Concept: Chemical Formulas
+
+1. (খ) তাপজারণের ব্যাখ্যা দাও।
+Bengali: তাপজারণের ব্যাখ্যা দাও।
+Translation: Explain calcination.
+Type: Short answer
+Chemical Components:  Calamine, ZnO
+Key Concept: Calcination
+
+1. (গ) রিটর্টে সংঘটিত মূল বিক্রিয়াটি ব্যাখ্যা করো।
+Bengali: রিটর্টে সংঘটিত মূল বিক্রিয়াটি ব্যাখ্যা করো।
+Translation: Explain the main reaction that occurs in the retort.
+Type: Short answer
+Chemical Components: ZnO, C, Zn, CO
+Key Concept: Reduction of metal oxides
+
+1. (ঘ) উদ্দীপকের ধাতু কেবল তড়িৎ বিশ্লেষণ প্রক্রিয়ায় নিষ্কাশন না করে তিন ধাপে করার কারণ মূল্যায়ন করো।
+Bengali: উদ্দীপকের ধাতু কেবল তড়িৎ বিশ্লেষণ প্রক্রিয়ায় নিষ্কাশন না করে তিন ধাপে করার কারণ মূল্যায়ন করো।
+Translation: Evaluate the reason for extracting the metal in the stimulus in three steps instead of only by electrolysis.
+Type: Analytical
+Chemical Components: Zinc
+Key Concept: Metal extraction methods
+
+2. একটি খনিতে বক্সাইট ও ক্যালামাইন মিশ্রিত কিছু খনিজের অস্তিত্ব পাওয়া গেল। প্রফেসর রহমানের নেতৃত্বে একদল রসায়নবিদ উক্ত খনিজ থেকে দুটি ভিন্ন পদ্ধতিতে ধাতু দুটি নিষ্কাশন করলেন।
+Bengali: একটি খনিতে বক্সাইট ও ক্যালামাইন মিশ্রিত কিছু খনিজের অস্তিত্ব পাওয়া গেল। প্রফেসর রহমানের নেতৃত্বে একদল রসায়নবিদ উক্ত খনিজ থেকে দুটি ভিন্ন পদ্ধতিতে ধাতু দুটি নিষ্কাশন করলেন।
+Translation: Some minerals containing bauxite and calamine were found in a mine. Under the leadership of Professor Rahman, a team of chemists extracted the two metals from the minerals using two different methods.
+
+2. (ক) খনিজ কাকে বলে?
+Bengali: খনিজ কাকে বলে?
+Translation: What is a mineral?
+Type: Short answer
+Chemical Components: Bauxite, Calamine
+Key Concept: Definition of mineral
+
+2. (খ) "সকল খনিজই আকরিক নয়" ব্যাখ্যা করো।
+Bengali: "সকল খনিজই আকরিক নয়" ব্যাখ্যা করো।
+Translation: Explain why "all minerals are not ores".
+Type: Short answer
+Chemical Components: Minerals, Ores
+Key Concept: Minerals vs. Ores
+
+2. (গ) দ্বিতীয় আকরিকটির বিয়োজন প্রাপ্ত অক্সাইডদ্বয়ের প্রকৃতি ব্যাখ্যা করো।
+Bengali: দ্বিতীয় আকরিকটির বিয়োজন প্রাপ্ত অক্সাইডদ্বয়ের প্রকৃতি ব্যাখ্যা করো।
+Translation: Explain the nature of the oxides obtained after the decomposition of the second ore.
+Type: Short answer
+Chemical Components: Calamine, ZnO
+Key Concept: Nature of oxides
+
+2. (ঘ) ভিন্ন পদ্ধতিতে ধাতু দুটি নিষ্কাশনের কারণ যুক্তিসহ লেখো।
+Bengali: ভিন্ন পদ্ধতিতে ধাতু দুটি নিষ্কাশনের কারণ যুক্তিসহ লেখো।
+Translation: Write with reason the different methods for extraction of the two metals.
+Type: Analytical
+Chemical Components: Bauxite, Calamine, Aluminum, Zinc
+Key Concept: Different metal extraction methods
+
+3. পর্যায় সারণির গ্রুপ-16 এর একটি মৌলকে বায়ুতে পোড়ালে একটি অক্সাইড A পাওয়া যায়।
+Bengali: পর্যায় সারণির গ্রুপ-16 এর একটি মৌলকে বায়ুতে পোড়ালে একটি অক্সাইড A পাওয়া যায়।
+Translation: An element of group 16 in the periodic table is burned in air to produce an oxide A.
+Bengali: অক্সাইডটি ঝাঁজালো গন্ধযুক্ত অত্যন্ত বিষাক্ত গ্যাস। লা-শাতেলিয়ার নীতি প্রয়োগ করে শিল্পক্ষেত্রে A থেকে একটি এসিড B তৈরি করা যায়।
+Translation: The oxide is a pungent smelling, highly toxic gas. An acid B can be produced from A in the industry by applying Le Chatelier's principle.
+
+3. (ক) আকরিক কাকে বলে?
+Bengali: আকরিক কাকে বলে?
+Translation: What is an ore?
+Type: Short answer
+Chemical Components: Oxide A
+Key Concept: Definition of ore
+
+3. (খ) A অক্সাইড অম্লধর্মী-ব্যাখ্যা করো।
+Bengali: A অক্সাইড অম্লধর্মী-ব্যাখ্যা করো।
+Translation: Explain why oxide A is acidic.
+Type: Short answer
+Chemical Components: Oxide A
+Key Concept: Acidic oxides
+
+3. (গ) উদ্দীপকের B এসিডটি তৈরি করার প্রক্রিয়া বর্ণনা করো।
+Bengali: উদ্দীপকের B এসিডটি তৈরি করার প্রক্রিয়া বর্ণনা করো।
+Translation: Describe the process of producing acid B in the stimulus.
+Type: Short answer
+Chemical Components: Acid B
+Key Concept: Acid production
+
+3. (ঘ) উদ্দীপকের B এসিডটির গাঢ়ত্বের ওপর জারণ-ধর্ম নির্ভর করে-যুক্তি দ্বারা প্রমাণ করো।
+Bengali: উদ্দীপকের B এসিডটির গাঢ়ত্বের ওপর জারণ-ধর্ম নির্ভর করে-যুক্তি দ্বারা প্রমাণ করো।
+Translation: Prove with reason that the oxidizing property of acid B in the stimulus depends on its concentration.
+Type: Analytical
+Chemical Components: Acid B
+Key Concept: Oxidizing properties of acids
+```
+
+

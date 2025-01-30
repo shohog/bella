@@ -1,0 +1,1448 @@
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Balance of Acid-Base
+CHAPTER NUMBER: 9
+PAGE NUMBER: 2025
+MAIN TOPICS: Acids, Bases, Salts
+
+TERM OR PROPERTY NAME
+Bengali Definition: অনেক ফলই খানিকটা এসিডধর্মী।
+English Translation: Many fruits are slightly acidic in nature.
+Examples: (Implicit from the image - various fruits are shown)
+
+TERM OR PROPERTY NAME
+Bengali Definition: রসায়ন গবেষণাগারে আমরা নানা ধরনের যৌগ ব্যবহার করে থাকি। তাদের মধ্যে এসিড, ক্ষারক আর লবণ অন্যতম।
+English Translation: In chemistry laboratories, we use various types of compounds. Among them, acids, bases, and salts are important.
+
+TERM OR PROPERTY NAME
+Bengali Definition: রসায়নের শিক্ষার্থী হিসেবে তোমাদেরকেও এসিড, ক্ষারক এবং লবণ সম্পর্কে জানতে হবে।
+English Translation: As students of chemistry, you also need to learn about acids, bases, and salts.
+
+TERM OR PROPERTY NAME
+Bengali Definition: ল্যাবরেটরিতে আমরা পরীক্ষা-নিরীক্ষা করার জন্য গাঢ় এসিড বা গাঢ় ক্ষারের পরিবর্তে লঘু এসিড বা লঘু ক্ষারই বেশি ব্যবহার করে থাকি।
+English Translation: In the laboratory, we mostly use dilute acids or dilute bases for testing instead of concentrated acids or concentrated bases.
+
+TERM OR PROPERTY NAME
+Bengali Definition: খাদ্যের মাধ্যমে আমরা এসিড, ক্ষারক ও লবণ পেয়ে থাকি, যা আমাদের শরীরের জন্য আবশ্যক।
+English Translation: Through food, we get acids, bases, and salts, which are necessary for our body.
+
+TERM OR PROPERTY NAME
+Bengali Definition: এসিডকে ক্ষারক দ্বারা প্রশমিত করে লবণ তৈরি করা হয় অথবা ক্ষারককে এসিড দ্বারা প্রশমিত করে লবণ তৈরি করা হয়।
+English Translation: Salts are formed by neutralizing acids with bases, or by neutralizing bases with acids.
+Related Chemical Equations: (Not on this page, but implied neutralization reactions)
+
+TERM OR PROPERTY NAME
+Bengali Definition: কোনো দ্রবণ এসিডধর্মী না ক্ষারধর্মী তা আমরা ল্যাবরেটরিতে বিভিন্ন পরীক্ষার মাধ্যমে জানতে পারি।
+English Translation: Whether a solution is acidic or basic, we can determine it through different tests in the laboratory.
+
+TERM OR PROPERTY NAME
+Bengali Definition: এদের মধ্যে লিটমাস পরীক্ষা, pH মান পরীক্ষা সবচেয়ে বেশি ব্যবহৃত হয়।
+English Translation: Among these tests, litmus paper tests and pH value tests are most commonly used.
+
+TERM OR PROPERTY NAME
+Bengali Definition: প্রয়োজনীয় এসব এসিড, ক্ষারক এবং লবণ আমাদের পরিবেশকে আবার বিভিন্নভাবে দূষিতও করছে।
+English Translation: These necessary acids, bases, and salts are also polluting our environment in various ways.
+
+TERM OR PROPERTY NAME
+Bengali Definition: এসব বিষয়ই এই অধ্যায়ে আলোচনা করা হবে।
+English Translation: All of these topics will be discussed in this chapter.
+
+DIAGRAM TITLE: Fruit Display
+Description: A close-up photograph of various cut and whole fruits, including grapefruits, oranges, pomegranates, lemons, and a mango, arranged in a seemingly random order, showcasing different colours and textures.
+Components: Grapefruit halves (pink), orange halves (yellow), cut open pomegranates with visible arils (red), whole lemons (yellow), mango (green/yellow).
+Chemical Labels: None
+Safety Notes: None
+Purpose: Illustrates the natural sources of acidic compounds and other substances in foods.
+
+---
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 207
+MAIN TOPICS: Acids, Bases, and Salts; pH concept
+
+•	অম্ল, ক্ষার ও লবণের বৈশিষ্ট্য ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the characteristics of acids, bases, and salts.
+
+•	পরিচিত পরিবেশের পদার্থগুলোর মধ্য থেকে অম্ল, ক্ষার ও লবণকে শনাক্ত করতে পারব।
+Translation: We will be able to identify acids, bases, and salts from substances in our known environment.
+
+•	ক্ষারক ও ক্ষার জাতীয় পদার্থের পার্থক্য করতে পারব।
+Translation: We will be able to differentiate between bases and basic substances.
+
+•	ব্যবহার্য পদার্থের ওপর অম্ল ও ক্ষারের প্রভাব বর্ণনা করতে পারব।
+Translation: We will be able to describe the effects of acids and bases on commonly used materials.
+
+•	গৃহস্থালি পদার্থের ওপর অম্ল ও ক্ষার জাতীয় দ্রব্যের প্রভাবের আর্থিক গুরুত্ব মূল্যায়ন করতে পারব।
+Translation: We will be able to evaluate the financial importance of the effects of acids and basic substances on household materials.
+
+•	pH এর ধারণা ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the concept of pH.
+
+•	pH পরিমাপের গুরুত্ব ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the importance of pH measurement.
+
+•	পরিবেশের ভারসাম্য রক্ষায় অম্ল-ক্ষার সমতার গুরুত্ব অনুধাবন করতে পারব।
+Translation: We will be able to understand the importance of acid-base balance in maintaining environmental equilibrium.
+
+•	এসিড বৃষ্টির কারণ, ক্ষতিকর দিকসমূহ এবং তা থেকে রক্ষার উপায় ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the causes of acid rain, its harmful effects, and ways to prevent it.
+
+•	পানিচক্র ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the water cycle.
+
+•	পানির খরতা ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the hardness of water.
+
+•	খর পানি ব্যবহারের সুবিধাসমূহ উল্লেখ করতে পারব।
+Translation: We will be able to list the advantages of using hard water.
+
+•	খর পানি ব্যবহারের আর্থিক ক্ষতি ব্যাখ্যা করতে পারব।
+Translation: We will be able to explain the financial losses from using hard water.
+
+•	পানি দূষণের কারণ ও পরিশোধনের উপায়সমূহ বর্ণনা করতে পারব।
+Translation: We will be able to describe the causes of water pollution and the ways to purify it.
+
+•	আর্সেনিকযুক্ত পানি পানের ক্ষতিকর দিক উল্লেখ করতে পারব।
+Translation: We will be able to list the harmful effects of drinking arsenic-contaminated water.
+
+•	pH পরিমাপের মাধ্যমে গৃহের/ল্যাবের/লবণাক্ত পানির প্রকৃতি নির্ণয় করতে পারব।
+Translation: We will be able to determine the nature of household/laboratory/saline water by measuring pH.
+
+•	যৌগসমূহের দ্রবণের pH মান নির্ণয় করে বা লিটমাস বা ইউনিভার্সাল ইন্ডিকেটর ব্যবহার করে যৌগের প্রকৃতি তুলনা (এসিড, ক্ষার) করতে পারব।
+Translation: We will be able to determine the pH of the solution of compounds by using litmus or universal indicator to compare the nature of the compounds (acidic, basic).
+
+•	দূষণমুক্ত পানি ব্যবহারে আগ্রহ প্রদর্শন করতে পারব।
+Translation: We will be able to demonstrate interest in using pollution-free water.
+
+•	এসিড সন্ত্রাসের ভয়াবহ দিক সম্পর্কে সচেতনতার পরিচয় দিতে পারব এবং অন্যদের সচেতন করতে করতে পারব।
+Translation: We will be able to demonstrate awareness of the terrible aspects of acid violence and make others aware of them.
+
+•	ব্যবহার্য পদার্থের ওপর অম্ল ও ক্ষারের প্রভাব পরীক্ষার মাধ্যমে দেখাতে পারব।
+Translation: We will be able to demonstrate the effects of acids and bases on commonly used materials through experiments.
+
+•	অম্ল ও ক্ষার জাতীয় পদার্থ ব্যবহারের ক্ষেত্রে যথাযথ ব্যবহারের পূর্ব সতর্কতামূলক ব্যবস্থা গ্রহণ করতে পারব।
+Translation: We will be able to take pre-cautionary measures before the proper use of acidic and basic substances.
+
+
+CHAPTER TITLE: এসিড (Acid) / Acid
+CHAPTER NUMBER: 9.1
+PAGE NUMBER: 208
+MAIN TOPICS: Acid definition, Strong and weak acids, Acid properties
+
+CHEMICAL EQUATIONS:
+HCl(aq) → H+(aq) + Cl-(aq)
+H2SO4(aq) → 2H+(aq) + SO42-(aq)
+H2CO3(aq) ⇌ 2H+(aq) + CO32-(aq)
+CH3COOH(aq) ⇌ H+(aq) + CH3COO-(aq)
+CaO + 2HCl → CaCl2 + H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: এসিড (Acid)
+Bengali Definition: রাসায়নিক দ্রব্যাদির মধ্যে এসিড খুবই গুরুত্বপূর্ণ। এসিড এক ধরনের গুরুত্বপূর্ণ রাসায়নিক দ্রব্য যা পানিতে দ্রবীভূত করলে এসিডের অণু বিয়োজিত হয়ে (ভেঙে) হাইড্রোজেন আয়ন বা প্রোটন (H+) দান করে।
+English Translation: Among chemical substances, acid is very important. Acid is an important chemical substance that, when dissolved in water, dissociates (breaks down) into hydrogen ions or protons (H+).
+
+TERM OR PROPERTY NAME: তীব্র এসিড (Strong Acid)
+Bengali Definition: HCl ও H₂SO₄ এর ক্ষেত্রে বিয়োজন বোঝাতে একটিমাত্র তীর চিহ্ন ব্যবহার করা হয়েছে। এর অর্থ হলো HCl ও H₂SO₄ পানিতে সম্পূর্ণ (100%) বিয়োজিত হয়। তাই এ ধরনের এসিডকে তীব্র এসিড বা সবল এসিড বলে।
+English Translation: In the case of HCl and H₂SO₄, a single arrow is used to indicate dissociation. This means that HCl and H₂SO₄ dissociate completely (100%) in water. Therefore, these types of acids are called strong or potent acids.
+Related Chemical Equations: HCl(aq) → H+(aq) + Cl-(aq), H2SO4(aq) → 2H+(aq) + SO42-(aq)
+
+TERM OR PROPERTY NAME: মৃদু এসিড (Weak Acid)
+Bengali Definition: অন্য দুইটি এসিড CH3COOH ও H₂CO₃ এর বিয়োজন বোঝাতে উভমুখী তীর চিহ্ন (⇌) ব্যবহার করা হয়েছে। অর্থাৎ এরা পানিতে আংশিক বিয়োজিত হয়। তাই এ ধরনের এসিডকে মৃদু এসিড বা দুর্বল এসিড বলে।
+English Translation: The other two acids, CH3COOH and H₂CO₃, use a reversible arrow (⇌) to indicate dissociation. This means they are partially dissociated in water. Thus, these types of acids are called weak acids or mild acids.
+Related Chemical Equations: H2CO3(aq) ⇌ 2H+(aq) + CO32-(aq), CH3COOH(aq) ⇌ H+(aq) + CH3COO-(aq)
+
+TERM OR PROPERTY NAME: গাঢ় এসিড (Concentrated Acid)
+Bengali Definition: এসিড ও পানির দ্রবণে এসিডের পরিমাণ যদি বেশি থাকে তবে তাকে গাঢ় এসিড বলে।
+English Translation: If the amount of acid is high in an acid and water solution, it is called a concentrated acid.
+
+TERM OR PROPERTY NAME: লঘু এসিড (Dilute Acid)
+Bengali Definition: আবার, এসিডের জলীয় দ্রবণে পানির পরিমাণ যদি এসিডের তুলনায় অনেক বেশি হয় তবে তাকে লঘু এসিড বলে।
+English Translation: If the amount of water is much greater than the amount of acid in an aqueous solution of acid, it is called a dilute acid.
+
+TERM OR PROPERTY NAME: Acid Taste
+Bengali Definition: এসিড টক স্বাদযুক্ত।
+English Translation: Acids have a sour taste.
+
+TERM OR PROPERTY NAME: লিটমাস পেপার (Litmus Paper)
+Bengali Definition: এসিড দ্রবণ নীল রঙের লিটমাস পেপারকে লাল রঙের লিটমাস পেপারে রূপান্তরিত করে।
+English Translation: Acid solutions turn blue litmus paper red.
+
+TERM OR PROPERTY NAME: লবণ (Salt)
+Bengali Definition: এসিড ধাতব অক্সাইডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে।
+English Translation: Acids react with metal oxides to produce salt and water.
+
+SAFETY ALERT
+Hazard Description: Acids can be corrosive and cause burns.
+Required Precautions: Handle acids with care, wear protective gear, and avoid contact with skin.
+Emergency Procedures: Wash affected areas thoroughly with water.
+Protective Equipment: Gloves and eye protection.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 209
+MAIN TOPICS: Acid properties, Reactions of acids, Litmus test for acids
+
+CHEMICAL EQUATIONS:
+
+2Na + 2HCl → 2NaCl + H2
+
+EXPERIMENTAL PROCEDURES:
+
+LITMUS TEST FOR ACIDS
+Purpose: To demonstrate how acids change the color of blue litmus paper.
+Materials Required:
+  - Test tube
+  - 2-3 ml Hydrochloric acid (HCl)
+  - Blue litmus paper
+Safety Precautions: Wear appropriate lab safety gear. Avoid direct contact with acids, as they can cause burns. Do not taste any chemicals.
+Procedure:
+ 1. Take 2-3 ml of hydrochloric acid in a test tube.
+ 2. Add a piece of blue litmus paper into the test tube.
+Expected Observations: The blue litmus paper will turn red.
+Key Learning Points: Acids turn blue litmus paper red.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+ACIDS
+Bengali Definition:  এসিড সক্রিয় ধাতুর সাথে বিক্রিয়া করে লবণ ও হাইড্রোজেন গ্যাস তৈরি করে।
+English Translation: Acids react with active metals to produce salt and hydrogen gas.
+
+ACID TASTE
+Bengali Definition: সকল লঘু এসিড টক স্বাদযুক্ত।
+English Translation: All dilute acids have a sour taste.
+
+ACID CORROSIVENESS
+Bengali Definition: এসিডগুলো ক্ষয়কারী পদার্থ হিসেবে পরিচিত।
+English Translation: Acids are known as corrosive substances.
+
+ACID EFFECT ON LITMUS
+Bengali Definition: এসিড নীল বর্ণের লিটমাসকে লাল বর্ণে পরিণত করে।
+English Translation: Acids turn blue litmus paper red.
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Acids are corrosive and can cause burns upon contact with skin or eyes.
+Required Precautions: Wear appropriate lab safety gear.
+Emergency Procedures: In case of contact, wash the affected area with plenty of water. Seek medical attention if necessary.
+Protective Equipment: Wear gloves and safety goggles.
+
+QUESTIONS AND PROBLEMS:
+
+Question 1
+Bengali question text: লঘু এসিডের স্বাদ কেমন?
+Translation: What is the taste of dilute acids?
+Type: Short answer
+Chemical Components: Acids
+Key Concept: Acid properties
+
+Question 2
+Bengali question text: এসিড কিভাবে লিটমাসের রঙ পরিবর্তন করে?
+Translation: How do acids change the color of litmus paper?
+Type: Short answer
+Chemical Components: Acids, litmus paper
+Key Concept: Acid properties, litmus test
+
+Question 3
+Bengali question text: হাইড্রোক্লোরিক এসিডের সাথে সোডিয়াম ধাতুর বিক্রিয়াটি লিখ।
+Translation: Write the reaction of sodium metal with hydrochloric acid.
+Type: Numerical
+Chemical Components: Sodium (Na), Hydrochloric acid (HCl), Sodium chloride (NaCl), Hydrogen gas (H2)
+Key Concept: Reaction of Acids with Metals.
+
+ADDITIONAL NOTES:
+- The text mentions various acids found in everyday foods (lactic acid, citric acid, etc.). These are weak acids and generally not harmful.
+- Hydrochloric acid (HCl) is a strong acid produced in the stomach that helps digestion.
+- Excess HCl production can cause ulcers.
+- Eating food that stimulates acid production and keeping an empty stomach for long periods should be avoided to prevent ulcers.
+
+
+CHAPTER TITLE: অ্যাসিড, ক্ষারক ও লবণ / Acids, Bases and Salts
+CHAPTER NUMBER: 6
+PAGE NUMBER: 210
+MAIN TOPICS: Reactions of Acids, Metal Reactions, Carbonate Reactions
+
+CHEMICAL EQUATIONS:
+Mg + H2SO4 → MgSO4 + H2↑
+
+CaCO3 + 2HCl → CaCl2 + H2O + CO2↑
+
+Ca(OH)2 + CO2 → CaCO3 + H2O
+
+CaCO3 + CO2 + H2O → Ca(HCO3)2
+
+Na2CO3 + H2SO4 → Na2SO4 + H2O + CO2
+
+CaCO3 + 2HNO3 → Ca(NO3)2 + H2O + CO2
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+ACID REACTION WITH LITMUS PAPER
+Bengali Definition: নীল রঙের লিটমাস কাগজটি লাল বর্ণে পরিণত হয়েছে।
+English Translation: Blue litmus paper turns red.
+Related Chemical Equations: None given
+Examples: H2SO4, HNO3, substances in tamarind and pickles
+
+METAL REACTIONS WITH ACIDS
+Bengali Definition: এসিড সক্রিয় ধাতুর (যেমন- K, Na, Mg ইত্যাদি) সাথে বিক্রিয়া করে সংশ্লিষ্ট ধাতুটির লবণ এবং হাইড্রোজেন গ্যাস উৎপন্ন করে।
+English Translation: Acids react with active metals (such as K, Na, Mg, etc.) to produce the corresponding metal salt and hydrogen gas.
+Related Chemical Equations: Mg + H2SO4 → MgSO4 + H2↑
+Examples: Magnesium (Mg) with sulfuric acid (H2SO4)
+
+METAL CARBONATE REACTIONS WITH DILUTE ACIDS
+Bengali Definition: লঘু এসিড ধাতব কার্বনেটের সাথে বিক্রিয়া করে লবণ, পানি ও কার্বন ডাই-অক্সাইড উৎপন্ন করে।
+English Translation: Dilute acids react with metal carbonates to produce salt, water, and carbon dioxide.
+Related Chemical Equations: CaCO3 + 2HCl → CaCl2 + H2O + CO2↑
+Examples: Calcium carbonate (CaCO3) with dilute HCl.
+
+CARBON DIOXIDE AND LIME WATER REACTION
+Bengali Definition: উৎপন্ন কার্বন ডাই-অক্সাইড (CO2) কে চুনের পানির মধ্যে চালনা করলে চুনের পানি প্রথমে ঘোলা হয়।
+English Translation: When the produced carbon dioxide (CO2) is passed through lime water, the lime water first becomes cloudy.
+Related Chemical Equations: Ca(OH)2 + CO2 → CaCO3 + H2O
+Examples: Reaction of carbon dioxide with lime water.
+
+FORMATION OF CALCIUM BICARBONATE
+Bengali Definition: এক্ষেত্রে অদ্রবণীয় CaCO3 এর সাথে CO2 এবং H2O বিক্রিয়া করে দ্রবণীয় ক্যালসিয়াম বাইকার্বনেট [Ca(HCO3)2] উৎপন্ন করার কারণে ঘোলা চুনের পানিকে স্বচ্ছ দেখায়।
+English Translation: In this case, the insoluble CaCO3 reacts with CO2 and H2O to form soluble calcium bicarbonate [Ca(HCO3)2], causing the cloudy lime water to become clear.
+Related Chemical Equations: CaCO3 + CO2 + H2O → Ca(HCO3)2
+
+SIMILAR REACTIONS WITH OTHER CARBONATES
+Bengali Definition: একইভাবে ধাতব কার্বনেটগুলো লঘু সালফিউরিক এসিড কিংবা লঘু নাইট্রিক এসিডের সাথে একই ধরনের বিক্রিয়া করে সালফেট লবণ বা নাইট্রেট লবণ উৎপন্ন করে।
+English Translation: Similarly, metal carbonates react with dilute sulfuric acid or dilute nitric acid in the same way to produce sulfate or nitrate salts.
+Related Chemical Equations:
+Na2CO3 + H2SO4 → Na2SO4 + H2O + CO2
+CaCO3 + 2HNO3 → Ca(NO3)2 + H2O + CO2
+Examples: Sodium carbonate (Na2CO3) and calcium carbonate (CaCO3) reacting with sulfuric acid (H2SO4) and nitric acid (HNO3).
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 211
+MAIN TOPICS: Acid reactions, neutralization, role of water in acid properties
+
+CHEMICAL EQUATIONS:
+
+Ca(HCO3)2 + 2HCl → CaCl2 + 2H2O + 2CO2
+2NaHCO3 + H2SO4 → Na2SO4 + 2H2O + 2CO2
+NaHCO3 + HNO3 → NaNO3 + H2O + CO2
+
+NaOH + HCl → NaCl + H2O
+
+CaO + 2HCl → CaCl2 + H2O
+
+H2SO4 + CuO → CuSO4 + H2O
+
+2HNO3 + CaO → Ca(NO3)2 + H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+METAL BICARBONATE REACTION WITH DILUTE ACID
+Bengali Definition: ধাতব হাইড্রোজেন কার্বনেট বা ধাতব বাইকার্বনেটগুলোও লঘু এসিডের সাথে বিক্রিয়া করে লবণ, পানি এবং কার্বন ডাই-অক্সাইড উৎপন্ন করে।
+English Translation: Metal hydrogen carbonates or metal bicarbonates react with dilute acids to produce salt, water and carbon dioxide.
+
+REACTION OF METAL HYDROXIDE (BASE) WITH ACID
+Bengali Definition: ধাতুর হাইড্রোক্সাইড তথা ক্ষারের সাথে এসিড বিক্রিয়া করে লবণ এবং পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া।
+English Translation: Metal hydroxides (bases) react with acids to produce salt and water. This is a neutralization reaction.
+
+REACTION OF METAL OXIDE WITH ACID
+Bengali Definition: ধাতুর অক্সাইডের সাথে এসিড বিক্রিয়া করে লবণ এবং পানি উৎপন্ন করে। ধাতুর অক্সাইডগুলো সাধারণত ক্ষারীয় প্রকৃতির হয়। তাই এ ক্ষেত্রেও বিক্রিয়াটি প্রশমন প্রকৃতির হয়।
+English Translation: Metal oxides react with acids to produce salt and water. Metal oxides are generally basic in nature. Hence, this is a neutralization reaction.
+
+ROLE OF WATER IN ACIDIC PROPERTIES
+Bengali Definition: লঘু এসিড দ্রবণ অর্থ পানির মধ্যে এসিড যোগ করে এসিডের দ্রবণ তৈরি করা হয়েছে।
+English Translation: Dilute acid solution means adding acid to water to create an acid solution.
+Bengali Definition: অনার্দ্র অক্সালিক এসিডের দানাতে কোনো হাইড্রোজেন আয়ন নেই। অনার্দ্র অক্সালিক এসিডকে পানিতে দ্রবীভূত করলে এটি...
+English Translation: Anhydrous oxalic acid granules do not have any hydrogen ions. If anhydrous oxalic acid is dissolved in water, it...
+
+QUESTIONS AND PROBLEMS:
+
+Question 1
+Bengali Question: এসিডের সাথে পানি যুক্ত থাকলে এসিডের ধর্মের কি কোনো পরিবর্তন ঘটে?
+Translation: Does the addition of water change any of the properties of an acid?
+Type: Analytical
+Chemical Components: Acids, water
+Key Concept: Role of water in acid properties
+
+Question 2
+Bengali Question: কিছু দানাদার অক্সালিক এসিডের উপর শুষ্ক নীল লিটমাস পেপার স্পর্শ করিয়েছ, তুমি দেখবে লিটমাস পেপারের রং পরিবর্তিত হয়নি। পরিবর্তন না হওয়ার কারণ কি?
+Translation: You have touched dry blue litmus paper with some granular oxalic acid. You will see that the color of the litmus paper does not change. What is the reason for no change?
+Type: Short Answer
+Chemical Components: Oxalic acid, litmus paper
+Key Concept: Acidic properties in anhydrous vs aqueous states
+
+
+CHAPTER TITLE: অ্যাসিড, ক্ষারক ও লবণ / Acid, Base and Salt
+CHAPTER NUMBER: 9
+PAGE NUMBER: 212
+MAIN TOPICS: Acid ionization, Strong and weak acids, Concentrated acids
+
+CHEMICAL EQUATIONS:
+
+সাইট্রিক এসিড দানা + পানি → সাইট্রিক এসিড (aq)
+সাইট্রিক এসিড (aq) → H+(aq) + সাইট্রেট আয়ন
+
+হাইড্রোজেন ক্লোরাইড + পানি → HCl(aq)
+HCl(aq) → H+(aq) + Cl-(aq)
+
+H₂SO₄(l) + পানি → H2SO4(aq)
+H2SO4(aq) → 2H+(aq) + SO₄²⁻(aq)
+
+HNO₃(l) + পানি → HNO₃(aq)
+HNO₃(aq) → H⁺(aq) + NO₃⁻(aq)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: অ্যাসিড (Acid)
+Bengali Definition: পানিতে বিয়োজিত হয়ে H+ আয়ন প্রদান করবে, যা নীল লিটমাস পেপারকে লাল বর্ণে পরিণত করবে। অর্থাৎ জলীয় দ্রবণে উপস্থিত হাইড্রোজেন আয়ন অম্ল ধর্ম প্রদর্শন করে।
+English Translation: Acids release H+ ions when dissolved in water, turning blue litmus paper red. This means that hydrogen ions present in the aqueous solution display acidic properties.
+Related Chemical Equations: See above equations
+
+TERM OR PROPERTY NAME: আংশিক বিয়োজন (Partial Ionization)
+Bengali Definition: আংশিক বিয়োজিত হবার অর্থ হলো যতটি অণু দ্রবণে যোগ করা হলো তার মধ্যে অল্প কিছু অণু ভেঙে যায় বা বিয়োজিত হয় এবং বাকি অণুগুলো বিয়োজিত হয় না।
+English Translation: Partial ionization means that when molecules are added to a solution, only a few molecules break down into ions, and the remaining molecules do not ionize.
+
+TERM OR PROPERTY NAME: দুর্বল এসিড (Weak Acid)
+Bengali Definition: যে সকল এসিড জলীয় দ্রবণে আংশিক আয়নিত হয় তারা দুর্বল এসিড।
+English Translation: Acids that partially ionize in aqueous solution are called weak acids.
+
+TERM OR PROPERTY NAME: শক্তিশালী এসিড (Strong Acid)
+Bengali Definition: শক্তিশালী এসিড জলীয় দ্রবণে সম্পূর্ণ আয়নিত হয়।
+English Translation: Strong acids completely ionize in aqueous solution.
+
+TERM OR PROPERTY NAME: গাঢ় এসিড (Concentrated Acid)
+Bengali Definition: যে এসিডে পানির পরিমাণ তুলনামূলকভাবে কম থাকে সেই এসিডকে গাঢ় এসিড বলে।
+English Translation: An acid with a relatively low amount of water is called a concentrated acid.
+Examples: গাঢ় হাইড্রোক্লোরিক (Concentrated hydrochloric acid)
+
+SAFETY INFORMATION: None on this page.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 213
+MAIN TOPICS: Strong Acids, Preparation of Acids, Acid Handling Safety
+
+CHEMICAL EQUATIONS:
+
+HCl(g) + H2O(l) → HCl(aq)
+
+3NO2 + H2O → 2HNO3 + NO
+
+SO3 + H2O → H2SO4
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+ACID
+Bengali Definition: এসিড (HCl), গাঢ় সালফিউরিক এসিড (H₂SO₄), গাঢ় নাইট্রিক এসিড (HNO3) ইত্যাদি।
+English Translation: Acids (HCl), concentrated sulfuric acid (H₂SO₄), concentrated nitric acid (HNO3), etc.
+Related Chemical Equations: All the reactions in this document result in creation of acids.
+
+HYDROCHLORIC ACID
+Bengali Definition: হাইড্রোজেন ক্লোরাইড গ্যাস পানিতে দ্রবীভূত হয়ে যে দ্রবণ উৎপন্ন করে তাকে হাইড্রোক্লোরিক এসিড বলে। তুলনামূলক কম পরিমাণ পানিতে অধিক পরিমাণে হাইড্রোজেন ক্লোরাইড গ্যাস দ্রবীভূত করে গাঢ় হাইড্রোক্লোরিক এসিড (HCl) তৈরি করা হয়।
+English Translation: The solution formed when hydrogen chloride gas is dissolved in water is called hydrochloric acid. Concentrated hydrochloric acid (HCl) is formed by dissolving a large amount of hydrogen chloride gas in a relatively small amount of water.
+Related Chemical Equations: HCl(g) + H2O(l) → HCl(aq)
+
+NITRIC ACID
+Bengali Definition: নাইট্রোজেন ডাইঅক্সাইড গ্যাসকে পানিতে দ্রবীভূত করে নাইট্রিক এসিড তৈরি করা হয়। কম পরিমাণ পানিতে অধিক পরিমাণে NO₂ গ্যাস দ্রবীভূত করে গাঢ় নাইট্রিক এসিড HNO3 তৈরি করা হয়।
+English Translation: Nitric acid is produced by dissolving nitrogen dioxide gas in water. Concentrated nitric acid (HNO3) is formed by dissolving a large amount of NO₂ gas in a small amount of water.
+Related Chemical Equations: 3NO2 + H2O → 2HNO3 + NO
+
+SULFURIC ACID
+Bengali Definition: সালফার ট্রাই-অক্সাইড (SO₂) গ্যাস পানিতে দ্রবীভূত হয়ে সালফিউরিক এসিড উৎপন্ন হয়। যদি কম পরিমাণ পানিতে অধিক পরিমাণ SO, গ্যাস দ্রবীভূত করা হয় তবে গাঢ় সালফিউরিক এসিড (H₂SO₄) তৈরি হয়।
+English Translation: Sulfuric acid is produced by dissolving sulfur trioxide (SO₂) gas in water. Concentrated sulfuric acid (H₂SO₄) is formed if a large amount of SO₂ gas is dissolved in a small amount of water.
+Related Chemical Equations: SO3 + H2O → H2SO4
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: These acids can cause burns and injuries if they come into contact with the hand, mouth, eyes or body.
+Required Precautions: Wear gloves, goggles, masks, and aprons while working with these acids.
+Emergency Procedures: Not Specified, but standard emergency procedures for chemical burns should be followed.
+Protective Equipment: Hand gloves, goggles, masks and aprons.
+
+SAFETY ALERT
+Hazard Description: Concentrated HCl produces a misty vapor and pungent smell.
+Required Precautions: Use masks and eye protection when opening containers of concentrated HCl.
+Emergency Procedures: Not Specified, but standard emergency procedures for chemical burns should be followed.
+Protective Equipment: Masks and safety goggles.
+
+SAFETY ALERT
+Hazard Description: Concentrated nitric acid bottles may emit a misty vapor and pungent smell. Nitric acid decomposes in the presence of light.
+Required Precautions: Store nitric acid in dark (brown) glass bottles.
+Emergency Procedures: Not Specified, but standard emergency procedures for chemical burns should be followed.
+Protective Equipment:  Not explicitly stated in context, but safe practices dictate that full PPE should be worn.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 214
+MAIN TOPICS: Acids and Bases, Neutralization Reaction, Alkalis
+
+CHEMICAL EQUATIONS
+CaO + 2HCl → CaCl2 + H2O
+2KOH + H2SO4 → K2SO4 + 2H2O
+NH4OH + HCl → NH4Cl + H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ক্ষার (Alkali)
+Bengali Definition: ধাতু বা ধাতুর মতো ক্রিয়াশীল যৌগমূলকের হাইড্রোক্সোইড যৌগ যা পানিতে দ্রবণীয় তাদেরকে ক্ষার বলে।
+English Translation: An alkali is a hydroxide compound of a metal or a metallic-like functional group that is soluble in water.
+Related Chemical Equations: Not specified
+Examples: NaOH (Sodium Hydroxide)
+
+NEUTRALIZATION REACTION
+Bengali Definition: এসিডের সাথে ক্ষারের বিক্রিয়ায় লবণ ও পানি উৎপন্ন হওয়ার বিক্রিয়াকে এসিড-ক্ষারক প্রশমন বিক্রিয়া বলে।
+English Translation: The reaction in which salt and water are produced by the reaction of an acid and a base is called an acid-base neutralization reaction.
+Related Chemical Equations:
+CaO + 2HCl → CaCl2 + H2O
+2KOH + H2SO4 → K2SO4 + 2H2O
+NH4OH + HCl → NH4Cl + H2O
+Examples: Not specified
+
+LOHU KHARER DHARMASUMUH (Properties of Dilute Base)
+Bengali Definition: বেশি পানির মধ্যে কম পরিমাণ ক্ষার যোগ করে যে দ্রবণ তৈরি করা হয় সেই দ্রবণকে লঘু ক্ষার দ্রবণ বলা হয়।
+English Translation: A solution prepared by adding a small amount of base to a large amount of water is called a dilute base solution.
+Related Chemical Equations: Not specified
+Examples: Not specified
+
+ADDITIONAL NOTES
+
+The text mentions examples of oxides and hydroxides including: Sodium Oxide (Na2O), Copper Oxide (CuO), Ferrous Oxide (FeO), Sodium Hydroxide (NaOH), Calcium Hydroxide (Ca(OH)2), Ferrous Hydroxide (Fe(OH)2), Ammonium Hydroxide (NH4OH).
+
+The text identifies NH4+ (Ammonium ion) and PH4+ (Phosphonium ion) as metallic-like functional groups.
+
+The text states that for a compound to be considered an alkali, it must have a hydroxide (OH-) group and it must be soluble in water.
+
+The text gives examples of everyday uses of bases, such as sodium hydroxide in toilet cleaner and ammonium hydroxide in glass cleaner.
+
+It is stated that all alkalis are bases, but not all bases are alkalis. Only water soluble hydroxides can be called alkali.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Balance
+CHAPTER NUMBER: 9
+PAGE NUMBER: 298
+MAIN TOPICS: Acid-base indicators, Reactions of metal salts with bases
+
+LITMUS TEST
+Purpose: To observe the color change of litmus paper in the presence of a base.
+
+EXPERIMENT:
+    Purpose: To show how litmus paper changes color in presence of a base
+    Materials Required: Test tubes, dilute sodium hydroxide (NaOH) solution, red litmus paper, blue litmus paper
+    Procedure:
+        1. Take a small amount of dilute sodium hydroxide (NaOH) solution in a test tube.
+        2. Add a piece of red litmus paper to the solution. Observe the color change.
+        3. Take another small amount of NaOH solution in a separate test tube.
+        4. Add a piece of blue litmus paper to the second test tube. Observe the color change.
+    Expected Observations: The red litmus paper will turn blue, while the blue litmus paper will remain blue.
+    Key Learning Points: Bases turn red litmus paper blue.
+
+SENSATION
+Bengali Definition: লঘু NaOH দ্রবণ হাত দিয়ে স্পর্শ করলে এক প্রকার পিচ্ছিল অনুভূতি সৃষ্টি হয়। ক্ষার দ্রবণ পিচ্ছিল জাতীয় পদার্থ।
+English Translation: Touching dilute NaOH solution with hand creates a slippery sensation. Bases are slippery in nature.
+Related Chemical Equations: None
+Examples: None
+
+SAFETY ALERT
+Hazard Description:  Touching bases can damage the skin.
+Required Precautions: Avoid direct contact with skin.
+Emergency Procedures: Wash immediately with plenty of water if skin contact occurs.
+Protective Equipment: Gloves should be worn when handling bases.
+
+9.2.2 REACTION OF METAL SALTS WITH DILUTE BASES
+Bengali Definition: অ্যালুমিনিয়াম নাইট্রেট [Al(NO₃)₃] ফেরাস নাইট্রেট [Fe(NO3)2], ফেরিক নাইট্রেট [Fe(NO3)3], জিংক নাইট্রেট [Zn(NO3)2] ইত্যাদি ধাতব লবণের সাথে লঘু ক্ষার বিক্রিয়া করে সংশ্লিষ্ট ধাতব হাইড্রোক্সাইড উৎপন্ন করে। উল্লেখ্য, এখানে শুধু ধাতব নাইট্রেট লবণ ব্যবহার করা হয়েছে। ধাতব নাইট্রেট লবণ ব্যতীত ধাতব ক্লোরাইড, ধাতব সালফেট, ধাতব কার্বনেট ইত্যাদি লবণ ব্যবহার করলেও সংশ্লিষ্ট ধাতব হাইড্রোক্সাইড উৎপন্ন হবে। নিচে ধাতব নাইট্রেট লবণের সাথে লঘু ক্ষারের বিক্রিয়া দেখানো হলো।
+English Translation: Aluminum nitrate [Al(NO₃)₃], ferrous nitrate [Fe(NO3)2], ferric nitrate [Fe(NO3)3], zinc nitrate [Zn(NO3)2], etc., react with dilute bases to form respective metal hydroxides. Note that only metal nitrate salts are used here.  If metal chloride, metal sulfate, metal carbonate, etc., are used instead of metal nitrate, then the corresponding metal hydroxide will be produced. Reactions of metal nitrate salts with dilute bases are shown below.
+
+REACTION OF Al(NO3)3 WITH DILUTE NaOH
+Bengali Description: একটি টেস্টটিউবে Al(NO3)3 এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে অ্যালুমিনিয়াম হাইড্রোক্সাইড [Al(OH)3] এবং NaNO3 উৎপন্ন হয়। Al(OH)3 সাদা বর্ণের অধঃক্ষেপ হিসেবে টেস্টটিউবের নিচে জমা হয় এবং সোডিয়াম নাইট্রেট NaNO3 পানিতে দ্রবীভূত অবস্থায় থাকে। এটি পানিতে কোনো বর্ণ প্রদান করে না।
+English Translation: When a few drops of dilute NaOH solution are added to a solution of Al(NO3)3 in a test tube, aluminum hydroxide [Al(OH)3] and NaNO3 are formed. Al(OH)3 is formed as a white precipitate at the bottom of the test tube, and sodium nitrate, NaNO3 remains dissolved in water. It does not add any color to the water.
+Chemical Equation:
+Al(NO3)3 + 3NaOH → Al(OH)3↓ + 3NaNO3
+
+REACTION OF Fe(NO3)2 WITH DILUTE NaOH
+Bengali Description: একটি টেস্টটিউবে Fe(NO3)2 এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে ফেরাস হাইড্রোক্সাইড [Fe(OH)2] এর সবুজ বর্ণের অধঃক্ষেপ উৎপন্ন হয় এবং NaNO3 পানিতে দ্রবীভূত অবস্থায় থাকে।
+English Translation:  When a few drops of dilute NaOH solution are added to a solution of Fe(NO3)2 in a test tube, a green precipitate of ferrous hydroxide [Fe(OH)2] is formed, and NaNO3 remains dissolved in water.
+Chemical Equation:
+Fe(NO3)2 + 2NaOH → Fe(OH)2↓ + 2NaNO3
+
+
+PAGE METADATA
+Chapter Title:  রাসায়নিক বিক্রিয়া / Chemical Reactions
+Chapter Number: Not specified in the text
+Page Number: 216
+Main Topics: Metal Hydroxide Precipitation, Reactions of Ammonium Salts with Bases
+
+CHEMICAL EQUATIONS
+Fe(NO3)3 + 3NaOH → Fe(OH)3↓ + 3NaNO3
+Cu(NO3)2 + 2NaOH → Cu(OH)2↓ + 2NaNO3
+Zn(NO3)2 + 2NaOH → Zn(OH)2↓ + 2NaNO3
+NH4Cl + NaOH → NH3↑ + NaCl + H2O
+
+EXPERIMENTAL PROCEDURES
+REACTION OF FERRIC NITRATE WITH SODIUM HYDROXIDE
+Purpose: To observe the precipitation of ferric hydroxide
+Materials Required: Ferric nitrate solution, dilute sodium hydroxide solution, test tube
+Safety Precautions: Wear safety goggles. NaOH is corrosive; avoid skin contact.
+Procedure:
+    1. Take a few milliliters of ferric nitrate solution in a test tube.
+    2. Add a few drops of dilute sodium hydroxide solution to the test tube.
+Expected Observations: A reddish-brown precipitate of ferric hydroxide [Fe(OH)3] is formed. Sodium nitrate [NaNO3] remains dissolved in water.
+Key Learning Points: Metal nitrates react with base to form respective metal hydroxides as precipitate.
+
+REACTION OF COPPER NITRATE WITH SODIUM HYDROXIDE
+Purpose: To observe the precipitation of copper hydroxide
+Materials Required: Copper nitrate solution, dilute sodium hydroxide solution, test tube
+Safety Precautions: Wear safety goggles. NaOH is corrosive; avoid skin contact.
+Procedure:
+    1. Take a few milliliters of copper nitrate solution in a test tube.
+    2. Add a few drops of dilute sodium hydroxide solution to the test tube.
+Expected Observations: A light blue precipitate of copper hydroxide [Cu(OH)2] is formed. Sodium nitrate [NaNO3] remains dissolved in water.
+Key Learning Points: Metal nitrates react with base to form respective metal hydroxides as precipitate.
+
+REACTION OF ZINC NITRATE WITH SODIUM HYDROXIDE
+Purpose: To observe the precipitation of zinc hydroxide
+Materials Required: Zinc nitrate solution, dilute sodium hydroxide solution, test tube
+Safety Precautions: Wear safety goggles. NaOH is corrosive; avoid skin contact.
+Procedure:
+    1. Take a few milliliters of zinc nitrate solution in a test tube.
+    2. Add a few drops of dilute sodium hydroxide solution to the test tube.
+Expected Observations: A white precipitate of zinc hydroxide [Zn(OH)2] is formed. Sodium nitrate [NaNO3] remains dissolved in water.
+Key Learning Points: Metal nitrates react with base to form respective metal hydroxides as precipitate.
+
+REACTION OF AMMONIUM CHLORIDE WITH SODIUM HYDROXIDE
+Purpose: To observe the production of ammonia gas from ammonium salt
+Materials Required: Ammonium chloride, sodium hydroxide, test tube or container,
+Safety Precautions: Ammonia gas is irritant; conduct in well ventilated place, Wear safety goggles. NaOH is corrosive; avoid skin contact.
+Procedure:
+    1. Take some ammonium chloride in a container.
+    2. Add sodium hydroxide (NaOH) to it.
+Expected Observations: Ammonia gas [NH3] is produced which has distinct smell, sodium chloride [NaCl] salt is also produced, along with water [H2O]
+Key Learning Points: Ammonium salts reacts with base to produce ammonia gas.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+METAL HYDROXIDE PRECIPITATION
+Bengali Definition: ধাতব নাইট্রেট যৌগের সাথে ক্ষার দ্রবণ বিক্রিয়া করলে ঐ ধাতুর হাইড্রোক্সাইডের অধঃক্ষেপ উৎপন্ন হয়।
+English Translation: When a metal nitrate compound reacts with a base solution, a precipitate of the corresponding metal hydroxide is formed.
+Related Chemical Equations:
+    Fe(NO3)3 + 3NaOH → Fe(OH)3↓ + 3NaNO3
+    Cu(NO3)2 + 2NaOH → Cu(OH)2↓ + 2NaNO3
+    Zn(NO3)2 + 2NaOH → Zn(OH)2↓ + 2NaNO3
+
+AMMONIUM SALT REACTION WITH BASE
+Bengali Definition: অ্যামোনিয়াম লবণের সাথে ক্ষার বিক্রিয়া করে NH3 গ্যাস উৎপন্ন করে।
+English Translation: Ammonium salts react with a base to produce NH3 gas.
+Related Chemical Equations:
+     NH4Cl + NaOH → NH3↑ + NaCl + H2O
+
+SAFETY INFORMATION
+SAFETY ALERT
+Hazard Description: Sodium hydroxide (NaOH) is corrosive. Ammonia gas (NH3) is an irritant.
+Required Precautions: Wear safety goggles. Avoid skin contact with NaOH. Conduct reaction with ammonia in a well-ventilated area.
+Emergency Procedures: If NaOH comes into contact with skin, wash thoroughly with water. If inhaled ammonia gas, move to fresh air.
+Protective Equipment: Safety goggles, gloves
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 217
+MAIN TOPICS: Chemical Reactions of Bases, Role of Water in Base Chemistry, Ionization of Bases
+
+CHEMICAL EQUATIONS
+NH4Cl + KOH → NH3 + KCl + H2O
+2NH4Cl + Ca(OH)2 → 2NH3 + CaCl2 + 2H2O
+2NH4Cl + CaO → 2NH3 + CaCl2 + H2O
+KOH(s) + পানি → K+(aq) + OH-(aq)
+NaOH(s) + পানি → Na+(aq) + OH-(aq)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: ক্ষার (Base)
+Bengali Definition: পটাশিয়াম হাইড্রোক্সাইড এবং সোডিয়াম হাইড্রোক্সাইড এই দুইটি যৌগেই আয়ন থাকে, তবে কঠিন অবস্থায় এই আয়ন মুক্ত থাকে না। এগুলোকে দ্রবীভূত করার সাথে সাথে সম্পূর্ণরূপে আয়নিত হয়ে মুক্ত হাইড্রোক্সাইড আয়ন উৎপন্ন করে। দ্রবণে কেবল হাইড্রোক্সাইড আয়নই ঋণাত্মক আধান বা চার্জ বহন করে।
+English Translation: Potassium hydroxide and sodium hydroxide, both contain ions, but in the solid state, these ions are not free. Upon dissolution, they ionize completely, forming free hydroxide ions. In the solution, only hydroxide ions carry the negative charge.
+
+TERM OR PROPERTY NAME: অ্যামোনিয়া দ্রবণ (Ammonia Solution)
+Bengali Definition: অ্যামোনিয়া গ্যাস হচ্ছে অ্যামোনিয়া অণুর সমষ্টি। অ্যামোনিয়াকে পানিতে দ্রবীভূত করা হলে অ্যামোনিয়া গ্যাস ও পানির বিক্রিয়ায় অ্যামোনিয়াম আয়ন আর হাইড্রোক্সাইড আয়ন উৎপন্ন হয়। তবে পানিতে অ্যামোনিয়ার সামান্য অংশই দ্রবীভূত হয় এবং খুব অল্প সংখ্যক হাইড্রোক্সাইড আয়ন উৎপন্ন হয়।
+English Translation: Ammonia gas is a collection of ammonia molecules. When ammonia is dissolved in water, it reacts with water to form ammonium ions and hydroxide ions. However, only a small portion of ammonia dissolves in water, resulting in a limited number of hydroxide ions.
+
+TERM OR PROPERTY NAME: দুর্বল ক্ষার (Weak Base)
+Bengali Definition: যে সকল ক্ষার জলীয় দ্রবণে আংশিক আয়নিত হয় তারা দুর্বল ক্ষার।
+English Translation: Bases that are partially ionized in aqueous solution are weak bases.
+
+TERM OR PROPERTY NAME: সবল ক্ষার (Strong Base)
+Bengali Definition: সবল ক্ষার জলীয় দ্রবণে সম্পূর্ণ আয়নিত হয়।
+English Translation: Strong bases are completely ionized in aqueous solution.
+
+TERM OR PROPERTY NAME: ক্ষার দ্রবণের বৈশিষ্ট্য (Properties of Base Solutions)
+Bengali Definition: ভ্রাম্যমাণ হাইড্রোক্সাইড আয়নের উপস্থিতির উপর ক্ষার দ্রবণের বৈশিষ্ট্য নির্ভর করে।
+English Translation: The properties of a base solution depend on the presence of mobile hydroxide ions.
+
+QUESTIONS AND PROBLEMS
+Question 1
+Bengali question text: নিচের প্রতিটি কাজ সম্পন্ন করো। চোখে দেখা যায় এমন একটি করে পরিবর্তন বর্ণনা করো। সংশ্লিষ্ট আয়নিক সমীকরণ লেখো।
+Translation: Complete each of the following tasks. Describe one observable change for each. Write the relevant ionic equations.
+Type: Analytical
+
+Question 2
+Bengali question text: লঘু সালফিউরিক এসিড দ্রবণে আয়রন গুঁড়া যোগ করা হলে।
+Translation: Iron powder is added to dilute sulfuric acid solution.
+Type: Short answer
+Chemical Components: Iron (Fe), Sulfuric Acid (H2SO4)
+Key Concept: Acid-Metal Reaction
+
+Question 3
+Bengali question text: লঘু হাইড্রোক্লোরিক এসিডে কঠিন সোডিয়াম কার্বনেট যোগ করা হলে।
+Translation: Solid sodium carbonate is added to dilute hydrochloric acid.
+Type: Short answer
+Chemical Components: Hydrochloric acid (HCl), Sodium carbonate (Na2CO3)
+Key Concept: Acid-Carbonate Reaction
+
+Question 4
+Bengali question text: কপার (II) সালফেট দ্রবণে অ্যামোনিয়া দ্রবণ যোগ করা হলে।
+Translation: Ammonia solution is added to copper (II) sulfate solution.
+Type: Short answer
+Chemical Components: Copper (II) sulfate (CuSO4), Ammonia (NH3)
+Key Concept: Metal salt reaction with ammonia
+
+
+CHAPTER TITLE: গাঢ় এসিড ও গাঢ় ক্ষারের ক্ষয়কারী ধর্ম / Corrosive Properties of Concentrated Acids and Alkali
+CHAPTER NUMBER: 9.3
+PAGE NUMBER: 218
+MAIN TOPICS: Acid and Base Properties, Strong and Weak Acids, Electrolytes
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: গাঢ় এসিড এবং গাঢ় ক্ষার (Concentrated Acids and Bases)
+Bengali Definition: গাঢ় এসিড এবং গাঢ় ক্ষার অত্যন্ত ক্ষয়কারক পদার্থ। এগুলো কাপড়-চোপড় এবং শরীরে লাগলে ত্বক ও কাপড়কে ক্ষয় করতে পারে। এগুলো চোখে গেলে চোখ নষ্ট হয়।
+English Translation: Concentrated acids and bases are highly corrosive substances. They can damage skin and clothes if they come into contact, and can cause blindness if they get into the eyes.
+Related Chemical Equations: Not applicable on this page
+Examples: Not applicable on this page
+
+SAFETY INFORMATION
+
+SAFETY ALERT
+Hazard Description: Concentrated acids and bases are highly corrosive. They can damage skin and clothes. They can cause blindness if they get into the eyes.
+Required Precautions: When handling concentrated acids or bases, it is essential to wear proper personal protective equipment (PPE). Avoid contact with skin and eyes.
+Emergency Procedures: If concentrated acid or base gets on the body, immediately rinse the area with plenty of water repeatedly. Then inform your teacher.
+Protective Equipment: Not specified on this page
+
+EXPERIMENTAL PROCEDURES
+
+EXPERIMENT TITLE: সবল ও দুর্বল এসিড অথবা সবল ও দুর্বল ক্ষারের পরীক্ষা / Testing Strong and Weak Acids or Bases
+Purpose: To determine which acid is strong and which is weak using a conductivity test.
+Materials Required:
+    - 50 mL dilute hydrochloric acid (HCl)
+    - Two beakers
+    - Two graphite rods
+    - Connecting wires
+    - Battery
+    - Light bulb
+    - 50 mL ethanoic acid
+Safety Precautions:
+    - Handle acids with care. Avoid skin contact. Wear safety goggles.
+Procedure:
+    1. Take 50 mL of dilute hydrochloric acid in a beaker.
+    2. Place two graphite rods in the beaker in such a way that they do not touch each other.
+    3. Connect one graphite rod to one terminal of the battery and the other graphite rod to the other terminal of the battery through a light bulb.
+    4. Observe the brightness of the bulb.
+    5. Now, take 50 mL of ethanoic acid in another beaker.
+    6. Repeat steps 2 and 3 using the ethanoic acid.
+    7. Compare the brightness of the bulb in both cases.
+Expected Observations:
+    - The bulb will glow in both setups, indicating that both acids conduct electricity.
+    - The bulb will glow more brightly in the hydrochloric acid solution than in the ethanoic acid solution.
+Key Learning Points:
+    - Strong acids like HCl dissociate more completely in water, resulting in a greater concentration of H+ ions.
+    - Weak acids like ethanoic acid dissociate less completely, resulting in a lower concentration of H+ ions.
+    - The higher the concentration of H+ ions in the solution, the more electricity is conducted, and the brighter the light bulb glows.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: তীব্র বা সবল এসিড (Strong acid)
+Bengali Definition: তীব্র বা সবল এসিড জলীয় দ্রবণে মৃদু বা দুর্বল এসিড অপেক্ষা অধিক পরিমাণে H+ সরবরাহ করে।
+English Translation: Strong acids provide more H+ ions in an aqueous solution compared to weak acids.
+Related Chemical Equations: Not applicable on this page
+Examples: HCl (from the experiment above)
+
+TERM OR PROPERTY NAME: মৃদু বা দুর্বল এসিড (Weak acid)
+Bengali Definition: পক্ষান্তরে, মৃদু এসিড জলীয় দ্রবণে তীব্র এসিড অপেক্ষা কম পরিমাণে H+ সরবরাহ করে।
+English Translation: Weak acids provide fewer H+ ions in aqueous solution compared to strong acids.
+Related Chemical Equations: Not applicable on this page
+Examples: Ethanoic acid (from the experiment above)
+
+TERM OR PROPERTY NAME: H+ আয়ন (H+ ions)
+Bengali Definition: অধিক পরিমাণে H+ জলীয় দ্রবণে অধিক পরিমাণে বিদ্যুৎ পরিবহন করে।
+English Translation: A higher concentration of H+ ions in an aqueous solution leads to greater electrical conductivity.
+Related Chemical Equations: Not applicable on this page
+Examples: Not applicable on this page
+
+Page Reference: 218 (bottom right corner, 2025 indicates the print year.)
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 218
+MAIN TOPICS: Acid and base strength, pH concept
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Acid strength
+Bengali Definition: মৃদু এসিড → কম পরিমাণে H+ (প্রোটন) উৎপন্ন হয়। তীব্র এসিড → বেশি পরিমাণে H+ (প্রোটন) উৎপন্ন হয়।
+English Translation: Weak acid → produces less H+ (proton). Strong acid → produces more H+ (proton).
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Base strength
+Bengali Definition: (একইভাবে তীব্র ক্ষার NaOH ও মৃদু ক্ষার NH4OH নিয়েও পরীক্ষা করে দেখা যায় যে, NaOH দ্রবণ বাল্বটির অধিক উজ্জ্বলতা সৃষ্টি করে। পক্ষান্তরে, NH4OH দ্রবণ বাল্বটির কম উজ্জ্বলতা সৃষ্টি করে। এই পরীক্ষা থেকে প্রমাণিত হয় NaOH তীব্র ক্ষার, পক্ষান্তরে NH4OH মৃদু ক্ষার।)
+English Translation: (Similarly, testing with strong base NaOH and weak base NH4OH shows that NaOH solution causes the bulb to glow brighter. Conversely, the NH4OH solution causes the bulb to glow less brightly. This experiment proves that NaOH is a strong base, while NH4OH is a weak base.)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: pH
+Bengali Definition: কোনো জলীয় দ্রবণের প্রকৃতি অম্লীয় নাকি ক্ষারীয় নাকি নিরপেক্ষ প্রকৃতির ইত্যাদি জানার জন্য pH একক ব্যবহার করা হয়। কোনো দ্রবণের pH হলো ঐ দ্রবণে উপস্থিত হাইড্রোজেন আয়নের (H+) ঘনমাত্রার ঋণাত্মক লগারিদম।
+English Translation: The pH unit is used to know whether an aqueous solution is acidic, alkaline, or neutral. The pH of a solution is the negative logarithm of the hydrogen ion (H+) concentration present in that solution.
+Related Chemical Equations: pH = -log[H+]
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: [H+]
+Bengali Definition: [H+] দ্বারা H+ আয়নের মোলার ঘনমাত্রা অর্থাৎ 1 লিটার দ্রবণে কত মোল H+ আয়ন রয়েছে সেটা বোঝানো হয়।
+English Translation: [H+] denotes the molar concentration of H+ ions, i.e., how many moles of H+ ions are present in 1 liter of solution.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Neutral pH
+Bengali Definition: 1 লিটার বিশুদ্ধ পানিতে H+ এর পরিমাণ 10-7 মোল। বিশুদ্ধ পানির pH = -log[H+] = -log(10-7) অতএব, বিশুদ্ধ পানির pH = 7
+English Translation:  1 liter of pure water has 10^-7 moles of H+ ions. pH of pure water = -log[H+] = -log(10^-7) therefore, the pH of pure water = 7
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Effect of adding acid on pH
+Bengali Definition: যদি বিশুদ্ধ পানিতে এসিড যোগ করা হয় এবং এসিড যোগের কারণে যদি H+ এর সংখ্যা 10 গুণ বেড়ে গিয়ে প্রতি লিটারে 10-6 মোল হয়, তাহলে দ্রবণের pH কমে যাবে। pH = -log[10-6] = 6
+English Translation: If acid is added to pure water and the number of H+ ions increases 10 times to 10^-6 moles per liter, then the pH of the solution will decrease. pH = -log[10^-6] = 6
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Relationship between pH and H+ concentration
+Bengali Definition: H+ আয়নের ঘনমাত্রা যত বেশি হবে pH এর মান তত কমতে থাকবে।
+English Translation: The higher the concentration of H+ ions, the lower the pH value will be.
+
+ADDITIONAL NOTES
+- (pH লেখার সময় p ছোট হাতের আর H বড় হাতের লেখা হয়) - When writing pH, 'p' is lowercase and 'H' is uppercase.
+- তৃতীয় বন্ধনীর মধ্যে কোনো আয়ন থাকলে মোলারিটি এককে সেই আয়নের ঘনমাত্রা বোঝানো হয়। - If there is any ion within the third bracket, the molarity unit denotes the concentration of that ion.
+
+
+CHAPTER TITLE:  অম্ল, ক্ষারক ও লবণ / Acids, Bases and Salts
+CHAPTER NUMBER: 9
+PAGE NUMBER: 220
+MAIN TOPICS: pH scale, Acidic and basic solutions, pH measurement
+
+CHEMICAL EQUATIONS:
+No chemical equations on this page.
+
+EXPERIMENTAL PROCEDURES:
+No experimental procedures on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+DIAGRAM TITLE: চিত্র 9.01: pH স্কেল (ইউনিভার্সাল ইন্ডিকেটরের বিভিন্ন pH এ বর্ণ)। / Figure 9.01: pH Scale (Color variation of universal indicator at different pH).
+Description: A horizontal color strip representing the pH scale from 0 to 14. The strip is divided into sections, each with a different color. The leftmost section shows reddish colors, the center shows green color, and the rightmost shows blue and violet colors. Below the scale, there are three labels, namely 'এসিড' (Acid), 'নিরপেক্ষ' (Neutral), and 'ক্ষারক' (Base) indicating acidic, neutral, and basic ranges.
+Components: Color strip, numerical pH values from 0 to 14, labels indicating acidic, neutral and basic zones.
+Chemical Labels: None
+Safety Notes: None
+Purpose: To visually represent the pH scale and the color changes of a universal indicator at different pH values.
+
+QUESTIONS AND PROBLEMS:
+No questions or problems on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: pH
+Bengali Definition: যদি বিশুদ্ধ পানির মধ্যে ক্ষার যোগ করা হয় তবে ক্ষারের OH- বিশুদ্ধ পানির H+ এর সাথে বিক্রিয়া করে ঐ দ্রবণে বিশুদ্ধ পানির তুলনায় H+ এর সংখ্যা কমে যাবে।
+English Translation: If a base is added to pure water, the OH- of the base reacts with the H+ of pure water, reducing the number of H+ ions in the solution compared to pure water.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: pH
+Bengali Definition: pH এর মান 7 হওয়ার অর্থ এটি ক্ষারও নয় আবার এসিডও নয়। এটি নিরপেক্ষ দ্রবণ। যদি কোনো দ্রবণের pH এর মান 7 থেকে কম হয় তাহলে সেই দ্রবণটি এসিডিক দ্রবণ এবং যদি কোনো দ্রবণের pH মান 7 থেকে বেশি হয় তবে সেই দ্রবণটি ক্ষারীয় দ্রবণ।
+English Translation: A pH value of 7 means that it is neither a base nor an acid. It is a neutral solution. If the pH of a solution is less than 7, then that solution is acidic, and if the pH of a solution is more than 7, then that solution is basic.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: pH স্কেল / pH scale
+Bengali Definition: যদিও অংকের হিসাবে pH এর মান ঋণাত্মক থেকে শুরু করে যেকোনো ধনাত্মক সংখ্যা হওয়া সম্ভব কিন্তু বাস্তব জীবনে ব্যবহারিক ক্ষেত্রে pH এর মান 0 থেকে 14 পর্যন্ত বিবেচনা করা হয়।
+English Translation: Although mathematically the pH value can range from negative to any positive number, in practical applications, the pH value is considered to range from 0 to 14.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: নিরপেক্ষ দ্রবণ / Neutral solution
+Bengali Definition: নিরপেক্ষ কোনো দ্রবণের pH এর মান 7
+English Translation: The pH value of any neutral solution is 7.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: এসিড দ্রবণ / Acidic solution
+Bengali Definition: যেকোনো এসিড দ্রবণের pH এর মান 7 এর চেয়ে কম।
+English Translation: The pH value of any acidic solution is less than 7.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: ক্ষার দ্রবণ / Basic solution
+Bengali Definition: যেকোনো ক্ষারের দ্রবণের pH এর মান 7 এর চেয়ে বেশি।
+English Translation: The pH value of any basic solution is more than 7.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: সবচেয়ে শক্তিশালী এসিড / Strongest acid
+Bengali Definition: এই স্কেলে সবচেয়ে শক্তিশালী এসিডের pH এর মান ০
+English Translation: On this scale, the pH value of the strongest acid is 0.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: সবচেয়ে শক্তিশালী ক্ষার / Strongest base
+Bengali Definition: সবচেয়ে শক্তিশালী ক্ষারের pH এর মান 14।
+English Translation: The pH value of the strongest base is 14.
+Related Chemical Equations: None
+Examples: None
+
+SAFETY INFORMATION:
+No specific safety information on this page.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Balance
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 221
+MAIN TOPICS: pH measurement, Universal indicator, pH paper, pH meter
+
+pH পরিমাপন পদ্ধতি
+Bengali Text: দ্রবণে হাইড্রোজেন আয়নের ঘনমাত্রা থেকে কীভাবে pH হিসাব করতে হয় তোমরা সেটা জেনেছ। এখন পরীক্ষার মাধ্যমে কোনো দ্রবণের pH কীভাবে পরিমাপ করা হয় সেটা জানবে। pH এর মান পরিমাপের জন্য ইউনিভার্সাল নির্দেশক (Universal indicator), pH পেপার (pH paper), pH মিটার (pH meter) প্রভৃতি ব্যবহার করা হয়।
+English Translation: You have learned how to calculate pH from the concentration of hydrogen ions in a solution. Now you will learn how to measure the pH of a solution through experiments. Universal indicator, pH paper, pH meter etc. are used to measure pH values.
+
+ইউনিভার্সাল নির্দেশক
+Bengali Text: বিভিন্ন এসিড-ক্ষার নির্দেশকের মিশ্রণ হলো ইউনিভার্সাল নির্দেশক (Universal Indicator)। ভিন্ন ভিন্ন pH মানের দ্রবণে ইউনিভার্সাল নির্দেশক ভিন্ন ভিন্ন বর্ণ প্রদান করে। কোনো দ্রবণের জন্য ইউনিভার্সাল নির্দেশক কোন বর্ণ ধারণ করবে তা বোঝার জন্য একটি চার্ট রয়েছে। এই চার্টকে ইউনিভার্সাল নির্দেশক কালার চার্ট বলে। কোনো দ্রবণে কয়েক ফোঁটা ইউনিভার্সাল নির্দেশক যোগ করলে দ্রবণ যে বর্ণ ধারণ করে এই বর্ণ ইউনিভার্সাল নির্দেশক কালার চার্টের বর্ণের সাথে মিলিয়ে দ্রবণের pH পরিমাপ করা হয়।
+English Translation: A mixture of different acid-base indicators is called a universal indicator. Universal indicators give different colors in solutions with different pH values. There is a chart to understand what color the universal indicator will take for a solution. This chart is called the Universal Indicator color chart. When a few drops of universal indicator are added to a solution, the color that the solution assumes is compared with the colors of the Universal Indicator chart to measure the pH of the solution.
+
+pH পেপার
+Bengali Text: অজানা pH মানের দ্রবণের pH এর মান জানার জন্য pH পেপার ব্যবহার করা হয়। কোনো দ্রবণের মধ্যে এক টুকরা pH পেপার যোগ করলে পেপারের বর্ণের পরিবর্তন ঘটে। দ্রবণে কত pH মানের জন্য pH পেপারের বর্ণ কীরূপ হবে তার জন্য একটি স্ট্যান্ডার্ড কালার চার্ট আছে। এ চার্টের সাথে দ্রবণের pH পেপারের বর্ণ দেখে অজানা দ্রবণের pH এর মান জানা যায়।
+English Translation: pH paper is used to determine the pH value of a solution with an unknown pH value. When a piece of pH paper is added to a solution, the color of the paper changes. A standard color chart is available to show what color the pH paper will take for a specific pH value in the solution. By comparing the color of the pH paper in the solution with the chart, the pH of the unknown solution can be determined.
+
+pH মিটার
+Bengali Text: অজানা দ্রবণের pH মান জানার জন্য pH মিটার ব্যবহার করা হয়। pH মিটারের ইলেকট্রোডকে অজানা দ্রবণে ডুবিয়ে pH মিটারের ডিজিটাল ডিসপ্লে থেকে সরাসরি pH মান জানা যায়।
+English Translation: A pH meter is used to determine the pH of an unknown solution. By dipping the electrode of the pH meter into the unknown solution, the pH value can be read directly from the digital display of the pH meter.
+
+DIAGRAM TITLE: চিত্র 9.02: pII পেপার ও তার স্ট্যান্ডার্ড কালার চার্ট। / Figure 9.02: pH paper and its standard color chart.
+Description: The image shows a rectangular container filled with an array of color patches, each corresponding to a different pH value. Below is a narrow strip of pH paper that appears lighter.
+Components:  Color chart patches, pH paper strip
+Chemical Labels: pH-Fix 0-14
+Safety Notes: None specified
+Purpose: To display a standard color chart used for determining the pH of a solution with pH paper.
+
+DIAGRAM TITLE: চিত্র 9.03: pH মিটার। / Figure 9.03: pH meter.
+Description: A handheld electronic device with a digital display showing '450'. A probe-like sensor connected to the device by a wire is also visible.
+Components: Digital display, electrode, wire, pH meter body
+Chemical Labels: None
+Safety Notes: None specified
+Purpose: To illustrate the apparatus of a pH meter.
+
+DIAGRAM TITLE: চিত্র 9.04: লাল ও নীল লিটমাস পেপার। / Figure 9.04: Red and Blue litmus paper.
+Description: The image presents two strips of colored paper, one red and one blue.
+Components: Red litmus paper, Blue litmus paper
+Chemical Labels: None
+Safety Notes: None specified
+Purpose: To depict red and blue litmus paper.
+
+
+CHAPTER TITLE:  রাসায়ন / Chemistry
+CHAPTER NUMBER: [Not specified on the page]
+PAGE NUMBER: 222
+MAIN TOPICS: pH scale, Importance of pH, Neutralization reactions
+
+LITMUS PAPER
+Bengali: লিটমাস পেপার: মোটামুটিভাবে pH অনুমান করার জন্য সস্তা এবং সহজলভ্য লিটমাস পেপার ব্যবহার করা যায়। দ্রবণের pH 7 থেকে কম হলে লিটমাস পেপার লাল এবং 7 থেকে বেশি হলে লিটমাস পেপার নীল বর্ণ ধারণ করে।
+English Translation: Litmus paper: Litmus paper is cheap and readily available for roughly estimating pH. Litmus paper turns red when the pH of a solution is less than 7 and turns blue when the pH is greater than 7.
+
+9.4.2 IMPORTANCE OF PH
+Bengali: 9.4.2 pH এর গুরুত্ব
+কৃষিক্ষেত্রে, জীবদেহে বিভিন্ন জৈব রাসায়নিক বিক্রিয়ায়, প্রসাধনী ব্যবহারে pH এর গুরুত্ব অপরিসীম।
+নিচে এগুলো ব্যাখ্যা করা হলো:
+English Translation: 9.4.2 Importance of pH
+In agriculture, biological systems, various biochemical reactions, and the use of cosmetics, the importance of pH is immense. These are explained below:
+
+AGRICULTURE
+Bengali: কৃষিক্ষেত্রে: কৃষিতে pH এর গুরুত্ব অপরিসীম। উদ্ভিদ তার শরীরের পুষ্টির জন্য মাটি থেকে বিভিন্ন আয়ন, পানি শোষণ করে। এর জন্য মাটির pH এর মান 6.0 থেকে ৪.০ এর মধ্যে হলে সবচেয়ে ভালো। আবার, মাটির pH এর মান 3.0 এর কম বা 10 এর বেশি হলে মাটির উপকারী অণুজীব মারা যায়। মাটির pH এর মান কমে গেলে পরিমাণমতো চুন (CaO) ব্যবহার করা হয়। আবার মাটির pH এর মান বেড়ে গেলে পরিমাণমতো অ্যামোনিয়াম সালফেট, (NH4)2SO4, অ্যামোনিয়াম ফসফেট (NH4)₃PO₄ ইত্যাদি সার ব্যবহার করলে মাটির pH কমানো হয়।
+English Translation: In agriculture: The importance of pH in agriculture is immense. Plants absorb various ions and water from the soil for their body's nutrition. For this, a soil pH between 6.0 and 8.0 is best. Again, if the soil pH is less than 3.0 or more than 10, the beneficial microorganisms in the soil die. If the soil pH decreases, lime (CaO) is used in appropriate amounts. Again, if the soil pH increases, fertilizers like ammonium sulfate, (NH4)2SO4, ammonium phosphate (NH4)₃PO₄ etc. are used to reduce the soil pH.
+
+TABLE 9.01: PH OF DIFFERENT PARTS OF THE BODY
+Bengali: টেবিল 9.01: শরীরের বিভিন্ন অঙ্গের pH।
+English Translation: Table 9.01: pH of different parts of the body.
+
+| Bengali Organ Name | English Organ Name     | pH        |
+|--------------------|-----------------------|-----------|
+| পাকস্থলী           | Stomach       | 1         |
+| মানুষের ত্বক        | Human Skin      | 4.8-5.5   |
+| মূত্র             | Urine         | 6         |
+| রক্ত              | Blood         | 7.43-7.45 |
+| অগ্ন্যাশয় রস        | Pancreatic Juice | 8.1       |
+
+PH IN BIOLOGICAL PROCESSES
+Bengali: জীবদেহে বিভিন্ন জৈব রাসায়নিক বিক্রিয়ায় pH: শরীরের বিভিন্ন অংশে বিভিন্ন জৈব রাসায়নিক বিক্রিয়া ঘটে তার জন্য শরীরের বিভিন্ন অঙ্গে বিভিন্ন মানের pH প্রয়োজন হয়। পাশের ছকে সেগুলো উল্লেখ করা হলো:
+English Translation: pH in different biochemical reactions in living organisms: Different biochemical reactions occur in different parts of the body, for which different pH values are required in different parts of the body. These are listed in the adjacent table:
+
+COSMETICS USAGE
+Bengali: প্রসাধনী (Cosmetics) ব্যবহারে: মানুষ ত্বক পরিষ্কার করতে, ত্বকের সৌন্দর্য রক্ষায়, চুল পরিষ্কার করতে এবং বিভিন্ন কাজে প্রসাধনী ব্যবহার করে। ত্বকের pH 4.8 থেকে 5.5 এর মধ্যে থাকলে ত্বক অম্লীয় প্রকৃতির যা ত্বকে জীবাণুর আক্রমণ বা বংশবৃদ্ধি প্রতিরোধ করে। তাই প্রসাধনীর pH 4.8 থেকে 5.5 থাকা ভালো।
+English Translation: In the use of cosmetics: Humans use cosmetics to clean the skin, maintain skin beauty, clean hair, and for various other purposes. If the skin pH is between 4.8 and 5.5, the acidic nature of the skin prevents bacterial attacks or reproduction. Therefore, the pH of cosmetics should be between 4.8 and 5.5.
+
+9.5 NEUTRALIZATION REACTION
+Bengali: 9.5 প্রশমন বিক্রিয়া (Neutralization Reaction)
+আমরা জানি, এসিড জলীয় দ্রবণে H+ দান করে এবং ক্ষার জলীয় দ্রবণে OH দান করে। তাই এসিড ও ক্ষার একত্রে মিশ্রিত করলে এসিডের H+ আয়ন এবং ক্ষারের OH- আয়ন বিক্রিয়া করে পানি উৎপন্ন করে। যেমন- HCl পানিতে H+ আয়ন এবং NaOH পানিতে OH- দান করে। এ দ্রবণ দুটিকে একসাথে মিশ্রিত করলে এসিডের H+ এবং ক্ষারের OH- বিক্রিয়া করে পানি উৎপন্ন করে।
+English Translation: 9.5 Neutralization Reaction
+We know that acid donates H+ in aqueous solution and base donates OH- in aqueous solution. Therefore, when acid and base are mixed together, the H+ ions of the acid and OH- ions of the base react to produce water. For example, HCl donates H+ ions in water and NaOH donates OH- in water. When these two solutions are mixed, H+ from the acid and OH- from the base react to produce water.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 223
+MAIN TOPICS: Acid-Base Neutralization, Everyday applications of Neutralization
+
+CHEMICAL EQUATIONS:
+NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)
+2NaOH(aq) + H2SO4(aq) → Na2SO4(aq) + 2H2O(l)
+Al(OH)3 + 3HCl → AlCl3 + 3H2O
+Mg(OH)2 + 2HCl → MgCl2 + 2H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: প্রশমন বিক্রিয়া (Proshomon Bikriya)
+BENGALI DEFINITION:  এসিড ক্ষারের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন হওয়ার বিক্রিয়াকে প্রশমন বিক্রিয়া বলে। কেননা এ বিক্রিয়াতে এসিড তার এসিডত্ব হারায় আর ক্ষার তার ক্ষারকত্ব হারায় এবং প্রশম পদার্থ লবণ আর পানি উৎপন্ন করে।
+ENGLISH TRANSLATION: The reaction in which an acid reacts with a base to produce salt and water is called neutralization reaction. Because in this reaction, acid loses its acidity, and base loses its basicity, and neutral substances like salt and water are produced.
+
+EXPERIMENTAL PROCEDURES:
+Not present on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+Not present on this page.
+
+QUESTIONS AND PROBLEMS:
+Not present on this page.
+
+SAFETY INFORMATION:
+Not present on this page.
+
+9.5.1 দৈনন্দিন জীবনে প্রশমন বিক্রিয়ার গুরুত্ব / 9.5.1 Importance of Neutralization Reaction in Everyday Life
+    পরিপাক: খাদ্য হজম করতে পাকস্থলীতে হাইড্রাক্লোরিক এসিড নিঃসৃত হয়। কোনো কারণে পাকস্থলীতে এই এসিডের পরিমাণ বেশি হয়ে গেলে তখন পেটে অস্বস্তি বোধ হয়। সাধারণভাবে এটিকে এসিডিটি বলে। বেশিদিন এসিডিটি থাকলে পাকস্থলীতে ঘা হয়ে যেতে পারে। তাই এই এসিডকে প্রশমিত করতে এন্টাসিড নামক ওষুধ খেতে হয়। এন্টাসিডে Al(OH)3 ও Mg(OH)2 থাকে। এরা ক্ষারজাতীয় পদার্থ। তাই পেটের অতিরিক্ত হাইড্রোক্লোরিক এসিডকে এরা প্রশমিত করে। / Digestion: Hydrochloric acid is secreted in the stomach to digest food. If the amount of this acid becomes excessive in the stomach for any reason, then discomfort is felt in the stomach. Generally, this is called acidity. If acidity persists for a long time, ulcers can develop in the stomach. Therefore, antacids are taken to neutralize this acid. Antacids contain Al(OH)3 and Mg(OH)2. These are basic substances. Therefore, they neutralize the excess hydrochloric acid in the stomach.
+
+    দাঁতের যত্নে: কখনো মিষ্টিজাতীয় খাবার খেয়ে মুখ পরিষ্কার না করলে কিছুক্ষণ পর মুখে টক টক অনুভূত হয়। আসলে মুখের মধ্যে অনেক ব্যাকটেরিয়া থাকে যা আমাদের খাওয়া খাবার থেকে বিভিন্ন ধরনের জৈব এসিড তৈরি করে। তাই মুখে টক স্বাদ অনুভূত হয়। এই এসিড দাঁতের এনামেলকে / Dental Care: Sometimes, after eating sweet foods if the mouth is not cleaned, a sour sensation is felt in the mouth after some time. Actually, there are many bacteria in the mouth that produce various types of organic acids from the food we eat. Therefore, a sour taste is felt in the mouth. This acid damages the enamel of the teeth.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 228
+MAIN TOPICS: Acid-base reactions, Salts, Acid Rain
+
+CHEMICAL EQUATIONS:
+CO2(g) + H2O(l) → H2CO3(aq)
+2NO2(g) + H2O(l) → HNO2(aq) + HNO3(aq)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+ক্ষারীয়মূলক (Basic radical)
+Bengali Definition: লবণের ধনাত্মক আয়নটি ক্ষার থেকে আসে। তাই ধনাত্মক আয়নকে ক্ষারীয়মূলক বলে।
+English Translation: The positive ion of a salt comes from a base. Therefore, the positive ion is called a basic radical.
+
+অম্লীয় মূলক (Acid radical)
+Bengali Definition: লবণের ঋণাত্মক আয়নটি এসিড বা অম্ল থেকে আসে। তাই লবণের ঋণাত্মক আয়নকে অম্লীয় মূলক বলে।
+English Translation: The negative ion of a salt comes from an acid. Therefore, the negative ion is called an acid radical.
+
+এসিড বৃষ্টি (Acid Rain)
+Bengali Definition: অধাতুর অক্সাইডগুলো পানির সাথে বিক্রিয়া করে বিভিন্ন এসিড উৎপন্ন করে। ... বৃষ্টির পানিতে এ সকল অক্সাইড দ্রবীভূত হয়ে সামান্য পরিমাণ এসিড উৎপন্ন করে। এই এসিড বৃষ্টির পানির সাথে মাটিতে পতিত হয়। এসিডযুক্ত বৃষ্টিকে এসিড বৃষ্টি বলে।
+English Translation: Non-metal oxides react with water to produce different acids. ... These oxides dissolve in rainwater and produce a small amount of acid. This acidic water falls onto the soil. Rain containing this acid is called acid rain.
+
+EXAMPLES:
+Neutral salts:
+Bengali: যেমন- NaCl, Na2SO4 ইত্যাদির জলীয় দ্রবণ নিরপেক্ষ।
+English: For example, the aqueous solutions of NaCl, Na2SO4 are neutral.
+
+Acidic salts:
+Bengali: যেমন- FeCl3, Zn(NO3)2 ইত্যাদির জলীয় দ্রবণ অম্লীয়।
+English: For example, the aqueous solutions of FeCl3, Zn(NO3)2 are acidic.
+
+Basic salts:
+Bengali: যেমন- Na2CO3, CH3COONa (সোডিয়াম ইথানয়েট) ইত্যাদির জলীয় দ্রবণ ক্ষারীয় প্রকৃতির।
+English: For example, the aqueous solutions of Na2CO3, CH3COONa (sodium ethanoate) are basic in nature.
+
+ADDITIONAL INFORMATION:
+- Calcium oxide (CaO) is used in agriculture to neutralize excess acid in soil and increase fertility.
+- Toothpaste contains alkaline substances to neutralize acids produced in the mouth and protect tooth enamel.
+- Rainwater naturally has a pH between 5 and 6 due to dissolved gases, but human activities can significantly increase its acidity.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Balance
+CHAPTER NUMBER: N/A
+PAGE NUMBER: 225
+MAIN TOPICS: Acid Rain, Water Hardness
+
+CHEMICAL EQUATIONS:
+2C₁₇H₃₅COONa + CaCl₂ → (C₁₇H₃₅COO)₂Ca + 2NaCl
+
+EXPERIMENTAL PROCEDURES:
+N/A
+
+DIAGRAMS AND ILLUSTRATIONS:
+N/A
+
+QUESTIONS AND PROBLEMS:
+N/A
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+ACID RAIN
+Bengali Definition: যখন বৃষ্টির পানির pH এর মান 4 বা তারও কম হয়, তখন তাকে এসিড বৃষ্টি বলে।
+English Translation: When the pH of rainwater is 4 or less, it is called acid rain.
+Related Chemical Equations: H₂CO₃ formation mentioned
+Examples:  Impact on soil, plants, aquatic life, buildings and structures.
+
+HARD WATER
+Bengali Definition: পানিতে ক্যালসিয়াম বা ম্যাগনেসিয়ামের ক্লোরাইড, সালফেট, কার্বনেট, বাইকার্বনেট ইত্যাদি লবণ দ্রবীভূত থাকলে উক্ত পানি সাবানের সাথে সহজে ফেনা উৎপন্ন করে না।
+English Translation: Water that does not easily produce lather with soap due to the presence of dissolved salts of calcium or magnesium, such as chlorides, sulfates, carbonates, and bicarbonates, is called hard water.
+Related Chemical Equations: 2C₁₇H₃₅COONa + CaCl₂ → (C₁₇H₃₅COO)₂Ca + 2NaCl
+Examples: River, canal, pond, sea or tube well water sources that dissolve mineral salts.
+
+SOFT WATER
+Bengali Definition: খর পানিকে বিভিন্ন উপায়ে আমরা মৃদু পানিতে পরিণত করতে পারি।
+English Translation: We can convert hard water to soft water by different means.
+Related Chemical Equations: None
+Examples: None
+
+SAFETY INFORMATION:
+N/A
+
+---
+
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 226
+MAIN TOPICS: Water Hardness, Temporary Hardness, Permanent Hardness
+
+CHEMICAL EQUATIONS:
+Ca(HCO3)2  →  CaCO3(s) + CO2(g)↑+ H2O(l)
+Temperature: Δ (Heat)
+
+CaCl2 + Na2CO3 → CaCO3↓ + 2NaCl
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME
+Bengali Definition: পানির মধ্যে যে ধর্মের জন্য পানিতে সাবান ভালোভাবে ময়লা পরিষ্কার করতে পারে না পানির সেই ধর্মকে পানির খরতা বলে।
+English Translation: The property of water due to which soap does not clean dirt properly is called hardness of water.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: অস্থায়ী খরতা (Temporary Hardness)
+Bengali Definition: পানিতে ক্যালসিয়াম, ম্যাগনেসিয়াম, আয়রন প্রভৃতি লবণের বাইকার্বনেট (HCO₃) লবণ দ্রবীভূত থাকলে যে খারতা সৃষ্টি হয় তাকে অস্থায়ী খারতা বলে এবং এই পানিকে অস্থায়ী খর পানি বলা হয়।
+English Translation: The hardness caused by dissolved bicarbonates (HCO3) of calcium, magnesium, and iron is called temporary hardness, and the water is called temporary hard water.
+Related Chemical Equations: Ca(HCO3)2  →  CaCO3(s) + CO2(g)↑+ H2O(l)
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: স্থায়ী খরতা (Permanent Hardness)
+Bengali Definition: পানিতে ক্যালসিয়াম, ম্যাগনেসিয়াম, আয়রন প্রভৃতি ধাতুর ক্লোরাইড বা সালফেট লবণ দ্রবীভূত থাকলে স্থায়ী খরতার সৃষ্টি হয় এবং এই পানি স্থায়ী খর পানি বলে।
+English Translation: The hardness caused by dissolved chlorides or sulfates of calcium, magnesium and iron is called permanent hardness, and the water is called permanent hard water.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+TERM OR PROPERTY NAME: মৃদু পানি (Soft Water)
+Bengali Definition: মৃদু পানিতে ক্যালসিয়াম, ম্যাগনেসিয়াম, আয়রন প্রভৃতি ধাতুর লবণ খুব বেশি দ্রবীভূত থাকে না।
+English Translation: In soft water, the salts of calcium, magnesium, and iron are not very dissolved.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: স্থায়ী খরতা দূরীকরণের পদ্ধতি (Method of Removing Permanent Hardness)
+Bengali Definition: স্থায়ী খর পানির মধ্যে সোডিয়াম কার্বনেট যোগ করলে সোডিয়াম কার্বনেট ক্যালসিয়াম আয়ন ও ম্যাগনেসিয়াম আয়নের সাথে বিক্রিয়া করে ক্যালসিয়াম কার্বনেট এবং ম্যাগনেসিয়াম কার্বনেটের অধঃক্ষেপ উৎপন্ন করে। ফলে পানি থেকে ক্যালসিয়াম আয়ন এবং ম্যাগনেশিয়াম আয়ন পানি থেকে অপসারিত হয় অর্থাৎ স্থায়ী খরতা দূর হয়।
+English Translation: Adding sodium carbonate to permanent hard water causes the sodium carbonate to react with calcium and magnesium ions, precipitating calcium carbonate and magnesium carbonate. Thus, calcium and magnesium ions are removed from the water, and the permanent hardness is removed.
+Related Chemical Equations: CaCl2 + Na2CO3 → CaCO3↓ + 2NaCl
+Examples: Not applicable
+
+9.7.2 পানিদূষণ ও দূষণ নিয়ন্ত্রণ
+পানিদূষণ
+Bengali Text: উদ্ভিদ ও প্রাণী দেহের বেশির ভাগই পানি। তাই প্রতিটি জীবের জন্য প্রচুর বিশুদ্ধ পানির প্রয়োজন। কিন্তু এই পানি নানাভাবে দূষিত হচ্ছে। যেমন- গৃহস্থালি বর্জ্য বা মলমূত্র বৃষ্টির পানিতে বা অন্যভাবে ধুয়ে নদী, খাল-বিল, পুকুর প্রভৃতি জলাশয়ে এসে পড়ছে। এছাড়াও হাসপাতাল থেকে
+English Translation: Water Pollution: Most of the plant and animal body consists of water. Therefore, every living being needs a lot of pure water. But this water is being polluted in many ways. For example, household waste or excrement are washed by rainwater or otherwise into rivers, canals, ponds, etc. In addition, from hospitals
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Balance
+CHAPTER NUMBER: Not specified in this page.
+PAGE NUMBER: 227
+MAIN TOPICS: Water pollution, Waste Management, Water Purity Testing
+
+CHEMICAL EQUATIONS: None
+
+EXPERIMENTAL PROCEDURES: None
+
+DIAGRAMS AND ILLUSTRATIONS: None
+
+QUESTIONS AND PROBLEMS: None
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: বিশুদ্ধ পানি / Pure Water
+Bengali Definition: বিশুদ্ধ পানি বর্ণহীন ও গন্ধহীন স্বচ্ছ তরল পদার্থ। এতে সামান্য পরিমাণ খনিজ লবণ দ্রবীভূত থাকে।
+English Translation: Pure water is a colorless and odorless transparent liquid. It contains a small amount of dissolved minerals.
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Arsenic is a poisonous substance.
+Required Precautions: Avoid drinking water with excessive arsenic levels.
+Emergency Procedures: Seek immediate medical attention if you suspect arsenic poisoning.
+Protective Equipment: None specifically mentioned in this text.
+
+SAFETY ALERT
+Hazard Description: Industrial waste can contaminate water with heavy metals and toxic substances.
+Required Precautions: Do not dispose of industrial waste in open water sources.
+Emergency Procedures: Seek help from environmental protection agencies if you suspect industrial contamination.
+Protective Equipment: None specifically mentioned in this text.
+
+SAFETY ALERT
+Hazard Description: Thermal pollution occurs when water temperature rises significantly.
+Required Precautions: None specifically mentioned in this text.
+Emergency Procedures: None specifically mentioned in this text.
+Protective Equipment: None specifically mentioned in this text.
+
+ADDITIONAL NOTES:
+- This page discusses the sources of water pollution, focusing on industrial and agricultural waste, and the presence of heavy metals and arsenic.
+- It highlights the importance of waste treatment plants and the production of biogas from waste.
+- The page also mentions testing of water purity through observation of color, odor, and presence of sediments. It also notes that increased water temperature can signify thermal pollution.
+- The page emphasizes the need for public awareness and environmental protection measures for water purity.
+-The provided text contains a page number “227”, but the number “১৯০৯” appears in the OCR at the very bottom of the text, this is likely a printing error and the page number has been used from the top of the text.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: N/A
+PAGE NUMBER: 228
+MAIN TOPICS: Water Pollution, Water Purification
+
+THERMAL POLLUTION OF WATER
+If water used for cooling machinery or boilers is released directly into water bodies, it causes thermal pollution. Water temperature can be measured using a thermometer to determine if thermal pollution is present.
+
+WATER PH VALUE
+Water with a pH less than 4.5 or greater than 9.5 is not suitable for living organisms. The pH of water can be measured using a pH meter or pH paper.
+
+BOD (BIOLOGICAL OXYGEN DEMAND)
+BOD full form is Biological Oxygen Demand. In Bengali it means জৈব রাসায়নিক অক্সিজেন চাহিদা. The amount of oxygen required by microorganisms (like bacteria) to decompose biodegradable organic pollutants in one liter of water is called the BOD of the water. The higher the BOD, the more polluted the water is.
+
+COD (CHEMICAL OXYGEN DEMAND)
+COD full form is Chemical Oxygen Demand. In Bengali it means রাসায়নিক অক্সিজেন চাহিদা. The amount of oxygen required to oxidize both organic and inorganic pollutants chemically in one liter of water is called COD of the water. The higher the COD, the more polluted the water is.
+
+BOD AND COD
+BOD and COD are both used to measure the level of water pollution. The COD value of any water is higher than the BOD value. This is because BOD only considers the oxygen required to decompose biodegradable organic materials, whereas COD considers the oxygen required to oxidize all organic and inorganic pollutants, whether or not they are biodegradable. Therefore the COD value of the same water will be higher than the BOD value.
+
+WATER PURIFICATION
+CHLORINATION
+Chlorination: The easiest way to disinfect water is chlorination. Adding the required amount of bleaching powder to water produces chlorine, which kills germs through oxidation. This method is called chlorination of water. In this method, the water becomes drinkable after filtering following the addition of bleaching powder.
+
+BOILING
+Boiling: Boiling water for 15 to 20 minutes disinfects it. However, boiling water contaminated with arsenic will make it more harmful.
+
+SEDIMENTATION
+Sedimentation: Adding powdered alum (K₂SO₄. Al₂(SO₄)₃. 24H₂O) to a bucket of water and leaving it for half an hour will cause all the impurities to settle to the bottom of the bucket. The clean water can then be poured off from the top, and the insoluble pollutants are removed.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Balance
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 226
+MAIN TOPICS: Acid-base indicators, Litmus test, Filtration
+
+EXPERIMENT TITLE: লিটমাস পেপারের সাহায্যে সরবরাকৃত আপেলের অম্লীয় বা ক্ষারীয় প্রকৃতি নির্ণয় / Determining the acidic or basic nature of supplied apples using litmus paper
+PURPOSE: To determine if apples are acidic, basic, or neutral using litmus paper.
+MATERIALS REQUIRED:
+Peshon Jantro (pestle), Testtube, Kachdondo (glass rod), Chakon kagoj (filter paper), Funnel, Neel litmus paper (blue litmus paper), Lal litmus paper (red litmus paper), Patito pani (distilled water), Apple kuchi (apple pieces).
+SAFETY PRECAUTIONS: No specific precautions are mentioned in the text.
+PROCEDURE:
+1.  পেষণ যন্ত্রে কয়েকটি আপেল কুচি এবং সামান্য পানি নিয়ে সেটিকে ভালোভাবে পিষে আপেলের পেস্ট তৈরি করো। / Take some apple pieces and a little water in the pestle, and grind well to make an apple paste.
+2.  আপেলের পেস্ট বিকারে নাও। / Take the apple paste in a beaker.
+3.  বিকারে 10 mL পাতিত পানি নিয়ে কাচদণ্ডের সাহায্যে আপেলের পেস্টকে পানি দিয়ে ভালোভাবে মিশিয়ে নাও। / Add 10 mL of distilled water to the beaker and mix the apple paste well with the water using a glass rod.
+4. এবার ছাঁকন কাগজ আর ফানেলের সাহায্যে মিশ্রণটিকে ছেঁকে নিয়ে একটি টেস্টটিউবে মিশ্রণের জলীয় অংশটুকু নাও। / Now, filter the mixture with filter paper and a funnel, and collect the aqueous part of the mixture into a test tube.
+5. টেস্টটিউবের জলীয় অংশে একবার নীল লিটমাস পেপার আর একবার লাল লিটমাস পেপার ডুবাও এবং বর্ণের পরিবর্তন লক্ষ করো। / Dip a blue litmus paper and then a red litmus paper into the aqueous part in the test tube, and note any color change.
+EXPECTED OBSERVATIONS:
+- If the solution is acidic, the blue litmus paper will turn red.
+- If the solution is basic, the red litmus paper will turn blue.
+- If the solution is neutral, there will be no color change.
+KEY LEARNING POINTS: Litmus paper is an indicator that changes color depending on whether the solution is acidic or basic.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: অম্লীয় (Amlyo) / Acidic
+BENGALI DEFINITION: যেসব খাদ্য অম্লীয় প্রকৃতির তাদের জলীয় দ্রবণ নীল লিটমাস পেপারকে লাল করে। / Foods that are acidic in nature, their aqueous solutions turn blue litmus paper red.
+ENGLISH TRANSLATION: Foods that are acidic in nature will turn blue litmus paper red when in an aqueous solution.
+
+TERM OR PROPERTY NAME: ক্ষারীয় (Khario) / Basic
+BENGALI DEFINITION: যেসব খাদ্য ক্ষারীয় প্রকৃতির সেগুলোর জলীয় দ্রবণ লাল লিটমাস পেপারকে নীল করে। / Foods that are basic in nature, their aqueous solutions turn red litmus paper blue.
+ENGLISH TRANSLATION: Foods that are basic in nature will turn red litmus paper blue when in an aqueous solution.
+
+TERM OR PROPERTY NAME: নিরপেক্ষ (Niropekkho) / Neutral
+BENGALI DEFINITION: নিরপেক্ষ প্রকৃতির খাদ্যের জলীয় দ্রবণ লিটমাস পেপারের বর্ণের কোনো পরিবর্তন করে না। / The aqueous solution of a neutral food does not change the color of litmus paper.
+ENGLISH TRANSLATION: The aqueous solution of a neutral food will not change the color of litmus paper.
+
+TERM OR PROPERTY NAME: ছাঁকন (Chakon) / Filtration
+BENGALI DEFINITION: বর্তমানে বাজারে জীবাণু, আর্সেনিক ও অন্য দূষক দূর করতে ফিল্টার পাওয়া যাচ্ছে। এই ফিল্টার দিয়ে ছেঁকে নিলে বিশুদ্ধ পানি পাওয়া যায়। / Currently, filters are available in the market to remove germs, arsenic, and other pollutants. Pure water can be obtained by filtering through these filters.
+ENGLISH TRANSLATION: Currently, filters are available in the market to remove germs, arsenic, and other pollutants. Pure water can be obtained by filtering through these filters.
+
+Page Reference: 226
+
+
+CHAPTER TITLE: পর্যবেক্ষণ ও সিদ্ধান্ত / Observation and Conclusion
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 230
+MAIN TOPICS: Acid-Base indicators, pH paper preparation
+
+OBSERVATION AND CONCLUSION
+
+| Food Name | Possible Change in Litmus Paper Color | Conclusion |
+|---|---|---|
+| Apple | Blue litmus paper turns red, but no change in red litmus paper | Apple is acidic in nature |
+| Apple | Red litmus paper turns blue, but no change in blue litmus paper | Apple is alkaline (basic) in nature |
+
+RESULT: If you conduct the test correctly, you will observe that apple is acidic in nature.
+
+INDIVIDUAL TASK
+
+If you perform the same test as you did with apple slices for rice and cucumber, you will see that rice is neutral. This means rice does not change the color of either red or blue litmus paper. Cucumber is alkaline, meaning it turns red litmus paper blue.
+
+INDIVIDUAL TASK
+
+PH PAPER PREPARATION
+
+Take any colorful vegetable (e.g., red spinach, red cabbage, beetroot, etc.) or colorful flower (e.g., hibiscus, red rose, dahlia). Cut it into small pieces and steam it gently. Soak a piece of filter paper in the colored extract you get. Let it air dry and then cut it into thin strips after drying. Your pH paper is ready.
+
+To use this paper, dip it in a solution with an unknown pH and create a color chart for the pH range. Choose the most suitable one for your use.
+
+
+CHAPTER TITLE: এসিড-ক্ষারক সমতা / Acid-Base Equilibrium
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 231
+MAIN TOPICS: Acid-base reactions, Salt formation, pH
+
+QUESTIONS AND PROBLEMS
+Question 1
+চুনাপাথরের সাথে লঘু নাইট্রিক এসিড যোগ করলে নিচের কোন যৌগটি উৎপন্ন হবে?
+Translation: Which of the following compounds will be produced when dilute nitric acid is added to limestone?
+Type: Multiple choice
+Chemical Components: Limestone (Calcium Carbonate), Nitric Acid
+Key Concept: Acid-carbonate reaction
+
+Question 2
+নিচের কোনটি ক্ষার?
+Translation: Which of the following is a base?
+Type: Multiple choice
+Chemical Components: NaOH, NaCl, Na2SO4, HCl
+Key Concept: Identifying bases
+
+Question 3
+নিচের কোনটির উপস্থিতির জন্য অ্যামোনিয়া গ্যাসের জলীয় দ্রবণ ক্ষারীয় প্রকৃতির হয়?
+Translation: The aqueous solution of ammonia gas is basic due to the presence of which of the following?
+Type: Multiple choice
+Chemical Components: NH4+, OH-, NH3, H2O
+Key Concept: Basic properties of ammonia solutions
+
+Question 4
+একটি অজানা ধাতুর সাথে নাইট্রিক এসিডের বিক্রিয়ায় বর্ণহীন দ্রবণ উৎপন্ন হয়। উৎপন্ন দ্রবণটিতে সোডিয়াম হাইড্রোক্সাইড দ্রবণ যোগ করলে সাদা বর্ণের অধঃক্ষেপ উৎপন্ন হয় কিন্তু অধিক পরিমাণ সোডিয়াম হাইড্রোক্সাইড দ্রবণ যোগ করলে তা-ও দ্রবীভূত হয়ে যায়। ধাতুটি-
+Translation:  A colorless solution is produced by the reaction of an unknown metal with nitric acid. When sodium hydroxide solution is added to the solution, a white precipitate forms, but it dissolves when excess sodium hydroxide solution is added. The metal is -
+Type: Multiple choice
+Chemical Components: Nitric Acid, Sodium Hydroxide, Metal ions (Copper, Iron, Lead, Zinc)
+Key Concept: Metal hydroxide precipitation and solubility
+
+Question 5
+ইথানয়িক এসিড দ্রবণের pH-এর মান 4। pH এর মান বৃদ্ধি করার জন্য এতে যোগ করতে হবে-
+(i) অ্যামোনিয়া দ্রবণ
+(ii) ঘন হাইড্রোক্লোরিক এসিড
+(iii) কঠিন ম্যাগনেসিয়াম কার্বনেট
+নিচের কোনটি সঠিক?
+Translation: The pH of an ethanoic acid solution is 4. To increase the pH, which of the following should be added?
+(i) Ammonia solution
+(ii) Concentrated hydrochloric acid
+(iii) Solid magnesium carbonate
+Which of the following is correct?
+Type: Multiple choice
+Chemical Components: Ethanoic acid, Ammonia solution, Hydrochloric acid, Magnesium carbonate
+Key Concept: pH adjustment, acid neutralization
+
+
+CHAPTER TITLE: Not Provided / Not Provided
+CHAPTER NUMBER: Not Provided
+PAGE NUMBER: 232
+MAIN TOPICS: Acid-base reactions, gas properties, environmental pollution
+
+QUESTION 6
+কোনটি চুনের পানিকে ঘোলা করে?
+Translation: Which of the following makes lime water cloudy?
+Type: Multiple choice
+Chemical Components: NO2, CO, SO2, CO2
+Key Concept: Carbon dioxide test, reactions of gases
+
+   (ক) NO₂
+   (খ) CO
+   (গ) SO₂
+   (ঘ) CO₂
+
+CREATIVE QUESTIONS
+
+1.  পাশের চিত্র।
+Translation: Observe the figure.
+
+    DIAGRAM TITLE: Gas Preparation Setup
+    Description: A diagram showing a test tube tilted at an angle, with the open end connected via a tube to another test tube containing a red solution and a stopper. The tilted test tube is heated by a burner. The reactants shown in the heated test tube are NH4Cl and CaO, with the product of the reaction flowing to the second test tube and labeled 'X'.
+    Components: Test tubes, burner, rubber tubing, stopper
+    Chemical Labels: NH4Cl, CaO, 'X'
+    Safety Notes: Use caution when heating the test tube and handling the chemicals.
+    Purpose: Demonstrates the preparation and collection of a gas.
+
+    Question 1(ক)
+    NO₂ গ্যাসের বর্ণ কী?
+    Translation: What is the color of NO₂ gas?
+    Type: Short Answer
+    Chemical Components: NO2
+    Key Concept: Properties of nitrogen dioxide
+
+    Question 1(খ)
+    চুনের পানির pH-এর মান 7 থেকে বেশি না কম হবে? ব্যাখ্যা করো।
+    Translation: Will the pH of lime water be more or less than 7? Explain.
+    Type: Analytical
+    Chemical Components: Lime water (Calcium Hydroxide)
+    Key Concept: pH of basic solutions
+
+   Question 1(গ)
+   'X' গ্যাসটির জলীয় দ্রবণের একটি রাসায়নিক ধর্ম ব্যাখ্যা করো।
+   Translation: Explain a chemical property of the aqueous solution of gas 'X'.
+    Type: Analytical
+    Chemical Components: X
+    Key Concept: Properties of ammonia solutions
+
+   Question 1(ঘ)
+   HCl গ্যাসের মধ্যে 'X' গ্যাস চালনা করলে কী ঘটবে? সমীকরণসহ লেখো।
+   Translation: What will happen if gas 'X' is passed through HCl gas? Write with the equation.
+   Type: Analytical
+   Chemical Components: HCl, 'X'
+   Key Concept: Reaction of ammonia and hydrogen chloride
+
+2.  টেক্সটাইল মিল ও ডাইং শিল্প, রং ও সালফিউরিক এসিডযুক্ত বর্জ্য সরাসরি নিকটস্থ জলাশয়ে ফেলছে। ফলে ঐ সকল জলাশয় জলজ প্রাণীর বসবাসের অনুপযুক্ত হয়ে পড়ছে।
+Translation: Textile mills and dyeing industries are releasing waste containing dyes and sulfuric acid directly into nearby water bodies. As a result, these water bodies are becoming unsuitable for aquatic life.
+
+    Question 2(ক)
+     তেঁতুলে কোন এসিড থাকে?
+     Translation: Which acid is present in tamarind?
+    Type: Short Answer
+    Chemical Components: None
+    Key Concept: Natural acids
+
+    Question 2(খ)
+     উদ্দীপকের জলাশয়ে pH মান সম্পর্কে তোমার ধারণা ব্যাখ্যা করো।
+     Translation: Explain your understanding of the pH level in the water bodies described in the stimulus.
+    Type: Analytical
+    Chemical Components: Sulfuric acid
+    Key Concept: Acidity and pH levels
+
+    Question 2(গ)
+    টেক্সটাইল মিল ও ডাইং শিল্পের দূষণ নিয়ন্ত্রণ প্লান্টে এসিড দূষণ নিয়ন্ত্রণে যৌক্তিক পরামর্শ দাও।
+    Translation: Give logical advice on controlling acid pollution in the pollution control plant of textile mills and dyeing industries.
+    Type: Short Answer
+    Chemical Components: Sulfuric acid
+    Key Concept: Industrial pollution control
+
+    Question 2(ঘ)
+     টেক্সটাইল মিল ও ডাইং শিল্পের আশপাশে এসিড বৃষ্টির সম্ভাবনা বিক্রিয়াসহ বিশ্লেষণ করো।
+    Translation: Analyze the possibility of acid rain around textile mills and dyeing industries with reactions.
+    Type: Analytical
+    Chemical Components: Sulfuric acid
+    Key Concept: Acid rain formation
+
+

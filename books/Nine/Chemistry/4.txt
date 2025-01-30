@@ -1,0 +1,1212 @@
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: 4
+PAGE NUMBER: 26
+MAIN TOPICS: Periodic Table, Elements, Chemical Properties
+
+DIAGRAM TITLE: পর্যায় সারণি / Periodic Table
+Description: A visual representation of the periodic table with elements arranged in rows and columns. Each cell appears to contain an image or graphic alongside text. The layout is a rectangular grid.
+Components: Elements are represented by their cells.
+Chemical Labels: None visible.
+Safety Notes: None
+Purpose: To visually represent the periodic table of elements.
+
+2016 সাল পর্যন্ত পৃথিবীতে মোট 118টি মৌলিক পদার্থ আবিষ্কৃত হয়েছে। / By 2016, a total of 118 elements have been discovered on Earth.
+রসায়ন অধ্যয়ন ও গবেষণার জন্য সব কয়টি মৌলের ভৌত ও রাসায়নিক ধর্ম সম্পর্কে ধারণা থাকা প্রয়োজন। / It is necessary to have an understanding of the physical and chemical properties of all elements for the study and research of chemistry.
+মৌলিক পদার্থগুলোর মধ্যে কিছু মৌলিক পদার্থ একই রকম ধর্ম প্রদর্শন করে। / Among the elements, some exhibit similar properties.
+যে সকল মৌলিক পদার্থ একই রকম ধর্ম প্রদর্শন করে তাদেরকে একই গ্রুপে রেখে সমগ্র মৌলিক পদার্থের জন্য একটি ছক তৈরি করার চেষ্টা দীর্ঘদিন থেকেই চলছিল। / The attempt to create a table for all the elements by placing those that exhibit similar properties in the same group has been going on for a long time.
+কয়েক শ বছর ধরে বিভিন্ন বিজ্ঞানীর প্রচেষ্টা, অনেক পরিবর্তন, পরিবর্ধনের ফলে আমরা মৌলগুলো সাজানোর এই ছকটি পেয়েছি, যেটা পর্যায় সারণি বা Periodic table নামে পরিচিত। /  After hundreds of years of effort by various scientists and many changes, we have obtained this table for arranging the elements, which is known as the Periodic Table.
+এ পর্যায় সারণি রসায়নের জগতে বিজ্ঞানীদের এক অসামান্য অবদান। / This periodic table is a remarkable contribution by scientists in the world of chemistry.
+এ পর্যায় সারণি এবং তার বৈশিষ্ট্য সম্পর্কে কারও ভালো ধারণা থাকলে শুধু এই 118টি মৌলের বিভিন্ন ধর্ম নয় বরং এ সকল মৌল দ্বারা গঠিত অসংখ্য যৌগের ধর্মাবলি সম্পর্কে সাধারণ ধারণা জন্মে। / Having a good understanding of this periodic table and its characteristics provides not only insight into the different properties of these 118 elements, but also a general idea about the properties of the numerous compounds formed by these elements.
+এই অধ্যায়ে পর্যায় / In this chapter, the topic of the periodic table will be discussed.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 60
+MAIN TOPICS: Periodic table development, Properties of elements, Chemical nomenclature
+
+• এ অধ্যায় পাঠ শেষে আমরা / After completing this chapter, we will be able to:
+    * পর্যায় সারণি বিকাশের পটভূমি বর্ণনা করতে পারব। / Describe the background of the development of the periodic table.
+    * মৌলের সর্ববহিঃস্তর শক্তিস্তরের ইলেকট্রন বিন্যাসের সাথে পর্যায় সারণির প্রধান গ্রুপগুলোর সম্পর্ক নির্ণয় করতে পারব (প্রথম 30টি মৌল)। / Determine the relationship between the electron configuration of the outermost energy level of an element and the main groups of the periodic table (first 30 elements).
+    * একটি মৌলের পর্যায় শনাক্ত করতে পারব। / Identify the period of an element.
+    * পর্যায় সারণিতে কোনো মৌলের অবস্থান জেনে এর ভৌত ও রাসায়নিক ধর্ম সম্পর্কে ধারণা করতে পারব। / Understand the physical and chemical properties of an element by knowing its position in the periodic table.
+    * মৌলসমূহের বিশেষ নামকরণের কারণ বলতে পারব। / Explain the reasons for the special nomenclature of elements.
+    * পর্যায় সারণির গুরুত্ব ব্যাখ্যা করতে পারব। / Explain the importance of the periodic table.
+    * পর্যায় সারণির একই গ্রুপের মৌল দ্বারা গঠিত যৌগের একই ধরনের ধর্ম প্রদর্শন করতে পারব। / Demonstrate that compounds formed by elements in the same group of the periodic table exhibit the same type of properties.
+    *  পরীক্ষণের সময় কাচের যন্ত্রপাতির সঠিক ব্যবহার করতে পারব। / Use glass equipment correctly during experiments.
+    * পরীক্ষণ কাজে সতর্কতা অবলম্বন করতে পারব। / Take precautions in experimental work.
+    * পর্যায় সারণি অনুসরণ করে মৌলসমূহের ধর্ম অনুমানে আগ্রহ প্রদর্শন করতে পারব। / Show interest in predicting the properties of elements by following the periodic table.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: 4
+PAGE NUMBER: 61
+MAIN TOPICS: History of Periodic Table, Early classifications of elements, Mendeleev's Periodic Law
+
+CHEMICAL EQUATIONS:
+None
+
+EXPERIMENTAL PROCEDURES:
+None
+
+DIAGRAMS AND ILLUSTRATIONS:
+None
+
+QUESTIONS AND PROBLEMS:
+None
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: পর্যায় সারণি (Periodic Table)
+Bengali Definition: মানুষ প্রাচীনকাল থেকে বিক্ষিপ্তভাবে পদার্থ এবং তাদের ধর্ম সম্পর্কে যে সকল ধারণা অর্জন করেছিল পর্যায় সারণি হচ্ছে তার একটি সম্মিলিত রূপ।
+English Translation: The periodic table is a combined form of all the ideas that humans have gathered since ancient times about substances and their properties.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: ডোবেরাইনারের ত্রয়ীসূত্র (Dobereiner's Triads)
+Bengali Definition:  বিজ্ঞানী ডোবেরাইনার লক্ষ করেন তিনটি করে মৌলিক পদার্থ একই রকমের ধর্ম প্রদর্শন করে। তিনি প্রথমে পারমাণবিক ভর অনুসারে তিনটি করে মৌল সাজান। এরপর তিনি লক্ষ করেন দ্বিতীয় মৌলের পারমাণবিক ভর প্রথম ও তৃতীয় মৌলের পারমাণবিক ভরের যোগফলের অর্ধেক বা তার কাছাকাছি।
+English Translation: Scientist Dobereiner noticed that three elements show similar properties. He arranged three elements in order of atomic mass. Then he noticed that the atomic mass of the second element was approximately the arithmetic mean of the atomic masses of the first and third elements.
+Related Chemical Equations: None
+Examples: Chlorine, Bromine, and Iodine
+
+TERM OR PROPERTY NAME: নিউল্যান্ড অষ্টক সূত্র (Newland's Law of Octaves)
+Bengali Definition: এই সূত্র অনুযায়ী মৌলসমূহকে যদি পারমাণবিক ভরের ছোট থেকে বড় অনুযায়ী সাজানো যায় তবে যেকোনো একটি মৌলের ধর্ম তার অষ্টম মৌলের ধর্মের সাথে মিলে যায়।
+English Translation: According to this law, if elements are arranged in increasing order of their atomic masses, then any element will have similar properties with the eighth element.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: পর্যায় সূত্র (Periodic Law)
+Bengali Definition: "মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি তাদের পারমাণবিক ভর বৃদ্ধির সাথে পর্যায়ক্রমে আবর্তিত হয়।"
+English Translation: “The physical and chemical properties of elements are periodic functions of their atomic weights.”
+Related Chemical Equations: None
+Examples: None
+
+SAFETY INFORMATION:
+None
+
+
+CHAPTER TITLE: [রসায়ন] / [Chemistry]
+CHAPTER NUMBER: [Not Specified on Page]
+PAGE NUMBER: 62
+MAIN TOPICS: Periodic table, elements, atomic numbers, atomic mass
+
+DIAGRAM TITLE: Periodic Table of Elements
+DESCRIPTION: A standard periodic table displaying elements arranged by atomic number. Elements are grouped into rows (periods) and columns (groups). Each element box shows the element's symbol, name (in both Bengali and English), atomic number, and atomic mass.  The table has different sections highlighted in color. Groups are numbered 1 to 9, with additional series below the main table.
+COMPONENTS: Element boxes with symbols, names, atomic numbers, and atomic masses; Group numbers; period numbers
+CHEMICAL LABELS: H, Li, Be, Na, Mg, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Rb, Sr, Y, Zr, Nb, Mo, Tc, Ru, Rh, Cs, Ba, Hf, Ta, W, Re, Os, Ir, Fr, Ra, Rf, Db, Sg, Bh, Hs, Mt, La, Ce, Pr, Nd, Pm, Sm, Eu, Ac, Th, Pa, U, Np, Pu, Am
+SAFETY NOTES: None applicable to the table itself.
+PURPOSE: To display the organization of the chemical elements based on their properties.
+
+TERM OR PROPERTY NAME: গ্রুপ সংখ্যা (Group Number)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Group Number
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: 1, 2, 3, 4, 5, 6, 7, 8, 9 (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: পারমাণবিক সংখ্যা (Atomic Number)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Atomic Number
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: 1, 3, 4, 11, 12, 19 (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: পারমাণবিক ভর (Atomic Mass)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Atomic Mass
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: 1, 7, 9, 23, 24, 39 (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: প্রতীক (Symbol)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Symbol
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: H, Li, Be, Na, Mg (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: পর্যায় সংখ্যা (Period Number)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Period Number
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: 1, 2, 3, 4 (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: মৌলের নাম (Name of Element)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Name of Element
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: Hydrogen (হাইড্রোজেন), Lithium (লিথিয়াম) (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: ল্যানথানাইড সারির মৌল (Lanthanide series elements)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Lanthanide series elements
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: La, Ce, Pr, Nd, Pm, Sm, Eu (Shown on the periodic table)
+
+TERM OR PROPERTY NAME: অ্যাকটিনাইড সারির মৌল (Actinide series elements)
+BENGALI DEFINITION: [Not available in the image]
+ENGLISH TRANSLATION: Actinide series elements
+RELATED CHEMICAL EQUATIONS: N/A
+EXAMPLES: Ac, Th, Pa, U, Np, Pu, Am (Shown on the periodic table)
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 63
+MAIN TOPICS: Periodic Table, Element Symbols, Atomic Numbers
+
+DIAGRAM TITLE: আধুনিক পর্যায় সারণি / Modern Periodic Table
+Description: A table with elements arranged by increasing atomic number. Rows are called periods, and columns are called groups. Each cell shows the element symbol, element name in both English and Bengali, and the atomic number. The table is color-coded.
+Components:
+  - Each cell contains the element symbol (e.g., He, B, C), element name in English and Bengali, and the atomic number.
+  - Elements are arranged in rows and columns.
+  - Color-coding: the colors vary by group but no key is given.
+Chemical Labels: All element symbols (e.g., He, B, C, Al, Ni, Cu).
+Safety Notes: Not applicable for the periodic table itself.
+Purpose: To show the organization of chemical elements based on their atomic structure and properties.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+Element Name: Each box contains the element name in both English and Bengali
+English Translation: The English names of the elements are printed below each symbol
+Atomic Number: The number printed at the top-left of each element box, and below the element symbol
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+Element Symbol: Each element is represented by its symbol, (e.g. He for helium)
+English Translation: Not applicable as this is notation.
+Examples: B, C, N, O, F, Ne, Al, Si, P, S, Cl, Ar
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+Atomic Mass: Each box also includes a number printed below the element name, assumed to be an atomic mass.
+English Translation: Not applicable.
+Examples: B (10.8), C (12), N (14), O(16), F (19), Ne (20)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+Group Numbers: The numbers above each column indicate the group number.
+English Translation: Not applicable
+Examples: 13, 14, 15, 16, 17, 18
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+Period Numbers: Period numbers are not clearly marked on the table in this image.
+
+TEXT NOTE:
+The text "১৯০২" appears at the bottom left, this is assumed to be the Bangla year for publication.
+---
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: 4
+PAGE NUMBER: 64
+MAIN TOPICS: Periodic Table, Atomic Number, IUPAC
+
+CHEMICAL EQUATIONS:
+None on this page.
+
+EXPERIMENTAL PROCEDURES:
+None on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page.
+
+QUESTIONS AND PROBLEMS:
+None on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: পারমাণবিক ভর (Atomic Mass)
+Bengali Definition: যে পরমাণুর পারমাণবিক ভর কম থাকবে সেই পরমাণু পর্যায় সারণিতে আগে বসবে এবং যে পরমাণুর পারমাণবিক ভর বেশি থাকবে সেই পরমাণু পর্যায় সারণিতে পরে বসবে।
+English Translation: The atom with the lower atomic mass would be placed earlier in the periodic table and the atom with a higher atomic mass would be placed later in the periodic table.
+
+TERM OR PROPERTY NAME: পারমাণবিক সংখ্যা (Atomic Number)
+Bengali Definition: পারমাণবিক সংখ্যা অনুসারে পর্যায় সারণিতে মৌলের স্থান দেওয়া হলে মেন্ডেলিফের পর্যায় সারণিতে আর্গনের পারমাণবিক সংখ্যা 18 এবং পটাশিয়াম এর পারমাণবিক সংখ্যা 19।
+English Translation: If the elements are placed in the periodic table according to their atomic numbers, then the atomic number of Argon is 18 and the atomic number of Potassium is 19.
+
+TERM OR PROPERTY NAME: পর্যায় সারণি (Periodic Table)
+Bengali Definition: পর্যায় সারণি মূলত একটি ছক বা টেবিল। টেবিলে যেমন সারি (Row) এবং কলাম (Column) থাকে পর্যায় সারণিতেও তেমনি সারি ও কলাম আছে।
+English Translation: The periodic table is essentially a chart or table. Like a table that has rows and columns, the periodic table also has rows and columns.
+
+SAFETY INFORMATION:
+None on this page.
+
+ADDITIONAL NOTES:
+- This page discusses the evolution of the periodic table from Mendeleev's approach based on atomic mass to Moseley's approach based on atomic number.
+- The International Union of Pure and Applied Chemistry (IUPAC) is mentioned as the organization responsible for standardizing chemical nomenclature and practices.
+- It highlights the fact that 118 elements are currently known, most found in nature, some synthesized in laboratories.
+- It also briefly mentions Lavoisier's early efforts with 33 elements and Mendeleev's work with 63 discovered and 4 undiscovered elements.
+- The text explains that the periodic table has rows and columns.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 19
+MAIN TOPICS: Periodic Table Structure, Groups and Periods, Lanthanides and Actinides
+
+(a) পর্যায় সারণিতে 7টি পর্যায় (Period) বা অনুভূমিক সারি এবং 18টি গ্রুপ বা খাড়া স্তম্ভ রয়েছে।
+Translation: (a) The periodic table has 7 periods (horizontal rows) and 18 groups (vertical columns).
+
+(b) প্রতিটি পর্যায় বামদিকে গ্রুপ 1 থেকে শুরু করে ডানদিকে গ্রুপ 18 পর্যন্ত বিস্তৃত।
+Translation: (b) Each period extends from group 1 on the left to group 18 on the right.
+
+(c) মূল পর্যায় সারণির নিচে আলাদাভাবে ল্যান্থানাইড ও অ্যাকটিনাইড সারির মৌল হিসেবে দেখানো হলেও এগুলো যথাক্রমে 6 এবং 7 পর্যায়ের অংশ।
+Translation: (c) Although lanthanide and actinide series elements are shown separately at the bottom of the main periodic table, they are actually part of the 6th and 7th periods, respectively.
+
+(d) (i) পর্যায় 1 এ শুধু 2টি মৌল রয়েছে।
+Translation: (d) (i) Period 1 has only 2 elements.
+(ii) পর্যায় 2 এবং পর্যায় 3 এ 8টি করে মৌল রয়েছে।
+Translation: (ii) Periods 2 and 3 each have 8 elements.
+(iii) পর্যায় 4 এবং পর্যায় 5 এ 18টি করে মৌল রয়েছে।
+Translation: (iii) Periods 4 and 5 each have 18 elements.
+(iv) পর্যায় 6 এবং পর্যায় 7 এ 32টি করে মৌল রয়েছে।
+Translation: (iv) Periods 6 and 7 each have 32 elements.
+
+(e) (i) গ্রুপ 1 এ 7টি মৌল রয়েছে।
+Translation: (e) (i) Group 1 has 7 elements.
+(ii) গ্রুপ 2 এ 6টি মৌল রয়েছে।
+Translation: (ii) Group 2 has 6 elements.
+(iii) গ্রুপ 3 এ 32টি মৌল রয়েছে।
+Translation: (iii) Group 3 has 32 elements.
+(iv) গ্রুপ 4 থেকে গ্রুপ 12 পর্যন্ত প্রত্যেকটি গ্রুপে 4টি করে মৌল রয়েছে।
+Translation: (iv) Each group from Group 4 to Group 12 has 4 elements.
+(v) গ্রুপ 13 থেকে গ্রুপ 17 পর্যন্ত প্রত্যেকটিতে 6টি করে মৌল রয়েছে।
+Translation: (v) Each group from Group 13 to Group 17 has 6 elements.
+(vi) গ্রুপ 18 এ 7টি মৌল রয়েছে।
+Translation: (vi) Group 18 has 7 elements.
+
+যে সকল মৌলের পারমাণবিক সংখ্যা 57 থেকে 71 পর্যন্ত এরকম 15টি মৌলকে ল্যান্থানাইড সারির মৌল বলা হয়।
+Translation: The 15 elements with atomic numbers from 57 to 71 are called the lanthanide series elements.
+
+যে সকল মৌলের পারমাণবিক সংখ্যা 89 থেকে 103 পর্যন্ত এরকম 15টি মৌলকে অ্যাকটিনাইড সারির মৌল বলা হয়।
+Translation: The 15 elements with atomic numbers from 89 to 103 are called the actinide series elements.
+
+ল্যান্থানাইড সারির মৌলগুলোর ধর্ম এত কাছাকাছি এবং অ্যাকটিনাইড সারির মৌলসমূহের ধর্ম এত কাছাকাছি যে তাদেরকে পর্যায় সারণির নিচে ল্যান্থানাইড সারির মৌল এবং অ্যাকটিনাইড সারির মৌল হিসেবে আলাদাভাবে রাখা হয়েছে।
+Translation: The properties of the lanthanide series elements are so similar and the properties of the actinide series elements are also so similar that they are placed separately at the bottom of the periodic table as the lanthanide series and the actinide series elements.
+
+যদি মৌলগুলোর ধর্মের ভিত্তিতে বিবেচনা করা হয় তাহলে নিচের বৈশিষ্ট্যগুলো লক্ষ করা যায়:
+Translation: If the elements are considered based on their properties, the following characteristics can be observed:
+
+1. একই পর্যায়ের বাম থেকে ডানের দিকে গেলে মৌলসমূহের ধর্ম ক্রমান্বয়ে পরিবর্তিত হয়।
+Translation: 1.  The properties of the elements change gradually from left to right in the same period.
+
+2. একই গ্রুপের মৌলগুলোর ভৌত এবং রাসায়নিক ধর্ম প্রায় একই রকমের হয়।
+Translation: 2. The physical and chemical properties of elements in the same group are almost the same.
+
+---
+ফর্মা নং-৯, রসায়ন- ৯ম-১০ম শ্রেণি
+Form No-9, Chemistry - Class 9-10
+
+
+CHAPTER TITLE: ইলেকট্রন বিন্যাস থেকে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয় / Determination of the Position of Elements in the Periodic Table from Their Electronic Configuration
+CHAPTER NUMBER: 4.3
+PAGE NUMBER: 66
+MAIN TOPICS: Determining element position in the periodic table, Electron configuration, Group and period numbers
+
+PERIOD NUMBER DETERMINATION
+কোনো মৌলের ইলেকট্রন বিন্যাসের সবচেয়ে বাইরের প্রধান শক্তিস্তরের নম্বরই ঐ মৌলের পর্যায় নম্বর। / The number of the outermost principal energy level in the electron configuration of an element is the period number of that element.
+
+Examples:
+Li(3) → 1s²2s¹। যেহেতু লিথিয়ামের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের শক্তিস্তর 2, তাই লিথিয়াম 2 নম্বর পর্যায়ের মৌল। / Li(3) → 1s²2s¹. Since the outermost energy level in the electron configuration of lithium is 2, lithium is an element of period 2.
+K(19) → 1s²2s²2p⁶3s²3p⁶4s¹। যেহেতু পটাশিয়ামের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের শক্তিস্তর 4, তাই পটাশিয়াম 4 নম্বর পর্যায়ের মৌল। / K(19) → 1s²2s²2p⁶3s²3p⁶4s¹. Since the outermost energy level in the electron configuration of potassium is 4, potassium is an element of period 4.
+
+GROUP NUMBER DETERMINATION
+কোনো মৌলের গ্রুপ নম্বর বের করার কয়েকটি নিয়ম আছে। / There are several rules for determining the group number of an element.
+
+RULE 1:
+কোনো মৌলের ইলেকট্রন বিন্যাসের বাইরের প্রধান শক্তিস্তরে যদি শুধু s অরবিটাল থাকে তবে ঐ s অরবিটালের মোট ইলেকট্রন সংখ্যাই ঐ মৌলের গ্রুপ নম্বর। / If only the s orbital is present in the outermost principal energy level of an element's electron configuration, then the total number of electrons in that s orbital is the group number of the element.
+Example:
+H(1) মৌলের ইলেকট্রন বিন্যাস 1s¹। এখানে s অরবিটালে 1টি ইলেকট্রন আছে। কাজেই হাইড্রোজেন এর গ্রুপ বা শ্রেণি নম্বর 1। / The electron configuration of hydrogen H(1) is 1s¹. There is 1 electron in the s orbital. Hence, the group number or class of hydrogen is 1.
+
+RULE 2:
+কোনো মৌলের ইলেকট্রন বিন্যাসের বাইরের প্রধান শক্তিস্তর যদি শুধু s ও p অরবিটাল থাকে তবে ঐ s ও p অরবিটালের মোট ইলেকট্রন সংখ্যার সাথে 10 যোগ করলে যে সংখ্যা পাওয়া যায় সেই সংখ্যাই ঐ মৌলের গ্রুপ নম্বর। / If only s and p orbitals are present in the outermost principal energy level of an element's electron configuration, then the sum of the total number of electrons in s and p orbitals plus 10 gives the group number of that element.
+Example:
+B(5) মৌলের ইলেকট্রন বিন্যাস 1s²2s²2p¹। এখানে বোরনের বাইরের শেলে s অরবিটালে 2টি ইলেকট্রন ও p অরবিটালে 1টি ইলেকট্রন আছে। কাজেই বোরনের গ্রুপ নম্বর 2 + 1 + 10 = 13 / The electron configuration of boron B(5) is 1s²2s²2p¹. There are 2 electrons in the s orbital and 1 electron in the p orbital of the outermost shell of boron. Hence, the group number of boron is 2 + 1 + 10 = 13.
+
+RULE 3:
+কোনো মৌলের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের প্রধান শক্তিস্তরে যদি s অরবিটাল থাকে এবং আগের প্রধান শক্তিস্তরে যদি d অরবিটাল থাকে তবে s অরবিটাল ও d অরবিটালের ইলেকট্রন সংখ্যা যোগ করলেই গ্রুপ নম্বর পাওয়া যায়। / If the outermost principal energy level of an element's electron configuration contains the s orbital and the principal energy level before that contains the d orbital, then the sum of the number of electrons in the s and d orbitals gives the group number.
+Example:
+Fe(26) মৌলের ইলেকট্রন বিন্যাস 1s²2s²2p⁶3s²3p⁶3d⁶4s²। এখানে আয়রন এর বাইরের শক্তিস্তরে s অরবিটাল আছে এবং তার আগের শক্তিস্তরে d অরবিটাল আছে। / The electron configuration of Fe(26) is 1s²2s²2p⁶3s²3p⁶3d⁶4s². Here, iron has an s orbital in the outermost energy level and a d orbital in the previous energy level.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER:  Not explicitly mentioned on this page.
+PAGE NUMBER: 67
+MAIN TOPICS: Electron configuration, Group numbers, Periodic Table
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+None on this page
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: d অরবিটাল / d orbital
+Bengali Definition: এখানে d অরবিটালে 6 টি এবং s অরবিটালে 2টি ইলেকট্রন আছে।
+English Translation: Here, there are 6 electrons in the d orbital and 2 electrons in the s orbital.
+Related Chemical Equations: None on this page
+Examples: Not mentioned on this page
+
+TERM OR PROPERTY NAME:  ইলেকট্রন বিন্যাস / Electron Configuration
+Bengali Definition:  মৌলের ইলেকট্রন বিন্যাস
+English Translation: Electron configuration of elements
+Related Chemical Equations: None on this page
+Examples: The table below provides several examples of electron configurations for different elements.
+
+TERM OR PROPERTY NAME: গ্রুপ নম্বর / Group number
+Bengali Definition: গ্রুপ বা শ্রেণি নম্বর
+English Translation: Group or class number
+Related Chemical Equations: None on this page
+Examples: The table below shows the group numbers for different elements.
+
+TABLE 4.01: মৌলের ইলেকট্রন বিন্যাস ও গ্রুপ নম্বর / Table 4.01: Electron configuration and group numbers of elements
+
+| মৌল / Element | মৌলের ইলেকট্রন বিন্যাস / Electron Configuration | পর্যায় নম্বর / Period Number | গ্রুপ বা শ্রেণি নম্বর / Group or Class Number |
+|---|---|---|---|
+| H(1)  | 1s¹                               | 1 | 1 (নিয়ম 1) / 1 (Rule 1)     |
+| He(2) | 1s²                               | 1 | 18 (ব্যতিক্রম) / 18 (Exception) |
+| Li(3) |                                   |   |   |
+| Be(4) |                                   |   |   |
+| B(5)  | 1s² 2s² 2p¹                       | 2 | 2 + 1 + 10 = 13 (নিয়ম 2) / 2+1+10=13 (Rule 2) |
+| C(6)  |                                   |   |   |
+| N(7)  | 1s² 2s² 2p³                       | 2 | 2 + 3 + 10 = 15 (নিয়ম 2) / 2+3+10=15 (Rule 2) |
+| O(8)  | 1s² 2s² 2p⁴                       | 2 | 2 + 4 + 10 = 16 (নিয়ম 2) / 2+4+10=16 (Rule 2) |
+| F(9)  | 1s² 2s² 2p⁵                       | 2 | 2 + 5 + 10 = 17 (নিয়ম 2) / 2+5+10=17 (Rule 2) |
+| Ne(10)| 1s² 2s² 2p⁶                       | 2 | 2 + 6 + 10 = 18 (নিয়ম 2) / 2+6+10=18 (Rule 2) |
+| Na(11)|                                   |   |   |
+| Mg(12)| 1s² 2s² 2p⁶ 3s²                    | 3 | 2 (নিয়ম 1) / 2 (Rule 1)     |
+| Al(13)|                                   |   |   |
+| Si(14)| 1s² 2s² 2p⁶ 3s² 3p²                | 3 | 2 + 2 + 10 = 14 (নিয়ম 2) / 2+2+10=14 (Rule 2) |
+| P(15) | 1s² 2s² 2p⁶ 3s² 3p³                | 3 | 2 + 3 + 10 = 15 (নিয়ম 2) / 2+3+10=15 (Rule 2) |
+| S(16) |                                   |   |   |
+| Cl(17)| 1s² 2s² 2p⁶ 3s² 3p⁵                | 3 | 2 + 5 + 10 = 17 (নিয়ম 2) / 2+5+10=17 (Rule 2) |
+| Ar(18)| 1s² 2s² 2p⁶ 3s² 3p⁶                | 3 | 2 + 6 + 10 = 18 (নিয়ম 2) / 2+6+10=18 (Rule 2) |
+| K(19) | 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹           | 4 | 1 (নিয়ম 1) / 1 (Rule 1)     |
+| Ca(20)| 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²           | 4 | 2 (নিয়ম 1) / 2 (Rule 1)     |
+| Sc(21)|                                   |   |   |
+| Ti(22)| 1s² 2s² 2p⁶ 3s² 3p⁶ 3d² 4s²       | 4 | 2 + 2 = 4 (নিয়ম 3) / 2+2=4 (Rule 3)   |
+| V(23) | 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s²       | 4 | 2 + 3 = 5 (নিয়ম 3) / 2+3=5 (Rule 3)   |
+
+SAFETY INFORMATION:
+None on this page
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified on the page
+PAGE NUMBER: 68
+MAIN TOPICS: Electronic Configuration, Periodic Table, Group and Period
+
+CHEMICAL EQUATIONS:
+None present on this page.
+
+EXPERIMENTAL PROCEDURES:
+None present on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None present on this page.
+
+QUESTIONS AND PROBLEMS:
+Question 1
+শিক্ষার্থীর কাজ: উপরের ছকে পারমাণবিক সংখ্যা 3, 4, 6, 11, 13, 16, 21, 26 বিশিষ্ট মৌলের ইলেকট্রন বিন্যাস লেখো এবং ইলেকট্রন বিন্যাস থেকে পর্যায় সারণিতে সেগুলোর অবস্থান নির্ণয় করো।
+Translation: Student Task: Write the electronic configurations of elements with atomic numbers 3, 4, 6, 11, 13, 16, 21, and 26 in the above table and determine their positions in the periodic table from their electronic configurations.
+Type: Analytical
+Chemical Components: Li, Be, C, Na, Al, S, Sc, Fe
+Key Concept: Electronic Configuration and Periodic Table placement.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME
+Electronic Configuration (ইলেকট্রন বিন্যাস)
+Bengali Definition: ইলেকট্রন বিন্যাসের মাধ্যমে কোনো মৌল কত নম্বর পর্যায় এবং কত নম্বর গ্রুপে অবস্থান করে তা বের করা যায়। আবার, যে সকল মৌলের বাইরের প্রধান শক্তিস্তরের ইলেকট্রন বিন্যাস একই রকম সে সকল মৌল একই গ্রুপে অবস্থান করে। অপরদিকে যে সকল মৌলের বাইরের প্রধান শক্তিস্তরের ইলেকট্রন বিন্যাস ভিন্ন রকম সে সকল মৌল ভিন্ন গ্রুপে অবস্থান করে।
+English Translation: Through electronic configuration, it can be determined in which period and group an element is located. Elements with similar electron configurations in their outermost shell are placed in the same group. Conversely, elements with different electron configurations in their outermost shell are placed in different groups.
+Related Chemical Equations: None explicitly given but refers to the examples provided in the table
+Examples: The electronic configurations of various elements like H, He, Li, Be, Na, Mg, K and Ca are given in the table below.
+
+TABLE 4.02: ELEMENT AND ELECTRONIC CONFIGURATION
+
+GROUP-1
+
+MOL (Element)
+ELECTRON BINYAS (Electronic Configuration)
+H(1)
+1s¹
+Li(3)
+1s²2s¹
+Na(11)
+1s²2s²2p⁶3s¹
+K(19)
+1s²2s²2p⁶3s²3p⁶4s¹
+
+GROUP-2
+
+MOL (Element)
+ELECTRON BINYAS (Electronic Configuration)
+He(2)
+1s²
+Be(4)
+1s²2s²
+Mg(12)
+1s²2s²2p⁶3s²
+Ca(20)
+1s²2s²2p⁶3s²3p⁶4s²
+
+The table also has the following:
+
+Cr(24)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+4
+1+5=6 (Rule 3)
+
+Mn(25)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s²
+4
+2+5=7 (Rule 3)
+
+Fe(26)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²
+4
+2+6=8 (Rule 3)
+
+Co(27)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁷ 4s²
+4
+2+7=9 (Rule 3)
+
+Ni(28)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s²
+4
+2+8= 10 (Rule 3)
+
+Cu(29)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹
+4
+1+10= 11 (Rule 3)
+
+Zn (30)
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s²
+4
+2+10= 12 (Rule 3)
+
+SAFETY INFORMATION:
+None present on this page.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 69
+MAIN TOPICS: Ion formation, Electron Configuration, Periodic Table exceptions
+
+CHEMICAL EQUATIONS:
+Na (1s²2s²2p⁶3s¹) → Na⁺ (1s²2s²2p⁶) + e⁻
+Cl (1s²2s²2p⁶3s²3p⁵) + e⁻ → Cl⁻ (1s²2s²2p⁶3s²3p⁶)
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: Ion Formation (Cation)
+Bengali Definition: যে সকল মৌলের ইলেকট্রন বিন্যাসে বাইরের শক্তিস্তরে মোট ইলেকট্রন সংখ্যা 1টি সে সকল মৌল সাধারণত ইলেকট্রন দান করে ধনাত্মক আয়নে পরিণত হওয়ার প্রবণতা দেখায়।
+English Translation: Elements with 1 electron in their outermost shell tend to donate that electron and form a positive ion.
+Related Chemical Equations: Na (1s²2s²2p⁶3s¹) → Na⁺ (1s²2s²2p⁶) + e⁻
+Examples: Sodium (Na)
+
+TERM OR PROPERTY NAME: Ion Formation (Anion)
+Bengali Definition: আবার যে সকল মৌলের ইলেকট্রন বিন্যাসে বাইরের শক্তিস্তরে মোট ইলেকট্রন সংখ্যা 7টি সে সকল মৌল সাধারণত 1টি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হবার প্রবণতা দেখায়।
+English Translation: Elements with 7 electrons in their outermost shell tend to accept one electron to form negative ions.
+Related Chemical Equations: Cl (1s²2s²2p⁶3s²3p⁵) + e⁻ → Cl⁻ (1s²2s²2p⁶3s²3p⁶)
+Examples: Chlorine (Cl)
+
+TERM OR PROPERTY NAME: Electron Configuration and Periodic Table
+Bengali Definition: অতএব ইলেকট্রন বিন্যাসের মাধ্যমে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয় ও মৌলসমূহের অনেক ধর্ম ব্যাখ্যা করা যায়। এজন্য ইলেকট্রন বিন্যাসকেই পর্যায় সারণির মূল ভিত্তি হিসেবে বিবেচনা করা হয়।
+English Translation: Therefore, electron configurations are used to determine the position of elements in the periodic table and explain many of their properties.  Electron configuration is thus considered the basis of the periodic table.
+
+TERM OR PROPERTY NAME:  Exceptions in the Periodic Table
+Bengali Definition: 4.5 পর্যায় সারণির কিছু ব্যতিক্রম (Some Exceptions in the Periodic Table)
+English Translation: 4.5 Some Exceptions in the Periodic Table
+
+TERM OR PROPERTY NAME: Hydrogen's Position
+Bengali Definition: (a) হাইড্রোজেনের অবস্থান: হাইড্রোজেন একটি অধাতু। কিন্তু পর্যায় সারণিতে হাইড্রোজেনকে তীব্র তড়িৎ ধনাত্মক ক্ষার ধাতু Na, K, Rb, Cs, Fr এর সাথে গ্রুপ-1 এ স্থান দেওয়া হয়েছে। এর কারণ ক্ষার ধাতুর মতো H এর বাইরের প্রধান শক্তিস্তরে একটিমাত্র ইলেকট্রন রয়েছে। আবার, হাইড্রোজেনের অনেক ধর্ম ক্ষার ধাতুগুলোর ধর্মের সাথে মিলে যায়। অন্যদিকে, হ্যালোজেন মৌল (F, Cl, Br, I) এর একটি পরমাণু যেমন একটি ইলেকট্রন গ্রহণ করতে পারে, হাইড্রোজেনও তেমনি একটি ইলেকট্রন গ্রহণ করতে পারে অর্থাৎ H এর অনেক ধর্ম হ্যালোজেন মৌলের ধর্মের সাথেও মিলে যায়। তবে হাইড্রোজেনের বেশির ভাগ ধর্ম ক্ষার ধাতুসমূহের ধর্মের সাথে মিলে যাওয়ায় একে ক্ষার ধাতুর সাথে গ্রুপ 1 এ স্থান দেওয়া হয়েছে।
+English Translation: (a) Position of Hydrogen: Hydrogen is a non-metal. However, in the periodic table, hydrogen is placed in group 1 with the highly electropositive alkali metals Na, K, Rb, Cs, and Fr. This is because, like alkali metals, H has only one electron in its outermost shell. Many properties of hydrogen are similar to those of alkali metals. On the other hand, halogens (F, Cl, Br, I) can accept one electron, and so can hydrogen. Thus, many properties of H match those of halogens. However, since most of Hydrogen’s properties match those of the alkali metals it is placed in Group 1 with them.
+
+TERM OR PROPERTY NAME: Helium's Position
+Bengali Definition: (b) হিলিয়ামের অবস্থান: হিলিয়ামের ইলেকট্রন বিন্যাস He(2)→ 1s²। হিলিয়ামের ইলেকট্রন বিন্যাস অনুসারে একে গ্রুপ-2 এ স্থান দেওয়া উচিত ছিল। কিন্তু গ্রুপ-2 এর মৌলসমূহ তীব্র তড়িৎ ধনাত্মক। এদের মৃৎক্ষার ধাতু বলে। অপরদিকে He একটি নিষ্ক্রিয় গ্যাস। এর ধর্ম অন্যান্য নিষ্ক্রিয় গ্যাস নিয়ন,
+English Translation: (b) Position of Helium: The electron configuration of Helium is He(2) → 1s². According to its electron configuration, it should be in group-2. But group-2 elements are highly electropositive, called alkaline earth metals. Conversely, He is an inert gas. Its properties are similar to those of other noble gases, like Neon.
+
+
+CHAPTER TITLE:  মৌলের পর্যায়বৃত্ত ধর্ম / Periodic Properties of Elements
+CHAPTER NUMBER: 4
+PAGE NUMBER: 70
+MAIN TOPICS:  Periodic Trends, Metallic Properties, Non-metallic Properties
+
+(c) ল্যান্থানাইড সারির এবং অ্যাকটিনাইড সারির মৌলগুলোর অবস্থান: পর্যায় সারণিতে ল্যান্থানাইড সারির মৌলগুলো 6 নম্বর পর্যায় ও ও নম্বর গ্রুপে অবস্থিত এবং অ্যাকটিনাইড সারির মৌলগুলো 7 নম্বর পর্যায় ও ও নম্বর গ্রুপে অবস্থিত। / (c) Location of Lanthanide and Actinide Series Elements: In the periodic table, the lanthanide series elements are located in the 6th period and the 3rd group, and the actinide series elements are located in the 7th period and the 3rd group.
+এই অবস্থানগুলোতে ল্যান্থানাইড সারির এবং অ্যাকটিনাইড সারির মৌলগুলোকে বসালে পর্যায় সারণির সৌন্দর্য নষ্ট হয়। / Placing the lanthanide and actinide series elements in these positions would disrupt the beauty of the periodic table.
+কাজেই পর্যায় সারণিকে সুন্দরভাবে দেখানোর জন্য ল্যান্থানাইড সারির এবং অ্যাকটিনাইড সারির মৌলগুলোকে পর্যায় সারণির নিচে আলাদাভাবে রাখা হয়েছে। / Therefore, to showcase the periodic table beautifully, the lanthanide and actinide series elements are kept separately at the bottom of the periodic table.
+
+4.6 মৌলের পর্যায়বৃত্ত ধর্ম (Periodic Properties of Elements)
+পর্যায় সারণিতে অবস্থিত মৌলগুলোর কিছু ধর্ম আছে, যেমন-ধাতব ধর্ম, অধাতব ধর্ম, পরমাণুর আকার, আয়নিকরণ শক্তি, তড়িৎ ঋণাত্মকতা ইলেকট্রন আসক্তি ইত্যাদি। / There are several properties of elements located in the periodic table, such as metallic character, non-metallic character, atomic size, ionization energy, electronegativity, electron affinity, etc.
+এসব ধর্মকে পর্যায়বৃত্ত ধর্ম বলে। / These properties are called periodic properties.
+
+(a) ধাতব ধর্ম (Metallic Properties): যে সকল মৌল চকচকে, আঘাত করলে ধাতব শব্দ করে এবং তাপ ও বিদ্যুৎ পরিবাহী তাদেরকে আমরা ধাতু বলে থাকি। / (a) Metallic Properties: We call elements that are shiny, produce a metallic sound when struck, and are conductors of heat and electricity as metals.
+আধুনিক সংজ্ঞা অনুযায়ী যে সকল মৌল এক বা একাধিক ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হয় তাদেরকে ধাতু বলে। / According to the modern definition, metals are those elements that form positive ions by losing one or more electrons.
+ধাতুর ইলেকট্রন ত্যাগের এই ধর্মকে ধাতব ধর্ম বলে। / This property of metals to lose electrons is called metallic property.
+যে মৌলের পরমাণু যত সহজে ইলেকট্রন ত্যাগ করতে পারবে সেই মৌলের ধাতব ধর্ম তত বেশি। / The easier an atom can lose electrons, the stronger its metallic property.
+যেমন- লিথিয়াম (Li) একটি ধাতু কারণ Li একটি ইলেকট্রন ত্যাগ করে Li^+ এ পরিণত হয়। / For example, Lithium (Li) is a metal because Li loses one electron to become Li^+.
+
+Li → Li^+ + e^-
+
+পর্যায় সারণিতে যেকোনো পর্যায়ের বাম থেকে ডানে গেলে ধাতব ধর্ম হ্রাস পায়। / Metallic properties decrease from left to right across any period in the periodic table.
+
+(b) অধাতব ধর্ম (Non-metallic Properties): যে সকল মৌল চকচকে নয়, আঘাত করলে ধাতব শব্দ করে না এবং তাপ ও বিদ্যুৎ পরিবাহী নয় তাদেরকে আমরা অধাতু বলে থাকি। / (b) Non-metallic Properties: Non-metals are elements that are not shiny, do not produce a metallic sound when struck, and are not conductors of heat and electricity.
+আধুনিক সংজ্ঞা অনুযায়ী যে সকল মৌল এক বা একাধিক ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হয় তাদেরকে অধাতু বলে। / According to modern definitions, non-metals are those elements that gain one or more electrons to become negative ions.
+অধাতুর ইলেকট্রন গ্রহণের এই ধর্মকে অধাতব ধর্ম বলে। / This property of non-metals to gain electrons is called non-metallic property.
+যে মৌলের পরমাণু যত সহজে ইলেকট্রন গ্রহণ করতে পারবে সেই মৌলের অধাতব ধর্ম তত বেশি। / The easier an atom can gain electrons, the stronger its non-metallic property.
+যেমন- ক্লোরিন (Cl) একটি অধাতু কারণ Cl একটি ইলেকট্রন গ্রহণ করে Cl^- এ পরিণত হয়। / For example, Chlorine (Cl) is a non-metal because Cl gains one electron to become Cl^-.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified in the provided text.
+PAGE NUMBER: ৭১ / 71
+MAIN TOPICS: Periodic Trends, Atomic Size, Semi-metals
+
+CHEMICAL EQUATIONS:
+Cl + e⁻ → Cl⁻
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+অর্ধধাতু / Semi-metal:
+Bengali Definition: যে সকল মৌল কোনো কোনো সময় ধাতুর মতো আচরণ করে এবং কোনো কোনো সময় অধাতুর মতো আচরণ করে তাদেরকে অর্ধধাতু বা অপধাতু বলা হয়।
+English Translation: Elements that sometimes behave like metals and sometimes like nonmetals are called semi-metals or metalloids.
+Related Chemical Equations: Not applicable.
+Examples: সিলিকন (Si) / Silicon (Si)
+
+অপধাতু / Metalloid:
+Bengali Definition:  যে সকল মৌল কোনো কোনো সময় ইলেকট্রন ত্যাগ করে এবং কোনো কোনো সময় ইলেকট্রন গ্রহণ করে তাদেরকে অপধাতু বলে।
+English Translation: Elements that sometimes lose electrons and sometimes gain electrons are called metalloids.
+Related Chemical Equations: Not applicable.
+Examples: সিলিকন (Si) / Silicon (Si)
+
+পরমাণুর আকার/পারমাণবিক ব্যাসার্ধ / Size of Atom/Atomic Radius:
+Bengali Definition: পরমাণুর আকার তথা পারমাণবিক ব্যাসার্ধ একটি পর্যায়বৃত্ত ধর্ম।
+English Translation: The size of an atom or the atomic radius is a periodic property.
+Related Chemical Equations: Not applicable.
+Examples: Not applicable.
+
+DIAGRAMS AND ILLUSTRATIONS:
+DIAGRAM TITLE: পরমাণুর আকারের পর্যায়বৃত্ত ধর্ম / Periodic Property of Atomic Size
+Description: The diagram shows a series of circles representing atoms, with variations in size arranged to demonstrate the periodic trends in atomic radius. The text above and below describes these trends: atomic size decreases from left to right across a period, and increases from top to bottom within a group.
+Components: Series of colored circles with varied sizes.
+Chemical Labels: None
+Safety Notes: None.
+Purpose: Illustrates the periodic trend of atomic size variation across periods and groups in the periodic table.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+পর্যায়বৃত্ত ধর্ম / Periodic Property:
+Bengali Definition: পরমাণুর আকার তথা পারমাণবিক ব্যাসার্ধ একটি পর্যায়বৃত্ত ধর্ম।
+English Translation: Atomic size and atomic radius are periodic properties.
+Related Chemical Equations: Not applicable.
+Examples: Not applicable
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+পর্যায় সারণিতে অধাতব ধর্ম / Non-metallic properties in the periodic table:
+Bengali Definition: পর্যায় সারণিতে যেকোনো পর্যায়ের বাম থেকে ডানে গেলে অধাতব ধর্ম বৃদ্ধি পায়।
+English Translation: In the periodic table, the non-metallic property increases when going from left to right in any period.
+Related Chemical Equations: Not applicable.
+Examples: Not applicable
+
+TEXT SUMMARY:
+The text describes the periodic trends in the properties of elements.
+- The non-metallic character increases as one moves from left to right across any period.
+- Semi-metals or metalloids are elements that exhibit both metallic and non-metallic properties and can either lose or gain electrons.
+- Atomic size decreases from left to right across a period due to the increased nuclear charge pulling the electrons closer.
+- Atomic size increases from top to bottom within a group because new energy levels are added.
+- The diagram visually demonstrates the change in atomic size across a period (decreasing) and down a group (increasing).
+
+SAFETY INFORMATION:
+No specific safety information on this page.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: 4
+PAGE NUMBER: 72
+MAIN TOPICS: Ionization Energy, Electron Affinity
+
+IONIZATION ENERGY
+Bengali Definition: গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল গ্যাসীয় পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ করে এক মোল ধনাত্মক আয়নে পরিণত করতে যে শক্তির প্রয়োজন হয়, তাকে ঐ মৌলের আয়নিকরণ শক্তি বলে।
+English Translation: The energy required to remove one mole of electrons from one mole of gaseous atoms of an element to form one mole of positive ions is called the ionization energy of that element.
+Related Chemical Equations: Not directly provided here, but conceptually represented as  Li → Li+ + e-
+Examples:
+   - The text indicates that among Na, Mg, Al, and Si,  Si has the highest ionization energy because it has the smallest atomic radius.
+   - The text indicates that among the Group-1 elements Li, Na, K, Rb, Cs and Fr, Li has the highest ionization energy because it has the smallest atomic radius.
+   - The text indicates that among the Group-17 elements F, Cl, Br, I and At, F has the highest ionization energy because it has the smallest atomic radius.
+
+ELECTRON AFFINITY
+Bengali Definition: গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল গ্যাসীয় পরমাণুতে এক মোল ইলেকট্রন প্রবেশ করিয়ে এক মোল ঋণাত্মক আয়নে পরিণত করতে যে শক্তি নির্গত হয়, তাকে ঐ মৌলের ইলেকট্রন আসক্তি বলে।
+English Translation: The energy released when one mole of electrons is added to one mole of gaseous atoms of an element to form one mole of negative ions is called the electron affinity of that element.
+
+Related Chemical Equations: Not directly provided here, but conceptually represented as  X + e- → X-
+Examples: Not provided directly in this text.
+
+DIAGRAM TITLE: মৌলের আয়নিকরণ / Ionization of Elements
+Description: The diagram depicts a lithium atom (Li) losing one electron to become a lithium ion (Li+). The left-side image shows a neutral Li atom with 3 electrons, while the right-side image shows a Li+ ion with 2 electrons. The arrow indicates the removal of one electron.
+Components:
+    - Li atom
+    - Li+ ion
+    - Electrons
+    - Arrow indicating electron removal
+Chemical Labels: Li, Li+
+Safety Notes: No safety notes are specifically mentioned here.
+Purpose: To illustrate the process of ionization, where an atom loses an electron.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+-   PERIODIC TRENDS:
+    Bengali Definition: একই পর্যায়ের বামের মৌলের পারমাণবিক ব্যাসার্ধ বেশি এবং ডানের মৌলের পারমাণবিক ব্যাসার্ধ কম। পারমাণবিক ব্যাসার্ধ কমলে আয়নিকরণ শক্তির মান বাড়ে এবং পারমাণবিক ব্যাসার্ধ বাড়লে আয়নিকরণ শক্তির মান কমে।
+    English Translation: Within the same period, the atomic radius of elements on the left is larger, and the atomic radius of elements on the right is smaller. As atomic radius decreases, ionization energy increases and as atomic radius increases, ionization energy decreases.
+
+    Bengali Definition: একই পর্যায়ের বামের মৌলের পারমাণবিক ব্যাসার্ধ বেশি এবং ডানের মৌলের পারমাণবিক ব্যাসার্ধ কম। পারমাণবিক ব্যাসার্ধ কমলে ইলেকট্রন আসক্তির মান বাড়ে এবং পারমাণবিক ব্যাসার্ধ বাড়লে ইলেকট্রন আসক্তির মান কমে।
+    English Translation: Within the same period, the atomic radius of elements on the left is larger, and the atomic radius of elements on the right is smaller. As atomic radius decreases, electron affinity increases and as atomic radius increases, electron affinity decreases.
+
+---
+
+CHAPTER TITLE: পর্যায় সারণি / The Periodic Table
+CHAPTER NUMBER: Not explicitly mentioned
+PAGE NUMBER: 73
+MAIN TOPICS: Electron Affinity, Electronegativity, Special Names of Elements
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+TERM OR PROPERTY NAME: ইলেকট্রন আসক্তি (Electron Affinity)
+Bengali Definition: Not explicitly defined on this page but implied as related to atomic size.
+English Translation: Electron Affinity (implied as the ability of an atom to gain an electron).
+Related Chemical Equations: None present on this page.
+
+TERM OR PROPERTY NAME: তড়িৎ ঋণাত্মকতা (Electronegativity)
+Bengali Definition: দুটি পরমাণু যখন সমযোজী বন্ধনে আবদ্ধ হয়ে অণুতে পরিণত হয় তখন অণুর পরমাণুগুলো বন্ধনের ইলেকট্রন দুটিকে নিজের দিকে আকর্ষণ করে। এই আকর্ষণকে তড়িৎ ঋণাত্মকতা বলা হয়।
+English Translation: When two atoms form a covalent bond and become a molecule, the atoms in the molecule attract the bonding electrons towards themselves. This attraction is called electronegativity.
+Related Chemical Equations: None present on this page.
+
+QUESTIONS AND PROBLEMS:
+Question 1
+সমস্যা: Be, Ca, Sr, Ba, Mg এবং Ra মৌলগুলোর মধ্যে কোনোটির ইলেকট্রন আসক্তি বেশি এবং কোনোটির ইলেকট্রন আসক্তি কম।
+Translation: Problem: Among the elements Be, Ca, Sr, Ba, Mg, and Ra, which has the highest electron affinity and which has the lowest electron affinity?
+Type: Analytical
+Chemical Components: Be, Ca, Sr, Ba, Mg, Ra
+Key Concept: Electron Affinity
+
+Question 2
+সমস্যা: Na, Mg, Al, Si এর মধ্যে কার ইলেকট্রন আসক্তি বেশি বা কার ইলেকট্রন আসক্তির মান কম?
+Translation: Problem: Among the elements Na, Mg, Al, and Si, which has the highest electron affinity and which has the lowest electron affinity?
+Type: Analytical
+Chemical Components: Na, Mg, Al, Si
+Key Concept: Electron Affinity
+
+SOLUTIONS TO PROBLEMS:
+
+SOLUTION 1
+সমাধান: Be, Ca, Sr, Ba, Mg এবং Ra মৌলগুলো পর্যায় সারণির ২ নং গ্রুপ-এর মৌল। এই মৌলগুলোর মধ্যে Be এর পারমাণবিক ব্যাসার্ধের মান সবচেয়ে কম, এর জন্য Be এর ইলেকট্রন আসক্তির মান সবচেয়ে বেশি। আবার Ra এর পারমাণবিক ব্যাসার্ধের মান সবচেয়ে বেশি, এর জন্য Ra ইলেকট্রন আসক্তি সবচেয়ে কম।
+Translation: Solution: The elements Be, Ca, Sr, Ba, Mg and Ra are group 2 elements of the periodic table. Among these elements, Be has the smallest atomic radius, therefore Be has the highest electron affinity. Again, Ra has the largest atomic radius, therefore Ra has the lowest electron affinity.
+
+SOLUTION 2
+সমাধান: Na, Mg, Al, Si এর মৌলগুলো পর্যায় সারণির ও নং পর্যায়ের মৌল। এই মৌলগুলোর মধ্যে Na-এর পারমাণবিক ব্যাসার্ধের মান সবচেয়ে বেশি এজন্য সোডিয়াম এর ইলেকট্রন আসক্তির মান সবচেয়ে কম। আবার, Si এর পারমাণবিক ব্যাসার্ধের মান সবচেয়ে কম সেজন্য এর ইলেকট্রন আসক্তির মান সবচেয়ে বেশি।
+Translation: Solution: The elements Na, Mg, Al and Si belong to the 3rd period of the periodic table. Among these elements, Na has the largest atomic radius, thus sodium has the lowest electron affinity. Again, Si has the smallest atomic radius, therefore Si has the highest electron affinity.
+
+ADDITIONAL TEXTUAL CONTENT:
+
+(f) তড়িৎ ঋণাত্মকতা (Electronegativity): দুটি পরমাণু যখন সমযোজী বন্ধনে আবদ্ধ হয়ে অণুতে পরিণত হয় তখন অণুর পরমাণুগুলো বন্ধনের ইলেকট্রন দুটিকে নিজের দিকে আকর্ষণ করে। এই আকর্ষণকে তড়িৎ ঋণাত্মকতা বলা হয়। তড়িৎ ঋণাত্মকতা একটি পর্যায়বৃত্ত ধর্ম। একই পর্যায়ের বামের মৌলের পারমাণবিক ব্যাসার্ধ বেশি এবং ডানের মৌলের পারমাণবিক ব্যাসার্ধ কম। পারমাণবিক ব্যাসার্ধ কমলে তড়িৎ ঋণাত্মকতার মান বাড়ে এবং পারমাণবিক ব্যাসার্ধ বাড়লে তড়িৎ ঋণাত্মকতার মান কমে।
+Translation: (f) Electronegativity: When two atoms form a covalent bond and become a molecule, the atoms in the molecule attract the bonding electrons towards themselves. This attraction is called electronegativity. Electronegativity is a periodic property. In the same period, the atomic radius of the elements on the left is larger, and the atomic radius of the elements on the right is smaller. When the atomic radius decreases, the value of electronegativity increases, and when the atomic radius increases, the value of electronegativity decreases.
+
+যেমন- ও পর্যায়ে মৌলগুলোর মাঝে Na পরমাণুর তড়িৎ ঋণাত্মকতার মান সবচেয়ে কম এবং Cl এর তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি। সাধারণত কোনো মৌলের পরমাণুর আকার ছোট হলে তড়িৎ ঋণাত্মকতার মান বেশি হয় এবং কোনো মৌলের পরমাণুর আকার বড় হলে তড়িৎ ঋণাত্মকতার মান কম হয়।
+Translation: For example, among the elements of period 3, the electronegativity value of Na atom is the lowest and the electronegativity of Cl is the highest. Generally, if the size of an atom is small, the value of electronegativity is higher, and if the size of an atom is large, the value of electronegativity is lower.
+
+4.7 বিভিন্ন গ্রুপে উপস্থিত মৌলগুলোর বিশেষ নাম (The Special Names of Elements Present in Various Groups)
+মৌলসমূহের ভৌত ও রাসায়নিক ধর্মের উপর ভিত্তি করে বিভিন্ন সময়ে তাদের বিশেষ নাম দেওয়া হয়েছিল। আমরা ইতোমধ্যে ধাতু, অধাতু, অর্ধধাতু বা অপধাতুর কথা আলোচনা করেছি। এছাড়া রয়েছে:
+Translation: 4.7 The Special Names of Elements Present in Various Groups
+Based on the physical and chemical properties of the elements, they were given special names at different times. We have already discussed metals, non-metals, metalloids or semimetals. There are also:
+
+PAGE REFERENCE:
+ফর্মা নং-১০, রসায়ন- ৯ম-১০ম শ্রেণি
+Translation: Form No-10, Chemistry - Class 9-10
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 74
+MAIN TOPICS:  Classification of elements, Properties of metals, halogens, and noble gases
+
+ক্ষার ধাতু: পর্যায় সারণির 1 নং গ্রুপে 7টি মৌল আছে। এদের মধ্যে হাইড্রোজেন ছাড়া বাকি চটি মৌলকে (লিথিয়াম, সোডিয়াম, পটাশিয়াম, রুবিডিয়াম, সিজিয়াম এবং ফ্রানসিয়াম) ক্ষারধাতু বলে। এই ছয়টি মৌলের প্রত্যেকটি পানিতে দ্রবীভূত হয়ে হাইড্রোজেন গ্যাস এবং ক্ষার তৈরি করে বলে এদেরকে ক্ষারধাতু (Alkali Metals) বলা হয়।
+Translation:
+Alkali Metals: There are 7 elements in group 1 of the periodic table. Except for hydrogen, the remaining six elements (lithium, sodium, potassium, rubidium, cesium, and francium) are called alkali metals. Each of these six elements dissolves in water to produce hydrogen gas and a base, hence they are called alkali metals.
+
+মৃৎক্ষার ধাতু: পর্যায় সারণির 2 নং গ্রুপে বেরিলিয়াম, ম্যাগনেসিয়াম, ক্যালসিয়াম, স্ট্রনসিয়াম, বেরিয়াম এবং রেডিয়াম এই 6টি মৌল আছে। এই মৌলগুলোকে মৃৎক্ষার ধাতু বলে। এই ধাতুগুলোকে মাটিতে বিভিন্ন যৌগ হিসেবে পাওয়া যায়। আবার, এরা ক্ষার তৈরি করে। এজন্য সামগ্রিকভাবে এদের মৃৎক্ষার ধাতু (Alkaline Earth Metals) বলা হয়।
+Translation:
+Alkaline Earth Metals: There are 6 elements in group 2 of the periodic table: beryllium, magnesium, calcium, strontium, barium, and radium. These elements are called alkaline earth metals. These metals are found in the earth in various compounds. They also form bases. Therefore, they are collectively called alkaline earth metals.
+
+মুদ্রা ধাতু: গ্রুপ-11 এর 4টি মৌল হচ্ছে কপার, সিলভার, গোল্ড এবং রন্টজেনিয়াম। এই চারটি মৌলের মধ্যে প্রথম ৩টি মৌলকে মুদ্রা ধাতু (Coin Metals) বলা হয়, কারণ এই গ্রুপের সবচেয়ে নিচের মৌল রন্টজেনিয়াম (Rg) ছাড়া অন্য যে ৩টি মৌল আছে তা দিয়ে প্রাচীনকালে মুদ্রা তৈরি হতো এবং ব্যবসা-বাণিজ্য ও বিনিময়ের মাধ্যম হিসেবে ব্যবহার করা হতো।
+Translation:
+Coin Metals: Group-11 has 4 elements: copper, silver, gold, and roentgenium. The first three of these elements are called coin metals, because, except for roentgenium (Rg) the lowest element in this group, the other three elements were used to make coins in ancient times and were used as a medium of trade and exchange.
+
+হ্যালোজেন গ্রুপ: গ্রুপ-17 এর 6টি মৌলকে হ্যালোজেন (Halogen) বলা হয়। এই হ্যালোজেন গ্রুপের 6টি মৌল হচ্ছে: ফ্লোরিন (F), ক্লোরিন (Cl), ব্রোমিন (Br), আয়োডিন (I), অ্যাস্টাটিন (As) এবং টেনেসিন (Ts)। এসব হ্যালোজেন মৌলকে X দ্বারা প্রকাশ করা হয়। হ্যালোজেন মানে লবণ উৎপাদনকারী এবং এর মূল উৎস সামুদ্রিক লবণ। হ্যালোজেন মৌলগুলোর সাথে ধাতু যুক্ত হয়ে লবণ গঠিত হয়। যেমন- F এর সাথে Na যুক্ত হয়ে সোডিয়াম ফ্লোরাইড লবণ কিংবা Cl এর সাথে Na যুক্ত হয়ে সোডিয়াম ক্লোরাইড (NaCl) বা খাদ্যলবণ গঠিত হয়। এরা নিজেরাই নিজেদের মধ্যে ইলেকট্রন ভাগাভাগি করে দ্বিমৌল অণু তৈরি করে, যেমন- Cl2, I2 ইত্যাদি।
+Translation:
+Halogen Group: The 6 elements in group 17 are called halogens. These 6 elements are: fluorine (F), chlorine (Cl), bromine (Br), iodine (I), astatine (As), and tennessine (Ts). These halogen elements are represented by X. Halogen means salt-producing and its primary source is sea salt. Halogen elements combine with metals to form salts. For example, Na combines with F to form sodium fluoride, and Na combines with Cl to form sodium chloride (NaCl) or table salt. They themselves form diatomic molecules by sharing electrons, such as Cl2, I2, etc.
+
+নিষ্ক্রিয় গ্যাস: পর্যায় সারণির 18 নং গ্রুপের মৌলসমূহকে নিষ্ক্রিয় গ্যাস (Inert Gases) বলা হয়। মৌলগুলো হলো: হিলিয়াম (He), নিয়ন (Ne), আর্গন (Ar), ক্রিপ্টন (Kr), জেনন (Xe), রেডন (Rn) এবং ওগানেসন (Og)। এই মৌলগুলোর সবচেয়ে বাইরের শক্তিস্তরে প্রয়োজনীয় ইলেকট্রন দিয়ে পূর্ণ থাকে বলে এরা ইলেকট্রন বিনিময় বা ভাগাভাগি করে কোনো যৌগ গঠন করতে চায় না। রাসায়নিক বন্ধন গঠন বা রাসায়নিক বিক্রিয়ায় এরা নিষ্ক্রিয় থাকে বলে এদেরকে নিষ্ক্রিয় মৌল বা নিষ্ক্রিয় গ্যাস বলে। নিষ্ক্রিয় গ্যাসগুলো সাধারণ তাপমাত্রায় গ্যাস হিসেবে থাকে।
+Translation:
+Inert Gases: The elements of group 18 of the periodic table are called inert gases. The elements are: helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), radon (Rn), and oganesson (Og). The outermost energy level of these elements is filled with the required number of electrons, so they do not want to form any compounds by exchanging or sharing electrons. They remain inactive in chemical bonding or chemical reactions, so they are called inactive elements or inert gases. Inert gases exist as gases at room temperature.
+
+অবস্থান্তর মৌল: পর্যায় সারণির 3 নং গ্রুপ থেকে 12 নং গ্রুপের মৌলগুলোকে অবস্থান্তর মৌল বলে। অবস্থান্তর মৌলগুলো যে সকল যৌগ গঠন করে সে সকল যৌগ রঙিন হয়। অবস্থান্তর মৌল বিভিন্ন বিক্রিয়ার প্রভাবক হিসেবে কাজ করে। যেমন- 10 নং গ্রুপের মৌল নিকেল একটি অবস্থান্তর মৌল। নিকেল বিভিন্ন জৈব বিক্রিয়ার প্রভাবক হিসেবে কাজ করে।
+Translation:
+Transition Metals: Elements from group 3 to group 12 of the periodic table are called transition metals. The compounds formed by transition metals are colored. Transition metals act as catalysts in various reactions. For example, nickel, an element of group 10, is a transition metal. Nickel acts as a catalyst in different organic reactions.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER:  Not specified
+PAGE NUMBER: 75
+MAIN TOPICS: Properties of elements, Periodic table advantages
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+
+Question 1
+সমস্যা: Ca কে মৃৎক্ষার ধাতু বলা হয় কেন?
+Translation: Problem: Why is Ca called an alkaline earth metal?
+Type: Short answer
+Chemical Components: Ca, Ca(OH)2
+Key Concept: Alkaline earth metals
+
+Question 2
+সমাধান: Ca ধাতুর বিভিন্ন যৌগ মাটিতে পাওয়া যায়। আবার Ca ধাতুর হাইড্রোক্সাইড যৌগ Ca(OH)2 একটি ক্ষার। অতএব Ca একটি মৃৎক্ষারধাতু।
+Translation: Solution: Various compounds of Ca are found in the soil. Also, the hydroxide compound of Ca, Ca(OH)2 is a base. Therefore, Ca is an alkaline earth metal.
+Type: Explanation
+Chemical Components: Ca, Ca(OH)2
+Key Concept: Alkaline earth metals
+
+Question 3
+সমস্যা: He কেন নিষ্ক্রিয় গ্যাস? ব্যাখ্যা করো।
+Translation: Problem: Why is He an inert gas? Explain.
+Type: Short answer
+Chemical Components: He
+Key Concept: Inert gases
+
+Question 4
+সমাধান: He নিজেদের সাথে যুক্ত হয় না আবার অন্য মৌলের সাথেও যুক্ত হয় না। এজন্য হিলিয়াম নিষ্ক্রিয় মৌল। আবার হিলিয়াম মৌল গ্যাস হিসেবে অবস্থান করে। এজন্যই সামগ্রিকভাবে He কে নিষ্ক্রিয় গ্যাস বলা হয়।
+Translation: Solution: He does not bond with itself, nor with other elements. Therefore, helium is an inert element. Also, the helium element exists as a gas. Hence, He is collectively called an inert gas.
+Type: Explanation
+Chemical Components: He
+Key Concept: Inert gases
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+None on this page
+
+SAFETY INFORMATION:
+None on this page
+
+EXTRACTION NOTES:
+- Preserved Bengali text along with English translations
+- Chemical formulas are written as they appear in the text.
+- Main topics and key concepts are identified for each section.
+- Questions are clearly differentiated from solutions
+- Extracted the text within the different sections.
+- Included both the Bengali and English for each item.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 76
+MAIN TOPICS: Periodic Table, Chemical Properties of Group Elements, Reactions of Halogens
+
+CHEMICAL EQUATIONS:
+H2(g) + F2(g) → 2HF(g)
+H2(g) + Cl2(g) → 2HCl(g)
+H2(g) + Br2(g) → 2HBr(g)
+H2(g) + I2(g) → 2HI(g)
+HF(g) + H2O(l) → HF(aq)
+HCl(g) + H2O(l) → HCl(aq)
+HBr(g) + H2O(l) → HBr(aq)
+HI(g) + H2O(l) → HI(aq)
+
+EXPERIMENTAL PROCEDURES:
+(Note: There isn't a full detailed experiment, but the text describes observations that would be part of a reaction experiment)
+
+OBSERVATION OF REACTIONS BETWEEN HALOGENS AND HYDROGEN
+Purpose: To observe the reaction of halogens with hydrogen and the formation of hydrogen halides.
+Materials Required: Halogens (F2, Cl2, Br2, I2), Hydrogen gas, Water.
+Safety Precautions: Halogens are highly reactive and can be toxic. Handle with extreme care. Use appropriate safety equipment including gloves, goggles and a fume hood.
+Procedure:
+1. React each halogen individually with hydrogen gas.
+2. Observe the products of the reactions.
+3. Dissolve the resulting gaseous products in water.
+4. Observe any further change.
+Expected Observations:
+- Reaction between hydrogen and halogens will result in gaseous hydrogen halides (HF, HCl, HBr, HI).
+- Dissolving these gases in water will form hydrohalic acids.
+Key Learning Points:
+- Elements in the same group (e.g. halogens) have similar chemical properties.
+- Halogens react with hydrogen to form hydrogen halides.
+- Hydrogen halides dissolve in water to form hydrohalic acids.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+PERODIC TABLE GROUP PROPERTIES
+Bengali Definition: পর্যায় সারণির একই গ্রুপের মৌলগুলো একই রকম রাসায়নিক ধর্ম প্রদর্শন করে।
+English Translation: Elements in the same group of the periodic table show similar chemical properties.
+Related Chemical Equations: See above reactions.
+Examples: F2, Cl2, Br2, I2.
+
+HYDROHALIC ACIDS
+Bengali Definition: হাইড্রোহ্যালাইড এসিড যথা হাইড্রোফ্লোরিক এসিড [HF(aq)], হাইড্রোক্লোরিক এসিড [HCl(aq)], হাইড্রোব্রোমিক এসিড [HBr(aq)], হাইড্রোআয়োডিক এসিডে [HI(aq)]
+English Translation: Hydrohalide acids such as hydrofluoric acid [HF(aq)], hydrochloric acid [HCl(aq)], hydrobromic acid [HBr(aq)], hydroiodic acid [HI(aq)].
+Related Chemical Equations: See above reactions.
+Examples: HF(aq), HCl(aq), HBr(aq), HI(aq).
+
+REACTION WITH CARBONATES
+Bengali Definition: এই হাইড্রোহ্যালাইড এসিডসমূহ যেকোনো কার্বনেট লবণের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন করে। যেমন- ক্যালসিয়াম কার্বনেটের মধ্যে হাইড্রোফ্লোরিক এসিড যোগ করলেও কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন হয়।
+English Translation: These hydrohalide acids react with any carbonate salt to produce carbon dioxide gas. For example, adding hydrofluoric acid to calcium carbonate also produces carbon dioxide gas.
+Related Chemical Equations: Not specified, but implied as a reaction of acid with carbonate.
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Halogens are highly reactive and can be toxic.
+Required Precautions: Handle with extreme care, use appropriate safety equipment like gloves, goggles and a fume hood.
+Emergency Procedures: In case of contact, follow appropriate first aid procedures for exposure to corrosive materials.
+Protective Equipment: Gloves, goggles, fume hood.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 77
+MAIN TOPICS: Reactions of carbonates with acids, Properties of group 2 and 17 elements
+
+CHEMICAL EQUATIONS:
+CaCO3 + 2HF (aq) → CaF2 + H2O + CO2
+CaCO3 + 2HCl (aq) → CaCl2 + H2O + CO2
+MgCO3 + 2HCl → MgCl2 + H2O + CO2
+CaCO3 + 2HCl → CaCl2 + H2O + CO2
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: ক্যালসিয়াম কার্বনেটের সাথে লঘু হাইড্রোক্লোরিক এসিডের বিক্রিয়ায় উৎপন্ন কার্বন ডাই-অক্সাইড গ্যাস শনাক্তকরণ। / Identification of Carbon Dioxide Gas Produced by the Reaction of Calcium Carbonate with Dilute Hydrochloric Acid
+Purpose: To identify carbon dioxide gas produced by reacting calcium carbonate with dilute hydrochloric acid.
+Materials Required:
+    Apparatus:
+        1. একটি গোলতলী ফ্লাস্ক / A round-bottom flask
+        2. একটি থিসল ফানেল / A thistle funnel
+        3. দুইবার সমকোণে বাঁকানো একটি কাচের নির্গম নল / A glass delivery tube bent twice at right angles
+        4. কয়েকটি গ্যাসজার / A few gas jars
+        5. ছিদ্রযুক্ত ছিপি / A rubber stopper with a hole
+    Chemicals:
+        1. ক্যালসিয়াম কার্বনেট / Calcium carbonate
+        2. লঘু হাইড্রোক্লোরিক এসিড / Dilute hydrochloric acid
+        3. পানি / Water
+Safety Precautions: Handle acids with care, use gloves.
+Procedure:
+    1. Set up the apparatus as shown in the diagram. (Note: Diagram is not provided in the text, need a diagram for complete instructions).
+    2. Place calcium carbonate in the round bottom flask.
+    3. Pour dilute hydrochloric acid through the thistle funnel.
+    4. Collect the gas produced in the gas jar.
+    5. Test the gas with lime water. (Note: This step was not described, an assumption on the testing for CO2)
+Expected Observations: Effervescence (bubbling) will be seen in the flask. The gas collected will turn limewater milky, indicating CO2 is present.
+Key Learning Points: Reaction between metal carbonate and acid produces carbon dioxide gas, which can be confirmed by lime water test.
+
+DIAGRAMS AND ILLUSTRATIONS:
+(Note: There is no diagram provided in the text. To describe a diagram I would require image).
+
+QUESTIONS AND PROBLEMS:
+(No Questions or problems present on this page)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: গ্রুপ 17 এর মৌল / Group 17 Elements
+Bengali Definition: 17 নং গ্রুপের মৌল, F2, Cl2, Br2, I2 একই রকমের ধর্ম ও বিক্রিয়া প্রদর্শন করে।
+English Translation: Group 17 elements, F2, Cl2, Br2, I2 exhibit similar properties and reactions.
+
+TERM OR PROPERTY NAME: গ্রুপ 2 এর মৌল / Group 2 Elements
+Bengali Definition: 2 নং গ্রুপের মৌল Mg এবং Ca একই রকমের ধর্ম ও বিক্রিয়া প্রদর্শন করে।
+English Translation: Group 2 elements, Mg and Ca exhibit similar properties and reactions.
+
+SAFETY INFORMATION:
+There is no specific SAFETY ALERT or information on the page. The experimental procedure implies that acids should be handled with care.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 78
+MAIN TOPICS: Carbon Dioxide Preparation, Reaction of Calcium Carbonate with Hydrochloric Acid
+
+EXPERIMENTAL PROCEDURES
+EXPERIMENT TITLE: কার্বন ডাই-অক্সাইড প্রস্তুতকরণ / Carbon Dioxide Preparation
+Purpose: To prepare carbon dioxide gas in the laboratory.
+Materials Required:
+    - গোলতলী ফ্লাস্ক / Round-bottom flask
+    - ক্যালসিয়াম কার্বনেট / Calcium Carbonate
+    - থিসল ফানেল / Thistle funnel
+    - দুইবার সমকোণে বাঁকানো কাচনল / Bent glass tube (bent twice at right angles)
+    - নির্গম নল / Delivery tube
+    - গ্যাসজার / Gas jar
+    - পানি / Water
+    - হাইড্রোক্লোরিক এসিড / Hydrochloric acid
+Safety Precautions:
+    - Hydrochloric acid is corrosive; handle with care.
+    - Use appropriate glassware.
+Procedure:
+    1.  একটি গোলতলী ফ্লাস্কে ক্যালসিয়াম কার্বনেটের কিছু ছোট টুকরো নেওয়া হলো। / A few small pieces of calcium carbonate are placed in a round-bottom flask.
+    2. ছিপির সাহায্যে ফ্লাস্কের এক মুখ দিয়ে একটি থিসল ফানেল এবং অপর মুখ দিয়ে দুইবার সমকোণে বাঁকানো নির্গম নলের এক প্রান্ত প্রবেশ করানো হলো। / A thistle funnel is inserted into one opening of the flask with a stopper, and one end of the bent glass tube is inserted into the other opening.
+    3. থিসল ফানেলের মধ্য দিয়ে কিছু পরিমাণ পানি গোলতলী ফ্লাস্কে নেওয়া হলো যেন ক্যালসিয়াম কার্বনেট এবং থিসল ফানেলের নিম্নপ্রান্ত পানিতে ডুবে থাকে। /  A small amount of water is poured into the flask through the thistle funnel such that the calcium carbonate and the lower end of the thistle funnel are submerged in water.
+    4. নির্গম নলের অন্য প্রান্ত একটি গ্যাসজারে প্রবেশ করানো হলো। / The other end of the delivery tube is placed inside a gas jar.
+    5. এরপর থিসল ফানেলের ভিতর দিয়ে ধীরে ধীরে হাইড্রোক্লোরিক এসিড যোগ করা হলো। / Then, hydrochloric acid is added slowly through the thistle funnel.
+Expected Observations:
+    - বুদ্বুদ আকারে নির্গম নল দিয়ে গ্যাস বের হতে দেখা যায় / Bubbles are observed coming out of the delivery tube
+Key Learning Points:
+    - ক্যালসিয়াম কার্বনেট এবং হাইড্রোক্লোরিক এসিডের বিক্রিয়ায় কার্বন ডাই অক্সাইড গ্যাস তৈরি হয় / Carbon dioxide gas is produced by the reaction of calcium carbonate with hydrochloric acid.
+
+DIAGRAM TITLE: কার্বন ডাই-অক্সাইড প্রস্তুতকরণ / Carbon Dioxide Preparation
+Description: The diagram shows a setup for preparing carbon dioxide gas. A round-bottom flask contains calcium carbonate pieces and is connected to a thistle funnel and a bent glass tube. The delivery tube leads to a gas jar, where carbon dioxide gas is collected.
+Components:
+    - থিসল ফানেল / Thistle funnel
+    - দুইবার সমকোণে বাঁকানো কাচনল / Bent glass tube (bent twice at right angles)
+    - গ্যাসজার / Gas jar
+    - গোলতলী ফ্লাস্ক / Round-bottom flask
+    - নির্গম নল / Delivery tube
+Chemical Labels:
+    - CaCO3
+    - HCI
+    - CO2
+Safety Notes: Use appropriate personal protective equipment when handling chemicals.
+Purpose: The diagram demonstrates the process of producing and collecting carbon dioxide gas.
+
+CHEMICAL EQUATIONS
+CaCO3 + 2HCl → CaCl2 + H2O + CO2
+Reaction Condition: Room Temperature
+Catalyst: None Required
+
+SAFETY ALERT
+Hazard Description: Hydrochloric acid is corrosive.
+Required Precautions: Wear appropriate personal protective equipment, such as gloves and eye protection.
+Emergency Procedures: In case of contact with skin, wash with plenty of water. If ingested, seek medical attention.
+Protective Equipment: Gloves, safety goggles.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 95
+MAIN TOPICS: Properties of Carbon Dioxide, Chemical Reactions, Experimental Procedures
+
+CARBON DIOXIDE GAS PROPERTY TEST:
+1. উৎপন্ন কার্বন ডাই-অক্সাইড গ্যাসের বর্ণ লক্ষ করা হলো। কার্বন ডাই-অক্সাইডের কোনো বর্ণ দেখা গেল না।
+   Translation: Observation of the color of the produced carbon dioxide gas. No color was observed for carbon dioxide.
+
+2. গ্যাসজারের মুখে একটি জ্বলন্ত কাঠি ধরা হলো। কাঠিটির আগুন নিভে গেল। সিদ্ধান্ত নেওয়া হলো কার্বন ডাই-অক্সাইড গ্যাস আগুন নিভাতে সাহায্য করে।
+   Translation: A burning stick was held at the mouth of the gas jar. The fire on the stick went out. It was concluded that carbon dioxide gas helps to extinguish fire.
+
+3. একটি টেস্টটিউব বা পরীক্ষানলে চুনের পানি বা ক্যালসিয়াম হাইড্রোক্সাইড নিয়ে তার মধ্যে উৎপন্ন কার্বন ডাই-অক্সাইড গ্যাস প্রবেশ করানো হলো। প্রথমে সামান্য গ্যাস প্রবেশ করে ক্যালসিয়াম হাইড্রোক্সাইডের সাথে বিক্রিয়া করে ক্যালসিয়াম কার্বনেটের সাদা বর্ণের অধঃক্ষেপ তৈরি হলো। ফলে চুনের পানি ঘোলা হলো। এরপর আরও অধিক গ্যাস এই ঘোলা পানির মধ্যে প্রবেশ করানো হলো ফলে ক্যালসিয়াম কার্বনেট, পানি এবং কার্বন ডাই-অক্সাইড বিক্রিয়া করে ক্যালসিয়াম বাইকার্বনেট তৈরি করল। এতে চুনের ঘোলা পানি আবার পরিষ্কার হয়ে গেল।
+   Translation:  Lime water or calcium hydroxide was taken in a test tube or test tube and carbon dioxide gas was passed through it. Initially, a small amount of gas was introduced which reacted with calcium hydroxide to form a white precipitate of calcium carbonate. As a result, the lime water became cloudy. Then more gas was passed through this cloudy water, which reacted with calcium carbonate, water and carbon dioxide to form calcium bicarbonate. As a result, the cloudy lime water became clear again.
+
+CHEMICAL EQUATIONS:
+Ca(OH)2(aq) + CO2(g) → CaCO3(s) + H2O(l)
+CaCO3(s) + H2O(l) + CO2(g) → Ca(HCO3)2(aq)
+
+SAFETY INFORMATION:
+SAFETY ALERT
+Hazard Description:  The text mentions use of a Thistle funnel and a round bottom flask, glass instruments require care.
+Required Precautions:  Keep the end of the Thistle funnel under the liquid, keep the round bottom flask secured to a stand to prevent falls and breakage.
+Emergency Procedures:  Handle broken glass with care; clean up any spills.
+Protective Equipment:  Use gloves, wear safety goggles when using corrosive substances.
+
+EXPERIMENTAL PROCEDURE:
+EXPERIMENT TITLE:  CARBON DIOXIDE GAS PROPERTY TEST
+Purpose: To investigate the properties of carbon dioxide gas.
+Materials Required: Gas jar, burning stick, test tube or test tube, lime water (calcium hydroxide), Thistle funnel, round bottom flask, stand.
+Safety Precautions: Keep the end of the Thistle funnel under the liquid, keep the round bottom flask secured to a stand.
+Procedure:
+ 1. Collect carbon dioxide gas in a gas jar via delivery tube.
+ 2. Observe the color of the gas.
+ 3. Bring a burning stick to the mouth of the gas jar. Observe the effect.
+ 4. Introduce lime water (calcium hydroxide) into a test tube or test tube.
+ 5. Pass the collected carbon dioxide through the lime water in the test tube
+ 6. Observe the initial change in the lime water.
+ 7. Continue to pass the gas and observe any further changes.
+Expected Observations: Carbon dioxide gas will be colorless, it will extinguish the burning stick. The lime water will turn cloudy first and will become clear again with continued gas passage.
+Key Learning Points: Carbon dioxide is a colorless gas, it is non-combustible, and it reacts with lime water to form calcium carbonate and then calcium bicarbonate.
+
+ADDITIONAL NOTES:
+The text states that instead of calcium carbonate, shells of snails, oysters, or eggs can be used and instead of hydrochloric acid, vinegar can be used.
+
+
+CHAPTER TITLE: অনুশীলনী / Exercises
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 2025 (appears to be a textbook page number)
+MAIN TOPICS: Periodic Table, Electron Configuration, Atomic Properties
+
+QUESTIONS AND PROBLEMS
+Question 1
+আধুনিক পর্যায় সারণির মূল ভিত্তি কী?
+Translation: What is the fundamental basis of the modern periodic table?
+Type: Multiple choice
+Chemical Components: None specified
+Key Concept: Periodic Table
+
+Question 1 Options:
+(ক) পারমাণবিক সংখ্যা
+Translation: (a) Atomic number
+(খ) পারমাণবিক ভর
+Translation: (b) Atomic mass
+(গ) আপেক্ষিক পারমাণবিক ভর
+Translation: (c) Relative atomic mass
+(ঘ) ইলেকট্রন বিন্যাস
+Translation: (d) Electron configuration
+
+Question 2
+A → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s² মৌলটি পর্যায় সারণির কোন গ্রুপে অবস্থিত?
+Translation: In the periodic table, in which group does the element with the electron configuration A → 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s² belong?
+Type: Multiple choice
+Chemical Components: Element A
+Key Concept: Periodic Table, Electron Configuration
+
+Question 2 Options:
+(ক) Group-2
+Translation: (a) Group-2
+(খ) Group-5
+Translation: (b) Group-5
+(গ) Group-11
+Translation: (c) Group-11
+(ঘ) Group-13
+Translation: (d) Group-13
+
+Question 3
+'X' মৌলটি পর্যায় সারণির কোন পর্যায়ের?
+Translation: In the periodic table, in which period does the element 'X' belong?
+Type: Multiple choice
+Chemical Components: Element X
+Key Concept: Periodic Table, Periodicity
+
+Question 3 Options:
+(ক) ৩য়
+Translation: (a) 3rd
+(খ) ৪র্থ
+Translation: (b) 4th
+(গ) ৫ম
+Translation: (c) 5th
+(ঘ) ৬ষ্ঠ
+Translation: (d) 6th
+
+Question 4
+উল্লিখিত মৌলগুলোর-
+(i) সর্বশেষ স্তরে 1টি ইলেকট্রন আছে
+(ii) পারমাণবিক আকার উপর থেকে নিচে ক্রমান্বয়ে হ্রাস পায়
+(iii) Y মৌলটি X মৌল অপেক্ষা বেশি সক্রিয়
+নিচের কোনটি সঠিক?
+Translation: Of the given elements,
+(i) There is 1 electron in the outermost shell
+(ii) Atomic size gradually decreases from top to bottom
+(iii) Element Y is more reactive than element X
+Which of the following is correct?
+Type: Multiple choice
+Chemical Components: Elements K, X, and Y
+Key Concept: Periodic Trends, Reactivity
+
+Question 4 Options:
+(ক) i ও ii
+Translation: (a) i and ii
+(খ) ii ও iii
+Translation: (b) ii and iii
+(গ) i ও iii
+Translation: (c) i and iii
+(ঘ) i, ii ও iii
+Translation: (d) i, ii and iii
+
+DIAGRAM TITLE
+Periodic Table Group Section
+
+Description:
+A small section of the periodic table is shown, with three elements stacked vertically. The first element is labeled 19K, the second is labeled 37X, and the third is labeled 55Y. The symbols X and Y are specified as non-standard, illustrative symbols.
+
+Components:
+- 19K
+- 37X
+- 55Y
+
+Chemical Labels:
+- K
+
+Safety Notes: None
+Purpose: Illustrates relative positions of elements within a group to enable answering questions related to periodic trends.
+
+
+CHAPTER TITLE: পর্যায় সারণি / Periodic Table
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 81
+MAIN TOPICS: Periodic trends, Group properties, Atomic size, Electron affinity
+
+QUESTIONS AND PROBLEMS
+Question 1
+উদ্দীপকের চিত্রটি পর্যায় সারণির একটি খণ্ডিত অংশ।
+Translation: The figure in the stem is a part of the periodic table.
+Type: Analytical
+Chemical Components: Na, Mg, F, Cl, Br
+Key Concept: Periodic table organization, group and period properties
+
+Question 1(a)
+(ক) ত্রয়ী সূত্রটি লেখ।
+Translation: Write the triad rule.
+Type: Short answer
+Chemical Components: None specified directly
+Key Concept: Early periodic table concepts
+
+Question 1(b)
+(খ) বেরিয়ামকে মৃৎক্ষার ধাতু বলা হয় কেন? ব্যাখ্যা করো।
+Translation: Why is Barium called an alkaline earth metal? Explain.
+Type: Short answer
+Chemical Components: Barium (Ba) - Though not in the diagram, it's implied from question
+Key Concept: Properties of alkaline earth metals
+
+Question 1(c)
+(গ) উদ্দীপকের কোন মৌলটির আকার সবচেয়ে বড়? ব্যাখ্যা করো।
+Translation: Which element in the stem has the largest size? Explain.
+Type: Analytical
+Chemical Components: Na, Mg, F, Cl, Br
+Key Concept: Atomic size trends
+
+Question 1(d)
+(ঘ) উদ্দীপকের পর্যায়ের বাম থেকে ডানে গেলে ইলেকট্রন আসক্তির মানের পরিবর্তন বিশ্লেষণ করো।
+Translation: Analyze the change in electron affinity values as you move from left to right in the periods of the stem.
+Type: Analytical
+Chemical Components: Na, Mg, F, Cl, Br
+Key Concept: Electron affinity trends
+
+Question 2
+উদ্দীপকের চিত্রটি পর্যায় সারণির একটি খণ্ডিত অংশ।
+Translation: The figure in the stem is a part of the periodic table.
+Type: Analytical
+Chemical Components: A, B, C
+Key Concept: Periodic table organization, group and period properties
+
+Question 2(a)
+(ক) আধুনিক পর্যায় সূত্রটি লেখো।
+Translation: Write the modern periodic law.
+Type: Short answer
+Chemical Components: None specified directly
+Key Concept: Modern periodic law
+
+Question 2(b)
+(খ) B কে মৃৎক্ষার ধাতু বলা হয় কেন?
+Translation: Why is B called an alkaline earth metal?
+Type: Short answer
+Chemical Components: B
+Key Concept: Properties of alkaline earth metals
+
+Question 2(c)
+(গ) A থেকে B এর দিকে যেতে পারমাণবিক আকারের পরিবর্তন ব্যাখ্যা করো।
+Translation: Explain the change in atomic size as you go from A to B.
+Type: Analytical
+Chemical Components: A, B
+Key Concept: Atomic size trends
+
+Question 2(d)
+(ঘ) A থেকে C এর দিকে যেতে আয়নিকরণ শক্তির মানের পরিবর্তন বিশ্লেষণ করো।
+Translation: Analyze the change in ionization energy values as you go from A to C.
+Type: Analytical
+Chemical Components: A, C
+Key Concept: Ionization energy trends
+
+

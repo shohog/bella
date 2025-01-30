@@ -1,0 +1,1850 @@
+CHAPTER METADATA
+Chapter Title: মোলের ধারণা ও রাসায়নিক গণনা / Concept of Mole and Chemical Counting
+Chapter Number: 6
+Page Number: 2025 (Based on the text content)
+Main Topics: Qualitative analysis, Quantitative analysis, Mole concept
+
+TEXTUAL CONTENT:
+
+রসায়নে মূলত দুই ধরনের বিশ্লেষণ পদ্ধতি নিয়ে আলোচনা করা হয়, যা গুণগত বিশ্লেষণ এবং পরিমাণগত বিশ্লেষণ।
+(English Translation: In chemistry, mainly two types of analysis methods are discussed, which are qualitative analysis and quantitative analysis.)
+
+কোনো পদার্থকে এবং তার বিভিন্ন ধর্মকে শনাক্ত করার পদ্ধতির নাম গুণগত বিশ্লেষণ এবং কোনো পদার্থের পরিমাণ নির্ণয়ের পদ্ধতির নাম পরিমাণগত বিশ্লেষণ।
+(English Translation: The method of identifying a substance and its different properties is called qualitative analysis, and the method of determining the quantity of a substance is called quantitative analysis.)
+
+পরিমাণগত বিশ্লেষণ পদ্ধতিতে বিভিন্ন হিসাব-নিকাশ প্রয়োজন হয়। এসব হিসাব-নিকাশকে একত্রে রাসায়নিক গণনা বলা হয়।
+(English Translation: Various calculations are required in quantitative analysis. These calculations are collectively called chemical counting.)
+
+রাসায়নিক গণনায় কোনো পদার্থের পরিমাণ অনেক সময়েই মোল এককে প্রকাশ করা হয়।
+(English Translation: In chemical counting, the quantity of a substance is often expressed in moles.)
+
+এই অধ্যায়ে তোমরা মোল কী, মোল দিয়ে হিসাব-নিকাশ কীভাবে করা হয়, মোলের হিসাব-নিকাশ থেকে কীভাবে ঘনমাত্রার হিসাব করা হয়। এই বিষয়গুলো জানতে পারবে।
+(English Translation: In this chapter, you will learn what a mole is, how to perform calculations using moles, and how to calculate concentration from mole calculations. You will learn about these topics.)
+
+DIAGRAM AND ILLUSTRATIONS
+
+DIAGRAM TITLE: Laboratory Glassware
+Description:  A collection of various laboratory glassware including beakers, flasks, and test tubes, filled with different colored liquids. The glassware is arranged on a plain white background. The sizes and shapes of different glassware are visible. Some liquids are colored red, yellow, green and blue.
+Components:  Beakers, volumetric flask, test tubes, graduated cylinder, glass stirring rod.
+Chemical Labels: Not applicable
+Safety Notes: Be careful while handling the glassware, since they are fragile. Always wear gloves and appropriate eye protection.
+Purpose: To illustrate the variety of equipment used in chemical experiments.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME
+Bengali Definition: গুণগত বিশ্লেষণ
+English Translation: Qualitative analysis
+Related Chemical Equations: Not applicable
+Examples:  Identifying the presence of a specific ion in a solution.
+
+TERM OR PROPERTY NAME
+Bengali Definition: পরিমাণগত বিশ্লেষণ
+English Translation: Quantitative analysis
+Related Chemical Equations: Not applicable
+Examples: Determining the mass of a precipitate formed in a reaction.
+
+TERM OR PROPERTY NAME
+Bengali Definition: রাসায়নিক গণনা
+English Translation: Chemical counting
+Related Chemical Equations: Not applicable
+Examples: Using stoichiometric coefficients to calculate the amount of reactants and products in a chemical reaction.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 110
+MAIN TOPICS: Mole concept, Stoichiometry, Chemical Calculations
+
+LEARNING OBJECTIVES
+
+*   মোলের ধারণা ব্যবহার করে সরল গাণিতিক হিসাব করতে পারব।
+    Translation: We will be able to perform simple mathematical calculations using the concept of moles.
+
+*   নির্দিষ্ট ঘনমাত্রার দ্রবণ প্রস্তুত করতে পারব।
+    Translation: We will be able to prepare solutions of specific concentrations.
+
+*   প্রদত্ত তথ্য ও উপাত্ত ব্যবহার করে যৌগে উপস্থিত মৌলের শতকরা সংযুতি নির্ণয় করতে পারব।
+    Translation: We will be able to determine the percentage composition of elements present in a compound using given data.
+
+*   শতকরা সংযুতি ব্যবহার করে স্থূল সংকেত ও আণবিক সংকেত নির্ণয় করতে পারব।
+    Translation: We will be able to determine empirical formulas and molecular formulas using percentage composition.
+
+*   মৌল ও যৌগমূলকের প্রতীক, সংকেত ও যোজনী ব্যবহার করে রাসায়নিক সমীকরণ লিখতে এবং সমতা বিধান করতে পারব।
+    Translation: We will be able to write chemical equations using symbols, formulas, and valencies of elements and radicals, and be able to balance them.
+
+*   রাসায়নিক সমীকরণের মাত্রিক তাৎপর্য থেকে বিক্রিয়ক ও উৎপাদের ভরভিত্তিক গাণিতিক সমস্যা সমাধান করতে পারব।
+    Translation: We will be able to solve mass-based mathematical problems related to reactants and products from the quantitative significance of chemical equations.
+
+*   তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয় করতে পারব।
+    Translation: We will be able to determine the percentage of water of crystallization in copper sulfate.
+
+*   নিক্তি ব্যবহার করে রাসায়নিক দ্রব্য পরিমাপ করতে সক্ষম হব।
+    Translation: We will be able to measure chemical substances using a balance.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Concept of Mole and Chemical Calculations
+CHAPTER NUMBER: 6
+PAGE NUMBER: 111
+MAIN TOPICS: Mole concept, Avogadro's number, Calculating molar mass
+
+6.1 মোল (MOLE)
+
+TERM OR PROPERTY NAME
+Bengali Definition: মোল হলো রাসায়নিক পদার্থ পরিমাপের একক।
+English Translation: Mole is the unit for measuring chemical substances.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM: Mole
+Bengali Definition: কোনো পদার্থের যে পরিমাণের মধ্যে 6.023 × 1023 টি পরমাণু, অণু বা আয়ন থাকে সেই পরিমাণকে ঐ পদার্থের মোল বলা হয়।
+English Translation: The amount of a substance that contains 6.023 × 1023 atoms, molecules, or ions is called a mole of that substance.
+
+EXAMPLES:
+12টি O2 = 1 ডজন O2
+100টি O2 = 1 শতক O2
+1000টি O2 = 1 হাজার O2
+6.023 × 10^23 টি O2 = 1 মোল O2
+
+1 মোল পরমাণুতে 6.023 × 10^23 টি পরমাণু থাকে।
+1 মোল অণুতে 6.023 × 10^23 টি অণু থাকে।
+1 মোল আয়নে 6.023 × 10^23 টি আয়ন থাকে।
+
+TERM OR PROPERTY NAME
+Bengali Definition: 6.023 × 1023 সংখ্যাটিকে অ্যাভোগেড্রোর সংখ্যা বলা হয়।
+English Translation: The number 6.023 × 1023 is called Avogadro's number.
+
+EXAMPLES:
+12 গ্রাম C এর মধ্যে 6.023 × 1023 টি C পরমাণু থাকে।
+12 গ্রাম C = 1 মোল C পরমাণু।
+18 গ্রাম H2O এর মধ্যে 6.023 × 1023 টি H2O অণু থাকে।
+18 গ্রাম H2O = 1 মোল H2O
+
+TERM OR PROPERTY NAME
+Bengali Definition: রাসায়নিক পদার্থের (পরমাণুর ক্ষেত্রে) পারমাণবিক ভর অথবা (অণুর ক্ষেত্রে) আণবিক ভরকে গ্রাম এককে প্রকাশ করলে যে পরিমাণ পাওয়া যায় তাকে ঐ পদার্থের এক মোল বলা হয়।
+English Translation: The atomic mass of a chemical substance (for atoms) or the molecular mass (for molecules) expressed in grams is called one mole of that substance.
+
+অণুর আণবিক ভর বের করার পদ্ধতি
+METHOD FOR CALCULATING MOLECULAR MASS OF A MOLECULE
+Bengali: কোনো অণুতে বিদ্যমান সকল পরমাণুর পারমাণবিক ভর যোগ করলে ঐ অণুর আণবিক ভর পাওয়া যায়।
+English Translation: The molecular mass of a molecule is found by adding the atomic masses of all the atoms present in that molecule.
+
+EXAMPLE:
+যেমন: Cl2 অণুতে Cl পরমাণু আছে ২টি। / Example: In a Cl2 molecule, there are two Cl atoms.
+অতএব, Cl2 এর আণবিক ভর = 2 x Cl এর পারমাণবিক ভর = 2 x 35.5 = 71
+Therefore, the molecular mass of Cl2 = 2 x atomic mass of Cl = 2 x 35.5 = 71
+এক মোল Cl2 = 71 g Cl2 / One mole of Cl2 = 71 g Cl2
+
+EXAMPLE:
+NaCl অণুতে Na পরমাণু আছে 1টি এবং Cl পরমাণু আছে 1টি
+In NaCl molecule there is 1 Na atom and 1 Cl atom.
+
+
+CHAPTER TITLE: রাসায়নিক গণনা / Chemical Calculations
+CHAPTER NUMBER: Not specified in the provided text
+PAGE NUMBER: 112
+MAIN TOPICS: Molecular mass calculation, Mole concept, Avogadro's number
+
+CHEMICAL EQUATIONS
+There are no explicit chemical reaction equations on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+ATOMIC MASS
+Bengali Definition: Not explicitly defined, but used in calculations.
+English Translation: The mass of an atom, usually expressed in atomic mass units (amu).
+Examples: Na = 23, Cl = 35.5
+
+MOLECULAR MASS
+Bengali Definition: Not explicitly defined, but examples of calculation provided.
+English Translation: The sum of the atomic masses of all the atoms in a molecule.
+Examples: NaCl = 58.5 g, CuSO4.5H2O = 249.5 g
+
+MOLE
+Bengali Definition: Not explicitly defined, but examples of calculations are shown
+English Translation: A unit of measurement that represents 6.022 x 10^23 particles (atoms, molecules, ions) of a substance
+Examples: 1 mole of NaCl = 58.5g, 1 mole H2O = 18g
+
+AVOGADRO'S NUMBER
+Bengali Definition: Not explicitly defined, but the value used in calculations is 6.023 x 10^23
+English Translation: The number of particles in one mole of a substance, approximately 6.022 x 10^23
+
+QUESTIONS AND PROBLEMS
+
+QUESTION 1
+Bengali question text: 1টি H₂O অণুর ভর কত?
+Translation: What is the mass of 1 molecule of H₂O?
+Type: Numerical
+Chemical Components: H2O
+Key Concept: Molecular mass, Avogadro's number
+
+QUESTION 2
+Bengali question text: 1g H₂SO₄ এ কতগুলো H₂SO₄ অণু আছে?
+Translation: How many H₂SO₄ molecules are present in 1g of H₂SO₄?
+Type: Numerical
+Chemical Components: H2SO4
+Key Concept: Molecular mass, Avogadro's number
+
+QUESTION 3
+Bengali question text: 5 গ্রাম H₂O এ কত মোল H₂O বিদ্যমান?
+Translation: How many moles of H₂O are present in 5 grams of H₂O?
+Type: Numerical
+Chemical Components: H2O
+Key Concept: Mole concept, molecular mass
+
+QUESTION 4
+Bengali question text: 1g H₂SO₄ এ কতগুলো H, S এবং O পরমাণু আছে?
+Translation: How many H, S, and O atoms are present in 1g of H₂SO₄?
+Type: Analytical
+Chemical Components: H2SO4
+Key Concept: Molecular composition, Avogadro's number, Stoichiometry
+
+EXTRACTION NOTES:
+- The page focuses on calculating molecular masses and relating them to moles and the number of molecules using Avogadro’s number.
+- Calculations are presented clearly, step-by-step
+- The "নিজে করো" section (do it yourself) at the end is included as a separate question.
+- No safety information appears on the page.
+- Bengali text is kept alongside the English translations for all important terms and questions.
+- The page lacks diagrams or experimental procedures.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: N/A
+PAGE NUMBER: 113
+MAIN TOPICS: Molar Volume of Gases, Avogadro's number
+
+6.1.1 GASER MOLAR AYOTON / 6.1.1 MOLAR VOLUME OF GASES
+
+TERM OR PROPERTY NAME: Molar Volume of a Gas
+Bengali Definition: 1 মোল গ্যাসীয় পদার্থ যে আয়তন দখল করে তাকে ঐ গ্যাসের মোলার আয়তন বলে।
+English Translation: The volume occupied by 1 mole of a gaseous substance is called the molar volume of that gas.
+
+TERM OR PROPERTY NAME: Standard Temperature and Pressure (STP)
+Bengali Definition: ০° সেন্টিগ্রেড তাপমাত্রা এবং 1 বায়ুমণ্ডল চাপকে একত্রে প্রমাণ তাপমাত্রা ও চাপ বা আদর্শ তাপমাত্রা ও চাপ বা সংক্ষেপে আদর্শ বা প্রমাণ অবস্থা বলা হয়।
+English Translation: 0° Celsius temperature and 1 atmosphere pressure are collectively called standard temperature and pressure or ideal temperature and pressure, or in short, ideal or standard conditions.
+
+TERM OR PROPERTY NAME: Molar volume at STP
+Bengali Definition: প্রমাণ অবস্থায় 1 মোল গ্যাসের আয়তন হয় 22.4 লিটার।
+English Translation: At standard conditions, the volume of 1 mole of gas is 22.4 liters.
+
+CHEMICAL EQUATIONS:
+n = w / M
+n = V / 22.4
+n = N / (6.023 x 10^23)
+
+Where:
+n = number of moles
+w = mass in grams
+V = volume in liters
+N = number of molecules
+M = molar mass
+
+EXAMPLE PROBLEM:
+PROBLEM: আদর্শ তাপমাত্রা ও চাপে 1 লিটার CO₂ গ্যাসে কতটি অণু থাকে? / How many molecules are present in 1 liter of CO2 gas at standard temperature and pressure?
+
+SOLUTION:
+Bengali: আমরা জানি, 1 মোল CO₂ = 44g CO2 = 6.023 × 10^23 টি CO₂ অণু = আদর্শ তাপমাত্রা ও চাপে 22.4 লিটার আয়তনের CO₂ গ্যাস
+English Translation: We know that, 1 mole of CO2 = 44g CO2 = 6.023 × 10^23 molecules of CO2 = 22.4 liters of CO2 gas at standard temperature and pressure.
+
+Bengali: আদর্শ তাপমাত্রা ও চাপে, 22.4 লিটার CO₂ গ্যাসে থাকে 6.023 × 10^23 টি অণু
+English Translation: At standard temperature and pressure, 22.4 liters of CO2 gas contains 6.023 × 10^23 molecules.
+
+Bengali: অতএব, 1 লিটার CO₂ গ্যাসে থাকে = (6.023×10^23) / 22.4 টি = 2.69 × 10^22 টি অণু
+English Translation: Therefore, 1 liter of CO2 gas contains = (6.023×10^23) / 22.4 = 2.69 × 10^22 molecules.
+
+PRACTICE PROBLEM:
+Bengali: নিজে করো: প্রমাণ অবস্থায় 5 লিটার CH₄ গ্যাসে কয়টি H পরমাণু আছে?
+English Translation: Try it yourself: How many H atoms are present in 5 liters of CH4 gas at standard conditions?
+
+PROBLEM:
+Bengali: সমস্যা: 5 মোল CO₂ গ্যাসের প্রমাণ অবস্থায় আয়তন কত?
+English Translation: Problem: What is the volume of 5 moles of CO2 gas at standard conditions?
+
+SOLUTION:
+Bengali: সমাধান: এখানে দেওয়া আছে, মোল n = 5
+English Translation: Solution: Given here, moles n = 5
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: (Not specified on the page)
+PAGE NUMBER: 114
+MAIN TOPICS: Mole concept, Molecular Formula, Volume calculation
+
+CHEMICAL EQUATIONS:
+None on this page.
+
+EXPERIMENTAL PROCEDURES:
+None on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page.
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+নিজে করো: প্রমাণ অবস্থায় ৫টি CO₂ অণুর আয়তন কত?
+Translation: Calculate: What is the volume of 5 CO2 molecules at standard conditions?
+Type: Numerical
+Chemical Components: CO2
+Key Concept: Mole concept and molar volume
+
+QUESTION 2
+সমস্যা: প্রমাণ অবস্থায় 10 গ্রাম হাইড্রোজেন গ্যাসের আয়তন কত?
+Translation: Problem: What is the volume of 10 grams of hydrogen gas at standard conditions?
+Type: Numerical
+Chemical Components: H2
+Key Concept: Mole concept, molar mass and molar volume
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+MOLE AND MOLECULAR FORMULA
+Bengali Definition: মোল এবং আণবিক সংকেতের মধ্যে একটি সম্পর্ক রয়েছে। কোনো পদার্থের আণবিক সংকেত থেকে প্রাপ্ত আণবিক ভরকে গ্রামে প্রকাশিত করলে যে পরিমাণ পাওয়া যায় সেই পরিমাণকে ঐ পদার্থের ১ মোল বলা হয়।
+English Translation: There is a relationship between mole and molecular formula. If the molecular mass obtained from the molecular formula of a substance is expressed in grams, that amount is called 1 mole of that substance.
+Related Chemical Equations: None
+Examples:  পানির আণবিক সংকেত H₂O। পানির আণবিক ভর 18। অতএব, 18 গ্রামকে 1 গ্রাম আণবিক ভর পানি বা 1 মোল পানি বলা হয়। / The molecular formula of water is H2O. The molecular mass of water is 18. Therefore, 18 grams is called 1 gram molecular weight of water or 1 mole of water.
+
+H2O MOLECULAR FORMULA ANALYSIS
+Bengali Definition: H₂O আণবিক সংকেত থেকে যে যে তথ্য পাওয়া যায় তা নিচে উল্লেখ করা হলো।
+English Translation: The information obtained from the molecular formula H2O is given below:
+Related Chemical Equations: None
+Examples:
+1. H₂O এর নাম পানি / The name of H2O is water.
+2. 1 অণু পানি এর সংকেত H₂O / The formula for 1 molecule of water is H2O.
+3. 1 মোল পানি এর সংকেত H₂O / The formula for 1 mole of water is H2O.
+4. 1 অণু H₂O এ ২টি হাইড্রোজেন পরমাণু এবং 1টি অক্সিজেন পরমাণু আছে। / 1 molecule of H2O contains 2 hydrogen atoms and 1 oxygen atom.
+5. 1 মোল H₂O অণুতে 2 মোল H পরমাণু আছে ও 1 মোল O পরমাণু আছে। / 1 mole of H2O molecules contains 2 moles of H atoms and 1 mole of O atoms.
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: 6
+PAGE NUMBER: 115
+MAIN TOPICS: Mole concept, Molar solution, Solution concentration
+
+6.  1 মোল H₂O অণুতে H পরমাণুর ভর 1×2=2 g এবং O পরমাণুর ভর 16 × 1 = 16 g। অতএব, / In 1 mole of H₂O molecule, the mass of H atom is 1x2=2g and the mass of O atom is 16x1=16g. Therefore,
+    1 মোল H₂O অণুর ভর 2+16 = 18 g / The mass of 1 mole of H2O is 2+16=18g
+7.  1 মোল H₂O অণুতে H পরমাণুর সংখ্যা 6.023 × 10²³ × 2 = 1.20 × 10²⁴ টি, O পরমাণুর সংখ্যা 6.023 × 10²³ × 1 = 6.023 × 10²³ টি, এবং H₂O অণুর সংখ্যা = 6.023 × 10²³ টি। / In 1 mole of H₂O, the number of H atoms is 6.023 x 10^23 x 2 = 1.20 x 10^24, the number of O atoms is 6.023 x 10^23 x 1 = 6.023 x 10^23, and the number of H₂O molecules = 6.023 x 10^23.
+
+6.1.3 MOLAR SOLUTION
+ধরা যাক কোনো দ্রাবকে একটি দ্রব দ্রবীভূত আছে। একটি নির্দিষ্ট তাপমাত্রায় 1 লিটার দ্রবণের মধ্যে যদি এক মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে মোলার দ্রবণ বলে বা এক মোলার দ্রবণ বলা হয়। / Suppose a solute is dissolved in a solvent. At a specific temperature, if one mole of solute is dissolved in 1 liter of solution, that solution is called a molar solution or one molar solution.
+1 লিটার দ্রবণে যদি 2 মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে 2 মোলার দ্রবণ বলা হয়। / If 2 moles of solute are dissolved in 1 liter of solution, then the solution is called a 2 molar solution.
+
+দ্রাবক, দ্রব ও দ্রবণ বলতে কী বোঝায় সেটি বোঝানোর জন্য একটি উদাহরণ দেওয়া যাক। একটি গ্লাসে প্রায় অর্ধেক পানি নাও। সেই পানিতে সামান্য পরিমাণ খাবার লবণ নিয়ে তা একটি চামচ দিয়ে মেশাও। দেখা গেল পানিতে লবণ মিশে গেছে বা পানিতে আর লবণ দেখা যাচ্ছে না। এই লবণ-পানির মিশ্রণ একটি দ্রবণ। / Let's take an example to explain what is meant by solvent, solute and solution. Take about half a glass of water. Add a small amount of common salt to it and mix with a spoon. It can be seen that the salt has dissolved in water, or that the salt can no longer be seen in the water. This mixture of salt and water is a solution.
+এই মিশ্রণে পানিকে বলা হয় দ্রাবক এবং লবণকে বলা হয় দ্রব। দ্রবণ প্রস্তুত করার সময় পানি, এসিড, অ্যালকোহল ইত্যাদি নানা রকম তরল ব্যবহার করা যায়। / In this mixture, water is called the solvent and salt is called the solute. Various liquids like water, acid, alcohol, etc. can be used when preparing a solution.
+এই অধ্যায়ে আমরা মূলত পানিকে দ্রাবক হিসেবে ব্যবহার করব। পানিকে দ্রাবক হিসাবে ব্যবহার করলে যে দ্রবণ তৈরি হয় তাকে জলীয় দ্রবণ বলে। / In this chapter, we will mainly use water as the solvent. When water is used as the solvent, the solution formed is called an aqueous solution.
+
+দ্রবণ = দ্রব + দ্রাবক / Solution = Solute + Solvent
+
+তোমরা মাঝে মাঝেই লঘু দ্রবণ এবং গাঢ় দ্রবণ কথাগুলো শুনবে। তুমি যদি একটি গ্লাসে 250 মিলিলিটার পানির মধ্যে 10 গ্রাম খাবার লবণ মিশাও তাহলে একটি দ্রবণ তৈরি হবে। / You often hear the terms dilute solution and concentrated solution. If you mix 10 grams of common salt in 250 milliliters of water in a glass, a solution will be formed.
+তুমি যদি আরেকটি গ্লাসে 250 মিলিলিটার পানির মধ্যে 15 গ্রাম খাবার লবণ মিশাও তাহলেও একটি দ্রবণ তৈরি হবে। এই দুটি দ্রবণের মধ্যে একটি লঘু দ্রবণ এবং অন্যটি গাঢ় দ্রবণ। / If you mix 15 grams of common salt in 250 milliliters of water in another glass, a solution will also be formed. One of these two solutions is a dilute solution and the other is a concentrated solution.
+যে দ্রবণে খাবার লবণ কম সেই দ্রবণটি লঘু দ্রবণ আর যে দ্রবণে খাবার লবণ বেশি সেই দ্রবণটি গাঢ় দ্রবণ। / The solution in which the amount of salt is less is called a dilute solution and the solution in which the amount of salt is more is called a concentrated solution.
+আবার একটি গ্লাসে 250 mL পানি এবং অপর একটি গ্লাসে 200 mL পানি নেওয়া হলো। এবারে দুটি গ্লাসেই 10g লবণ মেশানো হয়েছে। / Again, 250 mL of water was taken in one glass and 200 mL of water was taken in another glass. This time, 10g of salt was mixed in both glasses.
+এখন বলতে পারবে কোন পাত্রের দ্রবণটি লঘু এবং কোন পাত্রের দ্রবণ গাঢ়? যে পাত্রে পানির পরিমাণ বেশি সেটি লঘু দ্রবণ আর যে পাত্রে পানির পরিমাণ কম সেটি গাঢ় দ্রবণ। / Can you now say which container's solution is dilute and which container's solution is concentrated? The container with more water has a dilute solution and the container with less water has a concentrated solution.
+ল্যাবরেটরিতে একটি নির্দিষ্ট / In a laboratory setting, a specific
+
+DIAGRAM TITLE: লঘু দ্রবণ এবং গাঢ় দ্রবণ / Dilute solution and Concentrated solution
+Description: Two test tubes are shown. The test tube on the left shows less solute in it, and the right one more.
+Components: Two test tubes, liquid levels, labels (লঘু দ্রবণ / dilute solution and গাঢ় দ্রবণ / concentrated solution)
+Chemical Labels: None
+Safety Notes: None
+Purpose: Visual representation of the concept of dilute and concentrated solutions.
+
+TERM OR PROPERTY NAME: মোলার দ্রবণ / Molar Solution
+Bengali Definition: একটি নির্দিষ্ট তাপমাত্রায় 1 লিটার দ্রবণের মধ্যে যদি এক মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে মোলার দ্রবণ বলে। / At a specific temperature, if one mole of solute is dissolved in 1 liter of solution, that solution is called a molar solution.
+English Translation: A solution that contains one mole of solute dissolved in one liter of solution at a specific temperature.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME: লঘু দ্রবণ / Dilute solution
+Bengali Definition: যে দ্রবণে দ্রবের পরিমাণ কম থাকে তাকে লঘু দ্রবণ বলে। / A solution which has less amount of solute is called a dilute solution.
+English Translation: A solution with a relatively low concentration of solute.
+Related Chemical Equations: None
+Examples: A solution of 10 grams of salt in 250ml of water is a dilute solution compared to a solution of 15 grams of salt in 250ml of water.
+
+TERM OR PROPERTY NAME: গাঢ় দ্রবণ / Concentrated Solution
+Bengali Definition: যে দ্রবণে দ্রবের পরিমাণ বেশি থাকে তাকে গাঢ় দ্রবণ বলে। / A solution which has more amount of solute is called a concentrated solution.
+English Translation: A solution with a relatively high concentration of solute.
+Related Chemical Equations: None
+Examples: A solution of 15 grams of salt in 250ml of water is a concentrated solution compared to a solution of 10 grams of salt in 250ml of water.
+
+
+CHAPTER TITLE: রাসায়নিক গণনা / Chemical Calculations
+CHAPTER NUMBER: Not explicitly mentioned
+PAGE NUMBER: 116
+MAIN TOPICS: Solution Concentration, Molarity, Preparation of Solutions
+
+TERM OR PROPERTY NAME
+LOHU DROBON (লঘু দ্রবণ)
+Bengali Definition: পরিমাণ দ্রাবকের মধ্যে কম পরিমাণ দ্রব মিশ্রিত করলে তাকে লঘু দ্রবণ বলে।
+English Translation: When a small amount of solute is mixed with a large amount of solvent, it is called a dilute solution.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+GARO DROBON (গাঢ় দ্রবণ)
+Bengali Definition: একটি নির্দিষ্ট পরিমাণ দ্রাবকের মধ্যে বেশি পরিমাণ দ্রব মিশ্রিত করলে তাকে গাঢ় দ্রবণ বলে।
+English Translation: When a large amount of solute is mixed with a fixed amount of solvent, it is called a concentrated solution.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+MOLARITY (মোলারিটি)
+Bengali Definition: একটি নির্দিষ্ট তাপমাত্রায় 1 লিটার দ্রবণের মধ্যে যত মোল দ্রব দ্রবীভূত থাকে তাকে ঐ দ্রবণের মোলারিটি বলা হয়।
+English Translation: The number of moles of solute dissolved in 1 liter of solution at a specific temperature is called the molarity of the solution.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+MOLAR SOLUTION
+Bengali Definition: একটি নির্দিষ্ট তাপমাত্রায় 1 লিটার দ্রবণের মধ্যে যদি দুই মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণের মোলারিটি দুই।
+English Translation: If two moles of solute are dissolved in 1 liter of solution at a specific temperature, the molarity of that solution is two.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+SEMIMOLAR SOLUTION (সেমিমোলার দ্রবণ)
+Bengali Definition: যদি 1 লিটার দ্রবণের মধ্যে 0.5 মোল দ্রব দ্রবীভূত থাকে তাহলে ঐ দ্রবণকে সেমিমোলার দ্রবণ বলে।
+English Translation: If 0.5 moles of solute are dissolved in 1 liter of solution, that solution is called a semimolar solution.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+DECIMOLAR SOLUTION (ডেসিমোলার দ্রবণ)
+Bengali Definition: এবং ঐ 1 লিটার দ্রবণের মধ্যে যদি 0.1 মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে ডেসিমোলার দ্রবণ বলে।
+English Translation: If 0.1 moles of solute are dissolved in 1 liter of solution, that solution is called a decimolar solution.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+DECIMOLAR SOLUTION MOLARITY
+Bengali Definition: ডেসিমোলার দ্রবণের মোলারিটি = 0.1
+English Translation: Molarity of a decimolar solution = 0.1
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+SEMIMOLAR SOLUTION MOLARITY
+Bengali Definition: সেমিমোলার দ্রবণের মোলারিটি হবে 0.5।
+English Translation: Molarity of a semimolar solution is 0.5
+Related Chemical Equations: None
+Examples: None
+
+SECTION: PREPARATION OF SOLUTIONS WITH DIFFERENT MOLARITIES (বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ)
+Bengali Definition: ল্যাবরেটরিতে মোলার দ্রবণ, ডেসিমোলার দ্রবণ, সেমিমোলার দ্রবণ ইত্যাদি প্রস্তুত করার প্রয়োজন হয়। বিভিন্ন মোলারিটির দ্রবণ প্রস্তুত করা অত্যন্ত সহজ।
+English Translation: In the laboratory, it is necessary to prepare molar solutions, decimolar solutions, semimolar solutions, etc. Preparing solutions of different molarities is very easy.
+
+PROCEDURE:
+1.  Bengali: এক্ষেত্রে তোমাকে কতগুলো কাজ ধাপে ধাপে করতে হবে। প্রথমত তোমাকে একটি নির্দিষ্ট আয়তনের আয়তনিক ফ্লাস্ক বাছাই করতে হবে।
+    English: In this case, you need to do a few things step-by-step. First, you have to select a volumetric flask of a specific volume.
+2.  Bengali: দ্বিতীয়ত যে পদার্থের দ্রবণ তৈরি করতে হবে সেই পদার্থের নির্দিষ্ট পরিমাণ ওজন করে নিয়ে আয়তনিক ফ্লাস্কে ঢেলে নিতে হবে।
+    English: Secondly, you have to weigh the specific amount of the substance whose solution you want to prepare and pour it into the volumetric flask.
+3. Bengali: তৃতীয়ত আয়তনিক ফ্লাস্কের মধ্যে খানিকটা পানি যোগ করে ঝাঁকিয়ে পদার্থটির দ্রবণ তৈরি করতে হবে।
+    English: Thirdly, add a little water to the volumetric flask and shake it to dissolve the substance.
+4. Bengali: তারপর সাবধানে আয়তনিক ফ্লাস্কের নির্দিষ্ট দাগ পর্যন্ত পানি দ্বারা পূর্ণ করতে হবে।
+    English: Then carefully fill the volumetric flask with water up to the marked line.
+
+SECTION: RELATION BETWEEN MOLARITY, VOLUME, MASS AND MOLECULAR WEIGHT OF SOLUTE
+Bengali Definition: দ্রবণের মোলারিটি, দ্রবণের আয়তন, দ্রবের ভর এবং দ্রবের আণবিক ভরের মধ্যে একটি সম্পর্ক আছে।
+English Translation: There is a relationship between the molarity of the solution, the volume of the solution, the mass of the solute, and the molecular weight of the solute.
+
+EQUATION:
+ গ্রাম এককে দ্রবের ভর = (দ্রবণের মোলারিটি × মিলিলিটার এককে দ্রবণের আয়তন × দ্রবের আণবিক ভর) / 1000
+English: Mass of solute in grams = (Molarity of solution × Volume of solution in milliliters × Molecular weight of solute) / 1000
+
+VARIABLES DEFINED:
+ গ্রাম এককে দ্রবের ভর = w
+ Molar mass = S
+ মিলিলিটার এককে দ্রবণের আয়তন = V
+ দ্রবের আণবিক ভর = M
+
+EQUATION:
+w = (S * V * M) / 1000
+
+Bengali Definition: মোলারিটি বা ঘনমাত্রা সংক্রান্ত সমস্যা সমাধানের জন্য এই সূত্রটি ব্যবহার করা যেতে পারে।
+English Translation: This formula can be used to solve problems related to molarity or concentration.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not explicitly stated
+PAGE NUMBER: 117
+MAIN TOPICS: Molarity Calculations, Solution Preparation
+
+CHEMICAL EQUATIONS:
+(None on this page)
+
+EXPERIMENTAL PROCEDURES:
+(None on this page)
+
+DIAGRAMS AND ILLUSTRATIONS:
+(None on this page)
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+250 মিলিলিটার আয়তনিক ফ্লাস্কে 0.2 মোলার NaCl দ্রবণ কীভাবে প্রস্তুত করবে?
+Translation: How to prepare a 0.2 molar NaCl solution in a 250 milliliter volumetric flask?
+Type: Numerical/Analytical
+Chemical Components: NaCl
+Key Concept: Solution Preparation, Molarity Calculation
+
+QUESTION 2
+2 লিটার 0.1 মোলার Na₂CO₃ দ্রবণের মধ্যে কী পরিমাণ Na₂CO₃ আছে?
+Translation: What is the amount of Na₂CO₃ present in a 2 liter 0.1 molar Na₂CO₃ solution?
+Type: Numerical/Analytical
+Chemical Components: Na₂CO₃
+Key Concept: Molarity Calculation, Amount of Solute
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+(None on this page)
+
+SAFETY INFORMATION:
+(None on this page)
+
+CALCULATIONS:
+
+PROBLEM 1 SOLUTION:
+Given: Volume (V) = 250 mL, Molarity (S) = 0.2 M
+Molecular weight of NaCl = 23 + 35.5 = 58.5 g/mol
+1 mol NaCl = 58.5 g
+Amount of NaCl required for 1 liter of 0.2 M solution = 58.5 g/mol * 0.2 mol/L = 11.7 g
+Amount of NaCl required for 250 mL of 0.2 M solution = (11.7 g * 250 mL) / 1000 mL = 2.925 g
+
+Alternative Solution (using formula w = SVM/1000):
+w = (0.2 * 250 * 58.5)/1000 = 2.925 g
+
+Preparation Steps:
+Take a 250 mL volumetric flask.
+Add 2.925 grams of NaCl to the flask.
+Add water to the flask until the solution volume reaches 250 mL.
+
+PROBLEM 2 SOLUTION:
+Molecular weight of Na₂CO₃ = 23 * 2 + 12 + 16 * 3 = 106 g/mol
+Amount of Na₂CO₃ in 1 liter of 1 M solution = 106 g
+Amount of Na₂CO₃ in 1 liter of 0.1 M solution = 10.6 g
+Amount of Na₂CO₃ in 2 liters of 0.1 M solution = 10.6 g * 2 = 21.2 g
+
+Alternative Solution (using formula w = SVM/1000):
+w = (0.1 * 2000 * 106) / 1000 = 21.2 g
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 118
+MAIN TOPICS: Molarity calculations, Solution preparation
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+Question 1
+সমস্যা: 250 mL দ্রবণে 20g Na₂CO₃ থাকলে Na₂CO₃ দ্রবণের মোলারিটি কত?
+Translation: Problem: What is the molarity of a Na₂CO₃ solution if 20g of Na₂CO₃ is present in 250 mL of solution?
+Type: Numerical
+Chemical Components: Na₂CO₃
+Key Concept: Molarity calculation
+
+Question 2
+সমস্যা: 0.75 মোলার Na₂CO₃ দ্রবণের মধ্যে 20 গ্রাম Na₂CO₃ দ্রবীভূত থাকলে ঐ দ্রবণের আয়তন কত মিলিলিটার?
+Translation: Problem: If 20 grams of Na₂CO₃ is dissolved in a 0.75 Molar Na₂CO₃ solution, what is the volume of the solution in milliliters?
+Type: Numerical
+Chemical Components: Na₂CO₃
+Key Concept: Molarity calculation, solution volume
+
+Question 3
+সমস্যা: একটি 250 mL দ্রবণের মধ্যে 20 g পদার্থ দ্রবীভূত থাকলে এবং ঐ দ্রবণের মোলারিটি 0.75 মোলার হবে। ঐ দ্রবণে দ্রবের আণবিক ভর কত?
+Translation: Problem: If 20g of a substance is dissolved in 250 mL of a solution and the molarity of the solution is 0.75 Molar, what is the molecular weight of the solute in the solution?
+Type: Numerical
+Chemical Components: Unknown solute, related to molarity.
+Key Concept: Molarity, molecular weight
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+MOLARITY
+Bengali Definition: Not explicitly stated, but the problems revolve around calculating and understanding molarity.
+English Translation: Molarity is the number of moles of solute per liter of solution.
+Related Chemical Equations: None explicitly shown, but the formula w = (SVM)/1000 is used for calculations where 'w' is mass, 'S' is molarity, 'V' is volume, and 'M' is molecular weight.
+Examples: Several examples calculating molarity are provided on this page.
+
+SAFETY INFORMATION:
+None on this page.
+
+---
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not explicitly mentioned on the page
+PAGE NUMBER: 111
+MAIN TOPICS: Molarity calculations, Percentage composition of compounds
+
+CHEMICAL EQUATIONS:
+None on this page.
+
+EXPERIMENTAL PROCEDURES:
+None on this page.
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page.
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+কাজ: 100 মিলিলিটিার দ্রবণে 4 গ্রাম NaOH থাকলে দ্রবণের মোলারিটি কত বের করো।
+Translation: Task: Calculate the molarity of a solution if 100 milliliters of the solution contains 4 grams of NaOH.
+Type: Numerical
+Chemical Components: NaOH
+Key Concept: Molarity calculation
+
+QUESTION 2
+কাজ: 100 মিলিলিটিার দ্রবণে 4 গ্রাম HCl থাকলে দ্রবণের মোলারিটি কত বের করো।
+Translation: Task: Calculate the molarity of a solution if 100 milliliters of the solution contains 4 grams of HCl.
+Type: Numerical
+Chemical Components: HCl
+Key Concept: Molarity calculation
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+PERCENTAGE COMPOSITION OF ELEMENTS IN COMPOUNDS
+Bengali Definition: কোনো যৌগের 100 গ্রামের মধ্যে কোনো মৌল যত গ্রাম থাকে তাকে ঐ মৌলের শতকরা সংযুতি বলে।
+English Translation: The percentage composition of an element in a compound is the number of grams of that element present in 100 grams of the compound.
+Related Chemical Equations: None on this page.
+Examples: None on this page.
+
+FORMULA FOR PERCENTAGE COMPOSITION
+Bengali Definition: কোনো যৌগে একটি মৌলের শতকরা সংযুতি = (মৌলের পারমাণবিক ভর × পরমাণুর সংখ্যা / যৌগের আণবিক ভর) × 100%
+English Translation: Percentage composition of an element in a compound = (Atomic mass of the element × Number of atoms / Molecular mass of the compound) × 100%
+
+SAFETY INFORMATION:
+None on this page.
+
+MATHEMATICAL CALCULATIONS:
+
+MOLARITY CALCULATION FOR 0.5 MOLAR SOLUTION OF Na2CO3:
+Given: V = 200 mL, S = 0.5 Molar, M(Na2CO3) = 23*2 + 12 + 16*3 = 106
+Formula: w = (SVM) / 1000
+Calculation: w = (0.5 * 200 * 106) / 1000 = 10.6 g
+Conclusion: 10.6 g of Na2CO3 is needed to make a 200 mL 0.5 Molar solution.
+
+EXAMPLE CALCULATION FOR MOLECULAR MASS OF HCl
+Calculation: HCl Molecular mass = 1 + 35.5 = 36.5
+
+
+CHAPTER TITLE: রাসায়নিক গণনা / Chemical Calculations
+CHAPTER NUMBER: Not specified in the image
+PAGE NUMBER: 120
+MAIN TOPICS: Percentage Composition, Calculation of Percentage of elements in a Compound.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+PERCENTAGE COMPOSITION OF H IN HCL
+Bengali Definition: এখানে 36.5 গ্রাম HCl এর মধ্যে H আছে= 1 গ্রাম। অতএব, 1 গ্রাম HCl এর মধ্যে H আছে = 1/36.5 গ্রাম। অতএব, 100 গ্রাম HCl এর মধ্যে H আছে = (1x100)/36.5 গ্রাম = 2.74 গ্রাম। অতএব, H এর শতকরা সংযুতি = 2.74%
+English Translation: In 36.5 grams of HCl, there is 1 gram of H. Therefore, in 1 gram of HCl, there is 1/36.5 grams of H.  Therefore, in 100 grams of HCl, there is (1x100)/36.5 grams = 2.74 grams. Thus, the percentage composition of H is 2.74%.
+
+PERCENTAGE COMPOSITION OF Cl IN HCL
+Bengali Definition: আবার, 36.5 গ্রাম HCl এর মধ্যে cl আছে= 35.5 গ্রাম। অতএব, 1 গ্রাম HCl এর মধ্যে Cl আছে = 35.5/36.5 গ্রাম। অতএব, 100 গ্রাম HCl এর মধ্যে Cl আছে = (35.5x100)/36.5 গ্রাম = 97.26 গ্রাম। অতএব, Cl এর শতকরা সংযুতি = 97.26%
+English Translation: Again, in 36.5 grams of HCl, there is 35.5 grams of Cl. Therefore, in 1 gram of HCl, there is 35.5/36.5 grams of Cl. Therefore, in 100 grams of HCl, there is (35.5x100)/36.5 grams = 97.26 grams. Thus, the percentage composition of Cl is 97.26%.
+
+ALTERNATIVE CALCULATION OF Cl PERCENTAGE
+Bengali Definition: কিংবা অন্যভাবে বের করতে পারি: Cl এর শতকরা সংযুতি = (100-2.74)% = 97.26%
+English Translation: Or we can calculate it another way: Percentage composition of Cl = (100 - 2.74)% = 97.26%
+
+EXAMPLE PROBLEM
+
+PROBLEM: CALCULATE PERCENTAGE COMPOSITION OF H AND O IN H2O
+Bengali Definition: সমস্যা: H₂O-এর H ও ০ এর শতকরা সংযুতি হিসাব করো:
+English Translation: Problem: Calculate the percentage composition of H and O in H₂O:
+
+SOLUTION:
+Bengali Definition: সমাধান: 1 মোল H₂O এর ভর = 2+ 16 = 18 গ্রাম
+18 গ্রাম H₂O এর মধ্যে H আছে = 2 গ্রাম
+1 গ্রাম H₂O এর মধ্যে H আছে = 2/18 গ্রাম
+100 গ্রাম H₂O এর মধ্যে H আছে = (2x100)/18 গ্রাম = 11.11 গ্রাম
+কাজেই H এর শতকরা সংযুতি = 11.11%
+০ এর শতকরা সংযুতি = (100 – 11.11)% = 88.89%
+English Translation: Solution: 1 mole of H₂O has a mass of = 2 + 16 = 18 grams
+In 18 grams of H₂O, there is 2 grams of H.
+In 1 gram of H₂O, there is 2/18 grams of H.
+In 100 grams of H₂O, there is (2x100)/18 grams = 11.11 grams
+Therefore, the percentage composition of H = 11.11%
+The percentage composition of O = (100 - 11.11)% = 88.89%
+
+GENERAL FORMULA FOR PERCENTAGE COMPOSITION
+Bengali Definition: আমরা ইচ্ছা করলে শতকরা সংযুতির সূত্রটিতে মান বসিয়ে শতকরা সংযুতির মান বের করতে পারি।
+মৌলের শতকরা সংযুতি = (মৌলের পারমাণবিক ভর x পরমাণুর সংখ্যা x 100) / যৌগের আণবিক ভর
+English Translation: We can also calculate the percentage composition by using the formula.
+Percentage composition of an element = (atomic weight of element x number of atoms x 100) / Molecular weight of the compound
+
+PERCENTAGE COMPOSITION OF H, S, AND O IN H2SO4
+Bengali Definition: যেমন: H₂SO₄ যৌগে H, S এবং ০ এর শতকরা সংযুতি হচ্ছে:
+H₂SO₄ এর আণবিক ভর (1×2+ 32×1 + 16×4) = 98
+English Translation: For example, the percentage composition of H, S, and O in H₂SO₄ is:
+Molecular weight of H₂SO₄ = (1x2 + 32x1 + 16x4) = 98
+
+CALCULATION OF H PERCENTAGE IN H2SO4
+Bengali Definition: এখানে, H এর পারমাণবিক ভর 1, পরমাণুর সংখ্যা 2
+কাজেই H এর শতকরা সংযুতি = (1x2x100)/98 % = 2.04%
+English Translation: Here, the atomic weight of H is 1, and the number of atoms is 2.
+Therefore, the percentage composition of H = (1x2x100)/98 % = 2.04%
+
+CALCULATION OF S PERCENTAGE IN H2SO4
+Bengali Definition: S এর পারমাণবিক ভর 32, পরমাণুর সংখ্যা 1,
+কাজেই ১ এর শতকরা সংযুতি = (32x1x100)/98 % = 32.65%
+English Translation: The atomic weight of S is 32 and the number of atoms is 1.
+Therefore, the percentage composition of S = (32x1x100)/98 % = 32.65%
+
+
+```
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not explicitly mentioned on this page
+PAGE NUMBER: 121
+MAIN TOPICS: Percentage composition, Empirical formula
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+কাজ: NaCl যৌগে Na এবং Cl এর শতকরা সংযুতি বের করো।
+Translation: Task: Calculate the percentage composition of Na and Cl in NaCl.
+Type: Numerical
+Chemical Components: NaCl
+Key Concept: Percentage Composition
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: স্থূল সংকেত (Empirical Formula)
+Bengali Definition: একটি অণুতে বিভিন্ন পরমাণুর সংখ্যার অনুপাত বোঝানোর জন্য "স্থূল সংকেত" এর ধারণাটি প্রবর্তন করা হয়েছে। অর্থাৎ যে সংকেত দিয়ে অণুতে বিদ্যমান পরমাণুগুলোর অনুপাত প্রকাশ করে তাকে স্থূল সংকেত বলে।
+English Translation: The concept of "empirical formula" has been introduced to represent the ratio of the number of different atoms in a molecule. In other words, the formula that expresses the ratio of the atoms present in a molecule is called the empirical formula.
+Related Chemical Equations: None on this page
+Examples: For H₂O₂, the empirical formula is HO.
+
+TERM OR PROPERTY NAME: শতকরা সংযুতি (Percentage Composition)
+Bengali Definition:  কোনো যৌগের ভেতরকার মৌলগুলোর শতকরা সংযুতি এবং আপেক্ষিক পারমাণবিক ভর বা পারমাণবিক ভর জানি তাহলে খুব সহজেই যৌগটির স্থূল সংকেত বের করতে পারব।
+English Translation: If we know the percentage composition of the elements within a compound and their relative atomic masses or atomic masses, then we can easily determine the empirical formula of the compound.
+Related Chemical Equations: None on this page
+Examples: None on this page
+
+SAFETY INFORMATION:
+None on this page
+
+EXTRACTION PRIORITY NOTES:
+1. The mathematical calculations for the given problem of Al2(SO4)3 are well preserved.
+2. The definition of empirical formula and percentage composition has been extracted with Bengali and English translations.
+3. The question for practice at the end of the page has been extracted for use in an LLM.
+4. The step for determining the empirical formula has been clearly marked.
+```
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not available
+PAGE NUMBER: 122
+MAIN TOPICS: Empirical Formula, Percentage Composition
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+None on this page
+
+QUESTIONS AND PROBLEMS:
+Question 1
+কোনো যৌগের মৌলগুলোর শতকরা সংযুতি H = 2.04%, S = 32.65%, O = 65.30% দেওয়া আছে। এর স্থূল সংকেত বের করো।
+Translation: The percentage composition of elements in a compound are given as H = 2.04%, S = 32.65%, and O = 65.30%. Find the empirical formula of this compound.
+Type: Numerical
+Chemical Components: H, S, O
+Key Concept: Empirical Formula Calculation
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+None on this page
+
+SAFETY INFORMATION:
+None on this page
+
+CALCULATION STEPS TO DETERMINE EMPIRICAL FORMULA:
+Step 1:
+   Bengali: প্রথমে মৌলগুলোর শতকরা সংযুতিকে তার পারমাণবিক ভর দিয়ে ভাগ করি
+   English Translation: First, divide the percentage composition of each element by its atomic mass.
+
+   Example 1:
+     C = 92.31 / 12 = 7.69
+     H = 7.69 / 1 = 7.69
+   Example 2:
+     H = 2.04 / 1 = 2.04
+     S = 32.65 / 32 = 1.02
+     O = 65.30 / 16 = 4.08
+
+Step 2:
+   Bengali: ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করতে হবে এবং ভাগফলগুলোকে নিকটতম পূর্ণসংখ্যায় পরিণত করার জন্য প্রয়োজনে যেকোনো সংখ্যা দিয়ে সবগুলোকে গুণ করতে হবে।
+    English Translation: Divide each of the results obtained in step 1 by the smallest of those numbers. Multiply all results by a suitable integer to convert all numbers to nearest whole numbers if necessary.
+
+   Example 1:
+     C = 7.69 / 7.69 = 1
+     H = 7.69 / 7.69 = 1
+
+Step 3:
+   Bengali: মৌলসমূহের প্রতীকের নিচে ডান পাশে ঐ পূর্ণসংখ্যাগুলো বসিয়ে দিলেই স্থূল সংকেত তৈরি হয়ে যাবে।
+   English Translation: Write the whole numbers obtained in Step 2 as subscripts to the right of the corresponding element's symbol to get the empirical formula.
+
+   Example 1:
+   C₁H₁ = CH
+
+Step 4:
+  Bengali: মৌলগুলোর প্রতীকের নিচে ডান পাশে 1 থাকলে সেটি লেখার প্রয়োজন নেই।
+  English Translation: If the subscript for any element is 1, it need not be written.
+
+Example 2 continues:
+H = 2.04 / 1.02 = 2
+S = 1.02 / 1.02 = 1
+O = 4.08 / 1.02 = 4
+Therefore, the empirical formula is H₂SO₄
+
+
+CHAPTER METADATA
+Chapter Title: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+Chapter Number: Not specified in the text
+Page Number: 123
+Main Topics: Empirical Formula, Percentage Composition
+
+CHEMICAL EQUATIONS
+None directly present on this page.
+
+EXPERIMENTAL PROCEDURES
+None directly present on this page.
+
+DIAGRAMS AND ILLUSTRATIONS
+None present on this page
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+একটি যৌগে হাইড্রোজেন ও অক্সিজেন আছে। হাইড্রোজেন ও অক্সিজেনের শতকরা সংযুতি যথাক্রমে 11.11% ও 88.89%। এর স্থূল সংকেত কত?
+Translation: A compound contains hydrogen and oxygen. The percentage composition of hydrogen and oxygen are 11.11% and 88.89% respectively. What is the empirical formula of the compound?
+Type: Analytical
+Chemical Components: Hydrogen (H), Oxygen (O)
+Key Concept: Empirical formula determination from percentage composition.
+
+Question 2
+কাজ: একটি পরীক্ষার মাধ্যমে দেখা গেল ৩ গ্রাম কার্বন পরমাণু এবং ৪ গ্রাম অক্সিজেন পরমাণুর সাথে যুক্ত হয়ে যৌগ গঠন করেছে। সেই যৌগের স্থূল সংকেত বের করো।
+Translation: TASK: In an experiment, it was found that 3 grams of carbon atoms combined with 8 grams of oxygen atoms to form a compound. Find the empirical formula of that compound.
+Type: Numerical
+Chemical Components: Carbon (C), Oxygen (O)
+Key Concept: Empirical formula determination from mass data.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+None present on this page
+
+SAFETY INFORMATION
+None present on this page
+
+ADDITIONAL NOTES
+The page provides examples and exercises for calculating the empirical formula of chemical compounds. It guides the user through the steps of dividing the mass percentages by their respective atomic masses, then by the smallest number of the results. Finally, it shows how to represent the empirical formula using these ratios.
+The page uses multiple numerical examples to clarify the concept.
+Page Reference: 123
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: 6
+PAGE NUMBER: 124
+MAIN TOPICS: Empirical Formula, Molecular Formula, Percentage Composition
+
+6.2.2 শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয় / 6.2.2 Determination of Molecular Formula from Percentage Composition
+
+To determine the molecular formula of a compound, first, the empirical formula must be determined from the percentage composition of the compound. If the mass of the empirical formula of a compound is equal to the molecular mass of that compound, then the empirical formula of the compound will be the molecular formula. However, if the mass of the empirical formula of a compound is not equal to the molecular mass of the compound, then it must be determined how many times the molecular mass is greater than the mass of the empirical formula.
+
+If the molecular mass is n times greater than the mass of the empirical formula, then
+আণবিক সংকেত = (স্থূল সংকেত)n / Molecular Formula = (Empirical Formula)n
+
+যৌগের আণবিক ভর / Molecular mass of the compound
+এখানে, n =
+স্থূল সংকেতের ভর / Mass of the empirical formula
+Here, n =
+
+ধরা যাক, কোনো যৌগের C = 92.31%, H = 7.69% দেওয়া আছে। ঐ যৌগের আণবিক ভর = 78 / Suppose, the percentage of C = 92.31%, H = 7.69% are given for a compound. The molecular mass of the compound is 78.
+
+যৌগটির আণবিক সংকেত বের করতে হবে। / The molecular formula of the compound has to be determined.
+
+মৌলগুলোর শতকরা সংযুতিকে তাদের পারমাণবিক ভর দিয়ে ভাগ করি / Divide the percentage composition of the elements by their atomic mass:
+C = 92.31/12 = 7.69
+H = 7.69/1 = 7.69
+
+ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করি / Divide the quotients by the smallest quotient:
+C = 7.69/7.69 = 1
+H = 7.69/7.69 = 1
+
+এই মানগুলো এবং মৌলের প্রতীক দিয়ে সংকেত আকারে লিখলেই স্থূল সংকেত পাওয়া যাবে। / By writing these values with the element symbols, the empirical formula can be obtained.
+
+অতএব, যৌগটির স্থূল সংকেত C₁H₁ = CH / Therefore, the empirical formula of the compound is C₁H₁= CH
+
+যৌগের স্থূল সংকেত CH হলে এর আণবিক সংকেত হবে: (CH)n = Cn Hn / If the empirical formula of the compound is CH, then the molecular formula will be (CH)n = Cn Hn
+স্থূল সংকেত CH এর ভর= 12×1 + 1×1 = 13 এবং আণবিক ভর = 78 / The mass of the empirical formula CH is = 12x1 + 1x1 = 13 and the molecular mass = 78
+
+যৌগের আণবিক ভর / Molecular mass of the compound
+অতএব, n = = 78/(12+1) = 6
+স্থূল সংকেতের ভর / Mass of the empirical formula
+Therefore, n =
+
+কাজেই যৌগটির আণবিক সংকেত C₆H₆ / Therefore, the molecular formula of the compound is C₆H₆
+
+
+PAGE METADATA
+Chapter Title: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+Chapter Number: Not specified
+Page Number: 125
+Main Topics: Empirical Formula, Chemical Reactions, Chemical Equations
+
+CHEMICAL EQUATIONS
+Not applicable on this page.
+
+EXPERIMENTAL PROCEDURES
+Not applicable on this page.
+
+DIAGRAMS AND ILLUSTRATIONS
+Not applicable on this page.
+
+QUESTIONS AND PROBLEMS
+Not applicable on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+EMPIRICAL FORMULA
+Bengali Definition: কোনো যৌগের অণুতে বিদ্যমান পরমাণুসমূহের অনুপাতকে যে সংকেতের মাধ্যমে প্রকাশ করা হয় তাকে স্থূল সংকেত বলে।
+English Translation: The simplest whole number ratio of atoms in a compound is known as the empirical formula.
+Related Chemical Equations:  C6H12O6 → CH2O
+Examples: Glucose (C6H12O6) has empirical formula CH2O, Benzene (C6H6) has empirical formula CH, Ethene (C2H4) has empirical formula CH2.  Water (H2O) has empirical formula H2O, Sulfuric Acid (H2SO4) has empirical formula H2SO4.
+
+CHEMICAL REACTION
+Bengali Definition: যদি কোনো পরিবর্তনের ফলে কোনো পদার্থ তার নিজের ধর্ম ও বৈশিষ্ট্য হারিয়ে নতুন ধর্ম লাভ করে সেই পরিবর্তনকে রাসায়নিক পরিবর্তন বলে। যে প্রক্রিয়ায় রাসায়নিক পরিবর্তন ঘটে সেই প্রক্রিয়াকে রাসায়নিক বিক্রিয়া বলে।
+English Translation: If a substance loses its original properties and gains new ones, the change is called a chemical change.  The process where a chemical change occurs is called a chemical reaction.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+CHEMICAL EQUATION
+Bengali Definition: রাসায়নিক বিক্রিয়াকে সংক্ষেপে উপস্থাপন করার জন্য যে সমীকরণ ব্যবহার করা হয় সেই সমীকরণকে রাসায়নিক সমীকরণ বলা হয়।
+English Translation: The equation used to represent a chemical reaction in a concise way is called a chemical equation.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+REACTANT
+Bengali Definition: যে সকল পদার্থ নিয়ে রাসায়নিক বিক্রিয়া শুরু করা হয় সেই সকল পদার্থকে বলা হয় বিক্রিয়ক।
+English Translation: The substances that initiate a chemical reaction are called reactants.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+PRODUCT
+Bengali Definition: বিক্রিয়ার ফলে নতুন ধর্মবিশিষ্ট যে সকল পদার্থ উৎপন্ন হয় সেই সকল পদার্থকে উৎপাদ বলা হয়।
+English Translation: The substances that are produced during a chemical reaction, with new properties, are called products.
+Related Chemical Equations: Not applicable
+Examples: Not applicable
+
+SAFETY INFORMATION
+Not applicable on this page.
+
+
+CHAPTER TITLE: রাসায়নিক সমীকরণ / Chemical Equations
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 126
+MAIN TOPICS: Chemical equations, Balancing chemical equations, Physical states in equations
+
+1.  Chemical Equations
+    -   In mathematics, an equal sign (=) is used between the two sides of an equation; similarly, in a chemical reaction, reactants are written on the left side and products on the right side, with either an equal sign (=) or an arrow (→) between them.
+
+2.  Chemical Equations
+    -   Reactants and products are represented using chemical symbols or formulas. If there are multiple reactants, a plus sign (+) is placed between them. Similarly, if there are multiple products, a plus sign (+) is placed between them.
+
+3.  Chemical Properties and Definitions
+    TERM OR PROPERTY NAME: রাসায়নিক সমীকরণের সমতা / Balancing chemical equations
+    Bengali Definition: যে প্রক্রিয়ায় সমীকরণের বাম পাশের বিভিন্ন মৌলের পরমাণুর সংখ্যা এবং ডান পাশের ঐ একই মৌলের পরমাণুর সংখ্যা সমান করা হয়। সেই প্রক্রিয়াকে রাসায়নিক সমীকরণের সমতা বলা হয়।
+    English Translation: The process by which the number of atoms of different elements on the left side of the equation is made equal to the number of atoms of the same elements on the right side is called balancing chemical equations.
+    Related Chemical Equations:
+        2H2 + O2 → 2H2O
+        2H2 + O2 = 2H2O
+
+4.  Chemical Equations
+    -   Sometimes reactions are shown without balancing, in which case an arrow (→) is used instead of an equal sign (=).
+    H2 + O2 → H2O
+
+5. Chemical Equations
+    -   Often, the physical states of reactants and products are indicated in a chemical equation. The physical state of a substance is indicated in parentheses after the substance's formula. If a substance is solid, the first letter of its English name (s) is written. If it is liquid, the first letter of its English name (l) is written. If it is gas, the first letter of its English name (g) is written. If a substance is dissolved in water, the solution is called an aqueous solution, and the first two letters of its English name (aq) are written. In the reaction above, hydrogen and oxygen are gases, and the product, water, is a liquid, so they are indicated as such.
+    2H2(g) + O2(g) → 2H2O(l)
+
+6.  Chemical Equations
+    -   The purpose of a chemical equation is to show which substances react to form which products. Sometimes, this can be shown without balancing.
+    -   However, if the amount of heat produced or absorbed in a reaction needs to be shown in the equation, then the chemical reaction must be balanced, and the physical states of the reactants and products (e.g., solid, liquid, gaseous, aqueous state, etc.) must be written.
+
+
+CHAPTER METADATA
+Chapter Title: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+Chapter Number: Not explicitly stated in text.
+Page Number: 127
+Main Topics: Chemical equations, Balancing chemical equations, Reactants and products
+
+CHEMICAL EQUATIONS
+
+C(s) + O2(g) → CO2(g)
+
+CaCO3(s) + HCl(aq) → CaCl₂(aq) + CO2 (g) + H₂O(1)
+
+2Mg(NO3)2(s)  → 2MgO(s) + 4NO2(g) + O2(g)
+
+Mg + HCl  →  MgCl2 + H2
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: রাসায়নিক সমীকরণ / Chemical Equation
+Bengali Definition: রাসায়নিক বিক্রিয়াকে সংক্ষিপ্তরূপে রাসায়নিক সমীকরণের সাহায্যে প্রকাশ করা হয়।
+English Translation: Chemical reactions are expressed in brief using chemical equations.
+
+TERM OR PROPERTY NAME: ভরের সংরক্ষণসূত্র / Law of Conservation of Mass
+Bengali Definition: যেহেতু রাসায়নিক বিক্রিয়াতে বিক্রিয়ক এবং উৎপাদ ভরের সংরক্ষণসূত্র মেনে চলে
+English Translation: Because in a chemical reaction, the reactants and products obey the law of conservation of mass.
+
+TERM OR PROPERTY NAME: রাসায়নিক সমীকরণের সমতাকরণ / Balancing Chemical Equations
+Bengali Definition: বিক্রিয়ার সমীকরণে বিক্রিয়ক পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যা উৎপাদ পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যার সমান থাকে।
+English Translation: In a reaction equation, the number of atoms of various elements in the reactants is equal to the number of atoms of various elements in the products.
+
+TERM OR PROPERTY NAME: বিক্রিয়ক / Reactants
+Bengali Definition: বিক্রিয়াতে অংশগ্রহণকারী পদার্থ।
+English Translation: Substances that participate in the reaction.
+
+TERM OR PROPERTY NAME: উৎপাদ / Products
+Bengali Definition: বিক্রিয়ার ফলে উৎপন্ন পদার্থ।
+English Translation: Substances produced as a result of the reaction.
+
+TEXT EXPLANATION
+
+কঠিন কার্বন অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাইঅক্সাইড গ্যাস উৎপন্ন করে। এক্ষেত্রে রাসায়নিক সমীকরণকে নিম্নরূপে লেখা যায়।
+Translation: Solid carbon reacts with oxygen to produce carbon dioxide gas. In this case, the chemical equation can be written as follows.
+
+কঠিন ক্যালসিয়াম কার্বনেট হাইড্রোক্লোরিক এসিডের জলীয় দ্রবণের সাথে বিক্রিয়া করে ক্যালসিয়াম ক্লোরাইড, গ্যাসীয় কার্বন ডাইঅক্সাইড এবং তরল পানি উৎপন্ন হয়।
+Translation: Solid calcium carbonate reacts with an aqueous solution of hydrochloric acid to produce calcium chloride, gaseous carbon dioxide and liquid water.
+
+কোনো কোনো রাসায়নিক বিক্রিয়ায় তাপ প্রয়োগে সংঘটিত হয় সেক্ষেত্রে তীরের উপর একটি ডেলটা চিহ্ন (Δ) দিতে হবে। যেমন কঠিন ম্যাগনেসিয়াম নাইট্রেটকে তাপ প্রয়োগ করলে ম্যাগনেসিয়াম অক্সাইড, নাইট্রোজেন ডাইঅক্সাইড গ্যাস এবং অক্সিজেন গ্যাস তৈরি হয়।
+Translation: Some chemical reactions occur when heat is applied, in such cases a delta sign (Δ) should be placed over the arrow. For example, when solid magnesium nitrate is heated, magnesium oxide, nitrogen dioxide gas and oxygen gas are produced.
+
+রাসায়নিক বিক্রিয়াকে সংক্ষিপ্তরূপে রাসায়নিক সমীকরণের সাহায্যে প্রকাশ করা হয়। যেহেতু রাসায়নিক বিক্রিয়াতে বিক্রিয়ক এবং উৎপাদ ভরের সংরক্ষণসূত্র মেনে চলে তাই বিক্রিয়ার সমীকরণে বিক্রিয়ক পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যা উৎপাদ পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যার সমান থাকে।
+Translation: Chemical reactions are expressed in brief using chemical equations. Because in a chemical reaction, the reactants and products obey the law of conservation of mass, therefore, in the reaction equation, the number of atoms of various elements in the reactants is equal to the number of atoms of various elements in the products.
+
+রাসায়নিক সমীকরণের তীর চিহ্ন বা সমান চিহ্নের বাম পাশে কোনো মৌলের যে কয়টি পরমাণু থাকে তীর চিহ্ন বা সমান চিহ্নের ডান পাশে মৌলের সেই কয়টি পরমাণু থাকলে আমরা ঐ রাসায়নিক সমীকরণ সমতাকরণ হয়েছে বলে বুঝে থাকি।
+Translation: In a chemical equation, if the number of atoms of an element on the left side of the arrow or equal sign is the same as the number of atoms of that element on the right side of the arrow or equal sign, we understand that the chemical equation has been balanced.
+
+ম্যাগনেসিয়াম ও হাইড্রোক্লোরিক এসিডকে বিক্রিয়ক হিসেবে ব্যবহার করলে আমরা ম্যাগনেসিয়াম ক্লোরাইড ও হাইড্রোজেন পাই এটি সত্যি, কাজেই বিক্রিয়াটি সঠিক। কিন্তু দুইপাশে হাইড্রোজেন ও ক্লোরিন পরমাণুর সংখ্যা সমান নয়, তাই এই সমীকরণটির সমতাকরণ হয়নি।
+Translation: If we use magnesium and hydrochloric acid as reactants, we get magnesium chloride and hydrogen, which is true and thus the reaction is correct. But the number of hydrogen and chlorine atoms is not the same on both sides, therefore, this equation is not balanced.
+
+END OF EXTRACTION
+
+
+CHAPTER TITLE: বিক্রিয়া সমতাকরণের পদ্ধতি / Methods of Balancing Reactions
+CHAPTER NUMBER: Not specified on page
+PAGE NUMBER: 128
+MAIN TOPICS: Chemical Reaction Balancing, Stoichiometry
+
+CHEMICAL EQUATIONS:
+Mg + HCl → MgCl2 + H2
+
+EXPERIMENTAL PROCEDURES:
+N/A
+
+DIAGRAMS AND ILLUSTRATIONS:
+N/A
+
+QUESTIONS AND PROBLEMS:
+N/A
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: বিক্রিয়া সমতাকরণ (Balancing Reactions)
+Bengali Definition: বিভিন্ন মৌলের পরমাণুর সংখ্যা সমান করার জন্য বিক্রিয়ক এবং উৎপাদের সংকেতের সামনে প্রয়োজনীয় সংখ্যা (1, 2, 3, 4 ...) দিয়ে গুণ করতে হয় এবং পরমাণুর সংখ্যা সমান করার জন্য চেষ্টা করে যেতে হয়।
+English Translation: To balance a reaction, the number of atoms of each element must be made equal on both sides of the equation by multiplying the formulas of reactants and products by appropriate coefficients (1, 2, 3, 4...).
+
+TERM OR PROPERTY NAME:  সমীকরণ (Equation)
+Bengali Definition: প্রথমে বিক্রিয়ক এবং উৎপাদের সঠিক সংকেত লিখে বিক্রিয়ার সমীকরণ লেখা হয়।
+English Translation: First, the correct formulas of reactants and products are written to create the reaction equation.
+
+TERM OR PROPERTY NAME:  যৌগিক অণু (Compound Molecule)
+Bengali Definition: প্রথমে যৌগিক অণুতে বিদ্যমান মৌলের পরমাণু সংখ্যার সমান করা হয় পরে মৌলিক অণুতে বিদ্যমান মৌলের পরমাণু সংখ্যার সমান করা হয়।
+English Translation: First, the number of atoms of elements in compound molecules are balanced, then the atoms of elements in simple molecules are balanced.
+
+TERM OR PROPERTY NAME:  সমতা (Balance)
+Bengali Definition: সমীকরণের উভয় পাশে প্রত্যেকটি মৌলের পরমাণু সংখ্যা সমান বা সমতা হলেই ঐ সমীকরণের সমতা হয়েছে বলে বিবেচিত হবে।
+English Translation:  A chemical equation is considered balanced when the number of atoms of each element is equal on both sides of the equation.
+
+SAFETY INFORMATION:
+N/A
+
+ADDITIONAL NOTES:
+The text provides a step-by-step approach to balancing chemical equations. The text emphasizes that there are no hard and fast rules, but certain techniques can be used. The balancing is done by adding coefficients before the formulas. It starts with compound molecules first then moves to simple molecules.
+
+The specific example given is that:
+The reaction of Magnesium and Hydrochloric Acid is not balanced at first.
+Mg + HCl → MgCl2 + H2
+It explains that number of chlorine atoms are 1 on left but 2 on right, and that the number of hydrogen atoms are also different on both sides, but that the number of Magnesium atoms are equal. It states the first step is to balance the Chlorine atoms, by multiplying HCl by 2.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not explicitly stated
+PAGE NUMBER: 129
+MAIN TOPICS: Balancing chemical equations, stoichiometry
+
+CHEMICAL EQUATIONS:
+Mg + 2HCl → MgCl2 + H2
+Mg + 2HCl = MgCl2 + H2
+Na2CO3 + HCl → NaCl + H2O + CO2
+Na2CO3 + HCl → 2NaCl + H2O + CO2
+Na2CO3 + 2HCl → 2NaCl + H2O + CO2
+Na2CO3 + 2HCl = 2NaCl + H2O + CO2
+Al2O3 + HCl → AlCl3 + H2O
+Al2O3 + HCl → 2AlCl3 + H2O
+Al2O3 + 6HCl → 2AlCl3 + H2O
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+CHEMICAL EQUATION BALANCING
+Bengali Definition: উপরের বিক্রিয়ার বাম দিকের প্রতিটি পরমাণুর সংখ্যা এবং ডান দিকের প্রতিটি পরমাণুর সংখ্যা সমান হয়েছে। অতএব, রাসায়নিক বিক্রিয়ার বা রাসায়নিক সমীকরণের সমতা হয়েছে। সমীকরণের সমতা হয়ে গেলে তাকে সমান চিহ্ন দ্বারাও লেখা যায়।
+English Translation: The number of each type of atom on the left side of the reaction is equal to the number of each type of atom on the right side. Therefore, the chemical reaction or chemical equation is balanced. Once the equation is balanced, it can also be written with an equals sign.
+Related Chemical Equations: Mg + 2HCl = MgCl2 + H2
+
+EXAMPLES:
+EXAMPLE 2
+Bengali Text: Na2CO3 + HCl → NaCl + H2O + CO2 এই সমীকরণে সমতা নেই। কারণ বাম পাশে Na দুটি ডান পাশে Na একটি অতএব, ডান পাশে NaCl কে 2 দ্বারা গুণ করি। এখনো সমতা হয়নি। ডান পাশে Cl দুটি বাম পাশে Cl একটি। বাম পাশের HCl কে 2 দ্বারা গুণ করি।
+English Translation: The equation Na2CO3 + HCl → NaCl + H2O + CO2 is not balanced. Because there are two Na atoms on the left and one on the right, multiply NaCl by 2 on the right side. It's still not balanced because there are two Cl atoms on the right side, and one on the left. Multiply HCl by 2 on the left side.
+
+EXAMPLE 3
+Bengali Text: অ্যালুমিনিয়াম অক্সাইড হাইড্রোক্লোরিক এসিডের সাথে বিক্রিয়া করে অ্যালুমিনিয়াম ক্লোরাইড ও পানি উৎপন্ন হয়। Al2O3 + HCl → AlCl3 + H2O এই সমীকরণে সমতা নেই। Al কে সমান করার জন্য ডান পাশে AlCl, কে 2 দিয়ে গুণ করো। এখনো সমতা হয়নি। Cl এর সমতাকরণের জন্য বাম পাশে HCl কে 6 দিয়ে গুণ দাও।
+English Translation: Aluminum oxide reacts with hydrochloric acid to produce aluminum chloride and water. Al2O3 + HCl → AlCl3 + H2O This equation is not balanced. To balance Al, multiply AlCl3 by 2 on the right side. It's still not balanced because Cl is not balanced. To balance Cl, multiply HCl by 6 on the left side.
+Related Chemical Equations:
+Al2O3 + HCl → AlCl3 + H2O
+Al2O3 + HCl → 2AlCl3 + H2O
+Al2O3 + 6HCl → 2AlCl3 + H2O
+
+
+CHAPTER TITLE: মোল এবং রাসায়নিক সমীকরণ / Mole and Chemical Equations
+CHAPTER NUMBER: 6
+PAGE NUMBER: 130
+MAIN TOPICS: Stoichiometry, Balancing chemical equations
+
+CHEMICAL EQUATIONS:
+Al2O3 + 6HCl → 2AlCl3 + 3H2O
+Al2O3 + 6HCl = 2AlCl3 + 3H2O
+2Mg(s) + O2(g) → 2MgO(s)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+STOICHIOMETRY
+Bengali Definition: রসায়নের যে শাখায় বিক্রিয়কের পরিমাণ থেকে উৎপাদের পরিমাণ এবং উৎপাদের পরিমাণ থেকে বিক্রিয়কের পরিমাণের হিসাব করা হয় তাকে স্টয়কিওমিতি (Stoichiometry) বলে।
+English Translation:  Stoichiometry is the branch of chemistry that deals with the quantitative relationships between reactants and products in a chemical reaction. It involves calculating the amount of reactants needed or products formed in a reaction.
+Related Chemical Equations: Al2O3 + 6HCl → 2AlCl3 + 3H2O, 2Mg(s) + O2(g) → 2MgO(s)
+
+MOLE
+Bengali Definition: (Implied but not explicitly stated): A mole is a unit of measurement that relates the number of particles to mass
+English Translation:  A mole is a unit of measurement that represents a specific number of particles (6.023 x 10^23) and is used to quantify the amount of substance.
+Examples: 2 মোল Mg পরমাণু, 1 মোল O2 অণু, 2 মোল MgO অণু (2 moles of Mg atoms, 1 mole of O2 molecules, 2 moles of MgO molecules)
+
+RELATIONSHIP BETWEEN MOLES AND MASS
+Bengali Definition: (Implied) The number of moles of a substance is related to its mass through its molar mass.
+English Translation:  The number of moles of a substance is directly related to its mass using its molar mass (grams/mole).
+Examples: 2 × 24 = 48 গ্রাম (2 moles of Mg * 24 g/mol = 48 grams of Mg), 1 × 32 = 32 গ্রাম (1 mole of O2 * 32 g/mol = 32 grams of O2), 2 × 40 = 80 গ্রাম (2 moles of MgO * 40 g/mol = 80 grams of MgO)
+
+TEXT ANALYSIS:
+The page discusses the concept of stoichiometry, explaining how to calculate the amount of reactants and products involved in a chemical reaction. It emphasizes that chemical reactions occur in definite proportions, relating moles of reactants to moles of products. The example of balancing an equation and the reaction between magnesium and oxygen to form magnesium oxide are used to illustrate these principles. The relationships between moles, mass, and Avogadro’s number are highlighted.
+
+ADDITIONAL NOTES:
+- The first equation shows balancing by multiplying H2O by 3, this was corrected before adding the equal sign.
+- The page shows how to calculate the mass of reactants and products using molar mass.
+- The page emphasizes the quantitative relationship between reactants and products in chemical reactions.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 131
+MAIN TOPICS: Stoichiometry, Mole concept, Chemical reaction calculations
+
+CHEMICAL EQUATIONS:
+(No chemical equations are explicitly written on this page, but the reaction is implicitly referred to using stoichiometric calculations.)
+2Mg + O2 → 2MgO
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+STOYCHIOMETRY
+Bengali Definition: রাসায়নিক বিক্রিয়ার সমতাযুক্ত সমীকরণ এর নিচে প্রদত্ত এই সব হিসাব-নিকাশকেই বিক্রিয়ার স্টয়কিওমিতি বলা হয়।
+English Translation: All the calculations provided under the balanced equation of a chemical reaction are called the stoichiometry of the reaction.
+
+GAS VOLUME AT STP
+Bengali Definition: যদি বিক্রিয়ক এবং উৎপাদ উভয়েই গ্যাসীয় হয় তবে স্টয়কিওমিতিতে প্রমাণ অবস্থায় 1 মোল গ্যাসীয় পদার্থের আয়তন হয় 22.4 লিটার।
+English Translation: If both the reactants and products are gaseous, then in stoichiometry, the volume of 1 mole of a gaseous substance at standard temperature and pressure is 22.4 liters.
+
+QUESTIONS AND PROBLEMS:
+
+QUESTION 1
+Bengali question text: 5 গ্রাম ম্যাগনেসিয়াম ধাতু কত গ্রাম অক্সিজেনের সাথে বিক্রিয়া করে সম্পূর্নরূপে ম্যাগনেসিয়াম অক্সাইড তৈরি করে।
+Translation: 5 grams of magnesium metal reacts with how many grams of oxygen to completely produce magnesium oxide?
+Type: Numerical
+Chemical Components: Mg, O2, MgO
+Key Concept: Stoichiometry, mass-mass relationship
+
+SOLUTION 1:
+Bengali Solution:
+ম্যাগনেসিয়াম অক্সিজেনের সাথে বিক্রিয়া করে ম্যাগনেসিয়াম অক্সাইড তৈরি করে। এই বিক্রিয়ার সমতাযুক্ত সমীকরণ এবং স্টয়কিওমিতি পূর্বের পৃষ্ঠায় দেখানো হয়েছে। বিক্রিয়ার এই স্টয়কিওমিতি অনুযায়ী লেখা যায়:
+48 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে 32 গ্রাম অক্সিজেনের সাথে
+কাজেই 1 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে  1×32/48  গ্রাম অক্সিজেনের সাথে
+5 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে  (1×32×5)/48 = 3.33 গ্রাম অক্সিজেনের সাথে
+English Solution:
+Magnesium reacts with oxygen to produce magnesium oxide. The balanced equation and stoichiometry of this reaction have been shown on the previous page. According to the stoichiometry of this reaction, we can write:
+48 grams of magnesium metal reacts with 32 grams of oxygen.
+Therefore, 1 gram of magnesium metal reacts with 1x32/48 grams of oxygen
+5 grams of magnesium metal reacts with (1x32x5)/48 = 3.33 grams of oxygen
+
+QUESTION 2
+Bengali question text: 2 গ্রাম ম্যাগনেসিয়াম ধাতুর সাথে প্রয়োজনীয় পরিমাণ অক্সিজেন সরবরাহ করলে কত গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয়।
+Translation: How many grams of magnesium oxide are produced when 2 grams of magnesium metal is supplied with the required amount of oxygen?
+Type: Numerical
+Chemical Components: Mg, O2, MgO
+Key Concept: Stoichiometry, mass-mass relationship
+
+SOLUTION 2:
+Bengali Solution:
+বিক্রিয়ার স্টয়কিওমিতি অনুযায়ী লেখা যায়:
+48 গ্রাম Mg ধাতু থেকে উৎপন্ন হয় ৮০ গ্রাম ম্যাগনেসিয়াম অক্সাইড
+1 গ্রাম Mg ধাতু থেকে উৎপন্ন হয়  80/48  গ্রাম ম্যাগনেসিয়াম অক্সাইড
+2 গ্রাম Mg ধাতু থেকে উৎপন্ন হয়  (2x80)/48 = 3.33 গ্রাম MgO
+English Solution:
+According to the stoichiometry of the reaction, it can be written:
+48 grams of Mg metal produces 80 grams of magnesium oxide.
+1 gram of Mg metal produces 80/48 grams of magnesium oxide.
+2 grams of Mg metal produces (2x80)/48 = 3.33 grams of MgO
+
+QUESTION 3
+Bengali question text: প্রয়োজনীয় পরিমাণ ম্যাগনেসিয়াম সরবরাহ করলে 10 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন করতে কত গ্রাম অক্সিজেন প্রয়োজন?
+Translation: How many grams of oxygen are needed to produce 10 grams of magnesium oxide when the required amount of magnesium is supplied?
+Type: Numerical
+Chemical Components: Mg, O2, MgO
+Key Concept: Stoichiometry, mass-mass relationship
+
+SOLUTION 3:
+Bengali Solution:
+বিক্রিয়ার স্টয়কিওমিতি অনুযায়ী লেখা যায়:
+80 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয় 32 গ্রাম অক্সিজেন থেকে
+1 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয়  32/80  গ্রাম অক্সিজেন থেকে
+English Solution:
+According to the stoichiometry of the reaction, it can be written:
+80 grams of magnesium oxide is produced from 32 grams of oxygen.
+1 gram of magnesium oxide is produced from 32/80 grams of oxygen.
+
+
+CHAPTER TITLE: রাসায়নিক গণনা / Chemical Calculations
+CHAPTER NUMBER: 6
+PAGE NUMBER: 132
+MAIN TOPICS: Stoichiometry, Limiting Reactants
+
+10 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয় 32×10/80 = 4 গ্রাম অক্সিজেন থেকে
+10 grams of Magnesium oxide is produced from 32*10/80 = 4 grams of oxygen.
+
+CHEMICAL EQUATIONS:
+N2(g) + 3H2(g) → 2NH3(g)
+
+PROBLEM:
+সমস্যা: 5টি N₂ অণু থেকে কতটি NH₃ অণু উৎপন্ন হবে?
+Translation: Problem: How many NH₃ molecules will be produced from 5 N₂ molecules?
+
+SOLUTION:
+N2(g) + 3H2(g) → 2NH3(g)
+6.023×10²³ molecules of N₂ + 3 x 6.023×10²³ molecules of H₂ → 2 x 6.023×10²³ molecules of NH₃
+From the reaction equation, we can write:
+6.023 x 10²³ molecules of N₂ produce 2 x 6.023 x 10²³ molecules of NH₃
+Therefore, 1 molecule of N₂ produces 2 x 6.023 x 10²³ / 6.023 x 10²³ = 2 molecules of NH₃
+Therefore, 5 molecules of N₂ will produce 2 x 5 = 10 molecules of NH₃
+
+QUESTIONS AND PROBLEMS:
+Question 1
+কাজ: 6 মোল পানি উৎপন্ন করতে কত মোল O₂ প্রয়োজন হয়?
+Translation: Activity: How many moles of O₂ are required to produce 6 moles of water?
+Type: Numerical
+Chemical Components: Water, Oxygen
+Key Concept: Stoichiometry
+
+Question 2
+কাজ: প্রমাণ তাপমাত্রা ও চাপে 4 লিটার N₂ থেকে কত লিটার NH₃ পাওয়া যাবে। এখানে বিক্রিয়ক ও উৎপাদ সকল পদার্থ গ্যাসীয়।
+Translation: Activity: How many liters of NH₃ can be obtained from 4 liters of N₂ at standard temperature and pressure? Here, all reactants and products are gaseous.
+Type: Numerical
+Chemical Components: Nitrogen, Ammonia
+Key Concept: Stoichiometry, Gas Laws
+
+LIMITING REACTANT:
+6.4 লিমিটিং বিক্রিয়ক (Limiting Reactant)
+
+TERM OR PROPERTY NAME
+LIMITING REACTANT
+Bengali Definition: রাসায়নিক বিক্রিয়ায় যে সকল পদার্থ অংশগ্রহণ করে তাদেরকে বিক্রিয়ক বলে এবং যে সকল পদার্থ উৎপন্ন হয় তাদেরকে উৎপাদ বলে। রাসায়নিক বিক্রিয়ায় একাধিক বিক্রিয়ক থাকলে বিক্রিয়া সংঘটনের জন্য সবগুলো বিক্রিয়ক পরিমাণ মাফিক সরবরাহ করা যায় না। ফলে দেখা যায় কোনো একটি বিক্রিয়ক বিক্রিয়া করে শেষ হয়ে যায় এবং অন্য একটি বিক্রিয়ক বিক্রিয়া শেষে কিছু পরিমাণ উদ্বৃত্ত রয়ে যায় বা অবশিষ্ট থেকে যায়। রাসায়নিক বিক্রিয়ায় যে বিক্রিয়ক বিক্রিয়া করে শেষ হয়ে যায় সেই বিক্রিয়ককে লিমিটিং বিক্রিয়ক বলে। রাসায়নিক বিক্রিয়ায় কোন বিক্রিয়কটি লিমিটিং বিক্রিয়ক হবে তা বিক্রিয়কের পরিমাণের উপর নির্ভর করে। কোন বিক্রিয়ক কতটুকু বিক্রিয়া করবে, কতটুকু অবশিষ্ট থাকবে এবং কোন উৎপাদ কতটুকু উৎপন্ন হবে ইত্যাদি বিষয় লিমিটিং বিক্রিয়কের পরিমাণ থেকে হিসাব করে বের করা হয়।
+English Translation: In a chemical reaction, the substances that participate are called reactants, and the substances that are produced are called products. In a chemical reaction with multiple reactants, it is not always possible to supply all the reactants in the exact stoichiometric amounts. As a result, it is observed that one reactant is completely consumed in the reaction, while the other reactants leave some unreacted amount (or are left over). In a chemical reaction, the reactant that is completely consumed is called the limiting reactant. Which reactant will be the limiting reactant depends on the amount of each reactant present. The amount of a reactant that will react, the amount remaining, and how much product will be formed can be calculated based on the amount of the limiting reactant.
+
+END OF PAGE
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not specified on the page.
+PAGE NUMBER: 133
+MAIN TOPICS: Limiting Reactant, Stoichiometry, Chemical Reactions
+
+DIAGRAM TITLE: ম্যাগনেসিয়াম ধাতুর সাথে অক্সিজেনের বিক্রিয়া / Reaction of Magnesium with Oxygen
+DESCRIPTION: The diagram shows a reaction between magnesium atoms and oxygen molecules to form magnesium oxide. The left side of the image shows separate magnesium (Mg) atoms and oxygen (O₂) molecules. The right side of the image shows the formation of magnesium oxide (MgO) molecules.
+COMPONENTS: Magnesium atoms (Mg), Oxygen molecules (O₂), Magnesium Oxide molecules (MgO).
+CHEMICAL LABELS: Mg, O₂, MgO
+SAFETY NOTES: Not specified in the image.
+PURPOSE: To visualize the reaction and show the stoichiometric relationship between reactants and products.
+
+CHEMICAL EQUATIONS:
+2Mg + O₂ → 2MgO
+
+EXAMPLE
+
+PROBLEM: 4টি ম্যাগনেসিয়াম ধাতব পরমাণুর মধ্যে 4টি অক্সিজেন অণু মিশ্রিত করা হলো। এখানে কোন বিক্রিয়কটি লিমিটিং বিক্রিয়ক? / 4 atoms of magnesium are mixed with 4 molecules of oxygen. Which reactant is the limiting reactant?
+SOLUTION:
+The provided equation is:
+
+2Mg + O₂ → 2MgO
+
+2 x 6.023 x 10^23 atoms of Mg + 6.023 x 10^23 molecules of O₂  → 2 x 6.023 x 10^23 molecules of MgO
+From the equation, 2 magnesium (Mg) atoms react with 1 oxygen (O₂) molecule. 
+For 4 Mg atoms, 2 O₂ molecules are required.
+We are given 4 O₂ molecules, but only 2 O₂ molecules are required for reaction with 4Mg atoms. 
+Thus (4-2) = 2 molecules of O₂ will be left over.
+The reactant that is used up first is the limiting reactant. Therefore, Magnesium is the limiting reactant in this case.
+
+QUESTION 1
+যদি 70টি ম্যাগনেসিয়াম ধাতব পরমাণুর মধ্যে ৩০টি অক্সিজেন অণু মিশ্রিত করা হতো, তাহলে কোন বিক্রিয়কটি লিমিটিং বিক্রিয়ক হবে?
+Translation: If 70 magnesium atoms were mixed with 30 oxygen molecules, then which reactant would be the limiting reactant?
+TYPE: Analytical
+CHEMICAL COMPONENTS: Mg, O₂
+KEY CONCEPT: Limiting Reactant
+
+CALCULATION:
+Since 2 Mg atoms react with 1 O₂ molecule, 70 Mg atoms require 35 O₂ molecules (70 / 2 = 35). We only have 30 O₂ molecules. Thus O₂ will be the limiting reactant.
+
+
+CHAPTER TITLE: রাসায়নিক গণনা / Chemical Calculations
+CHAPTER NUMBER: Not explicitly stated on this page but assumed to be part of a larger chapter on quantitative chemistry
+PAGE NUMBER: 134
+MAIN TOPICS: Limiting Reactants, Percentage Yield
+
+CHEMICAL EQUATIONS:
+H2 + Cl2 → 2HCl
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+LIMITING REACTANT
+Bengali Definition: যে বিক্রিয়ক বিক্রিয়ায় কম পরিমাণে থাকে এবং বিক্রিয়া শেষ হওয়ার আগেই নিঃশেষ হয়ে যায়, তাকে লিমিটিং বিক্রিয়ক বলে।
+English Translation: The reactant that is present in a smaller amount in a reaction and gets consumed before the reaction finishes is called the limiting reactant.
+
+ANALAAR GRADE REAGENT
+Bengali Definition: যে বিক্রিয়ক সবচেয়ে বেশি বিশুদ্ধ তাকে অ্যানালার বা অ্যানালার গ্রেড পদার্থ বলে।
+English Translation: The reactant that is most pure is called analar or analar grade material.
+
+QUESTIONS AND PROBLEMS:
+Question 1
+Bengali question text: সমস্যা: 5 গ্রাম হাইড্রোজেন গ্যাসের মধ্যে 75 গ্রাম ক্লোরিন গ্যাস মিশ্রিত করা হলো, এখানে কোন বিক্রিয়কটি লিমিটিং বিক্রিয়ক? এবং বিক্রিয়া শেষে কোন বিক্রিয়ক কতটুকু উদ্বৃত্ত থাকবে বা অবশিষ্ট থাকবে?
+Translation: Problem: 5 grams of hydrogen gas is mixed with 75 grams of chlorine gas. Which reactant is the limiting reactant here? And after the reaction, how much of which reactant will remain as excess or unreacted?
+Type: Numerical/Analytical
+Chemical Components: H2, Cl2, HCl
+Key Concept: Limiting Reactant
+
+Question 2
+Bengali question text: উপরের উদাহরণে কতটুকু H₂ অবশিষ্ট থাকবে বের করো।
+Translation: From the above example, determine how much H₂ will remain unreacted.
+Type: Numerical/Analytical
+Chemical Components: H2, Cl2
+Key Concept: Limiting Reactant
+
+CALCULATIONS:
+From the balanced chemical equation H2 + Cl2 → 2HCl:
+- 2 g of H2 reacts with 71 g of Cl2.
+- Given 5 g of H2, the required Cl2 is (71 * 5) / 2 = 177.5 g.
+- Since only 75 g of Cl2 is available, Cl2 is the limiting reactant.
+
+SAFETY INFORMATION:
+None given on this page.
+
+6.  5 উৎপাদের শতকরা পরিমাণ হিসাব
+   (Calculation of the Percentage of Yield)
+
+Bengali Definition: রাসায়নিক বিক্রিয়ায় ব্যবহৃত বিক্রিয়কগুলো সব সময় 100% বিশুদ্ধ হয় না। যে বিক্রিয়ক সবচেয়ে বেশি বিশুদ্ধ তাকে অ্যানালার বা অ্যানালার গ্রেড পদার্থ বলে। যদি কোনো পদার্থকে 99% বিশুদ্ধ করা যায় এবং এর চেয়ে আর বেশি বিশুদ্ধ করা সম্ভব না হয় তখন এই 99% বিশুদ্ধ পদার্থকেই অ্যানালার বলে। কোনো অবিশুদ্ধ পদার্থকে বিশুদ্ধ করার জন্য কেলাসন, পাতন, আংশিক পাতন, ক্রোমাটোগ্রাফি ইত্যাদি ব্যবহার করা হয়। এই বিশুদ্ধকরণ পদ্ধতি তোমরা পরবর্তী শ্রেণিতে শিখতে পারবে।
+English Translation: The reactants used in chemical reactions are not always 100% pure. The reactant that is the most pure is called analar or analar grade. If a substance can be purified to 99% purity and cannot be further purified, then this 99% pure substance is considered analar grade. To purify an impure substance, methods like crystallization, distillation, fractional distillation, chromatography, etc. are used. You will learn about these purification methods in later classes.
+---
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not specified in the image
+PAGE NUMBER: 135
+MAIN TOPICS: Percent Yield, Stoichiometry
+
+CHEMICAL EQUATIONS:
+2Mg(s) + O2(g) → 2MgO(s)
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+উৎপাদের শতকরা পরিমাণ
+Bengali Definition: কোনো বিক্রিয়ায় উৎপাদের শতকরা পরিমাণকে নিচের সমীকরণের সাহায্যে বের করা যায়
+English Translation: The percentage yield of a product in a reaction can be calculated using the following equation.
+Related Chemical Equations: None explicitly stated
+Examples: Given in the example problem below
+
+TERM OR PROPERTY NAME: Limiting Reactant
+Bengali Definition: বিক্রিয়ক 100% বিশুদ্ধ না হলে লিমিটিং বিক্রিয়ক থেকে হিসাব করে যে পরিমাণ উৎপাদ হবার কথা রাসায়নিক বিক্রিয়ায় তার চেয়ে কম পরিমাণে উৎপাদ তৈরি হয়।
+English Translation: If the reactants are not 100% pure, then the amount of product formed in a chemical reaction will be less than the amount predicted based on the limiting reactant.
+Related Chemical Equations: None explicitly stated
+Examples: Given in the example problem below
+
+QUESTIONS AND PROBLEMS:
+Question 1
+Bengali question text: সমস্যা: 2 গ্রাম ম্যাগনেসিয়াম ধাতু প্রয়োজনীয় পরিমাণ অক্সিজেনের সাথে বিক্রিয়া করে 3.25 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয়। উৎপাদের শতকরা পরিমাণ কতো?
+Translation: Problem: 2 grams of magnesium metal reacts with the required amount of oxygen to produce 3.25 grams of magnesium oxide. What is the percentage yield of the product?
+Type: Numerical
+Chemical Components: Mg, O2, MgO
+Key Concept: Percent Yield Calculation
+
+Question 2
+Bengali question text: ৪০ গ্রাম CaCO₃ কে তাপ দিয়ে 39 গ্রাম CaO পাওয়া যায়। উৎপাদের শতকরা পরিমাণ বের করো। Ca এর পারমাণবিক ভর 40, C এর পারমাণবিক ভর 12, ০ এর পারমাণবিক ভর 16।
+Translation: 40 grams of CaCO3 is heated to produce 39 grams of CaO. Calculate the percent yield of the product. The atomic mass of Ca is 40, C is 12, and O is 16.
+Type: Numerical
+Chemical Components: CaCO3, CaO
+Key Concept: Percent Yield Calculation
+
+CALCULATIONS:
+Example Problem:
+Calculation steps as shown in the text:
+2Mg + O2 → 2MgO
+2 x 24g = 48g  1 x 32g = 32g   2 x 40g = 80g
+48 grams of Mg produces 80 grams of MgO
+Therefore, 2 grams of Mg produces (2 * 80)/48 = 3.33 grams of MgO
+Percentage yield = (Actual yield / Theoretical yield) x 100
+Percentage yield = (3.25/3.33) x 100 = 97.6%
+
+PRACTICE PROBLEM:
+Calculation of percentage yield:
+80 grams of CaCO3 yields 39 grams of CaO
+CaCO3 (40+12+48 =100g/mol) -> CaO(40+16=56g/mol) + CO2
+100g of CaCO3 will give 56g CaO
+Therefore, 80g CaCO3 will give (80/100)*56=44.8g of CaO
+Percentage yield = (39/44.8)*100 = 87.05%
+
+
+CHAPTER TITLE: পরিষ্করণ / (Purification)
+CHAPTER NUMBER: N/A
+PAGE NUMBER: 136
+MAIN TOPICS: Solution preparation, molarity calculation, laboratory procedures
+
+CHEMICAL EQUATIONS
+None on this page.
+
+EXPERIMENTAL PROCEDURES
+
+EXPERIMENT TITLE: 250 MILLILITER (ML) PREPARATION OF 0.1 MOLAR SODIUM CARBONATE SOLUTION IN VOLUMETRIC FLASK
+Purpose: To prepare a 0.1 molar sodium carbonate (Na₂CO₃) solution in a 250 mL volumetric flask.
+Materials Required:
+- 250 mL volumetric flask
+- Funnel
+- Weighing bottle
+- Chemical balance
+- Wash bottle
+- Pure Sodium Carbonate
+- Water
+Safety Precautions:
+- Handle chemicals with care.
+- Wear appropriate personal protective equipment (PPE) like gloves if needed.
+Procedure:
+1.  Place a clean funnel in the mouth of a clean 250 mL volumetric flask.
+2.  Take a quantity (more than 2.65 grams) of sodium carbonate in a dry weighing bottle, and weigh it using a chemical balance.
+
+Expected Observations:
+The required amount of sodium carbonate will be measured.
+Key Learning Points:
+- Calculation of the mass of solute required to prepare a specific molar solution.
+- Use of volumetric flask for precise measurement.
+-Importance of using pure and dry materials for accurate results.
+
+DIAGRAMS AND ILLUSTRATIONS
+None on this page.
+
+QUESTIONS AND PROBLEMS
+None on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: Sodium Carbonate
+Bengali Definition: সোডিয়াম কার্বনেট (Na₂CO₃) একটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ। কারণ সোডিয়াম কার্বনেটকে বিশুদ্ধ অবস্থায় পাওয়া যায়, শুষ্ক অবস্থায় পাওয়া যায়, রাসায়নিক নিক্তিতে সরাসরি ওজন করা যায়, সোডিয়াম কার্বনেট দ্রবণের ঘনমাত্রা তৈরি করে রাখলে ঐ ঘনমাত্রা দীর্ঘদিন কোনো পরিবর্তন হয় না।
+English Translation: Sodium carbonate (Na₂CO₃) is a primary standard substance. Because sodium carbonate can be obtained in pure state, it can be obtained in dry state, it can be weighed directly on a chemical balance and the concentration of sodium carbonate solution, if prepared remains constant over a long period.
+
+TERM OR PROPERTY NAME: Molarity
+Bengali Definition: নির্দিষ্ট ঘনমাত্রার (মোলারিটির) দ্রবণ
+English Translation: A solution of a specific concentration (molarity)
+
+TERM OR PROPERTY NAME: Primary Standard
+Bengali Definition: একটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ
+English Translation: A primary standard substance
+
+SAFETY INFORMATION
+None on this page.
+EXTRA INFORMATION:
+The calculation for the mass of sodium carbonate (Na₂CO₃) is done using the following formula:
+  W = (SVM)/1000
+where:
+W = mass of solute (in grams)
+S = molarity of solution (in mol/L)
+V = volume of solution (in mL)
+M = molar mass of the solute (in g/mol)
+
+In this case:
+S=0.1 molar
+V = 250 mL
+M (Na₂CO₃) = 23×2 + 12 + 16x3 = 106 g/mol
+So,
+W = (0.1 x 250 x 106) /1000 = 2.65 grams
+This calculation indicates that 2.65 grams of sodium carbonate is needed to create 250 mL of a 0.1 M solution. However, as the text explains, it is difficult to measure 2.65 grams of the substance precisely.
+Therefore, the text recommends preparing a solution of concentration close to 0.1 molar.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not Specified
+PAGE NUMBER: 137
+MAIN TOPICS: Solution Preparation, Molarity, Stoichiometry
+
+3.  
+    Bengali Text: "ওজন বোতলের সোডিয়াম কার্বনেট ফানেলের মধ্য দিয়ে আয়তনিক ফ্লাস্কে এমনভাবে ঢালা হলো যেন সোডিয়াম কার্বনেটসহ ওজন বোতলের ওজন পূর্বের ওজন অপেক্ষা 2.65 গ্রাম কম হয়।"
+    English Translation: "Sodium carbonate from the weighing bottle is poured into the volumetric flask through a funnel in such a way that the weight of the weighing bottle along with sodium carbonate is 2.65 grams less than the previous weight."
+
+4.  
+    Bengali Text: "ওয়াশ বোতল থেকে পাতিত পানি ফানেলের মাধ্যমে আয়তনিক ফ্লাস্কে আস্তে আস্তে যোগ করা হলো। অর্ধেক পানি ঢালার পর আয়তনিক ফ্লাস্কের মুখের ছিপি আটকিয়ে আয়তনিক ফ্লাস্ক ঝাঁকিয়ে সোডিয়াম কার্বনেটকে সম্পূর্ণভাবে দ্রবীভূত করা হলো। এরপর আরো পানি যোগ করে আয়তনিক ফ্লাস্কের 250 mL দাগ পর্যন্ত পানি দ্বারা পূর্ণ করা হলো।"
+    English Translation: "Distilled water from a wash bottle is slowly added to the volumetric flask through a funnel. After adding half the water, the mouth of the volumetric flask is sealed with a stopper, and the volumetric flask is shaken to completely dissolve the sodium carbonate. Then, more water is added to fill the volumetric flask up to the 250 mL mark."
+
+DIAGRAM TITLE: চিত্র 6.03: 0.1 মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুতি / Figure 6.03: Preparation of 0.1 Molar Sodium Carbonate Solution
+Description: The diagram shows a step-by-step process of preparing a 0.1 M sodium carbonate solution. It starts with a funnel pouring solid Na₂CO₃ into a volumetric flask.  Then, water is added via a wash bottle, and finally the volumetric flask containing the solution up to 250ml.
+Components: Funnel, 250 mL volumetric flask, wash bottle, water, sodium carbonate
+Chemical Labels: Na₂CO₃ (solid), 0.1 M Na₂CO₃ (solution)
+Safety Notes: Ensure that the sodium carbonate is handled with care
+Purpose: Demonstrates the preparation of a 0.1 M sodium carbonate solution in a volumetric flask.
+
+SAFETY ALERT
+Hazard Description: Handling chemicals requires caution.
+Required Precautions: Follow laboratory safety procedures and wear safety goggles.
+Emergency Procedures: In case of accidental contact, wash immediately with plenty of water.
+Protective Equipment: Safety goggles and gloves.
+
+SAFETY ALERT
+Hazard Description: Using glassware poses a risk of breakage.
+Required Precautions: Handle glassware with care and avoid dropping.
+Emergency Procedures: In case of breakage, inform the instructor and carefully clean up any broken glass.
+Protective Equipment: Gloves to prevent cuts.
+
+EXPERIMENTAL PROCEDURE: 0.1 Molar Sodium Carbonate Solution Preparation
+
+Purpose: To prepare a 250 mL solution of 0.1 M sodium carbonate (Na₂CO₃).
+Materials Required:
+   - Dry and pure sodium carbonate (Na₂CO₃)
+   - Weighing bottle
+   - Funnel
+   - Volumetric flask (250 mL)
+   - Distilled water
+   - Wash bottle
+   - Stopper for volumetric flask
+Safety Precautions:
+    1. Wear safety goggles and gloves.
+    2. Handle glassware carefully.
+    3. Ensure pure, dry sodium carbonate is used.
+Procedure:
+   1. Weigh a weighing bottle with sodium carbonate.
+   2. Pour the sodium carbonate through a funnel into the volumetric flask such that the weight difference of the weighing bottle is 2.65 grams.
+   3. Add distilled water from a wash bottle through the funnel slowly to the volumetric flask.
+   4. After adding half the water, stopper the volumetric flask.
+   5. Shake the volumetric flask to completely dissolve the sodium carbonate.
+   6. Add more water to the volumetric flask up to the 250 mL mark.
+Expected Observations: The solid sodium carbonate will dissolve completely in the water to form a clear solution.
+Key Learning Points: Preparing a standard solution of known concentration. Use of volumetric flasks for accurate measurements.
+
+SAFETY ALERT
+Hazard Description: Use of water may cause spillage.
+Required Precautions: Use proper pouring techniques
+Emergency Procedures: Clean up any spills immediately to prevent slips
+Protective Equipment: Aprons
+
+SAFETY ALERT
+Hazard Description: The process requires precision to maintain correct molarity.
+Required Precautions: Verify all measurements and calculations are accurate.
+Emergency Procedures: If mistakes are made, start over with fresh supplies.
+Protective Equipment: None specific to the hazard.
+
+Questions and Problems:
+
+Question 1
+Bengali Question: "শিক্ষার্থীর কাজ: উপরের ব্যবহারিক কার্যের ধারা অনুসারে তোমাদের ডাটা বা উপাত্তগুলো ব্যবহার করে তোমরা 250 মিলি আয়তনিক ফ্লাস্কে 0.1 মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুত করো।"
+Translation: "Student Task: Following the experimental procedure above, use your data or measurements to prepare a 0.1 molar sodium carbonate solution in a 250 mL volumetric flask."
+Type: Practical/Analytical
+Chemical Components: Sodium carbonate (Na₂CO₃), Water (H₂O)
+Key Concept: Molarity calculation, Solution preparation, volumetric analysis
+
+SAFETY ALERT
+Hazard Description: Proper disposal of chemical waste is important
+Required Precautions: Dispose of all waste in designated containers
+Emergency Procedures: If there is a problem with waste disposal, speak to the teacher
+Protective Equipment: None specific to the hazard.
+
+
+CHAPTER TITLE: রসায়ন / Chemistry
+CHAPTER NUMBER: Not specified in the text
+PAGE NUMBER: 138
+MAIN TOPICS: Crystal water, Copper Sulfate, Experimental Chemistry
+
+CHEMICAL EQUATIONS:
+CuSO4.5H2O  → CuSO4 + 5H2O
+(নীল বর্ণ/Blue Color)   (সাদা বর্ণ/White Color)
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয় / Determination of Percentage of Crystal Water in Blue Vitriol
+Purpose: To determine the percentage of water molecules present in the crystal structure of blue vitriol (copper sulfate pentahydrate).
+Materials Required:
+- তুঁতে (ব্লু ভিট্রিয়ল) / Blue Vitriol
+- ডেসিকেটর / Desiccator
+- নিক্তি / Balance
+- সিরামিক বাটি/ Ceramic crucible
+- ত্রিপদী স্ট্যান্ড / Tripod stand
+- তারজালি / Wire gauze
+- বুনসেন বার্নার বা স্পিরিট ল্যাম্প / Bunsen burner or spirit lamp
+
+Safety Precautions:
+- Use caution when handling hot equipment and burners
+- Wear appropriate protective gear (gloves, eye protection)
+
+Procedure:
+1.  নিক্তি দিয়ে একটি পোর্সেলিন ক্লুসিবল মেপে নেওয়া হলো। ধরা যাক ক্রুসিবলের ওজন a গ্রাম। / Weigh an empty porcelain crucible using a balance. Let its weight be 'a' grams.
+2.  এবার এই পোর্সেলিন ক্লুসিবলের মধ্যে কিছু তুঁতে নেওয়া হলো এবং তুঁতেসহ ক্রুসিবলের ওজন পাওয়া গেল b গ্রাম। কাজেই তুঁতের ওজন (b-a) গ্রাম। / Add some blue vitriol to the crucible and weigh it again. Let the combined weight be 'b' grams.  The weight of the blue vitriol is thus (b-a) grams.
+3. একটি ত্রিপদী স্ট্যান্ডের উপর তারজালি স্থাপন করে তারজালির উপরে তুঁতেসহ ক্লুসিবলকে বুনসেন বার্নার বা স্পিরিট ল্যাম্প দিয়ে তাপ দেওয়া হলো।/ Place the crucible on a wire gauze positioned on a tripod stand. Heat the crucible using a Bunsen burner or spirit lamp.
+Expected Observations:
+- The blue vitriol will gradually lose its blue color upon heating, turning into white powder.
+- Water vapor will be observed coming out of the crucible
+
+Key Learning Points:
+- This experiment demonstrates the concept of crystal water and its role in the structure of certain hydrated compounds
+- Heating a hydrated compound causes it to lose its water of crystallization.
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: চিত্র 6.04: তুঁতের কেলাস পানির পরিমাণ নির্ণয় / Figure 6.04: Determination of Crystal Water of Blue Vitriol.
+Description:  A diagram showing a setup for heating a crucible. A porcelain crucible is positioned on a wire gauze supported by a tripod stand. A Bunsen burner is placed beneath the tripod to provide heat.
+Components:
+    - পোর্সেলিন কুসিবল / Porcelain Crucible
+    - তারজালি / Wire Gauze
+    - বুনসেন বার্নার / Bunsen Burner
+    - ত্রিপদী স্ট্যান্ড / Tripod Stand
+Chemical Labels: None.
+Safety Notes: Use heat resistant gloves and eye protection
+Purpose: This diagram illustrates the experimental setup for determining the amount of crystal water in blue vitriol by heating it.
+
+QUESTIONS AND PROBLEMS:
+None on this page.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: কেলাস পানি / Crystal Water
+Bengali Definition: তুঁতের মধ্যে 5 অণু পানি থাকে। তুঁতেকে উত্তপ্ত করলে ঐ 5 অণু পানি বাষ্প হয়ে উড়ে যায়। তখন তুঁতের মধ্যে কোনো পানি থাকে না এবং তুঁতের বর্ণ সাদা হয়ে যায়। এই 5 অণু পানিকে কেলাস পানি বলে।
+English Translation: Blue vitriol contains 5 water molecules. When heated these 5 water molecules evaporate.  Then, no water remains within blue vitriol and it becomes white. These 5 water molecules are called crystal water.
+Related Chemical Equations: CuSO4.5H2O  → CuSO4 + 5H2O
+Examples: Blue Vitriol (CuSO4.5H2O)
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: Not specified in the image
+PAGE NUMBER: 139
+MAIN TOPICS: Water of crystallization, Determination of water percentage, Heating a hydrate
+
+1.  
+   তাপ প্রদান করার ফলে যে তুঁতের বর্ণ নীল ছিল সেই তুঁতের বর্ণ আস্তে আস্তে সাদা হয়ে যাবে।
+   Translation: By applying heat, the color of the blue vitriol will gradually turn white.
+2.  
+   তাপ প্রয়োগের ফলে তুঁতে থেকে পানি অপসারিত হওয়ার কারণে তুঁতের বর্ণ সাদা হয়ে যাবে।
+   Translation: Due to the removal of water from the blue vitriol by applying heat, the color of the vitriol will become white.
+3.  
+  তুঁতের বর্ণ একেবারে সাদা হয়ে যাওয়ার পর বুনসেন বার্নার বা স্পিরিট ল্যাম্প বন্ধ করে তাপ দেওয়া বন্ধ করা হলো।
+  Translation: Once the vitriol turns completely white, the Bunsen burner or spirit lamp was turned off, and the heating stopped.
+4.  
+   এবার পোর্সেলন ক্রুসিবলকে দ্রুত ডেসিকেটরে নিয়ে যাওয়া হলো এবং দ্রুত শীতল করে পোর্সেলিন কুসিবলের ওজন নেওয়া হলো।
+   Translation: Now, the porcelain crucible was quickly taken to a desiccator and cooled rapidly before the weight of the porcelain crucible was taken.
+5.  
+   এটি দ্রুত করতে হবে, তা না হলে তুঁতে আবার পানি শোষণ করে নীল বর্ণ ধারণ করবে।
+    Translation: This must be done quickly, otherwise, the vitriol will absorb water again and turn blue.
+6.   ধরা যাক এই ওজন ৫ গ্রাম।
+    Translation: Let's assume this weight is 'c' grams.
+
+CALCULATIONS:
+
+1.  
+  তাহলে পানি অপসারিত হবার পর তুঁতের ওজন (c - a) গ্রাম
+   Translation: Therefore, the weight of the vitriol after the removal of water is (c - a) grams.
+2.  
+   তুঁতে থেকে অপসারিত পানির পরিমাণ (b - a) - (c - a) গ্রাম = (b - c) গ্রাম
+   Translation: The amount of water removed from the vitriol is (b - a) - (c - a) grams = (b - c) grams.
+3.  
+  (b-a) গ্রাম তুঁতে থেকে অপসারিত পানির পরিমাণ (b-c) গ্রাম
+  Translation: (b-a) gram of vitriol has (b-c) gram of removed water.
+4.  
+   কাজেই 100 গ্রাম তুঁতে থেকে অপসারিত পানির পরিমাণ (b-c)/(b-a) × 100 গ্রাম
+  Translation: Therefore, the amount of water removed from 100 grams of vitriol is (b-c)/(b-a)  × 100 grams
+5.  
+  তুঁতেতে কেলাস পানির শতকরা পরিমাণ (b-c) / (b-a) × 100%
+  Translation: Percentage of water of crystallization in vitriol (b-c) / (b-a) × 100%
+
+SAFETY ALERT
+Hazard Description: Heating a crucible and its contents can cause burns.
+Required Precautions: Heat the crucible gradually and evenly, do not use extreme heat.
+Emergency Procedures: In case of a burn, cool it down immediately with water.
+Protective Equipment: Heat resistant gloves.
+
+EXPERIMENT TITLE
+Determination of the Percentage of Water of Crystallization in Blue Vitriol
+Purpose: To determine the percentage of water of crystallization present in copper sulfate pentahydrate (blue vitriol).
+
+Procedure:
+1.  Weigh an empty porcelain crucible and note it as 'a' grams.
+2.  Add an amount of blue vitriol to the crucible and weigh the crucible with blue vitriol and note it as 'b' grams.
+3.  Apply heat to the crucible containing the blue vitriol. The blue color of the vitriol will slowly fade.
+4.  Continue heating until the vitriol turns completely white. Stop the heating using bunsen burner or spirit lamp
+5.  Quickly transfer the crucible to a desiccator and cool quickly.  Once cooled, weigh the crucible and the content. This weight is noted as ‘c’ grams. This must be done quickly to avoid water absorption.
+6.  Calculate the weight of the water removed from the vitriol.
+7.  Calculate the percentage of the water of crystallization present in the sample.
+
+Expected Observations: The blue color of the vitriol will change to white, indicating the loss of water. The mass of the crucible will decrease after heating.
+
+Key Learning Points: The experiment demonstrates how to determine the amount of water present in hydrated crystals, an important process in chemistry.
+
+STUDENT ACTIVITY:
+
+শিক্ষার্থীর কাজ: তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়ের জন্য এইরূপ একটি পরীক্ষাকার্য সম্পাদন করো।
+Translation: Student Activity: Perform a similar experiment to determine the percentage of water of crystallization in blue vitriol.
+
+
+CHAPTER TITLE: অনুশীলনী / Exercises
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 140
+MAIN TOPICS: Stoichiometry, Molar Volume, Chemical Formulas
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+প্রমাণ অবস্থায় 2 গ্রাম হাইড্রোজেন গ্যাসের আয়তন কত?
+Translation: What is the volume of 2 grams of hydrogen gas at standard conditions?
+Type: Multiple choice
+Chemical Components: H₂
+Key Concept: Molar volume of gas
+
+Question 2
+নিচের কোনটি ক্যালসিয়াম ফসফেটের সংকেত?
+Translation: Which of the following is the formula for calcium phosphate?
+Type: Multiple choice
+Chemical Components: Ca, P, O
+Key Concept: Chemical formula of ionic compounds
+
+Question 3
+উদ্দীপকে ব্যবহৃত ক্লোরিন পরমাণুর সংখ্যা কতটি?
+Translation: How many chlorine atoms were used in the stimulus?
+Type: Multiple choice
+Chemical Components: Cl
+Key Concept: Moles and number of atoms
+
+Question 4
+উদ্দীপকের বিক্রিয়ায় অবশিষ্ট থাকে-
+Translation: What remains after the reaction in the stimulus?
+Type: Multiple choice
+Chemical Components: H₂, Cl₂
+Key Concept: Limiting reactant
+
+Question 5
+প্রমাণ অবস্থায় 17 গ্রাম অ্যামোনিয়া গ্যাসের আয়তন কত?
+Translation: What is the volume of 17 grams of ammonia gas at standard conditions?
+Type: Multiple choice
+Chemical Components: NH₃
+Key Concept: Molar volume of gas
+
+Question 6
+10g CaCO₃ এ কয়টি অণু আছে?
+Translation: How many molecules are present in 10g of CaCO₃?
+Type: Multiple choice
+Chemical Components: CaCO₃
+Key Concept: Moles and number of molecules
+
+CHAPTER TITLE: মোলের ধারণা ও রাসায়নিক গণনা / Mole Concept and Chemical Calculations
+CHAPTER NUMBER: (Not Specified)
+PAGE NUMBER: 141
+MAIN TOPICS: Mole concept, Chemical reactions, Stoichiometry
+
+QUESTIONS AND PROBLEMS
+
+QUESTION 1
+(ক) মোল কাকে বলে?
+Translation: (a) What is a mole?
+Type: Short answer
+Chemical Components: None
+Key Concept: Mole concept
+
+(খ) স্থূল সংকেত ও আণবিক সংকেত বলতে কী বোঝ?
+Translation: (b) What do you understand by empirical formula and molecular formula?
+Type: Short answer
+Chemical Components: None
+Key Concept: Chemical formulas
+
+(গ) উদ্দীপকের দ্রবণদ্বয়কে একত্রে মিশ্রিত করলে যে লবণ পাওয়া যায় তার সংযুক্তি নির্ণয় করে দেখাও।
+Translation: (c) If the solutions in the উদ্দীপক (stimulus) are mixed together, determine and show the composition of the salt that is produced.
+Type: Analytical
+Chemical Components: HCl, NaOH, NaCl, H2O
+Key Concept: Neutralization reaction
+
+(ঘ) উদ্দীপকের দ্রবণ দুটির মোলারিটি সমান হবে কিনা তার গাণিতিক যুক্তি দাও।
+Translation: (d) Provide a mathematical explanation whether the molarity of the two solutions in the উদ্দীপক will be the same.
+Type: Analytical
+Chemical Components: HCl, NaOH
+Key Concept: Molarity calculations
+
+DIAGRAM TITLE
+Two solutions in bottles
+Description: Two glass bottles each containing 100 ml of liquid. The bottle on the left has 4g of HCl in solution and the bottle on the right contains 4g of NaOH in solution.
+Components: Two bottles, liquid inside, labels showing 4g HCl and 4g NaOH
+Chemical Labels: HCl, NaOH
+Safety Notes: None
+Purpose: To represent the initial materials in a chemical reaction
+
+QUESTION 2
+(ক) রাসায়নিক সমীকরণ কাকে বলে?
+Translation: (a) What is a chemical equation?
+Type: Short answer
+Chemical Components: None
+Key Concept: Chemical equations
+
+(খ) কার্বন ডাইঅক্সাইড মোলার আয়তন ব্যাখ্যা করো।
+Translation: (b) Explain the molar volume of carbon dioxide.
+Type: Short answer
+Chemical Components: Carbon Dioxide
+Key Concept: Molar volume
+
+(গ) বিক্রিয়ায় কত মোল কার্বন ডাইঅক্সাইড ব্যবহার করা হয়েছিল তা নিরূপণ করে দেখাও।
+Translation: (c) Determine and show how many moles of carbon dioxide were used in the reaction.
+Type: Numerical
+Chemical Components: Carbon dioxide, Calcium Oxide, Calcium Carbonate
+Key Concept: Stoichiometry
+
+(ঘ) উদ্দীপকের বিক্রিয়ায় প্রত্যাশিত উৎপাদের পরিমাণ কম হওয়ার যৌক্তিক ব্যাখ্যা দাও।
+Translation: (d) Provide a logical explanation for why the amount of expected product is less in the reaction in the উদ্দীপক.
+Type: Analytical
+Chemical Components: Calcium oxide, Carbon dioxide, Calcium carbonate
+Key Concept: Limiting reactants, Stoichiometry
+
+---
+

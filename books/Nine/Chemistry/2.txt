@@ -1,0 +1,1032 @@
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: 2
+PAGE NUMBER: 1
+MAIN TOPICS: States of Matter, Physical Properties of Matter
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+MATTER
+Bengali Definition: পদার্থের বিশেষ বৈশিষ্ট হলো- এগুলোর ভর আছে এবং এরা স্থান দখল করে।
+English Translation:  The special characteristics of matter are that they have mass and they occupy space.
+Examples: চেয়ার, টেবিল, খাতা, কলম, বরফ, পানি, বাতাস ইত্যাদি. / Chair, table, notebook, pen, ice, water, air etc.
+
+STATES OF MATTER
+Bengali Definition: একটি পদার্থ কঠিন, তরল ও গ্যাসীয়-এ তিন অবস্থাতেই থাকতে পারে।
+English Translation: A substance can exist in three states: solid, liquid, and gaseous.
+
+PHYSICAL PROPERTIES
+Bengali Definition: এ তিন অবস্থাতেই প্রত্যেক পদার্থের নিজস্ব কিছু ধর্ম ও বৈশিষ্ট্য দেখা যায়।
+English Translation: In all three states, each substance exhibits some unique properties and characteristics.
+
+TEXT EXTRACTED:
+পদার্থের বিশেষ বৈশিষ্ট হলো- এগুলোর ভর আছে এবং এরা স্থান দখল করে। যেমন- চেয়ার, টেবিল, খাতা, কলম, বরফ, পানি, বাতাস ইত্যাদি। একটি পদার্থ কঠিন, তরল ও গ্যাসীয়-এ তিন অবস্থাতেই থাকতে পারে। এ তিন অবস্থাতেই প্রত্যেক পদার্থের নিজস্ব কিছু ধর্ম ও বৈশিষ্ট্য দেখা যায়। এ বিষয়গুলোই এ অধ্যায়ে আলোচনা করা হবে।
+
+(Translation: The special characteristics of matter are that they have mass and they occupy space. For example, chair, table, notebook, pen, ice, water, air etc. A substance can exist in three states: solid, liquid, and gaseous. In all three states, each substance exhibits some unique properties and characteristics. These topics will be discussed in this chapter.)
+
+CHAPTER TITLE: (Not available) / (Not available)
+CHAPTER NUMBER: (Not available)
+PAGE NUMBER: 18
+MAIN TOPICS: Kinetic theory of matter, Physical states of matter, Diffusion and Effusion
+
+LEARNING OBJECTIVES:
+
+*   কণার গতিতত্ত্বের সাহায্যে পদার্থের ভৌত অবস্থা ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain the physical states of matter using the kinetic theory of particles.
+*   কণার গতিতত্ত্বের সাহায্যে ব্যাপন ও নিঃসরণ ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain diffusion and effusion using the kinetic theory of particles.
+*   পদার্থের ভৌত অবস্থা ও তাপের মধ্যে সম্পর্ক ব্যাখ্যা করতে পারব।
+    Translation: We will be able to explain the relationship between the physical state of matter and temperature.
+*   তাপমাত্রা বৃদ্ধিতে ব্যাপন হার বৃদ্ধি পরীক্ষার মাধ্যমে দেখাতে পারব।
+    Translation: We will be able to demonstrate the increase in the rate of diffusion with increasing temperature through experiments.
+*   কঠিন পদার্থের গলন ও ঊর্ধ্বপাতন এবং তরল পদার্থের স্ফুটন প্রক্রিয়া বর্ণনা করতে পারব।
+    Translation: We will be able to describe the melting and sublimation of solids and the boiling process of liquids.
+*   কঠিন পদার্থের গলন ও ঊর্ধ্বপাতন এবং তরল পদার্থের স্ফুটন প্রক্রিয়া পরীক্ষার মাধ্যমে দেখাতে পারব।
+    Translation: We will be able to demonstrate the melting and sublimation of solids and the boiling process of liquids through experiments.
+*   প্রকৃতিতে সংঘটিত বাস্তব ঘটনা রসায়নের দৃষ্টিতে বিশ্লেষণ করতে পারব।
+    Translation: We will be able to analyze real-world events occurring in nature from a chemical perspective.
+*   রাসায়নিক দ্রব্য ও থার্মোমিটার সঠিকভাবে ব্যবহার করতে পারব।
+    Translation: We will be able to use chemical substances and thermometers correctly.
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: 2
+PAGE NUMBER: 16
+MAIN TOPICS: States of matter, Intermolecular forces, Properties of solids, liquids and gases
+
+2.1 পদার্থ ও পদার্থের অবস্থা (Three States of Matter)
+
+যে বস্তুর নির্দিষ্ট ভর আছে এবং জায়গা দখল করে তাকে পদার্থ বলে। / A substance that has a definite mass and occupies space is called matter.
+কক্ষ তাপমাত্রায় কোনো কোনো পদার্থ কঠিন, কোনো কোনো পদার্থ তরল আবার কোনো কোনো পদার্থ গ্যাসীয় অবস্থায় থাকে। / At room temperature, some substances are solids, some are liquids, and some are gases.
+যেমন- কক্ষ তাপমাত্রায় চিনি, খাদ্য লবণ, মারবেল ইত্যাদি কঠিন অবস্থায়; পানি, তেল, কেরোসিন ইত্যাদি তরল অবস্থায় এবং নাইট্রোজেন, অক্সিজেন, কার্বন ডাই-অক্সাইড ইত্যাদি গ্যাসীয় অবস্থায় থাকে। / For example, at room temperature, sugar, table salt, and marbles are solids; water, oil, and kerosene are liquids; and nitrogen, oxygen, and carbon dioxide are gases.
+তাপমাত্রা পরিবর্তন করে একই পদার্থকে কঠিন, তরল এবং গ্যাসীয় অবস্থায় রূপান্তর করা যায়। / By changing the temperature, the same substance can be converted into solid, liquid, and gaseous states.
+নিচে কঠিন, তরল ও গ্যাসীয় পদার্থের কিছু ধর্ম এবং বৈশিষ্ট্য আলোচনা করা হলো। / Below are some properties and characteristics of solids, liquids, and gases.
+[প্রশ্ন: তাপমাত্রা পরিবর্তন করা হলে একই পদার্থ কঠিন, তরল ও গ্যাসীয় অবস্থা প্রাপ্ত হয়। উদাহরণ দাও।] / [Question: If the temperature is changed, the same substance attains solid, liquid, and gaseous states. Give an example.]
+
+2.1.1 কঠিন পদার্থ (Solids)
+কঠিন পদার্থের নির্দিষ্ট ভর, নির্দিষ্ট আকার এবং নির্দিষ্ট আয়তন থাকে। / Solids have a definite mass, a definite shape, and a definite volume.
+সব পদার্থের কণাগুলোর মধ্যেই এক ধরনের আকর্ষণ বল থাকে। / All substances have some kind of attractive force between their particles.
+একে আন্তঃকণা আকর্ষণ বল বলা হয়। / This is called intermolecular attractive force.
+কঠিন পদার্থের কণাগুলোর মধ্যে আন্তঃকণা আকর্ষণ বল সবচেয়ে বেশি। / The intermolecular attractive force is the highest in solids.
+এ কারণে কঠিন পদার্থের কণাগুলো খুব কাছাকাছি এবং নির্দিষ্ট অবস্থানে থাকে, ফলে কঠিন পদার্থের নির্দিষ্ট আকার হয়। / Because of this, the particles of solids are very close to each other and are in fixed positions, giving solids a definite shape.
+কঠিন পদার্থের উপর চাপ প্রয়োগ করলে এরা সংকুচিত হয় না। / When pressure is applied to solids, they do not compress.
+আবার, তাপমাত্রা বাড়ালে কঠিন পদার্থের আয়তন খুবই কম পরিমাণ বৃদ্ধি পায়। / Also, when the temperature increases, the volume of the solid increases very little.
+কঠিন পদার্থের কণাগুলো চলাচল বা স্থান ত্যাগ করতে পারেনা। / The particles of solids cannot move or change their position.
+তবে নিজস্ব স্থানে কম্পন সৃষ্টি করতে পারে। / However, they can vibrate in their own positions.
+
+2.1.2 তরল পদার্থ (Liquids)
+তরল পদার্থের নির্দিষ্ট ভর ও নির্দিষ্ট আয়তন আছে কিন্তু নির্দিষ্ট কোনো আকার নেই। / Liquids have definite mass and definite volume but no definite shape.
+তরল পদার্থকে যে পাত্রে রাখা হয় সেই পাত্রের আকার ধারণ করে। / Liquids take the shape of the container they are kept in.
+তরল পদার্থের কণাগুলো কঠিন পদার্থের কণাগুলোর চেয়ে তুলনামূলকভাবে বেশি দূরত্বে থাকায় এদের মধ্যে আন্তঃকণা আকর্ষণ বল কঠিন পদার্থের চেয়ে কম হয়। / Because the particles of liquids are relatively farther apart than those of solids, the intermolecular attractive force between them is lower than that of solids.
+তরল পদার্থে চাপ প্রয়োগ করলে আয়তন হ্রাস পায় না। / When pressure is applied to liquids, the volume does not decrease.
+তবে তাপ প্রয়োগ করলে তরল পদার্থের আয়তন বৃদ্ধি পায়। / However, when heat is applied, the volume of liquids increases.
+এই আয়তন বৃদ্ধির পরিমাণ কঠিন পদার্থের চেয়ে বেশি। / This increase in volume is more than that of solids.
+[প্রশ্ন: কেন তরল পদার্থের কণাগুলো কঠিন পদার্থের চেয়ে একটু বেশি দূরে অবস্থান করে?] / [Question: Why are the particles of liquids slightly farther apart than those of solids?]
+
+2.1.3 গ্যাসীয় বা বায়বীয় পদার্থ (Gases)
+গ্যাসীয় পদার্থের নিদিষ্ট ভর আছে কিন্তু নির্দিষ্ট আকার বা আয়তন নেই। / Gases have definite mass but no definite shape or volume.
+যেকোনো পরিমাণ গ্যাসীয় পদার্থ ভিন্ন ভিন্ন আয়তনের পাত্রে রাখলে পদার্থটি ধারক পাত্রের পুরো আয়তন দখল করে। / Any amount of gas fills the entire volume of the container in which it is kept.
+গ্যাসীয় পদার্থের কণাগুলো কঠিন ও তরল পদার্থের চেয়ে অনেক বেশি দূরে দূরে অবস্থান করে। / The particles of gases are much farther apart than those of solids and liquids. তাই এদের আন্তঃকণা / Therefore their intermolecular...
+
+
+CHAPTER TITLE: রাসায়ন / Chemistry
+CHAPTER NUMBER: 2
+PAGE NUMBER: 20
+MAIN TOPICS: Kinetic Theory of Particles, States of Matter
+
+TERM OR PROPERTY NAME
+Bengali Definition: চাপ প্রয়োগ করলে গ্যাসীয় পদার্থের আয়তন অনেক কমে যায়। আবার, তাপ প্রয়োগ করলে গ্যাসীয় পদার্থের আয়তন অনেক বেড়ে যায়।
+English Translation: Applying pressure decreases the volume of a gaseous substance significantly. Conversely, applying heat increases the volume of a gaseous substance significantly.
+Related Chemical Equations: None provided
+Examples: None provided
+
+2.2 কণার গতিতত্ত্ব (Kinetic Theory of Particles)
+
+TERM OR PROPERTY NAME
+Bengali Definition: সকল পদার্থই ক্ষুদ্র ক্ষুদ্র কণা দ্বারা গঠিত। এই কণাগুলো একে অপরকে আকর্ষণ করে যাকে আন্তঃকণা আকর্ষণ শক্তি বলে। আবার কণাগুলোর গতিশক্তিও রয়েছে। আন্তঃকণা আকর্ষণ শক্তি এবং কণাগুলোর গতিশক্তি দিয়ে পদার্থের কঠিন, তরল ও গ্যাসীয় অবস্থা ব্যাখ্যা করার তত্ত্বকেই কণার গতিতত্ত্ব বলা হয়।
+English Translation: All matter is made up of tiny particles. These particles attract each other, and this attraction is called inter-particle attractive force. These particles also possess kinetic energy. The theory that explains the solid, liquid, and gaseous states of matter based on the inter-particle attractive force and kinetic energy is called the Kinetic Theory of Particles.
+Related Chemical Equations: None provided
+Examples: None provided
+
+TERM OR PROPERTY NAME
+Bengali Definition: যখন কোনো পদার্থের আন্তঃকণা আকর্ষণ শক্তি খুব বেশি থাকে তখন কণাগুলো খুব কাছাকাছি অবস্থান করে এবং নিজেদের অবস্থান পরিবর্তন করতে পারে না। এই অবস্থা হলো পদার্থটির কঠিন অবস্থা।
+English Translation: When the inter-particle attractive force of a substance is very high, the particles are very close together and cannot change their position. This state is the solid state of matter.
+Related Chemical Equations: None provided
+Examples: None provided
+
+DIAGRAM TITLE: চিত্র 2.01: কণার গতিতত্ত্ব। / Figure 2.01: Kinetic Theory of Particles
+Description: The diagram shows three states of matter: solid, liquid, and gas, represented in cubes with particles illustrated inside the cube. In the solid state, the particles are tightly packed in a regular pattern. In the liquid state, particles are more loosely arranged and can move around each other. In the gaseous state, the particles are far apart and moving randomly.
+Components: Solid, Liquid, Gas states with particles
+Chemical Labels: None
+Safety Notes: None
+Purpose: To illustrate the arrangement of particles in different states of matter.
+
+TERM OR PROPERTY NAME
+Bengali Definition: কঠিন পদার্থে তাপ দেওয়া হলে পদার্থের কণাগুলো তাপশক্তি গ্রহণ করে কাঁপতে থাকে। ফলে আন্তঃকণা আকর্ষণ শক্তি কমে যায় এবং কণাগুলো কিছুটা গতিশক্তি প্রাপ্ত হয়। পদার্থের এই অবস্থাকে তরল অবস্থা বলে।
+English Translation: When heat is applied to a solid, the particles gain thermal energy and begin to vibrate. Consequently, the inter-particle attraction decreases, and the particles acquire some kinetic energy. This state is called the liquid state of matter.
+Related Chemical Equations: None provided
+Examples: None provided
+
+TERM OR PROPERTY NAME
+Bengali Definition: তরল পদার্থের নির্দিষ্ট আয়তন থাকলেও নির্দিষ্ট আকার থাকে না। তরল অবস্থায় পদার্থে আরো বেশি তাপ দেওয়া হলে কণাগুলো তাপশক্তি নিয়ে গতিশক্তি বৃদ্ধি করতে থাকে এবং এক সময় গতিশক্তি এত বেড়ে যায় যে কণাগুলো আন্তঃকণা আকর্ষণ শক্তি থেকে প্রায় মুক্ত হয়ে বিক্ষিপ্তভাবে ছুটতে থাকে। পদার্থের এই অবস্থাকে গ্যাসীয় অবস্থা বলে।
+English Translation: Liquids have a definite volume but no fixed shape. If more heat is applied to a liquid, the particles gain thermal energy and increase their kinetic energy. At some point, the kinetic energy becomes so high that the particles break free from the inter-particle attraction and move randomly. This state is called the gaseous state of matter.
+Related Chemical Equations: None provided
+Examples: None provided
+
+TERM OR PROPERTY NAME
+Bengali Definition: গ্যাসীয় অবস্থায় পদার্থের কোনো নির্দিষ্ট আয়তন থাকে না। তাকে যে আয়তনের পাত্রে রাখা হবে কণাগুলো সেই আয়তনেই ছোটাছুটি করতে থাকে। এজন্য গ্যাসীয় পদার্থের নির্দিষ্ট কোনো আয়তন নাই। যে পাত্রে রাখা হয় সে পাত্রের আয়তনই গ্যাসের আয়তন এতে পরিমাণ যাই হোক না কেন। গ্যাসীয় অবস্থায় পৌঁছানোর পর যদি আরও তাপ দেওয়া হয় তখন কণাগুলো আরও জোরে ছুটতে থাকবে অর্থাৎ গতিশক্তি আরও বেড়ে যাবে।
+English Translation: Gases have no fixed volume. The particles move freely within the volume of the container. Therefore, the volume of a gas is considered to be the volume of the container, regardless of the amount of the gas. If more heat is added to a gas, the particles move faster, meaning their kinetic energy increases.
+Related Chemical Equations: None provided
+Examples: None provided
+
+
+```
+Chapter Title: পদার্থের অবস্থা / States of Matter
+Chapter Number: Not Specified
+Page Number: 21
+Main Topics: Diffusion, Rate of Diffusion
+
+2.3 ব্যাপন (Diffusion)
+কোনো মাধ্যমে কঠিন, তরল ও বায়বীয় পদার্থের স্বতঃস্ফূর্ত ও সমানভাবে ছড়িয়ে পড়ার প্রক্রিয়াকে ব্যাপন বলে।
+(English Translation: Diffusion is the process by which solid, liquid, and gaseous substances spread spontaneously and uniformly through a medium.)
+
+ব্যাপন প্রক্রিয়ায় কঠিন, তরল কিংবা বায়বীয় পদার্থ উচ্চ ঘনমাত্রার স্থান থেকে নিম্ন ঘনমাত্রার স্থানের দিকে স্বতঃস্ফূর্তভাবে ছড়িয়ে পড়ে।
+(English Translation: In the process of diffusion, solid, liquid, or gaseous substances spontaneously spread from a region of high concentration to a region of low concentration.)
+
+যেমন- ঘরের এক কোণে কোনো একটি সুগন্ধির শিশির মুখ খুলে রাখলে কিছুক্ষণের মধ্যে সারা ঘরে সুগন্ধ ছড়িয়ে পড়ে। এটি ব্যাপন প্রক্রিয়ার উদাহরণ।
+(English Translation: For example, if the lid of a perfume bottle is opened in one corner of a room, the scent spreads throughout the room in a short time. This is an example of diffusion.)
+
+যে পদার্থের ছড়িয়ে পড়তে সময় কম লাগে সেই পদার্থের ব্যাপন হার বেশি এবং যে পদার্থের ছড়িয়ে পড়তে সময় বেশি লাগে সেই পদার্থের ব্যাপন হার কম।
+(English Translation: The substance that takes less time to spread has a higher rate of diffusion, and the substance that takes more time to spread has a lower rate of diffusion.)
+
+যে পদার্থের আণবিক ভর বেশি সে পদার্থের ব্যাপন হার কম।
+(English Translation: Substances with higher molecular weights have lower rates of diffusion.)
+
+নিচের পরীক্ষাগুলোর মাধ্যমে এ বিষয়ে আরও পরিষ্কার ধারণা নিতে পারবে।
+(English Translation: You can gain a clearer understanding of this topic by conducting the following experiments.)
+
+একক কাজ
+
+EXPERIMENT TITLE: পরীক্ষা নং: 1 (Experiment No. 1)
+Purpose: To demonstrate the diffusion of a solid substance in a liquid medium.
+Materials Required:
+    - A glass container
+    - Pure water
+    - Solid potassium permanganate (KMnO4) crystals
+Safety Precautions: Handle chemicals with care. Avoid direct contact with skin or eyes.
+
+Procedure:
+    1. Take some pure water in a glass container at room temperature.
+    2. Add a few crystals of pink-colored solid potassium permanganate (KMnO4) to the water.
+    3. Observe the changes.
+Expected Observations:
+    - The KMnO4 crystals will dissolve and form a pink solution.
+    - The potassium permanganate particles will spread throughout the water.
+    - After some time, the entire container will have a pink color.
+Key Learning Points:
+    - Solid substances diffuse in liquids.
+    - Diffusion is slower in liquids compared to gases.
+    - The rate of diffusion increases with temperature.
+
+যেমন-গরম পানিতে KMnO4 এর ব্যাপনের পরীক্ষাটি সম্পন্ন করা হলে দেখা যাবে ঠান্ডা পানির চেয়ে গরম পানিতে KMnO4 কণাগুলো দ্রুত ছড়িয়ে পড়ে সমগ্র পানিকে গোলাপি বর্ণে পরিণত করছে।
+(English Translation: For example, if the diffusion experiment of KMnO4 is conducted in hot water, it will be observed that the KMnO4 particles spread faster than in cold water, turning the entire water pink more quickly.)
+
+DIAGRAM TITLE: চিত্র 2.02: পানিতে KMnO4 এর ব্যাপন। (Figure 2.02: Diffusion of KMnO4 in water)
+Description: The diagram shows three test tubes. The first test tube has water with some solid KMnO4 settled at the bottom. The second and third test tubes show the gradual spread of the pink color throughout the water, indicating the diffusion of potassium permanganate.
+Components: Three test tubes, water, potassium permanganate (KMnO4) crystals.
+Chemical Labels: KMnO4
+Safety Notes: No specific safety notes are mentioned in relation to the diagram.
+Purpose: To visually illustrate the diffusion process of potassium permanganate in water and how the pink color spreads over time.
+
+```
+
+CHAPTER TITLE: রাসায়নিক বন্ধন / Chemical Bonding
+CHAPTER NUMBER: 2
+PAGE NUMBER: 22
+MAIN TOPICS: Diffusion, States of Matter, Kinetic Molecular Theory
+
+EXPERIMENT TITLE: পরীক্ষা নং: 2 / Experiment No: 2
+Purpose: To observe the diffusion of a liquid in another liquid.
+Materials Required: Beaker, Pure Water, Liquid Blue Solution (নীলের দ্রবণ).
+Safety Precautions: Handle chemical solutions with care.
+Procedure:
+    1. Take some pure water in a beaker.
+    2. Add a small amount of liquid blue solution.
+    3. Observe the beaker for a few minutes.
+Expected Observations: The blue color will spread throughout the water. The liquid blue solution will diffuse throughout the water.
+Key Learning Points: Diffusion rate in liquids is faster compared to diffusion of solids in liquids. The diffusion rate increases with temperature.
+
+DIAGRAM TITLE: চিত্র 2.03: তরল (পানি) মাধ্যমে তরল পদার্থ (নীলের দ্রবণ) / Figure 2.03: Diffusion of a Liquid (Blue Solution) in a Liquid (Water)
+Description: The diagram shows three stages of diffusion within a beaker. First, the blue solution is introduced to water. Next, some of the blue solution diffuses in the water. Finally, the solution has diffused throughout the beaker.
+Components: Beaker, Water (liquid), Blue solution (liquid)
+Chemical Labels: None present
+Safety Notes: None
+Purpose: To show the diffusion process of a liquid in another liquid over time.
+
+EXPERIMENT TITLE: পরীক্ষা নং: 3 / Experiment No: 3
+Purpose: To compare diffusion rates of two gases
+Materials Required: Long open-ended glass tube, two cotton balls, Concentrated Hydrochloric Acid (HCl) solution, Ammonium Hydroxide (NH4OH) solution.
+Safety Precautions: Handle acids and bases carefully. Wear gloves and goggles. Work in a ventilated area.
+Procedure:
+    1. Take a long glass tube with two open ends.
+    2. Soak one cotton ball in concentrated hydrochloric acid (HCl) solution.
+    3. Soak another cotton ball in ammonium hydroxide (NH4OH) solution.
+    4. Insert the cotton balls simultaneously into opposite ends of the glass tube.
+Expected Observations: A white ring of ammonium chloride will form inside the glass tube where the two gases meet. The location of the ring will indicate the relative diffusion rates of the gases.
+Key Learning Points: Gases diffuse at different rates.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+DIFFUSION
+Bengali Definition: কণাগুলোর স্বতঃস্ফূর্তভাবে এক স্থান থেকে অন্য স্থানে ছড়িয়ে পড়ার প্রক্রিয়া।
+English Translation: The process of spontaneous spreading of particles from one place to another.
+Related Chemical Equations: None in text
+Examples: Diffusion of blue ink in water, diffusion of gases in a tube.
+
+SAFETY ALERT
+Hazard Description: Hydrochloric acid (HCl) and Ammonium Hydroxide (NH4OH) are corrosive.
+Required Precautions: Wear safety goggles and gloves when handling these solutions.
+Emergency Procedures: In case of contact with skin or eyes, flush with plenty of water and seek medical attention.
+Protective Equipment: Wear goggles and gloves. Use in well ventilated area.
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 23
+MAIN TOPICS: Diffusion of Gases, Molecular Weight, Chemical Reactions
+
+CHEMICAL EQUATIONS:
+HCl (g) + NH3 (g) → NH4Cl (s)
+
+EXPERIMENTAL PROCEDURES:
+
+EXPERIMENT TITLE: Diffusion of Two Gases
+Purpose: To demonstrate the difference in diffusion rates of gases with different molecular weights.
+Materials Required:
+- Glass tube
+- Cotton plugs
+- Hydrochloric acid (HCl) solution
+- Ammonium hydroxide (NH4OH) solution
+Safety Precautions:
+- Wear gloves and eye protection when handling chemicals.
+- Work in a well-ventilated area.
+Procedure:
+ 1.  Take a glass tube.
+ 2.  Soak one cotton plug with hydrochloric acid solution and another with ammonium hydroxide solution.
+ 3.  Insert the cotton plugs simultaneously at opposite ends of the glass tube to seal the tube.
+ 4.  Observe where the white fumes of ammonium chloride (NH4Cl) form inside the tube.
+Expected Observations:
+- White fumes (NH4Cl) will form inside the tube, closer to the end with the hydrochloric acid.
+- The distance travelled by the ammonia gas will be more than that of hydrogen chloride gas.
+Key Learning Points:
+- Gases with lower molecular weights diffuse faster.
+- Diffusion rate is inversely proportional to molecular weight.
+
+DIAGRAMS AND ILLUSTRATIONS:
+
+DIAGRAM TITLE: Diffusion of Two Gases
+Description: A horizontal glass tube with cotton plugs at each end. The left plug is labelled "HCl এসিড দ্রবণ দিয়ে ভেজানো তুলা" (Cotton soaked with HCl acid solution), and the right plug "NH4OH দ্রবণ দিয়ে ভেজানো তুলা" (Cotton soaked with NH4OH solution). There is a region of white fumes labelled "NH4Cl এর সাদা ধোঁয়া" (White fumes of NH4Cl) inside the tube.
+Components:
+ - Glass tube
+ - Cotton plugs
+ - HCl solution
+ - NH4OH solution
+ - White fumes (NH4Cl)
+Chemical Labels:
+ - HCl
+ - NH4OH
+ - NH4Cl
+Safety Notes:
+ - Handle acid and base solutions with care
+ - Conduct in a well-ventilated area
+Purpose: To illustrate the difference in the rate of diffusion of two gases.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: Diffusion
+Bengali Definition: Not defined specifically on this page.
+English Translation: The movement of particles from an area of high concentration to an area of low concentration.
+Related Chemical Equations: HCl (g) + NH3 (g) → NH4Cl (s)
+Examples: The diffusion of HCl gas and NH3 gas as described in the procedure.
+
+TERM OR PROPERTY NAME: Molecular weight
+Bengali Definition: Not defined specifically on this page.
+English Translation: The sum of the atomic weights of all the atoms in a molecule.
+Related Chemical Equations: N/A
+Examples: Molecular weights of H2 (2), He (4), N2 (28), O2 (32), and CO2 (44) given. The molecular weight of NH3 (17), and HCl (36.5) are given.
+
+SAFETY INFORMATION:
+
+SAFETY ALERT
+Hazard Description: Hydrochloric acid and ammonium hydroxide are corrosive.
+Required Precautions: Handle with care, avoid contact with skin and eyes, work in a well-ventilated area.
+Emergency Procedures: If contact occurs, flush with water and seek medical advice if necessary.
+Protective Equipment: Wear gloves and eye protection.
+
+ADDITIONAL NOTES:
+- H2 has the lowest molecular weight and therefore the highest diffusion rate.
+- CO2 has the highest molecular weight and therefore the lowest diffusion rate.
+- Diffusion is influenced by the molecular weight of a gas.
+
+
+CHAPTER TITLE: নিঃসরণ (Effusion) / Effusion
+CHAPTER NUMBER: 2.4
+PAGE NUMBER: 24
+MAIN TOPICS: Effusion, Gas pressure, Diffusion
+
+DEFINITION
+
+TERM OR PROPERTY NAME: নিঃসরণ (Effusion)
+Bengali Definition: সরু ছিদ্রপথে উচ্চচাপ থেকে কোনো গ্যাসের নিম্নচাপের দিকে সজোরে বেরিয়ে আসার প্রক্রিয়াকে নিঃসরণ বলে।
+English Translation: The process of a gas forcefully escaping from a high-pressure area to a low-pressure area through a narrow opening is called effusion.
+Related Chemical Equations: None on this page
+Examples: The escaping of gas from a punctured balloon, the movement of compressed natural gas (CNG) into an engine.
+
+EXPERIMENT TITLE: OBSERVING EFFUSION USING A BALLOON
+Purpose: To demonstrate the process of effusion using a balloon.
+Materials Required:
+- A balloon
+- Scotch tape
+- A pin
+Safety Precautions:
+- Be careful while using the pin to avoid injury.
+Procedure:
+1. Inflate a balloon.
+2. Attach a piece of scotch tape to the surface of the balloon.
+3. Use a pin to make a small hole through the scotch tape.
+4. Observe the air escaping from the hole.
+5. Notice that the balloon deflates.
+Expected Observations: The air inside the balloon will forcefully escape through the small hole, causing the balloon to deflate.
+Key Learning Points: Effusion is the process of gas escaping through a small opening from a high to low-pressure area.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: CNG (Compressed Natural Gas)
+Bengali Definition: এটি মূলত উচ্চচাপে সংকুচিত প্রাকৃতিক গ্যাস।
+English Translation: It is mainly compressed natural gas under high pressure.
+Related Chemical Equations: None on this page
+Examples: Used as fuel in vehicles.
+
+TERM OR PROPERTY NAME: Diffusion and Effusion
+Bengali Definition: ব্যাপন ও নিঃসরণ মূলত একই প্রকৃতির ঘটনা। এদের মধ্যে মূল পার্থক্য হলো- ব্যাপনের ক্ষেত্রে চাপের প্রভাব নেই কিন্তু নিঃসরণের ক্ষেত্রে চাপের প্রভাব আছে।
+English Translation: Diffusion and effusion are essentially the same type of phenomena. The main difference is that diffusion does not depend on pressure differences, while effusion depends on pressure differences.
+Related Chemical Equations: None on this page
+Examples: When gas spreads in the room after being released and the gas released from a cylinder spread.
+
+TERM OR PROPERTY NAME: Diffusion
+Bengali Definition: ব্যাপনের ক্ষেত্রে কঠিন, তরল বা গ্যাসীয় পদার্থ উপযুক্ত মাধ্যমে সবদিকে ছড়িয়ে পড়ে।
+English Translation: In diffusion, solid, liquid, or gaseous substances spread in all directions through a suitable medium.
+Related Chemical Equations: None on this page
+Examples: The dispersion of gas in a room.
+
+TERM OR PROPERTY NAME: Effusion
+Bengali Definition: নিঃসরণের ক্ষেত্রে কেবল গ্যাসীয় পদার্থ গ্যাসীয় মাধ্যমে ধারক পাত্রের সরু ছিদ্রপথ দিয়ে দ্রুত গতিতে উচ্চ চাপ থেকে নিম্ন চাপের দিকে বের হয়ে আসে।
+English Translation: In effusion, only gaseous substances move rapidly from a high-pressure area to a low-pressure area through a small opening in the container.
+Related Chemical Equations: None on this page
+Examples: Gas coming out of a cylinder.
+
+REAL-WORLD EXAMPLES
+- The use of CNG (Compressed Natural Gas) in vehicles.
+- Use of Propane and Butane gas in LPG cylinders.
+
+SAFETY ALERT
+Hazard Description: If the balloon is poked without the tape, it will burst loudly.
+Required Precautions: Exercise caution when using pins.
+Emergency Procedures: N/A
+Protective Equipment: N/A
+
+NOTE: All original Bengali text is preserved alongside its English translation for clarity.
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: Not specified (appears to be part of a chapter)
+PAGE NUMBER: 25
+MAIN TOPICS: States of Matter, Combustion, Melting and Boiling
+
+DIAGRAM TITLE: মোমবাতির জ্বলন / Burning of a Candle
+Description: A drawing of a burning candle, with labels indicating the three states of wax (solid at the base, liquid just above that, and vapor near the flame)
+Components: Solid wax, Liquid wax, Flame, Wick
+Chemical Labels: None directly labeled in the image.
+Safety Notes: Supervise the use of candles in experiments. Flames are hot.
+Purpose: Demonstrates the states of wax when a candle burns.
+
+2.5 মোমবাতির প্রজ্বলন এবং মোমের তিন অবস্থা / 2.5 Burning of a Candle and the Three States of Wax
+    মোম হলো বিভিন্ন হাইড্রোকার্বনের মিশ্রণ। / Wax is a mixture of different hydrocarbons.
+    হাইড্রোজেন এবং কার্বন মিলে গঠিত জৈব যৌগই হলো হাইড্রোকার্বন। / Organic compounds formed from hydrogen and carbon are hydrocarbons.
+    মোমের প্রজ্বলনে আমরা মোমের কঠিন, তরল এবং গ্যাসীয় এই তিনটি অবস্থাই দেখতে পাই। / During the burning of wax we can see all three states of wax; solid, liquid and gas.
+    মোম বাতিতে মোমের মধ্যে একটি সুতা থাকে। এ সুতাতে আগুন জ্বালালে সুতার চারদিকে হাইড্রোকার্বন অণুগুলো তাপে গলে তরলে পরিণত হয়। / The wax in a candle has a wick. When you light the wick, the hydrocarbon molecules around the wick melt to a liquid.
+    অর্থাৎ কঠিন অবস্থা থেকে তরল অবস্থায় পরিণত হয়। / That is, it changes from solid to liquid state.
+    ঐ তরল মোম আগুনের তাপে প্রথমে বাষ্পে পরিণত হয়। / That liquid wax is first converted to vapor under the heat of the fire.
+    অতপর ঐ বাষ্পীয় মোম বাতাসের অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, আলো এবং তাপ উৎপন্ন করে। / Afterwards the gaseous wax reacts with the oxygen in the air to produce carbon dioxide, water vapor, light and heat.
+    তরল মোমের কিছু অংশ ঠান্ডা হলে তা কঠিন মোমে পরিণত হয়। / Some of the liquid wax when it cools becomes solid wax again.
+    অর্থাৎ তাপের প্রভাবে মোমের কঠিন, তরল ও গ্যাসীয় এই তিন অবস্থারই অস্তিত্ব পাওয়া যায়। / This means under the influence of heat, wax can exist in three states; solid, liquid and gas.
+
+2.6 গলন ও স্ফুটন / 2.6 Melting and Boiling
+    (Melting and Boiling)
+        তাপ প্রয়োগে কোনো পদার্থের কঠিন অবস্থা থেকে তরল অবস্থায় রূপান্তর করার প্রক্রিয়াকে গলন বলে। / The process of converting a substance from solid state to liquid state by applying heat is called melting.
+        1.0 বায়ুমণ্ডলীয় চাপে তাপ প্রয়োগের ফলে যে তাপমাত্রায় কোনো কঠিন পদার্থ তরলে পরিণত হয় সেই তাপমাত্রাকে উক্ত কঠিন পদার্থের গলনাঙ্ক বলে। / The temperature at which a solid substance turns to liquid at 1.0 atmospheric pressure is called the melting point of the substance.
+        প্রত্যেক বিশুদ্ধ কঠিন পদার্থের একটি নির্দিষ্ট গলনাঙ্ক থাকে। / Every pure solid substance has a specific melting point.
+        যেমন- 1.0 বায়ুমণ্ডলীয় চাপে বরফের গলনাঙ্ক ০°C। / Example: The melting point of ice at 1.0 atmospheric pressure is 0°C.
+        তাপ প্রয়োগ করে তরলকে গ্যাসে রূপান্তর করার প্রক্রিয়াকে স্ফুটন বলে। / The process of changing a liquid into a gas by applying heat is called boiling.
+        1.0 বায়ুমণ্ডলীয় চাপে তাপ প্রয়োগের ফলে যে তাপমাত্রায় কোনো তরল পদার্থ গ্যাসীয় পদার্থে পরিণত হয় সেই তাপমাত্রাকে উক্ত তরল পদার্থের স্ফুটনাঙ্ক বলে। / The temperature at which a liquid substance changes to a gas under 1.0 atmospheric pressure is called the boiling point of the liquid.
+        প্রত্যেক বিশুদ্ধ তরলের একটি নির্দিষ্ট স্ফুটনাঙ্ক থাকে। / Every pure liquid has a specific boiling point.
+        যেমন- 1.0 বায়ুমন্ডলীয় চাপে পানির স্ফুটনাঙ্ক 100℃। / For example, the boiling point of water is 100°C at 1.0 atmospheric pressure.
+        স্ফুটনের বিপরীত প্রক্রিয়াটির নাম ঘনীভবন। / The reverse process of boiling is called condensation.
+        স্ফুটনের জন্য তাপ দিতে হয়, ঘনীভবনের সময় তাপ সরিয়ে নিতে হয়। / Heat must be supplied for boiling while heat must be removed during condensation.
+
+
+CHAPTER TITLE: একক কাজ / Unit Work
+CHAPTER NUMBER: Not explicitly stated on the page
+PAGE NUMBER: 26
+MAIN TOPICS: Melting Point Determination, Pure and Impure Substances
+
+EXPERIMENT TITLE: কঠিন পদার্থের গলনাঙ্ক নির্ণয় পদ্ধতি / Method for Determining the Melting Point of Solid Substances
+
+Purpose: To determine the melting point of a pure solid substance (Urea) and an impure substance (wax).
+
+Materials Required:
+- Tripod stand
+- Wire gauze
+- Watch glass
+- Urea
+- Thread
+- Thermometer
+- Burner
+- One-mouthed closed glass tube
+- Beaker
+- Water
+- Wax
+
+Safety Precautions:
+- Handle hot equipment carefully.
+- Avoid direct contact with flames.
+- Do not allow water into the open end of the glass tube while heating.
+
+Procedure: [For Urea]
+1. Place a wire gauze on a tripod stand.
+2. Place a watch glass on the wire gauze.
+3. Put some urea on the watch glass.
+4. Tie a thermometer with a thread and dip the thermometer bulb into the urea.
+5. Heat the urea using a burner.
+6. Observe and record the temperature at which the urea starts to melt.
+7. Note the temperature at which all urea melts completely. This is the melting point of urea.
+
+Expected Observations:
+- The temperature at which urea starts to melt is 133°C. All the urea will melt at 133°C.
+
+Key Learning Points:
+- The melting point of pure urea is 133°C.
+
+Procedure: [For Wax]
+1. Crush the wax into powder.
+2. Place the wax powder into a one-mouthed closed glass tube.
+3. Insert a thermometer into the glass tube.
+4. Immerse the tube with the wax into a beaker of water, ensuring the open end of the tube does not get wet.
+5. Slowly heat the water in the beaker.
+6. Observe and record the temperature range during which the wax melts.
+7. The range of temperature when wax melts is the melting range of the wax.
+
+Expected Observations:
+- The melting of wax will occur over a temperature range rather than a single point.
+
+Key Learning Points:
+- Impure substances like wax have a melting point that occurs over a range of temperatures.
+- Impure substances have a lower melting point and higher boiling point than pure substances.
+- Mixed substances do not have a specific melting point and boiling point.
+
+DIAGRAM TITLE: চিত্র 2.06: ইউরিয়ার গলনাঙ্ক নির্ণয়। / Figure 2.06: Determination of the Melting Point of Urea.
+
+Description: The diagram shows a setup for determining the melting point of urea. A tripod stand supports a wire gauze, on which a watch glass containing urea is placed. A thermometer, held by a thread, is dipped into the urea. A burner is positioned below the tripod to provide heat.
+
+Components:
+- স্ট্যান্ড / Stand (Tripod)
+- সুতা / Suta (Thread)
+- ইউরিয়া / Urea
+- ওয়াচ গ্লাস / Watch Glass
+
+Chemical Labels:
+- None
+
+Safety Notes:
+- Be cautious when using the burner to avoid burns.
+
+Purpose: To illustrate the experimental setup for determining the melting point of urea.
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+GALONANKA (গলনাঙ্ক) / MELTING POINT
+Bengali Definition:  কোনো কঠিন পদার্থকে তাপ দিলে একটি নির্দিষ্ট তাপমাত্রায় সেটি গলতে শুরু করে। এই তাপমাত্রাকে গলনাঙ্ক বলে।
+English Translation: When a solid substance is heated, it starts to melt at a specific temperature. This temperature is called the melting point.
+Related Chemical Equations: None on this page.
+Examples:  The melting point of pure urea is 133°C.
+
+OBISUDDHO PODARTHA (অবিশুদ্ধ পদার্থ) / IMPURE SUBSTANCE
+Bengali Definition: যে পদার্থে একাধিক উপাদান মিশ্রিত থাকে।
+English Translation: A substance in which multiple components are mixed.
+Related Chemical Equations: None on this page.
+Examples: Wax (মোম)
+
+BISUDDHO PODARTHA (বিশুদ্ধ পদার্থ) / PURE SUBSTANCE
+Bengali Definition: যে পদার্থে কেবল একটি উপাদান থাকে।
+English Translation: A substance that contains only one component.
+Related Chemical Equations: None on this page.
+Examples: Urea (ইউরিয়া)
+
+SUTONANKA (স্ফুটনাঙ্ক) / BOILING POINT
+Bengali Definition:  কোনো তরল পদার্থকে তাপ দিলে একটি নির্দিষ্ট তাপমাত্রায় সেটি ফুটতে শুরু করে। এই তাপমাত্রাকে স্ফুটনাঙ্ক বলে।
+English Translation: When a liquid substance is heated, it starts to boil at a specific temperature. This temperature is called the boiling point.
+Related Chemical Equations: None on this page.
+Examples: Not shown in this page.
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 27
+MAIN TOPICS: Melting point, Boiling point, Purity of substances
+
+DIAGRAM TITLE: মোমের গলনাঙ্ক নির্ণয় / Determination of Melting Point of Wax
+Description: A test tube containing the substance to be tested is immersed in a beaker of water, which is being heated by a Bunsen burner. A thermometer is placed inside the test tube to measure the temperature. The setup is supported by a stand.
+Components:
+    - Test tube
+    - Beaker
+    - Thermometer
+    - Bunsen burner
+    - Stand
+    - Water bath
+Chemical Labels: None shown.
+Safety Notes: Handle hot equipment with care. Use appropriate heat resistant materials.
+Purpose: To visually represent how to determine the melting point of a solid.
+
+EXPERIMENTAL PROCEDURES
+EXPERIMENT TITLE: তরল পদার্থের স্ফুটনাঙ্ক নির্ণয়ের পদ্ধতি / Method for Determining the Boiling Point of a Liquid
+Purpose: To determine the boiling point of a liquid
+Materials Required:
+    - Liquid (e.g., water)
+    - Beaker
+    - Thermometer
+    - Bunsen burner
+    - Stand
+Safety Precautions: Use caution with the Bunsen burner and hot glassware.
+Procedure:
+    1. Take a small amount of the liquid in a beaker.
+    2. Place a thermometer in the beaker.
+    3. Heat the beaker carefully using a Bunsen burner.
+    4. Observe the temperature until the liquid starts to boil and all liquid turns to vapor.
+    5. Note the boiling point.
+Expected Observations: The temperature will rise until the boiling point is reached, at which point the temperature will stabilize while the liquid turns to vapor.
+Key Learning Points: The boiling point is a characteristic property of a pure liquid; impurities will cause the boiling point to change.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME: গলনাঙ্ক / Melting Point
+Bengali Definition: যেহেতু প্রত্যেক বিশুদ্ধ কঠিন পদার্থের একটি নির্দিষ্ট গলনাঙ্ক থাকে সেহেতু কঠিন পদার্থ একটি নির্দিষ্ট তাপমাত্রায় গলে থাকে। / Since every pure solid substance has a specific melting point, a solid substance melts at a specific temperature.
+English Translation: Since every pure solid substance has a specific melting point, a solid substance melts at a specific temperature.
+Related Chemical Equations: None.
+Examples:  বিশুদ্ধ সালফারের গলনাঙ্ক 115°C / The melting point of pure sulfur is 115°C.
+
+TERM OR PROPERTY NAME: স্ফুটনাঙ্ক / Boiling Point
+Bengali Definition:  এই তাপমাত্রাই পানির স্ফুটনাঙ্ক। / This temperature is the boiling point of water.
+English Translation:  This temperature is the boiling point of water.
+Related Chemical Equations: None.
+Examples: পানির স্ফুটনাঙ্ক 100°C (1 atm চাপে) / The boiling point of water is 100°C (at 1 atm pressure).
+
+SAFETY ALERT
+Hazard Description: Use caution while working with bunsen burner and heating apparatus.
+Required Precautions: Use appropriate gloves and heat resistant materials while conducting the experiments
+Emergency Procedures: In case of burns from hot apparatus, cool the burned area immediately with cold running water and get medical attention, if required.
+Protective Equipment: Heat resistant gloves and eye protection (safety goggles) must be worn.
+
+EXTRA TEXT:
+যেহেতু প্রত্যেক বিশুদ্ধ কঠিন পদার্থের একটি নির্দিষ্ট গলনাঙ্ক থাকে সেহেতু কঠিন পদার্থ একটি নির্দিষ্ট তাপমাত্রায় গলে থাকে। যদি দেখা যায় কোনো কঠিন পদার্থ তার নির্দিষ্ট গলনাঙ্ক ছাড়া অন্য কোনো তাপমাত্রায় গলছে সেক্ষেত্রে ধরে নিতে হবে কঠিন পদার্থটি বিশুদ্ধ নয়। আবার যদি দেখা যায় কঠিন পদার্থটি একটি নির্দিষ্ট তাপমাত্রার পরিসরে গলতে থাকে তাহলেও ধরে নিতে হবে কঠিন পদার্থটি বিশুদ্ধ নয়। যেমন- 1.0 বায়ুমণ্ডলীয় চাপে বিশুদ্ধ সালফারের গলনাঙ্ক 115°C। কিন্তু কোনো একটি সালফার নমুনার গলনাঙ্ক নির্ণয় করার সময় যদি দেখা যায় ঐ সালফার নমুনা 115°C অপেক্ষা কম তাপমাত্রায় গলছে, তবে বুঝতে হবে ঐ নমুনা সালফার বিশুদ্ধ নয় এটি ভেজাল যুক্ত সালফার। গলনাঙ্ক নির্ণয় প্রক্রিয়ার মাধ্যমে কোনো কঠিন পদার্থ বিশুদ্ধতা নির্ণয় করা যায়।
+Translation: Since every pure solid substance has a specific melting point, a solid substance melts at a specific temperature. If it is seen that a solid substance melts at a temperature other than its specific melting point, then it must be assumed that the solid substance is not pure. Also, if it is observed that a solid substance melts within a certain temperature range, then it must be assumed that the solid substance is not pure. For example, the melting point of pure sulfur is 115°C at 1.0 atmosphere pressure. But if it is seen during the determination of the melting point of a sulfur sample that the sulfur sample melts at a temperature lower than 115°C, then it has to be understood that the sulfur sample is not pure but a contaminated sulfur. The purity of any solid substance can be determined by the melting point determination process.
+যে তরল পদার্থের স্ফুটনাঙ্ক নির্ণয় করতে হবে ঐ তরল পদার্থের (যেমন- পানি) কিছু পরিমাণ একটি বিকারে নেওয়া হয়। এই বিকারের মধ্যে একটি থার্মোমিটার রাখা হয়। এখন সতর্কতার সাথে বুনসেন বার্নার দিয়ে বিকারটিকে উত্তপ্ত করা হয়। এক পর্যায়ে সমস্ত পানি একটি নির্দিষ্ট তাপমাত্রায় বাষ্পে পরিণত হবে। এই তাপমাত্রাই পানির স্ফুটনাঙ্ক। যেমন- পানিকে বিকারে নিয়ে উত্তপ্ত করলে 100°C তাপমাত্রায় সমস্ত পানি বাষ্পে পরিণত হয়। অর্থাৎ পানির স্ফুটনাঙ্ক 100°C (1 atm চাপে)। যেহেতু প্রত্যেক বিশুদ্ধ তরলের স্ফুটনাঙ্ক নির্দিষ্ট সেহেতু একাধিক তরলের একই স্ফুটনাঙ্ক হতে পারে না। আবার, কোনো তরলে ভেজাল মিশ্রিত থাকলে সেটি তার নির্দিষ্ট স্ফুটনাঙ্ক ব্যতীত ভিন্ন তাপমাত্রায় ফুটতে থাকে।
+Translation: A small amount of the liquid whose boiling point is to be determined (e.g., water) is taken in a beaker. A thermometer is placed in this beaker. Now, the beaker is heated carefully with a Bunsen burner. At one point, all the water will turn into steam at a specific temperature. This temperature is the boiling point of water. For example, when water is heated in a beaker, all the water turns to steam at 100°C. That is, the boiling point of water is 100°C (at 1 atm pressure). Since the boiling point of every pure liquid is fixed, multiple liquids cannot have the same boiling point. Again, if an impurity is mixed in a liquid, it will boil at a temperature other than its fixed boiling point.
+
+
+CHAPTER TITLE: (Not Provided) / (Not Provided)
+CHAPTER NUMBER: (Not Provided)
+PAGE NUMBER: 28
+MAIN TOPICS: Boiling point, Phase Transition, Experimental Setup
+
+DIAGRAM TITLE: চিত্র 2.08: পানির স্ফুটনাঙ্ক নির্ণয়। / Figure 2.08: Determination of the boiling point of water.
+Description: A diagram showing the experimental setup for determining the boiling point of water. It includes a beaker with water, a thermometer, a stand with a clamp, a tripod stand, wire gauze and a Bunsen burner.
+Components: স্ট্যান্ড (Stand), ক্লাম্প (Clamp), থার্মোমিটার (Thermometer), বিকার (Beaker), পানি (Water), তারজালি (Wire gauze), ত্রিপদী স্ট্যান্ড (Tripod stand), বুনসেন বার্নার (Bunsen burner).
+Chemical Labels: None
+Safety Notes: Use caution when heating with a Bunsen burner. Handle hot glassware with care.
+Purpose: To visually represent the apparatus required for an experiment to determine boiling points.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: স্ফুটনাঙ্ক / Boiling Point
+Bengali Definition: স্ফুটনাঙ্কের মাধ্যমে কোনো তরল পদার্থ বিশুদ্ধ নাকি অবিশুদ্ধ তা নির্ণয় করা যায়।
+English Translation: The boiling point can determine if a liquid substance is pure or impure.
+Related Chemical Equations: None
+Examples: পানি (Water)
+
+EXPERIMENTAL PROCEDURES
+
+EXPERIMENT TITLE: পরীক্ষা নং: 6 / Experiment No: 6
+Purpose: To observe the change in temperature as ice is heated and transitions through different phases.
+Materials Required:
+ - A beaker
+ - Several pieces of ice
+ - A thermometer
+ - Heat source (not explicitly specified in the text)
+Safety Precautions: Handle glassware carefully. Use caution when heating.
+Procedure:
+ 1. Take a few pieces of ice in a beaker.
+ 2. Gradually apply heat to the beaker.
+ 3. Measure the temperature with a thermometer throughout the heating process.
+Expected Observations: The temperature will increase until it reaches the melting point. Then the ice will melt to liquid while the temperature remains constant.
+Key Learning Points: Temperature change during phase transitions.
+
+SAFETY ALERT
+Hazard Description: Heating the beaker and using a burner poses a risk of burns.
+Required Precautions: Handle the burner with care. Use protective gloves when handling hot materials.
+Emergency Procedures: If burned, cool with water and seek medical attention.
+Protective Equipment: Gloves, Lab Coat.
+
+QUESTIONS AND PROBLEMS
+
+Question 1
+যেমন-পানিতে সামান্য পরিমাণ অ্যালকোহল যোগ করলে পানির স্ফুটনাঙ্ক 100°C তাপমাত্রা না হয়ে অন্য কোনো তাপমাত্রায় হবে। / For example, if a small amount of alcohol is added to water, the boiling point of water will not be 100°C, but at another temperature.
+Translation: The text states that, for example, when a small amount of alcohol is added to water, the boiling point will not be 100°C, but at another temperature.
+Type: Short answer
+Chemical Components: Water, Alcohol
+Key Concept: Effect of Impurities on Boiling Point
+
+Question 2
+ধরা যাক, কঠিন বরফ খণ্ডগুলোর প্রাথমিক তাপমাত্রা ছিল -40°C (2.09 চিত্রটি দেখো)। / Suppose the initial temperature of the solid ice pieces was -40°C (See figure 2.09).
+Translation: The initial temperature of the solid ice pieces was -40°C. (See figure 2.09)
+Type: Numerical
+Chemical Components: Ice
+Key Concept: Initial temperature for phase transition experiment
+
+
+PAGE METADATA
+Chapter Title: পদার্থের অবস্থা / States of Matter
+Chapter Number: Not specified
+Page Number: 29
+Main Topics: Phase transitions, Melting Point, Boiling Point
+
+DIAGRAMS AND ILLUSTRATIONS
+
+DIAGRAM TITLE
+চিত্র 2.09: বরফে তাপ প্রদানের লেখচিত্র। / Figure 2.09: Graph of Applying Heat to Ice
+Description: This is a graph showing the temperature change of a substance (likely water) as heat is applied. The X-axis represents time (or heat absorbed), and the Y-axis represents temperature in degrees Celsius. The graph starts at a negative temperature, increases to 0°C where a horizontal line segment exists before increasing again until it reaches another plateau at 100°C, at which point the temperature begins to increase again. The different sections of the graph correspond to solid ice, liquid water, and gaseous water vapor (steam).
+Components: X-axis: (তাপ শোষণ) সময়/ (Heat Absorption) Time; Y-axis: তাপমাত্রা (°C) / Temperature (°C); Line segments AB, BC, CD; Labels for বরফের গলনাঙ্ক রেখা / Melting point of ice line, পানি / Water, পানির স্ফুটনাঙ্ক রেখা/ Boiling point of water line, জলীয় বাষ্প / Steam.
+Chemical Labels: None.
+Safety Notes: None.
+Purpose: The diagram illustrates how temperature changes during phase transitions (melting and boiling) as heat is continuously applied to a substance.
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+
+TERM OR PROPERTY NAME
+বরফের গলনাঙ্ক / Melting point of Ice
+Bengali Definition: কঠিন বরফের গলনের পুরো সময় তাপমাত্রা ০°C তাপমাত্রায় স্থির থাকে এবং এই ০°C তাপমাত্রায়ই সমস্ত বরফ পানিতে পরিণত হয়। অর্থাৎ ०°C তাপমাত্রা হলো বরফের গলনাঙ্ক।
+English Translation: During the entire process of melting solid ice, the temperature remains constant at 0°C, and all the ice converts to water at this 0°C temperature. Thus, 0°C is the melting point of ice.
+Related Chemical Equations: None
+Examples: None
+
+TERM OR PROPERTY NAME
+পানির স্ফুটনাঙ্ক / Boiling point of Water
+Bengali Definition:  পানির তাপমাত্রা যখন 100°C এ পৌঁছে তখন পানিতে তাপ প্রদান করলেও তরল পানির তাপমাত্রা আর বাড়ে না। ঐ তাপমাত্রায় পানি ফুটতে থাকে। এই 100°C তাপমাত্রায়ই সমস্ত পানি জলীয় বাষ্পে পরিণত হয়। পানির স্ফুটনাঙ্ক 100°C।
+English Translation: When the temperature of water reaches 100°C, the temperature of liquid water does not increase further even when heat is supplied, the water starts to boil. All of the water is converted to water vapor at this temperature of 100°C. The boiling point of water is 100°C.
+Related Chemical Equations: None
+Examples: None
+
+TEXT CONTENT
+
+তাপ প্রয়োগের সাথে সাথে কঠিন অবস্থার বরফের তাপমাত্রা ধীরে ধীরে বাড়তে থাকে এবং বাড়তে বাড়তে যখন ০°C তাপমাত্রায় পৌঁছায়, তখন কঠিন বরফ গলনের মাধ্যমে তরল পানিতে পরিণত হয়। কঠিন বরফের গলনের পুরো সময় তাপমাত্রা ০°C তাপমাত্রায় স্থির থাকে এবং এই ০°C তাপমাত্রায়ই সমস্ত বরফ পানিতে পরিণত হয়। অর্থাৎ ०°C তাপমাত্রা হলো বরফের গলনাঙ্ক। গলনাঙ্কের তাপমাত্রায় যে সরলরেখা পাওয়া যায় তাকে গলনাঙ্ক রেখা বলা হয়। 2.09 চিত্রে AB রেখা বরফের গলনাঙ্ক রেখা। এই রেখা বরাবর বরফ ও পানি উভয়ই অবস্থান করে। এরপরও তাপ দিতে থাকলে তরল পানির তাপমাত্রা ধীরে ধীরে বাড়তে থাকে এবং পানির তাপমাত্রা যখন 100°C এ পৌঁছে তখন পানিতে তাপ প্রদান করলেও তরল পানির তাপমাত্রা আর বাড়ে না। ঐ তাপমাত্রায় পানি ফুটতে থাকে। এই 100°C তাপমাত্রায়ই সমস্ত পানি জলীয় বাষ্পে পরিণত হয়। এরপরও তাপ প্রয়োগ করা হলে জলীয় বাষ্পের তাপমাত্রা ধীরে ধীরে বাড়তে থাকে। পানির স্ফুটনাঙ্ক 100°C। চিত্রে CD রেখা পানির স্ফুটনাঙ্ক রেখা। এই রেখা বরাবর পানি এবং জলীয়বাষ্প উভয়ই একসাথে অবস্থান করে।
+
+English Translation:
+As heat is applied, the temperature of solid ice gradually increases, and when it reaches 0°C, the solid ice melts into liquid water. During the entire melting of the solid ice, the temperature remains constant at 0°C and all the ice converts to water at this 0°C temperature. Thus, 0°C is the melting point of ice. The straight line obtained at the melting point temperature is called the melting point line. In Figure 2.09, line AB is the melting point line of ice. Both ice and water are present along this line. Even after this, if heat is supplied, the temperature of the liquid water gradually increases, and when the water reaches 100°C, the temperature of the liquid water does not increase further even if heat is supplied, the water starts to boil at that temperature. At this temperature of 100°C all the water is converted to water vapor.  If heat is applied further, the temperature of the water vapor gradually increases. The boiling point of water is 100°C. In Figure CD, line CD represents the boiling point of water. Both water and water vapor are present together along this line.
+
+
+CHAPTER TITLE: অবস্থার পরিবর্তন / Change of State
+CHAPTER NUMBER: 2
+PAGE NUMBER: 30
+MAIN TOPICS: Cooling curve of water, Phase transitions of water
+
+DIAGRAM TITLE: জলীয় বাষ্পকে শীতলকরণের লেখচিত্র। / Cooling Curve of Water Vapor
+Description: A graph showing the temperature changes of water as it cools from vapor to ice. The X-axis represents time (heat loss), and the Y-axis represents temperature in degrees Celsius. The graph shows a step-like decrease as water undergoes phase transitions.
+Components: X-axis (time/তাপ বর্জন), Y-axis (temperature/তাপমাত্রা), Lines representing water vapor, liquid water, and ice phases, Boiling point label (স্ফুটনাঙ্ক), Freezing point label (গলনাঙ্ক).
+Chemical Labels: জলীয় বাষ্প (water vapor), পানি (water), বরফ (ice).
+Safety Notes: None
+Purpose: To illustrate the cooling process of water vapor and the different phases of water at different temperatures.
+
+TEXT:
+বিপরীতক্রমে জলীয় বাষ্পকে ক্রমান্বয়ে শীতল করা হলে প্রাপ্ত ফলাফল একটি গ্রাফ পেপারের X অক্ষে সময় এবং Y অক্ষে তাপমাত্রা নিয়ে লেখচিত্র অঙ্কন করলে নিম্নরূপ রেখা পাওয়া যাবে:
+Translation: Conversely, if water vapor is cooled gradually, the results can be plotted on a graph paper with time on the X-axis and temperature on the Y-axis, which will produce a curve as follows:
+
+লেখচিত্র থেকে দেখা যায়, শুরুতে জলীয় বাষ্পের তাপমাত্রা 140°C। এই জলীয় বাষ্পকে ধীরে ধীরে শীতল বা ঠান্ডা করে যখন তাপমাত্রা 140°C থেকে কমিয়ে 100°C এ নিয়ে যাওয়া হয় তখন জলীয় বাষ্প পানিতে পরিণত হতে শুরু করে। যতক্ষণ জলীয় বাষ্প পানিতে পরিণত হতে থাকে ততক্ষণ পানির তাপমাত্রা 100°C তে স্থির থাকে। এরপরও পানিকে আরো ঠান্ডা করা হলে পানির তাপমাত্রা কমতে থাকে। ঠান্ডা করতে করতে যখন পানির তাপমাত্রা ০°C তাপমাত্রায় পৌঁছে তখন তরল পানি কঠিন বরফে পরিণত হতে শুরু করে। এর পরেও পানিকে ঠান্ডা করলে পানির তাপমাত্রা আর কমে না। সমস্ত তরল পানি কঠিন বরফে পরিণত হওয়ার পর আরও ঠান্ডা করা হলে বরফের তাপমাত্রা ০°C থেকে কমতে থাকে। চিত্রে -40°C তাপমাত্রা পর্যন্ত বরফের তাপমাত্রা কমানো দেখানো হয়েছে।
+Translation: From the graph, it is seen that initially the temperature of the water vapor is 140°C. When this water vapor is slowly cooled, the temperature is reduced from 140°C to 100°C, and the water vapor starts to turn into water. While the water vapor is changing to water, the temperature of the water remains constant at 100°C. If the water is further cooled, the water temperature starts decreasing. When the water temperature reaches 0°C, the liquid water starts to turn into solid ice. If the water is further cooled, the water temperature does not fall further. Once all the liquid water has transformed into solid ice and further cooling occurs, the temperature of the ice starts falling from 0°C. In the figure, the temperature of ice has been shown to decrease down to -40°C.
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: Not specified in this page
+PAGE NUMBER: 52 (based on the bottom right corner of the image)
+MAIN TOPICS: Distillation, Sublimation, Phase Changes
+
+CHEMICAL EQUATIONS:
+None on this page
+
+EXPERIMENTAL PROCEDURES:
+None on this page
+
+DIAGRAMS AND ILLUSTRATIONS:
+DIAGRAM TITLE: চিত্র 2.11: উদ্বায়ী পদার্থের ঊর্ধ্বপাতন / Figure 2.11: Sublimation of a volatile substance
+Description: The diagram shows a solid substance (represented by tightly packed blue circles) undergoing a phase change to a gaseous state (represented by dispersed blue circles in a cube). There is a red arrow labeled "তাপ প্রদান" (heat application) indicating the process of heating.
+Components: Solid state representation, Gaseous state representation, arrow indicating heat application
+Chemical Labels: None
+Safety Notes: None on this diagram
+Purpose: To visually demonstrate the process of sublimation where a solid directly transitions into a gas.
+
+QUESTIONS AND PROBLEMS:
+None on this page
+
+CHEMICAL PROPERTIES AND DEFINITIONS:
+
+TERM OR PROPERTY NAME: বাষ্পীভবন / Vaporization
+Bengali Definition: তাপ প্রয়োগের দ্বারা একটি তরল পদার্থকে বাষ্পে পরিণত করার প্রক্রিয়াকে বাষ্পীভবন বলে।
+English Translation: The process of converting a liquid substance into vapor by applying heat is called vaporization.
+Related Chemical Equations: None on this page
+Examples: একটি পাত্রে পানিসহ চা-এ তাপ প্রয়োগ করা হলে ঐ গরম চা থেকে পানি বাষ্পাকারে উড়ে যায়। / When heat is applied to tea with water in a container, the water evaporates as vapor.
+
+TERM OR PROPERTY NAME: ঘনীভবন / Condensation
+Bengali Definition:  উক্ত বাষ্পকে শীতল করলে তা তরলে পরিণত হয় যাকে ঘনীভবন বলে।
+English Translation: When vapor is cooled, it converts into a liquid, which is called condensation.
+Related Chemical Equations: None on this page
+Examples: জলীয় বাষ্প তাপশক্তি নির্গত করে ঠান্ডা হয়ে পানিতে পরিণত হয়। / Water vapor releases heat energy and cools down to form water.
+
+TERM OR PROPERTY NAME: পাতন / Distillation
+Bengali Definition: কোনো তরলকে তাপ প্রয়োগের মাধ্যমে বাষ্পে পরিণত করে তাকে পুনরায় শীতলীকরণের মাধ্যমে তরলে পরিণত করার পদ্ধতিকে পাতন বলে।
+English Translation: The process of converting a liquid into vapor by applying heat and then reconverting it to a liquid through cooling is called distillation.
+Related Chemical Equations: None on this page
+Examples: None on this page
+
+TERM OR PROPERTY NAME: ঊর্ধ্বপাতন / Sublimation
+Bengali Definition: যে প্রক্রিয়ায় কোনো কঠিন পদার্থে তাপ প্রয়োগ করা হলে কঠিন পদার্থটি তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয়, সেই প্রক্রিয়াকে ঊর্ধ্বপাতন বলে।
+English Translation: The process by which a solid directly converts into a vapor without passing through a liquid state when heat is applied is called sublimation.
+Related Chemical Equations: None on this page
+Examples: নিশাদল (NH4Cl), কপূর (C10H160), ন্যাপথলিন (C10Hg), কঠিন কার্বন ডাই-অক্সাইড (CO₂), আয়োডিন (I2), অ্যালুমিনিয়াম ক্লোরাইড (AlCl3) / Ammonium chloride (NH4Cl), camphor (C10H160), naphthalene (C10Hg), solid carbon dioxide (CO2), iodine (I2), and aluminum chloride (AlCl3).
+
+TERM OR PROPERTY NAME: উদ্বায়ী পদার্থ / Volatile substances
+Bengali Definition:  এই পদার্থগুলোকে উদ্বায়ী পদার্থ বলা হয়।
+English Translation: These substances are called volatile substances.
+Related Chemical Equations: None on this page
+Examples: নিশাদল (NH4Cl), কপূর (C10H160), ন্যাপথলিন (C10Hg), কঠিন কার্বন ডাই-অক্সাইড (CO₂), আয়োডিন (I2), অ্যালুমিনিয়াম ক্লোরাইড (AlCl3) / Ammonium chloride (NH4Cl), camphor (C10H160), naphthalene (C10Hg), solid carbon dioxide (CO2), iodine (I2), and aluminum chloride (AlCl3).
+
+SAFETY INFORMATION:
+None on this page.
+
+
+CHAPTER TITLE:  রাসায়নিক দ্রব্য ও রসায়ন / Chemical Substances and Chemistry
+CHAPTER NUMBER:  [Not specified on the page]
+PAGE NUMBER: 32
+MAIN TOPICS: Sublimation, Separation Techniques
+
+EXPERIMENT TITLE: SUBIMATION OF ALUMINIUM CHLORIDE (AlCl3)
+Purpose: To demonstrate the process of sublimation with Aluminum Chloride.
+Materials Required:
+- Beaker
+- Solid Aluminum Chloride (AlCl3)
+- Glass lid
+- Ice
+- Wire gauze
+- Bunsen burner
+Safety Precautions:
+- Aluminum chloride can be irritating. Avoid direct contact and inhalation.
+Procedure:
+1.  Take some solid Aluminum Chloride (AlCl3) in a beaker.
+2.  Cover the beaker's mouth with a glass lid.
+3.  Place some ice on top of the glass lid.
+4.  Apply heat to the beaker slowly using a Bunsen burner.
+Expected Observations:
+- The solid AlCl3 will be seen turning into a gaseous form (vapor)
+- The gaseous AlCl3 will rise up and touch the lid.
+- Upon contacting the cold lid, the gaseous AlCl3 will turn into a solid again and deposit at the bottom of the lid.
+Key Learning Points:
+- Sublimation is the process where a solid directly turns into a gas.
+
+DIAGRAM TITLE: AlCl3 এর ঊর্ধ্বপাতন / Sublimation of AlCl3
+Description: A beaker is heated from below using a Bunsen burner, with a lid on top. There is ice on the lid. Inside the beaker there is a chemical substance which sublimes.
+Components:
+- বরফ খন্ড (Ice pieces)
+- ঢাকনা (Lid)
+- বিকার (Beaker)
+- তারজালি (Wire gauze)
+- বুনসেন বার্নার (Bunsen burner)
+Chemical Labels: AlCl3
+Safety Notes: Beaker may be hot, use caution when handling.
+Purpose: To illustrate the setup for sublimating Aluminium Chloride (AlCl3).
+
+CHEMICAL PROPERTIES AND DEFINITIONS
+TERM OR PROPERTY NAME: ঊর্ধ্বপাতন / Sublimation
+Bengali Definition: কোনো কঠিন পদার্থকে তাপ দিলে সরাসরি গ্যাসে পরিণত হওয়ার প্রক্রিয়াকে ঊর্ধ্বপাতন বলে।
+English Translation: Sublimation is the process where a solid substance directly converts into a gaseous state upon heating.
+Related Chemical Equations: AlCl3(s)  →  AlCl3(g)
+Examples: Aluminium Chloride, Iodine
+
+TERM OR PROPERTY NAME: উদ্বায়ী পদার্থ / Volatile substance
+Bengali Definition: যে সকল পদার্থ সহজে বাষ্পে পরিণত হতে পারে।
+English Translation: Substances that can easily be converted to vapor
+Related Chemical Equations: N/A
+Examples: Iodine, Ammonium Chloride
+
+ÜRDHAPATAN PROKRIYAR PROYOG/Applications of Sublimation Process
+Bengali Text: কোনো কঠিন পদার্থের মিশ্রণের মধ্যে একটি উদ্বায়ী পদার্থ মিশ্রিত থাকলে ঐ উদ্বায়ী পদার্থকে মিশ্রণ থেকে সহজে পৃথক করা যায়, যেমন- নিশাদল বা অ্যামোনিয়াম ক্লোরাইড (NH4Cl) এর সাথে খাদ্য লবণ (NaCl) মিশ্রিত থাকলে ঊর্ধ্বপাতন পদ্ধতির মাধ্যমে নিশাদলকে পৃথক করা যাবে। কঠিন অবস্থায় ঊর্ধ্বপাতিত পদার্থে তাপ প্রয়োগ করতে থাকলে ঊর্ধ্বপাতিত পদার্থ সহজেই বাষ্পীভূত হয়। আয়োডিনমিশ্রিত খাদ্যলবণের মধ্যে আয়োডিন একটি ঊর্ধ্বপাতিত পদার্থ। কাজেই ঐ আয়োডিন মিশ্রিত খাদ্যলবণের মিশ্রণকে তাপ দিলে আয়োডিন সহজেই বাষ্পীভূত হয়। ঐ বাষ্পকে ঠান্ডা করে কঠিন আয়োডিনে পরিণত করা যায়। বালি এবং গ্লুকোজের মিশ্রণের মধ্যে কোনো উদ্বায়ী পদার্থ নেই। কাজেই তাপ প্রয়োগ করে বালি এবং গ্লুকোজের মিশ্রণ থেকে বালি বা গ্লুকোজকে আলাদা করা যায় না।
+
+English Translation: If a volatile substance is mixed with a solid mixture, the volatile substance can be easily separated from the mixture. For example, if ammonium chloride (NH4Cl) is mixed with common salt (NaCl), the ammonium chloride can be separated through sublimation. When a sublimable substance is heated in a solid state, it easily vaporizes. Iodine is a sublimable substance in an iodine-mixed salt. Hence, if the mixture of iodine and common salt is heated, iodine vaporizes easily. The vapor can be cooled to obtain solid iodine. There is no volatile substance in a mixture of sand and glucose. Therefore, sand or glucose cannot be separated from the mixture by applying heat.
+
+QUESTIONS AND PROBLEMS
+Question 1
+কাপে গরম চা রাখলে নিচের কোন প্রক্রিয়াটি ঘটে?
+Translation: Which of the following processes occurs when hot tea is kept in a cup?
+Type: Multiple choice
+Chemical Components: H2O
+Key Concept: Phase transitions, specifically Evaporation
+(ক) বাষ্পীভবন (Vaporization/Evaporation)
+(খ) ঊর্ধ্বপাতন (Sublimation)
+(গ) ব্যাপন (Diffusion)
+(ঘ) নিঃসরণ (Effusion)
+Answer: (ক) বাষ্পীভবন (Vaporization/Evaporation)
+
+
+CHAPTER TITLE: পদার্থের অবস্থা / States of Matter
+CHAPTER NUMBER: Not specified
+PAGE NUMBER: 33
+MAIN TOPICS: Phase transitions, Heating curves, Sublimation
+
+2.  জলীয় বাষ্পকে যখন ঘনীভবন করা হয়, তখন কণাসমূহের ক্ষেত্রে কী ঘটবে?
+    (ক) আকার সংকুচিত হবে
+    (খ) চলাচল করতে থাকবে
+    (গ) একই অবস্থানে থেকে কাঁপতে থাকবে
+    (ঘ) তাপ শক্তি নির্গত করবে
+    Translation: When water vapor is condensed, what will happen to the particles?
+    (a) The size will contract.
+    (b) They will continue to move.
+    (c) They will vibrate in the same position.
+    (d) Heat energy will be released.
+
+3.  নিচের কোন চিত্রটি ঊর্ধ্বপাতনের জন্য প্রযোজ্য?
+    [Four diagrams are shown, labeled 'ক', 'খ', 'গ', and 'ঘ'. These show different particle arrangements in boxes and beakers, some with arrows indicating changes]
+    Translation: Which of the following diagrams is appropriate for sublimation?
+
+    DIAGRAM TITLE: Sublimation Illustrations
+    Description: Four diagrams (k, kh, g, gh) illustrating states of matter. Diagram ‘k’ shows particles in a regular arrangement transitioning to a more spread out arrangement; diagram ‘kh’ shows ordered particles transitioning to disordered particles in a container; diagram ‘g’ shows a solid transitioning directly to gas; diagram ‘gh’ shows liquid turning into vapor.
+    Components: Boxes and Beakers depicting different particle arrangements.
+    Chemical Labels: None
+    Safety Notes: None
+    Purpose: To illustrate different phase transitions, specifically sublimation.
+
+4. অজানা কঠিন বস্তু Z-এর তাপীয় বক্ররেখা চিত্র হতে বোঝা যায়-
+    i. Z বস্তুটির গলনাঙ্ক 154°C
+    ii. Z বস্তুটি উদ্বায়ী
+    iii. AB ও CD রেখা বস্তুটির গলনাঙ্ক ও স্ফুটনাঙ্ক বোঝায়
+    নিচের কোনটি সঠিক?
+    (ক) i ও ii
+    (খ) ii ও iii
+    (গ) i ও iii
+    (ঘ) i, ii ও iii
+    Translation:  The thermal curve of an unknown solid Z shows:
+    i. The melting point of substance Z is 154°C
+    ii. Substance Z is volatile.
+    iii. AB and CD lines represent the melting and boiling points of the substance.
+    Which of the following is correct?
+    (a) i and ii
+    (b) ii and iii
+    (c) i and iii
+    (d) i, ii, and iii.
+
+    DIAGRAM TITLE: তাপীয় বক্ররেখা / Heating Curve of Substance Z
+    Description: A graph showing temperature (degree C) vs. time (minutes). It shows a rising temperature curve with plateaus at approximately 54 degrees and 154 degrees.
+    Components: Axes labelled তাপমাত্রা (°C) and সময় (মিনিট) / temperature and time with specific points marked as A, B, C, D, F, G and H.
+    Chemical Labels: None
+    Safety Notes: None
+    Purpose: To demonstrate the heating curve and phase transitions of a substance.
+
+5. কোনটির ব্যাপনের হার বেশি?
+    (ক) CO₂
+    (খ) NH3
+    (গ) HCl
+    (ঘ) H2SO4
+    Translation: Which one has the higher rate of diffusion?
+    (a) CO₂
+    (b) NH3
+    (c) HCl
+    (d) H2SO4
+
+6. কোনটি ঊর্ধ্বপাতিত হয়?
+    (ক) আয়োডিন
+    (খ) খাদ্যলবণ
+    (গ) তুতে
+    (ঘ) সোডা অ্যাস
+    Translation: Which one is sublimable?
+    (a) Iodine
+    (b) Table salt
+    (c) Blue vitriol
+    (d) Soda ash
+
+    TERM OR PROPERTY NAME: ঊর্ধ্বপাতন / Sublimation
+    Bengali Definition: Not explicitly defined in this page.
+    English Translation: The transition of a substance directly from the solid to the gaseous state without passing through the liquid state.
+    Related Chemical Equations: None on this page.
+    Examples: Iodine (from question 6).
+
+
+CHAPTER TITLE: সৃজনশীল প্রশ্ন / Creative Questions
+CHAPTER NUMBER: N/A
+PAGE NUMBER: 34
+MAIN TOPICS: Diffusion, Effusion, Phase Changes, Separation Techniques
+
+QUESTION 1
+(ক) ব্যাপন কাকে বলে?
+Translation: (a) What is diffusion?
+Type: Short answer
+Chemical Components: N/A
+Key Concept: Diffusion
+
+(খ) রান্নার কাজে জ্বালানি হিসেবে ব্যবহৃত গ্যাসের সিলিন্ডারের মুখ খুলে দিলে ব্যাপন ও নিঃসরণের মধ্যে কোনটি আগে ঘটে?
+Translation: (b) If the mouth of a gas cylinder used as fuel for cooking is opened, which will occur first, diffusion or effusion?
+Type: Short answer
+Chemical Components: Gases
+Key Concept: Diffusion and Effusion
+
+(গ) তাপমাত্রা বাড়াতে থাকলে উদ্দীপকের কোন পদার্থটি সবার আগে বাষ্পীভূত হবে? কারণ ব্যাখ্যা করো।
+Translation: (c) If the temperature is increased, which substance in the stimulus will vaporize first? Explain the reason.
+Type: Analytical
+Chemical Components: Iodine, salt, sand, glucose
+Key Concept: Vaporization, Boiling Point
+
+(ঘ) ক-পাত্রের উপাদান ও খ-পাত্রের উপাদানগুলোকে পৃথকীকরণে একই পদ্ধতির ব্যবহার সম্ভব কি না-যুক্তিসহ ব্যাখ্যা করো।
+Translation: (d) Is it possible to use the same method to separate the components of container 'ka' and 'kha'? Explain with justification.
+Type: Analytical
+Chemical Components: Iodine, salt, sand, glucose
+Key Concept: Separation Techniques
+
+DIAGRAM TITLE: A and B containers with different mixtures
+Description: Two containers are shown. Container 'ka' contains a mixture of iodine and salt. Container 'kha' contains a mixture of sand and glucose.
+Components: Two containers labeled 'ka' and 'kha'.
+Chemical Labels: Iodine, Salt, Sand, Glucose
+Safety Notes: None
+Purpose: To illustrate different types of mixtures and concepts for separation techniques
+
+QUESTION 2
+(ক) নিঃসরণ কী?
+Translation: (a) What is effusion?
+Type: Short answer
+Chemical Components: N/A
+Key Concept: Effusion
+
+(খ) একই পদার্থের গলনাঙ্ক ও স্ফুটনাঙ্ক ভিন্ন কেন?
+Translation: (b) Why do the melting point and boiling point of the same substance differ?
+Type: Short answer
+Chemical Components: N/A
+Key Concept: Melting point, Boiling point
+
+(গ) উদ্দীপকের প্রক্রিয়াটি কোন ধরনের পরিবর্তন-ব্যাখ্যা করো।
+Translation: (c) What kind of change is the process in the stimulus? Explain.
+Type: Analytical
+Chemical Components: NH4Cl, HCl, NH4OH
+Key Concept: Chemical Change, Diffusion
+
+(ঘ) উৎপন্ন সাদা ধোঁয়া A প্রান্তের কাছাকাছি উৎপন্ন হওয়ার যৌক্তিক কারণ ব্যাখ্যা করো।
+Translation: (d) Explain the logical reason why the white smoke formed is closer to end A.
+Type: Analytical
+Chemical Components: NH4Cl, HCl, NH4OH
+Key Concept: Diffusion rate, Molecular weight
+
+DIAGRAM TITLE: Diffusion of NH4Cl
+Description: A glass tube is shown, with a cotton plug soaked in HCl at end A and a cotton plug soaked in NH4OH at end B. White smoke (NH4Cl) forms in the tube at a point closer to A. The distances are marked as 40cm from A to the smoke and 60cm from the smoke to B.
+Components: Glass tube, cotton plugs, HCl, NH4OH, white smoke
+Chemical Labels: NH4Cl, HCl, NH4OH
+Safety Notes: HCl and NH4OH are corrosive; handle with care.
+Purpose: To demonstrate the diffusion rates of gases based on their molecular weights.
+
+QUESTION 3
+3. একটি বিকারে কিছু বরফের টুকরা রেখে ধীরে ধীরে তাপ প্রদান করা হলো। এক্ষেত্রে সময়ের সাথে সাথে বরফের অবস্থার পরিবর্তন লক্ষ করা হলো।
+Translation: 3. Some ice pieces are kept in a beaker, and heat is slowly applied. In this case, changes in the state of the ice are observed over time.
+
+(ক) পাতন কাকে বলে?
+Translation: (a) What is distillation?
+Type: Short answer
+Chemical Components: N/A
+Key Concept: Distillation
+
+(খ) ব্যাপন ও নিঃসরণ বলতে কী বোঝ?
+Translation: (b) What do you mean by diffusion and effusion?
+Type: Short answer
+Chemical Components: N/A
+Key Concept: Diffusion and Effusion
+
+(গ) উদ্দীপকের ঘটনাটিকে গ্রাফ পেপারে উপস্থাপন করো।
+Translation: (c) Represent the event in the stimulus on graph paper.
+Type: Analytical
+Chemical Components: Ice, water, heat
+Key Concept: Phase transitions, Heating curve
+
+(ঘ) উদ্দীপকে উল্লিখিত বরফের পরিবর্তে ন্যাপথলিন ব্যবহার করলে কী ঘটনা ঘটবে-বিশ্লেষণ করো।
+Translation: (d) If naphthalene is used instead of ice in the stimulus, what will happen? Analyze.
+Type: Analytical
+Chemical Components: Naphthalene, heat
+Key Concept: Sublimation, Phase transitions
+
+
