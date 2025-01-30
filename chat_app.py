@@ -35,7 +35,7 @@ def get_llm_instance(api_key):
     return llm
 
 def get_system_prompt(mode, formatted_class, formatted_subject, formatted_chapter, chapter_content):
-    prompt_file = "improved-bella-prompt.md" if mode == "Easy" else "socratic_bella.md"
+    prompt_file = "sys_bella.md" if mode == "Easy" else "socratic_bella.md"
     with open(prompt_file, "r") as file:
         return file.read().format(
             class_name=formatted_class,
