@@ -85,7 +85,7 @@ def save_to_mongodb(user_id, conversation, class_name, subject_name, chapter_nam
         upsert=True
     )
 
-st.set_page_config(page_title="Bella", page_icon=":robot:")
+st.set_page_config(page_title="Bella", page_icon=":thought_balloon:")
 
 st.markdown("""
     <style>
