@@ -20,8 +20,8 @@ def get_llm_instance(api_key):
     global llm
     if llm is None:
         llm = ChatGoogleGenerativeAI(
-            model="gemini-2.0-flash-exp",
-            temperature=0.8,
+            model="gemini-2.0-flash-001",
+            temperature=0.7,
             max_output_tokens=8192,
             stream=True,
             google_api_key=api_key,
@@ -177,7 +177,7 @@ if prompt := st.chat_input("Ask Bella a question..."):
         response = st.write_stream(
             get_response(
                 prompt,
-                st.session_state.messages[-10:],
+                st.session_state.messages[-100:],
                 api_key,
                 system_prompt,
                 chapter_content
